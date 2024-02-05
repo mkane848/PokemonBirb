@@ -1,0 +1,1455 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[MEWTWO,5]
+FormName = Armored Mewtwo
+BaseStats = 400,150,250,100,180,250
+#-------------------------------
+[LAPRAS,1]
+FormName = Mega Lapras
+MegaStone = LAPRASITE
+BaseStats = 130,95,100,80,125,105
+Abilities = REFRIGERATE
+#-------------------------------
+[MACHAMP,1]
+FormName = Mega Machamp
+MegaStone = MACHAMPITE
+BaseStats = 90,160,100,75,75,95
+Types = FIGHTING,GROUND
+Abilities = NOGUARD
+#-------------------------------
+[KINGLER,1]
+FormName = Mega Kingler
+MegaStone = KINGLERITE
+BaseStats = 75,170,135,75,70,70
+Abilities = TOUGHCLAWS
+Height = 12
+#-------------------------------
+[PIKACHU,1]
+# "Yellow Version"
+BaseStats = 55,75,50,110,70,60
+# Abilities = OVERLOAD
+#-------------------------------
+[PIKACHU,2]
+FormName = Mega Pikachu
+MegaStone = PIKACHUITE
+BaseStats = 55,135,100,110,130,100
+# Abilities = OVERLOAD
+#-------------------------------
+
+
+# ################################################################################
+# # Las Mega Evoluciones y Reversiones Primigenias son tratadas como cambios de
+# # forma en Essentials. El código de abajo es poco más que lo que ya estaba en la
+# # sección del script Pokemon_MultipleForms, pero específicamente para las
+# # Mega Evoluciones y Reversiones Primigenias.
+# ################################################################################
+
+# # Mega Evoluciones XY ############################################################
+# 
+# 
+# MultipleForms.register(:VENUSAUR,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:VENUSAURITE)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [80,100,123,80,122,120] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:THICKFAT),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 24 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 1555 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# 
+#   def makeBusted
+#     f = self.getBustedForm
+#     self.form = f
+#   end
+# 
+#   def isBusted?
+#     bf = self.getBustedForm
+#     if bf==self.form
+#       return true
+#     else
+#       return false
+#     end
+#   end
+# 
+#   def makeDisguised
+#     df = self.getDisguiseForm
+#     self.form = df if df>=0
+#   end
+# 
+#   def getDisguiseForm
+#     return -1 if !isBusted?
+#       disguiseform = self.form-1	
+#     return disguiseform   # form number
+#   end
+# 
+#   def hasBustedForm?
+#     bf = self.getBustedForm
+#     return bf>0 && bf!=self.form
+#   end
+# 
+#   def getBustedForm
+#     if isConst?(self.species,PBSpecies,:MIMIKYU) && self.hasAbility?(:DISFRAZ)
+#       return 1 
+#     else
+#       return-1
+#     end
+#   end
+#   
+#   
+# MultipleForms.register(:CHARIZARD,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:CHARIZARDITEX)
+#    next 2 if isConst?(pokemon.item,PBItems,:CHARIZARDITEY)
+#    next
+# },
+# "getMegaName"=>proc{|pokemon|
+#    next _INTL("Mega Charizard X") if pokemon.form==1
+#    next _INTL("Mega Charizard Y") if pokemon.form==2
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [78,130,111,100,130,85] if pokemon.form==1
+#    next [78,104,78,100,159,115] if pokemon.form==2
+#    next
+# },
+# "type2"=>proc{|pokemon|
+#    next getID(PBTypes,:DRAGON) if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:TOUGHCLAWS),0]] if pokemon.form==1
+#    next [[getID(PBAbilities,:DROUGHT),0]] if pokemon.form==2
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 1105 if pokemon.form==1
+#    next 1005 if pokemon.form==2
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:BLASTOISE,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:BLASTOISINITE)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [79,103,120,78,135,115] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:MEGALAUNCHER),0]] if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 1011 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# 
+# MultipleForms.register(:GRENINJA,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:GRENINJITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [72,145,67,132,153,71] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:PROTEAN),0]] if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 1011 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:ALAKAZAM,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:ALAKAZAMITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [55,50,65,150,175,95] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:TRACE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:GENGAR,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:GENGARITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [60,75,80,130,160,95] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SHADOWTAG),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 14 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:KANGASKHAN,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:KANGASKHANITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [105,115,100,100,60,100] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:PARENTALBOND),0]] if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 1000 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:PINSIR,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:PINSIRITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [65,155,120,105,65,90] if pokemon.form==1
+#    next
+# },
+# "type2"=>proc{|pokemon|
+#    next getID(PBTypes,:FLYING) if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:AERILATE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 17 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 590 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:GYARADOS,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:GYARADOSITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [95,155,109,81,70,130] if pokemon.form==1
+#    next
+# },
+# "type2"=>proc{|pokemon|
+#    next getID(PBTypes,:DARK) if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:MOLDBREAKER),0]] if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 3050 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:AERODACTYL,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:AERODACTYLITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [80,135,85,150,70,95] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:TOUGHCLAWS),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 21 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 790 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# 
+# 
+# MultipleForms.register(:AMPHAROS,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:AMPHAROSITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [90,95,105,45,165,110] if pokemon.form==1
+#    next
+# },
+# "type2"=>proc{|pokemon|
+#    next getID(PBTypes,:DRAGON) if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:MOLDBREAKER),0]] if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:SCIZOR,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:SCIZORITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [70,150,140,75,65,100] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:TECHNICIAN),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 20 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 1250 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:HERACROSS,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:HERACROSSITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [80,185,115,75,40,105] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SKILLLINK),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 17 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 625 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:HOUNDOOM,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:HOUNDOOMITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [75,90,90,115,140,90] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SOLARPOWER),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 19 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 495 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:TYRANITAR,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:TYRANITARITE)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [100,164,150,71,95,120] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SANDSTREAM),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 25 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 2550 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:BLAZIKEN,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:BLAZIKENITE)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [80,160,80,100,130,80] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SPEEDBOOST),0]] if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:GARDEVOIR,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:GARDEVOIRITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [68,95,65,100,155,135] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:PIXILATE),0]] if pokemon.form==1
+#    next
+# }
+# })
+# 
+# 
+# 
+# MultipleForms.register(:AGGRON,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:AGGRONITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [70,140,230,50,60,80] if pokemon.form==1
+#    next
+# },
+# "type2"=>proc{|pokemon|
+#    next getID(PBTypes,:STEEL) if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:FILTER),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 22 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 3950 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:MEDICHAM,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:MEDICHAMITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [60,100,85,100,80,85] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:PUREPOWER),0]] if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:MANECTRIC,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:MANECTRITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [70,75,80,135,135,80] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:INTIMIDATE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 18 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 440 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# 
+# 
+# MultipleForms.register(:ABSOL,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:ABSOLITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [65,150,60,115,115,60] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:MAGICBOUNCE),0]] if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 490 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:GARCHOMP,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:GARCHOMPITE)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [108,170,115,92,120,95] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SANDFORCE),0]] if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:LUCARIO,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:LUCARITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [70,145,88,112,140,70] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SLOWSTART),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 13 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 575 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# 
+# 
+# # Mega Evoluciones ORAS ##########################################################
+# 
+# MultipleForms.register(:BEEDRILL,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:BEEDRILLITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [65,150,40,145,15,80] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:ADAPTABILITY),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 14 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 405 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:PIDGEOT,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:PIDGEOTITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [83,80,80,121,135,80] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:NOGUARD),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 22 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 505 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# 
+# MultipleForms.register(:STEELIX,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:STEELIXITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [75,125,230,30,55,95] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SHEERFORCE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 105 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 7400 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:SCEPTILE,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:SCEPTILITE)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [70,145,75,145,110,85] if pokemon.form==1
+#    next
+# },
+# "type2"=>proc{|pokemon|
+#    next getID(PBTypes,:DRAGON) if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:LIGHTNINGROD),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 19 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 552 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:SWAMPERT,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:SWAMPERTITE)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [100,150,110,70,95,110] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SWIFTSWIM),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 19 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 1020 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:SABLEYE,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:SABLEYITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [50,125,95,110,65,85] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:TOUGHCLAWS),0]] if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 1610 if pokemon.form==1
+#    next
+# }
+# })
+# 
+
+# 
+# MultipleForms.register(:CAMERUPT,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:CAMERUPTITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [70,120,100,30,135,105] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SHEERFORCE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 25 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 3205 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:ALTARIA,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:ALTARITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [75,110,110,90,120,105] if pokemon.form==1
+#    next
+# },
+# "type1"=>proc{|pokemon|
+#    next getID(PBTypes,:FAIRY) if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:PIXILATE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 15 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:GLALIE,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:GLALIEITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [80,130,80,100,130,80] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:PIELHELADA),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 21 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 3502 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:SALAMENCE,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:SALAMENCITE)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [95,145,130,120,120,90] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:AERILATE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 18 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 1126 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:METAGROSS,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:METAGROSSITE)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [80,145,150,110,105,110] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:TOUGHCLAWS),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 25 if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 9429 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# 
+# MultipleForms.register(:GALLADE,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:GALLADITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [68,155,95,110,75,115] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:INNERFOCUS),0]] if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 564 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:BUTTERFREE,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:BUTTERFREEITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [60,55,70,110,120,130] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:COMPOUNDEYES),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:MACHAMP,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:MACHAMPITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [90,160,100,75,75,95] if pokemon.form==1
+#    next
+# },
+# "type2"=>proc{|pokemon|
+#    next getID(PBTypes,:GROUND) if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:NOGUARD),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:KINGLER,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:KINGLERITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [75,170,135,75,70,70] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:TOUGHCLAWS),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:LAPRAS,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:LAPRASITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [130,95,100,80,125,105] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:PIELHELADA),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:GARBODOR,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:GARBODORITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [100,125,112,55,95,112] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:MAGNETPULL),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:CORVIKNIGHT,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:CORVIKNIGHTITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [98,117,125,87,73,95] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:RECKLESS),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:ORBEETLE,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:ORBEETLEITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [60,65,130,100,110,140] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:NEUROFORCE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:DREDNAW,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:DREDNAWITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [90,145,130,74,58,88] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SOLIDROCK),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:COALOSSAL,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:COALOSSALITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [110,110,140,30,110,110] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:FLAMEBODY),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:APPLETUN,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:FLAPPLETUNITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [110,105,100,50,120,100] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:THICKFAT),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:FLAPPLE,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:FLAPPLETUNITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [110,125,100,50,100,100] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:HUSTLE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# 
+# MultipleForms.register(:SANDACONDA,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:SANDACONDITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [72,137,125,131,75,80] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SANDSTREAM),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:TOXTRICITY,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:TOXTRICITITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [75,118,90,95,144,80] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:DOWNLOAD),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:CENTISKORCH,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:CENTISKORCHITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [100,145,95,95,100,90] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:BLAZE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:HATTERENE,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:HATTERENITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [57,110,115,49,156,123] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:MAGICBOUNCE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:GRIMMSNARL,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:GRIMMSNARLITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [95,150,85,90,115,75] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SHEERFORCE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:ALCREMIE,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:ALCREMITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [65,80,105,64,130,151] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:REGENERATOR),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:COPPERAJAH,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:COPPERAJITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [122,150,99,80,80,69] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:SHEERFORCE),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# MultipleForms.register(:DURALUDON,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:DURALUDONITA)
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [70,115,135,105,140,70] if pokemon.form==1
+#    next
+# },
+# "getAbilityList"=>proc{|pokemon|
+#    next [[getID(PBAbilities,:CLEARBODY),0]] if pokemon.form==1
+#    next
+# },
+# "height"=>proc{|pokemon|
+#    next 12 if pokemon.form==1
+#    next
+# }
+# })
+# 
+# 
+# 
+# #Megas iniciales y fakémon
+# 
+# MultipleForms.register(:LOPUNNY,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:LOPUNNITA  )
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getMegaName"=>proc{|pokemon|
+#    next _INTL("Mega Lopunny") if pokemon.form==1
+#    next
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [65,136,94,135,54,96] if pokemon.form==1
+#    next
+# },
+# "ability"=>proc{|pokemon|
+#    next getID(PBAbilities,:SCRAPPY) if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 1011 if pokemon.form==1
+#    next
+# },
+# "onSetForm"=>proc{|pokemon,form|
+#    pbSeenForm(pokemon)
+# }
+# })
+# 
+# 
+# MultipleForms.register(:ABOMASNOW,{
+# "getMegaForm"=>proc{|pokemon|
+#    next 1 if isConst?(pokemon.item,PBItems,:ABOMASNOWITA  )
+#    next
+# },
+# "getUnmegaForm"=>proc{|pokemon|
+#    next 0
+# },
+# "getMegaName"=>proc{|pokemon|
+#    next _INTL("Mega Abomasnow") if pokemon.form==1
+#    next
+# },
+# "getBaseStats"=>proc{|pokemon|
+#    next [90,132,105,30,132,105] if pokemon.form==1
+#    next
+# },
+# "ability"=>proc{|pokemon|
+#    next getID(PBAbilities,:SNOWCLOAK) if pokemon.form==1
+#    next
+# },
+# "weight"=>proc{|pokemon|
+#    next 1011 if pokemon.form==1
+#    next
+# },
+# "onSetForm"=>proc{|pokemon,form|
+#    pbSeenForm(pokemon)
+# }
+# })
+# 
+# 
+

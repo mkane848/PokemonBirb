@@ -1,0 +1,84 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
+Home = 3,7,5,8
+StorageCreator = Maester
+WildBattleBGM = Salvaje
+TrainerBattleBGM = Entrenador
+SurfBGM = Surfing
+BicycleBGM = Bicycle
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_RojoNeutro
+WalkCharset = trchar000
+RunCharset = boy_run
+CycleCharset = boy_bike
+SurfCharset = boy_surf_offset
+DiveCharset = boy_surf
+FishCharset = boy_fish_offset
+SurfFishCharset = boy_fishsurf_offset
+DiveCharset = boy_dive_offset
+#-------------------------------
+[2]
+TrainerType = POKEMONTRAINER_HojaNeutra
+WalkCharset = trchar001
+RunCharset = girl_run
+CycleCharset = girl_bike
+SurfCharset = girl_surf_offset
+DiveCharset = girl_dive_offset
+FishCharset = girl_fish_offset
+SurfFishCharset = girl_fishsurf_offset
+#-------------------------------
+[3]
+TrainerType = POKEMONTRAINER_RojoArio
+WalkCharset = trchar002
+RunCharset = boy_run1
+CycleCharset = boy_bike1
+SurfCharset = boy_surf_offset1
+DiveCharset = boy_dive_offset1
+FishCharset = boy_fish_offset1
+SurfFishCharset = boy_fishsurf_offset1
+#-------------------------------
+[4]
+TrainerType = POKEMONTRAINER_HojaAria
+WalkCharset = trchar003
+RunCharset = girl_run1
+CycleCharset = girl_bike1
+SurfCharset = girl_surf_offset1
+DiveCharset = girl_dive_offset1
+FishCharset = girl_fish_offset1
+SurfFishCharset = girl_fishsurf_offset1
+#-------------------------------
+[5]
+TrainerType = POKEMONTRAINER_RojoNegro
+WalkCharset = trchar004
+RunCharset = boy_run2
+CycleCharset = boy_bike2
+SurfCharset = boy_surf_offset2
+DiveCharset = boy_dive_offset2
+FishCharset = boy_fish_offset2
+SurfFishCharset = boy_fishsurf_offset2
+#-------------------------------
+[6]
+TrainerType = POKEMONTRAINER_HojaNegra
+WalkCharset = trchar005
+RunCharset = girl_run2
+CycleCharset = girl_bike2
+SurfCharset = girl_surf_offset2
+DiveCharset = girl_dive_offset2
+FishCharset = girl_fish_offset2
+SurfFishCharset = girl_fishsurf_offset2
+#-------------------------------
+[7]
+TrainerType = POKEMONTRAINER_Yellow
+WalkCharset = trchar006
+RunCharset = yellow_run
+CycleCharset = yellow_bike
+SurfCharset = yellow_surf_offset
+DiveCharset = yellow_dive_offset
+FishCharset = yellow_fish_offset
+SurfFishCharset = yellow_fishsurf_offset
+#-------------------------------
+

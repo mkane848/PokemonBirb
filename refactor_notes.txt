@@ -1,0 +1,94 @@
+MVP To-Do
+- EBDX fixes
+    - Includes everything about battle UI, sprite, etc. Will get more granular when I start working on it
+- Re-enable PokeRadar
+- Re-enable or just temporarily remove Trade Experts to avoid on-stream crash
+- Re-enable Fly and Surf Mounts (low prio tho since we can Debug menu travel and walk on water)
+- Properly set music during Mewtwo "boss" fight, also test if fight is too easy in current state
+- Rebuild the translation files
+    -Some unknown unknowns with this, but I believe I can utilize new code from v21 to pull the English translation from v16.
+    Medium priority because essential game text is English, reading is for suckers, and mash A Andys won't notice anyway
+- Figure out issues with Metrics for gen 9 pokemon
+- get animated sprites back
+- get custom sprites (megas, Maidible, Armor Mewtwo, etc) back
+
+
+General Notes:
+- :: references to Pkmn or item names need to be removed
+    ex.  pbItemBall(PBItems::NAME)  ->  pbItemBall(:NAME)
+- hasType(), hasItem(), etc. can replace janky code
+    > $player.has_pokemon_of_type?(:TYPE)
+
+Player:
+    $bag.has?(:ITEM)
+    $player.pokemonParty[0].species==:NINETALES -> $player.first_pokemon.isSpecies?(:NINETALES)
+    pbRemovePokemonAt(0) -> $player.remove_pokemon_at_index(0)
+
+Pokemon:
+    pbPlayCry(PBSpecies::NAME) -> Pokemon.play_cry(:NAME)
+
+Battles:
+    pbWildBattle() -> WildBatte.start()
+#-------------------------------
+
+TODO
+- Fix opening
+    - Fix graphics during "Gender" selection
+    - Fix SE not playing in opening menu
+    - Fix control responsiveness
+- Set Pokedex correctly - do we just use National?
+    - "Classic" Mode might just be Kanto + Johto?
+- General EDBX battle graphics cleanup
+    - Setting backgrounds, trainer dialogue, etc.
+- Re-enable Pokevial functionality (https://reliccastle.com/resources/405/)
+    - does it need to be registered, or does Anil have it automatically hotkeyed?
+- Re-enable PokeRadar
+- Make sure all Trader NPCs are fixed
+    - Finish trading NPC in Cinnabar Lab
+- Re-enable Trade Experts
+- Cerulean Gym Trainers swimming into wall?
+- Game Corner Special NPCs and games
+- Enable Surf Mount (low prio when you walk on water)
+- Fix Seaform Island transitions, warps you halfway across the map
+- Mewtwo Boss Music
+- Mewtwo Boss Tuning
+
+
+
+- Rebuild Translation files
+- replace TMs with the moves they're actually supposed to be in Anil (i.e. update the TM # to match the move)
+- import remaining unofficial Megas and any other Forms
+- Check that Surf Mount and Fly Mount properly work, can be accessed in UI with Debug OFF
+- Finish Encounter data reformat
+- update audio loop settings
+- check which battlebacks, BGMs, and other assets can be dropped back into EDBX
+- update EDBX UI to be closer to Anil
+
+- Update all Paralyze Heal references
+- Put custom item assets back in (no thumbnail when hovering item in Bag)
+- Fix EDBX Battle Speech (i.e. EndText)
+- Double check trainer Event Touch vs Action Button to trigger trainer battles, some seem wrong
+- update instances of $player.has_species?
+- Double check all instances of frame-rate being locked then frame-waiting
+   - Essentials moved away from frame-based timing, need to look at how this affects things
+- Replace pbItemBall() with pbReceiveItem() when getting an item FROM someone, 2nd arg can be given for quantity
+- re-add fancy badge animations
+- Add UI element to display current Turbo Speed
+- Update keybinds (or just update the Controls picture? Which is more "standard" for pkmn games?)
+- Verify Pokemon "Yellow Version" features and ability for Pikachu
+
+
+BUGS:
+- PP Total # appears incorrect after using PP Up (i.e. Flamethrower 24/15)
+- Long pause before Evolution cutscene plays
+- Pokemon jump/dust? animation seems off, the landing part of the jump cloud is too low
+- 2nd pokemon not properly going out for double battle?
+    - Mewtwo sprite goes out, Zoroark moveset loads?
+    - Used one move then it corrected itself
+- "Aspirante David" walked through a different elevation to challenge in Mt Silver
+- Game crashes after beating E4/Rival due to call to Global.Nuzlocke
+
+---
+IDEAS
+1. Randomize gym leaders but preserve their types, make sure their last Pkmn is their "boss"
+2. Generation on/off from debug

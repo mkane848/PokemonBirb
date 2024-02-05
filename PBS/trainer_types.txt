@@ -1,0 +1,801 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[POKEMONTRAINER_RojoNeutro]
+Name = Entrenador
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_HojaNeutra]
+Name = Entrenador
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_RojoArio]
+Name = Entrenador
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_HojaAria]
+Name = Entrenador
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_RojoNegro]
+Name = Entrenador
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_HojaNegra]
+Name = Entrenador
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Yellow]
+Name = Entrenador
+Gender = Unknown
+BaseMoney = 60
+#-------------------------------
+[AZUL1]
+Name = Rival
+Gender = Male
+BaseMoney = 100
+SkillLevel = 59
+#-------------------------------
+[ROJO1]
+Name = Rival
+Gender = Male
+BaseMoney = 100 
+BattleBGM = CombateRival
+SkillLevel = 78
+#-------------------------------
+[HOJA1]
+Name = Rival
+Gender = Female
+BaseMoney = 100
+BattleBGM = CombateRival
+SkillLevel = 78
+#-------------------------------
+[AZUL2]
+Name = Rival
+Gender = Male
+BaseMoney = 100
+BattleBGM = CombateRival
+SkillLevel = 78
+#-------------------------------
+[CAZABICHOS]
+Name = Cazabichos
+Gender = Male
+BaseMoney = 50
+IntroBGM = EncuentroJoven
+SkillLevel = 31
+#-------------------------------
+[CAZABICHAS]
+Name = Cazabichos 
+Gender =  Female
+BaseMoney = 50
+IntroBGM = EncuentroJoven
+SkillLevel = 31
+#-------------------------------
+[CAMPISTO]
+Name = Campista
+Gender = Male
+BaseMoney = 50
+IntroBGM = EncuentroJoven
+SkillLevel = 31
+#-------------------------------
+[CAMPISTA]
+Name = Campista
+Gender = Female
+BaseMoney = 50
+IntroBGM = EncuentroJoven
+SkillLevel = 31
+#-------------------------------
+[LIDER1]
+Name = Leader
+Gender = Male
+BaseMoney = 150
+BattleBGM = CombateLider
+VictoryBGM = Victoria Importante
+SkillLevel = 98
+#-------------------------------
+[CHICO]
+Name = Chico
+Gender = Male
+BaseMoney = 70
+IntroBGM = EncuentroJoven
+SkillLevel = 31
+#-------------------------------
+[CHICA] 
+Name = Chica
+Gender = Female
+BaseMoney = 70
+IntroBGM = EncuentroFemenino
+SkillLevel = 31
+#-------------------------------
+[CEREBRITO]
+Name = Cerebrito
+Gender = Male
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+SkillLevel = 71
+#-------------------------------
+[MONTANERO]
+Name = Montañero
+Gender = Male
+BaseMoney = 120
+IntroBGM = EncuentroDuro
+SkillLevel = 24
+#-------------------------------
+[ROJO2]
+Name = Rival
+Gender = Male
+BaseMoney = 100
+BattleBGM = CombateRival
+SkillLevel = 78
+#-------------------------------
+[HOJA2]
+Name = Rival
+Gender = Female
+BaseMoney = 100
+BattleBGM = CombateRival
+SkillLevel = 78
+#-------------------------------
+[ROCKETO]
+Name = Recluta Rocket
+Gender = Male
+BaseMoney = 70
+IntroBGM = EncuentroRocket
+BattleBGM = CombateComandante
+VictoryBGM = VictoriaEntrenador
+SkillLevel = 31
+#-------------------------------
+[ROCKETA]
+Name = Recluta Rocket
+Gender = Female
+BaseMoney = 70
+IntroBGM = EncuentroRocket
+BattleBGM = CombateComandante
+VictoryBGM = VictoriaEntrenador
+SkillLevel = 31
+#-------------------------------
+[ATLAS1]
+Name = Comandante Rocket
+Gender = Male
+BaseMoney = 170
+BattleBGM = CombateComandante
+VictoryBGM = VictoriaEntrenador
+SkillLevel = 71
+#-------------------------------
+[AZUL3]
+Name = Rival
+Gender = Male
+BaseMoney = 100
+BattleBGM = CombateRival
+SkillLevel = 78
+#-------------------------------
+[NADADOR]
+Name = Nadador
+Gender = Male
+BaseMoney = 100
+IntroBGM = EncuentroJoven
+#-------------------------------
+[ELITEROCKET]
+Name = Elite Rocket
+Gender = Male
+BaseMoney = 70
+BattleBGM = CombateComandante
+VictoryBGM = VictoriaEntrenador
+IntroBGM = EncuentroRocket
+SkillLevel = 31
+#-------------------------------
+[NADADORA]
+Name = Nadadora
+Gender = Female
+BaseMoney = 100
+IntroBGM = EncuentroJoven
+#-------------------------------
+[LIDER2]
+Name = Leader
+Gender = Female
+BaseMoney = 150
+BattleBGM = CombateLider
+VictoryBGM = Victoria Importante
+SkillLevel = 98
+#-------------------------------
+[FOTOGRAFA]
+Name = Fotógrafa
+Gender = Female
+BaseMoney = 120
+IntroBGM = EncuentroFemenino
+#-------------------------------
+[DUOCAMPISTA]
+Name = Campistas
+BaseMoney = 100
+IntroBGM = EncuentroJoven
+Gender = Male
+SkillLevel = 31
+#-------------------------------
+[BRUJITA]
+Name = Brujita
+BaseMoney = 120
+IntroBGM = EncuentroDuro
+Gender = Female
+#-------------------------------
+[CABALLERO]
+Name = Caballero
+BaseMoney = 200
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 59
+#-------------------------------
+[CABALLERA]
+Name = Dama
+BaseMoney = 200
+IntroBGM = EncuentroDuro
+Gender = Female
+SkillLevel = 59
+#-------------------------------
+[MARINERO]
+Name = Marinero
+BaseMoney = 70
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 31
+#-------------------------------
+[AZUL4]
+Name = Rival
+BaseMoney = 100
+BattleBGM = CombateRival
+Gender = Male
+SkillLevel = 78
+#-------------------------------
+[MECANICO]
+Name = Mecánico
+BaseMoney = 100
+IntroBGM = EncuentroJoven
+Gender = Male
+SkillLevel = 47
+#-------------------------------
+[MECANICA]
+Name = Mecánica
+BaseMoney = 100
+IntroBGM = EncuentroJoven
+Gender = Female
+SkillLevel = 47
+#-------------------------------
+[LIDER3]
+Name = Leader
+BaseMoney = 150
+BattleBGM = CombateLider
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[ATENEA1]
+Name = Comandante Rocket
+BaseMoney = 170
+BattleBGM = CombateComandante
+VictoryBGM = VictoriaEntrenador
+Gender = Female
+SkillLevel = 71
+#-------------------------------
+[ROJO3]
+Name = Rival
+BaseMoney = 100
+BattleBGM = CombateRival
+Gender = Male
+SkillLevel = 78
+#-------------------------------
+[HOJA3]
+Name = Rival
+BaseMoney = 100
+BattleBGM = CombateRival
+Gender = Female
+SkillLevel = 78
+#-------------------------------
+[AZUL5]
+Name = Rival
+BaseMoney = 100
+BattleBGM = CombateRival
+Gender = Male
+SkillLevel = 78
+#-------------------------------
+[PESCADORA]
+Name = Pescadora
+BaseMoney = 90
+IntroBGM = EncuentroFemenino
+Gender = Female
+SkillLevel = 47
+#-------------------------------
+[EXORCISTA]
+Name = Exorcista
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Female
+SkillLevel = 47
+#-------------------------------
+[LIDER4]
+Name = Leader
+BaseMoney = 150
+BattleBGM = CombateLider
+VictoryBGM = Victoria Importante
+Gender = Female
+SkillLevel = 98
+#-------------------------------
+[URANO1]
+Name = Comandante Rocket
+BaseMoney = 150
+BattleBGM = CombateUrano
+VictoryBGM = VictoriaEntrenador
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[MOTORISTA]
+Name = Motorista
+BaseMoney = 150
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 78
+#-------------------------------
+[DAMISELA]
+Name = Damisela
+BaseMoney = 150
+IntroBGM = EncuentroFemenino
+Gender = Female
+SkillLevel = 78
+#-------------------------------
+[DUOMOTORISTA]
+Name = Motoristas
+BaseMoney = 150
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 78
+#-------------------------------
+[GIOVANNI1]
+Name = Jefe Rocket
+BaseMoney = 150
+BattleBGM = CombateGiovanni
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[DUOLUCHA]
+Name = Cuerpo y Mente
+BaseMoney = 100
+IntroBGM = EncuentroJoven
+Gender = Female
+SkillLevel = 47
+#-------------------------------
+[AGATHA1]
+Name = Maestra
+BaseMoney = 150
+BattleBGM = Entrenador
+IntoBGM = EncuentroDuro
+Gender = Female
+SkillLevel = 98
+#-------------------------------
+[ORNITOLOGO]
+Name = Ornitólogo
+BaseMoney = 100
+IntroBGM = EncuentroJoven
+Gender = Male
+SkillLevel = 47
+#-------------------------------
+[ROJO4]
+Name = Rival
+BaseMoney = 100
+BattleBGM = CombateRival
+Gender = Male
+SkillLevel = 78
+#-------------------------------
+[HOJA4]
+Name = Rival
+BaseMoney = 100
+BattleBGM = CombateRival
+Gender = Female
+SkillLevel = 78
+#-------------------------------
+[NINJA]
+Name = Ninja
+BaseMoney = 100
+IntroBGM = EncuentroJoven
+Gender = Male
+SkillLevel = 47
+#-------------------------------
+[NINJAA]
+Name = Ninja
+BaseMoney = 100
+IntroBGM = EncuentroJoven
+Gender = Female
+SkillLevel = 47
+#-------------------------------
+[LIDER5]
+Name = Leaders
+BaseMoney = 150
+BattleBGM = CombateLider
+Gender = Unknown
+SkillLevel = 98
+#-------------------------------
+[KARATEKA]
+Name = Karateka
+BaseMoney = 150
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 78
+#-------------------------------
+[KARATEKAA]
+Name = Karateka
+BaseMoney = 150
+IntroBGM = EncuentroDuro
+Gender = Female
+SkillLevel = 78
+#-------------------------------
+[MEDIUM]
+Name = Medium
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 47
+#-------------------------------
+[CIENTIFICO]
+Name = Científico
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 47
+#-------------------------------
+[ATENEA2]
+Name = Comandante Rocket
+BaseMoney = 170
+BattleBGM = CombateComandante
+VictoryBGM = VictoriaEntrenador
+Gender = Female
+SkillLevel = 80
+#-------------------------------
+[ATLAS2]
+Name = Comandante Rocket
+BaseMoney = 170
+BattleBGM = CombateComandante
+VictoryBGM = VictoriaEntrenador
+Gender = Male
+SkillLevel = 80
+#-------------------------------
+[AZUL6]
+Name = Rival
+BaseMoney = 100
+BattleBGM = CombateRival
+Gender = Male
+SkillLevel = 80
+#-------------------------------
+[GIOVANNI2]
+Name = Jefe Rocket
+BaseMoney = 150
+BattleBGM = CombateGiovanni
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[LIDER6]
+Name = Leader
+BaseMoney = 150
+BattleBGM = CombateLider
+VictoryBGM = Victoria Importante
+Gender = Female
+SkillLevel = 98
+#-------------------------------
+[PESCADOR]
+Name = Pescador
+BaseMoney = 90
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 47
+#-------------------------------
+[LADRON]
+Name = Ladrón
+BaseMoney = 90
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 47
+#-------------------------------
+[CIENTIFICA]
+Name = Científica
+BaseMoney = 90
+IntroBGM = EncuentroDuro
+Gender = Female
+SkillLevel = 47
+#-------------------------------
+[SURYA]
+Name = Comandante Rocket
+BaseMoney = 170
+BattleBGM = CombateSurya
+VictoryBGM = VictoriaEntrenador
+Gender = Female
+SkillLevel = 98
+#-------------------------------
+[LIDER7]
+Name = Leader
+BaseMoney = 150
+BattleBGM = CombateLider
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[SURYA2]
+Name = Comandante Rocket
+BaseMoney = 170
+BattleBGM = CombateSurya
+VictoryBGM = VictoriaEntrenador
+Gender = Female
+SkillLevel = 98
+#-------------------------------
+[GIOVANNI3]
+Name = Entrenador
+BaseMoney = 150
+BattleBGM = CombateGiovanniFinal
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 99
+#-------------------------------
+[AZULALIADO0]
+Name = Entrenador
+BaseMoney = 150
+BattleBGM = CombateUnidos
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 99
+#-------------------------------
+[VETERANO]
+Name = Veterano
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 60
+#-------------------------------
+[VETERANA]
+Name = Veterana
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Female
+SkillLevel = 60
+#-------------------------------
+[LIDER8]
+Name = Leader
+BaseMoney = 150
+BattleBGM = CombateUrano
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[AZULALIADO1]
+Name = Entrenador
+BaseMoney = 150
+BattleBGM = CombateUnidos
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 99
+#-------------------------------
+[AZULALIADO2]
+Name = Entrenador
+BaseMoney = 150
+BattleBGM = CombateUnidos
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 99
+#-------------------------------
+[ROJO5]
+Name = Rival
+BaseMoney = 100
+BattleBGM = CombateContraFinal
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[HOJA5]
+Name = Rival
+BaseMoney = 100
+BattleBGM = CombateContraFinal
+Gender = Female
+SkillLevel = 98
+#-------------------------------
+[GUAY]
+Name = Aspirante
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 59
+#-------------------------------
+[GUAYA]
+Name = Aspirante
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Female
+SkillLevel = 59
+#-------------------------------
+[ASH]
+Name = Maestro Pokémon
+BaseMoney = 150
+BattleBGM = CombateContraFinal
+VictoryBGM = VictoriaLiga
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[ALTOMANDO1]
+Name = Elite Four
+BaseMoney = 150
+BattleBGM = BatallaLiga
+VictoryBGM = Victoria Importante
+Gender = Female
+SkillLevel = 100
+#-------------------------------
+[ALTOMANDO2]
+Name = Elite Four
+BaseMoney = 150
+BattleBGM = BatallaLiga
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[ALTOMANDO3]
+Name = Elite Four
+BaseMoney = 150
+BattleBGM = BatallaLiga
+VictoryBGM = Victoria Importante
+Gender = Female
+SkillLevel = 100
+#-------------------------------
+[ALTOMANDO4]
+Name = Elite Four
+BaseMoney = 150
+BattleBGM = BatallaLiga
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[CAMPEON]
+Name = Champion
+BaseMoney = 150
+BattleBGM = BatallaCampeon
+VictoryBGM = VictoriaLiga
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[OAK]
+Name = Profesor
+BaseMoney = 150
+BattleBGM = CombateContraFinal
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[LIDER1HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[LIDER2HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Female
+SkillLevel = 100
+#-------------------------------
+[LIDER3HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Female
+SkillLevel = 100
+#-------------------------------
+[LIDER4HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[LIDER5HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Female
+SkillLevel = 100
+#-------------------------------
+[LIDER6HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[LIDER7HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[LIDER8HOENN]
+Name = Hoenn Leaders
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Unknown
+SkillLevel = 100
+#-------------------------------
+[PRISMM]
+Name = Prism Guardian
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 59
+#-------------------------------
+[PRISMF]
+Name = Prism Guardian
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Female
+SkillLevel = 59
+#-------------------------------
+[MAXIMO]
+Name = Entrenador
+BaseMoney = 150
+BattleBGM = CombateMaximo
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[CINTIA]
+Name = Entrenador
+BaseMoney = 150
+BattleBGM = CombateCintia
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[MIRTO]
+Name = Entrenador
+BaseMoney = 150
+BattleBGM = CombateMirto
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[DUOPRISMA]
+Name = Prism Guardians
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Unknown
+SkillLevel = 59
+#-------------------------------
+[BILL]
+Name = Pokémaniaco
+BaseMoney = 90
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[PRISMA]
+Name = Legendary Hunter
+BaseMoney = 150
+BattleBGM = PrismaBossFinal
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+
+# Skill Level Updates
+# 60/255 = 24/100
+# 80/255 = 31/100
+# 120/255 = 47/100
+# 150/255 = 59/100
+# 180/255 - 71/100
+# 200/255 = 78/100
+# 250/255 = 98/100

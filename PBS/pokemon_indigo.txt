@@ -1,0 +1,28 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[MAIDIBLE]
+Name = Maidible
+Types = STEEL,FAIRY
+BaseStats = 75,115,105,65,55,70
+GenderRate = Female50Percent
+GrowthRate = Fast
+BaseEXP = 133
+EVs = ATTACK,1,DEFENSE,1
+CatchRate = 45
+Happiness = 70
+Abilities = HYPERCUTTER,INTIMIDATE
+HiddenAbilities = SHEERFORCE
+Moves = 1,ASTONISH,6,FAKETEARS,11,BITE,16,FAIRYWIND,21,VISEGRIP,26,FEINTATTACK,31,PLAYROUGH,34,MISTYTERRAIN,36,CRUNCH,39,SPIRITBREAK,41,IRONDEFENSE,46,SUCKERPUNCH,51,STOCKPILE,51,SWALLOW,51,SPITUP,56,IRONHEAD
+EggMoves = ANCIENTPOWER,CAPTIVATE,FIREFANG,GUARDSWAP,ICEFANG,METALBURST,POISONFANG,PUNISHMENT,SLAM,SUCKERPUNCH,THUNDERFANG,TICKLE
+EggGroups = Field,Fairy
+HatchSteps = 5355
+Height = 0.6
+Weight = 11.5
+Color = Black
+Habitat = Cave
+Category = Deceiver
+Pokedex = Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.
+WildItemUncommon=OCCABERRY
+# BattlerPlayerY=-6
+# BattlerEnemyY=28
+# BattlerAltitude=0

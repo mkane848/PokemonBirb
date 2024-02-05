@@ -1,0 +1,6838 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[AZUL1,Azul,1]
+Pokemon = CHARMANDER,5
+#-------------------------------
+[AZUL1,Azul,2]
+Pokemon = SQUIRTLE,5
+#-------------------------------
+[AZUL1,Azul,3]
+Pokemon = BULBASAUR,5
+#-------------------------------
+[AZUL2,Azul,1]
+Items = POTION
+Pokemon = PIDGEY,7
+Pokemon = CHARMANDER,8
+#-------------------------------
+[AZUL2,Azul,2]
+Items = POTION
+Pokemon = PIDGEY,7
+Pokemon = SQUIRTLE,8
+#-------------------------------
+[AZUL2,Azul,3]
+Items = POTION
+Pokemon = PIDGEY,7
+Pokemon = BULBASAUR,8
+#-------------------------------
+[AZUL2,Azul,4]
+Pokemon = PIDGEY,8
+    Moves = QUICKATTACK,SANDATTACK,WINGATTACK
+Pokemon = CHARMANDER,8
+#-------------------------------
+[AZUL2,Azul,5]
+Pokemon = PIDGEY,8
+    Moves = QUICKATTACK,SANDATTACK,WINGATTACK
+Pokemon = SQUIRTLE,8
+#-------------------------------
+[AZUL2,Azul,6]
+Pokemon = PIDGEY,8
+    Moves = QUICKATTACK,SANDATTACK,WINGATTACK
+Pokemon = BULBASAUR,8
+#-------------------------------
+[ROJO1,Rojo,1]
+Items = POTION
+Pokemon = MANKEY,6
+Pokemon = CHARMANDER,7
+#-------------------------------
+[ROJO1,Rojo,2]
+Items = POTION
+Pokemon = MANKEY,6
+Pokemon = SQUIRTLE,7
+#-------------------------------
+[ROJO1,Rojo,3]
+Items = POTION
+Pokemon = MANKEY,6
+Pokemon = BULBASAUR,7
+#-------------------------------
+[ROJO1,Rojo,4]
+Pokemon = MANKEY,7
+Pokemon = CHARMANDER,8
+#-------------------------------
+[ROJO1,Rojo,5]
+Pokemon = MANKEY,7
+Pokemon = SQUIRTLE,8
+#-------------------------------
+[ROJO1,Rojo,6]
+Pokemon = MANKEY,7
+Pokemon = BULBASAUR,8
+#-------------------------------
+[HOJA1,Hoja,1]
+Items = POTION
+Pokemon = MANKEY,6
+Pokemon = CHARMANDER,7
+#-------------------------------
+[HOJA1,Hoja,2]
+Items = POTION
+Pokemon = MANKEY,6
+Pokemon = SQUIRTLE,7
+#-------------------------------
+[HOJA1,Hoja,3]
+Items = POTION
+Pokemon = MANKEY,6
+Pokemon = BULBASAUR,7
+#-------------------------------
+[HOJA1,Hoja,4]
+Pokemon = MANKEY,7
+Pokemon = CHARMANDER,8
+#-------------------------------
+[HOJA1,Hoja,5]
+Pokemon = MANKEY,7
+Pokemon = SQUIRTLE,8
+#-------------------------------
+[HOJA1,Hoja,6]
+Pokemon = MANKEY,7
+Pokemon = BULBASAUR,8
+#-------------------------------
+[CAZABICHOS,Jano]
+Pokemon = WEEDLE,6
+Pokemon = CATERPIE,6
+#-------------------------------
+[CAZABICHOS,Jano,1]
+Pokemon = WEEDLE,6
+Pokemon = KRICKETOT,6
+#-------------------------------
+[CAZABICHAS,Teresa]
+Pokemon = CATERPIE,7
+Pokemon = KAKUNA,7
+#-------------------------------
+[CAZABICHAS,Teresa,1]
+Pokemon = GRUBBIN,7
+Pokemon = KAKUNA,7
+#-------------------------------
+[CAZABICHOS,Antón]
+Pokemon = SPINARAK,7
+Pokemon = METAPOD,8
+#-------------------------------
+[CAZABICHOS,Antón,1]
+Pokemon = SPINARAK,7
+Pokemon = SEWADDLE,8
+#-------------------------------
+[CAZABICHAS,Estela]
+Pokemon = METAPOD,8
+Pokemon = PINECO,8
+Pokemon = LEDYBA,8
+#-------------------------------
+[CAZABICHAS,Estela,1]
+Pokemon = METAPOD,8
+Pokemon = PINECO,8
+Pokemon = TAROUNTULA,8
+#-------------------------------
+[CAMPISTA,Amara]
+Pokemon = GEODUDE,9
+Pokemon = KABUTO,10
+#-------------------------------
+[CAMPISTA,Amara,1]
+Pokemon = ARON,9
+Pokemon = KABUTO,10
+#-------------------------------
+[CAMPISTO,Angelito]
+Pokemon = RHYHORN,9
+Pokemon = GEODUDE,10
+#-------------------------------
+[CAMPISTO,Angelito,1]
+Pokemon = ANORITH,9
+Pokemon = OMANYTE,10
+#-------------------------------
+[ROCKETA,Marineta]
+Pokemon = RATTATA,9
+Pokemon = EKANS,10
+#-------------------------------
+[ROCKETA,Marineta,1]
+Pokemon = RATTATA,9
+Pokemon = EKANS,10
+#-------------------------------
+[LIDER1,Brock]
+Items = SUPERPOTION
+Pokemon = OMANYTE,12
+    Item = RINDOBERRY
+    Moves = BIND,WATERGUN,ANCIENTPOWER,STEALTHROCK
+    AbilityIndex = 2
+    Nature = QUIRKY
+Pokemon = BONSLY,12
+    Item = MUSCLEBAND
+    Moves = ROCKTOMB,TRAILBLAZE,ROCKSMASH,FLAIL
+    AbilityIndex = 0
+    Nature = QUIRKY
+Pokemon = ONIX,14
+    Moves = ROCKTOMB,SANDTOMB,SANDSTORM,ROAR
+    AbilityIndex = 1
+    Nature = QUIRKY
+#-------------------------------
+[LIDER1,Brock,1]
+Items = SUPERPOTION
+Pokemon = DWEBBLE,12
+    Moves = BUGBITE,ROCKTOMB,SANDATTACK,STEALTHROCK
+    AbilityIndex = 1
+    Nature = QUIRKY
+Pokemon = BONSLY,12
+    Item = MUSCLEBAND
+    Moves = ROCKTOMB,TRAILBLAZE,ROCKSMASH,FLAIL
+    AbilityIndex = 0
+    Nature = QUIRKY
+Pokemon = ONIX,14
+    Moves = ROCKTOMB,SANDTOMB,SANDSTORM,ROAR
+    AbilityIndex = 1
+    Nature = QUIRKY
+#-------------------------------
+[LIDER1,Brock,2]
+Pokemon = DWEBBLE,12
+    Item = ORANBERRY
+    Moves = BUGBITE,ROCKTOMB,BULLDOZE,STEALTHROCK
+    AbilityIndex = 1
+    Nature = QUIRKY
+    IV = 12, 12, 12, 12, 12, 12
+Pokemon = TYRUNT,12
+    Item = DRAGONFANG
+    Moves = ROCKTOMB,DRAGONBREATH,BITE,STEALTHROCK
+    Nature = QUIRKY
+    IV = 12, 12, 12, 12, 12, 12
+Pokemon = BONSLY,13
+    Item = MIRACLESEED
+    Moves = ROCKTOMB,TRAILBLAZE,FLAIL,BULLDOZE
+    AbilityIndex = 0
+    Nature = QUIRKY
+    IV = 12, 12, 12, 12, 12, 12
+Pokemon = ONIX,14
+    Item = MUSCLEBAND
+    Moves = ROCKTOMB,BULLDOZE,SANDSTORM,ROAR
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[CHICA,Lucrecia]
+Pokemon = RATTATA,11
+Pokemon = SENTRET,11
+#-------------------------------
+[CHICA,Lucrecia,1]
+Pokemon = ZIGZAGOON,11
+Pokemon = SENTRET,11
+#-------------------------------
+[CAZABICHAS,Cornelia]
+Pokemon = CATERPIE,11
+Pokemon = KAKUNA,11
+Pokemon = PARAS,12
+#-------------------------------
+[CAZABICHAS,Cornelia,1]
+Pokemon = WURMPLE,11
+Pokemon = NYMBLE,11
+Pokemon = JOLTIK,12
+#-------------------------------
+[CHICO,Ben]
+Pokemon = RATTATA,13
+Pokemon = EKANS,13
+#-------------------------------
+[CHICO,Ben,1]
+Pokemon = RATTATA,13
+Pokemon = BUIZEL,13
+#-------------------------------
+[CHICA,Susana]
+Pokemon = SPEAROW,13
+Pokemon = MAREEP,13
+#-------------------------------
+[CHICA,Susana,1]
+Pokemon = FLETCHLING,13
+Pokemon = MAREEP,13
+#-------------------------------
+[CHICA,Roberta]
+Pokemon = JIGGLYPUFF,14
+#-------------------------------
+[CHICA,Roberta,1]
+Pokemon = JIGGLYPUFF,14
+#-------------------------------
+[CHICO,Calixto]
+Pokemon = BELLSPROUT,13
+Pokemon = DUNSPARCE,14
+#-------------------------------
+[CHICO,Calixto,1]
+Pokemon = SHINX,13
+Pokemon = DUNSPARCE,14
+#-------------------------------
+[CHICA,Iris]
+Pokemon = CLEFAIRY, 15
+#-------------------------------
+[CHICA,Iris,1]
+Pokemon = CLEFAIRY, 15
+#-------------------------------
+[CEREBRITO,Gustavo]
+Pokemon = MAGNEMITE,14
+Pokemon = VOLTORB,15
+#-------------------------------
+[CEREBRITO,Gustavo,1]
+Pokemon = MAGNEMITE,14
+Pokemon = TYNAMO,15
+#-------------------------------
+[CHICO,José]
+Pokemon = WOOPER,15
+Pokemon = CUBONE,15
+#-------------------------------
+[CHICO,José,1]
+Pokemon = WOOPER,15
+Pokemon = WHISMUR,15
+#-------------------------------
+[MONTANERO,Marcos]
+Pokemon = GEODUDE,15
+Pokemon = PHANPY,16
+#-------------------------------
+[MONTANERO,Marcos,1]
+Pokemon = ROGGENROLA,15
+Pokemon = PHANPY,16
+#-------------------------------
+[CEREBRITO,Miguel]
+Pokemon = GRIMER,17
+Pokemon = SLOWPOKE,17
+Pokemon = CHINCHOU,17
+#-------------------------------
+[CEREBRITO,Miguel,1]
+Pokemon = GULPIN,17
+Pokemon = SLOWPOKE,17
+Pokemon = CHINCHOU,17
+#-------------------------------
+[ROCKETO,César]
+Pokemon = SANDSHREW,15
+Pokemon = TENTACOOL,16
+Pokemon = ZUBAT,16
+#-------------------------------
+[ROCKETO,César,1]
+Pokemon = SANDSHREW,15
+Pokemon = CARVANHA,16
+Pokemon = CROAGUNK,16
+#-------------------------------
+[ROCKETA,Castro]
+Pokemon = RATICATE,16
+#-------------------------------
+[ROCKETA,Castro,1]
+Pokemon = RATICATE,16
+#-------------------------------
+[ROCKETO,Basty]
+Pokemon = EKANS,16
+Pokemon = NIDORINO,16
+#-------------------------------
+[ROCKETO,Basty,1]
+Pokemon = SANDILE,16
+Pokemon = NIDORINO,16
+#-------------------------------
+[ATLAS1,Atlas]
+Items = SUPERPOTION
+Pokemon = KOFFING,18
+	Moves = SMOKESCREEN,CLEARSMOG,TOXICSPIKES,SHOCKWAVE
+	Nature = QUIRKY
+Pokemon = HOUNDOUR,18
+	Item = BLACKGLASSES
+	Moves = FIREFANG,PURSUIT,LEER,WILLOWISP
+	Nature = QUIRKY
+Pokemon = GOLBAT,19
+	Item = ORANBERRY
+	Moves = GUST,POISONFANG,SUPERSONIC,BITE
+	Nature = QUIRKY
+#-------------------------------
+[ATLAS1,Atlas,1]
+Items = SUPERPOTION
+Pokemon = IMPIDIMP,18
+	Moves = FAKEOUT,BITE,DRAININGKISS,THUNDERWAVE
+	Nature = QUIRKY
+Pokemon = HOUNDOUR,18
+	Item = BLACKGLASSES
+	Moves = FIREFANG,PURSUIT,LEER,WILLOWISP
+	Nature = QUIRKY
+Pokemon = GOLBAT,19
+	Item = ORANBERRY
+	Moves = GUST,POISONFANG,SUPERSONIC,BITE
+	Nature = QUIRKY
+#-------------------------------
+[ATLAS1,Atlas,2]
+Pokemon = IMPIDIMP,18
+	Item = FOCUSSASH
+	Moves = FAKEOUT,BITE,DRAININGKISS,THUNDERWAVE
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = HOUNDOUR,18
+	Item = EVIOLITE
+	Moves = INCINERATE,PURSUIT,SNARL,WILLOWISP
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = GOLBAT,19
+	Item = SCOPELENS
+	Moves = AIRCUTTER,POISONFANG,CONFUSERAY,BITE
+	Nature = ADAMANT
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[ROJO2,Rojo,1]
+Items = SUPERPOTION
+Pokemon = MANKEY,16
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+Pokemon = HOOTHOOT,16
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,WORKUP
+	Nature = QUIRKY
+Pokemon = CHARMELEON,17
+	Item = CHARCOAL
+	Moves = EMBER,ROCKSMASH,SMOKESCREEN,METALCLAW
+	Nature = QUIRKY
+#-------------------------------
+[ROJO2,Rojo,2]
+Items = SUPERPOTION
+Pokemon = MANKEY,16
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+Pokemon = HOOTHOOT,16
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,WORKUP
+	Nature = QUIRKY
+Pokemon = WARTORTLE,17
+	Item = MYSTICWATER
+	Moves = WATERGUN,ROCKSMASH,WITHDRAW,RAPIDSPIN
+	Nature = QUIRKY
+#-------------------------------
+[ROJO2,Rojo,3]
+Items = SUPERPOTION
+Pokemon = MANKEY,16
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+Pokemon = HOOTHOOT,16
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,WORKUP
+	Nature = QUIRKY
+Pokemon = IVYSAUR,17
+	Item = MIRACLESEED
+	Moves = VINEWHIP,SLEEPPOWDER,LEECHSEED,ACID
+	Nature = QUIRKY
+#-------------------------------
+[ROJO2,Rojo,4]
+Pokemon = MANKEY,16
+	Item = BLACKBELT
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = HOOTHOOT,16
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,ECHOEDVOICE
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = CHARMELEON,17
+	Item = CHARCOAL
+	Moves = INCINERATE,ROCKSMASH,SMOKESCREEN,METALCLAW
+	Nature = MODEST
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[ROJO2,Rojo,5]
+Pokemon = MANKEY,16
+	Item = BLACKBELT
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = HOOTHOOT,16
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,ECHOEDVOICE
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = WARTORTLE,17
+	Item = MYSTICWATER
+	Moves = BUBBLEBEAM,ROCKSMASH,WITHDRAW,RAPIDSPIN
+	Nature = MODEST
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[ROJO2,Rojo,6]
+Pokemon = MANKEY,16
+	Item = BLACKBELT
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = HOOTHOOT,16
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,ECHOEDVOICE
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = IVYSAUR,17
+	Item = MIRACLESEED
+	Moves = MEGADRAIN,SLEEPPOWDER,LEECHSEED,ACID
+	Nature = MODEST
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[HOJA2,Hoja,1]
+Items = SUPERPOTION
+Pokemon = MANKEY,16
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+Pokemon = HOOTHOOT,16
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,WORKUP
+	Nature = QUIRKY
+Pokemon = CHARMELEON,17
+	Item = CHARCOAL
+	Moves = EMBER,ROCKSMASH,SMOKESCREEN,METALCLAW
+	Nature = QUIRKY
+#-------------------------------
+[HOJA2,Hoja,2]
+Items = SUPERPOTION
+Pokemon = MANKEY,16
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+Pokemon = HOOTHOOT,16
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,WORKUP
+	Nature = QUIRKY
+Pokemon = WARTORTLE,17
+	Item = MYSTICWATER	
+	Moves = WATERGUN,ROCKSMASH,WITHDRAW,RAPIDSPIN
+	Nature = QUIRKY
+#-------------------------------
+[HOJA2,Hoja,3]
+Items = SUPERPOTION
+Pokemon = MANKEY,16
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+Pokemon = HOOTHOOT,16
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,WORKUP
+	Nature = QUIRKY
+Pokemon = IVYSAUR,17
+	Item = MIRACLESEED
+	Moves = VINEWHIP,SLEEPPOWDER,LEECHSEED,ACID
+	Nature = QUIRKY
+#-------------------------------
+[HOJA2,Hoja,4]
+Pokemon = MANKEY,16
+	Item = BLACKBELT
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = HOOTHOOT,16
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,ECHOEDVOICE
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = CHARMELEON,17
+	Item = CHARCOAL
+	Moves = INCINERATE,ROCKSMASH,SMOKESCREEN,METALCLAW
+	Nature = MODEST
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[HOJA2,Hoja,5]
+Pokemon = MANKEY,16
+	Item = BLACKBELT
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = HOOTHOOT,16
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,ECHOEDVOICE
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = WARTORTLE,17
+	Item = MYSTICWATER
+	Moves = BUBBLEBEAM,ROCKSMASH,WITHDRAW,RAPIDSPIN
+	Nature = MODEST
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[HOJA2,Hoja,6]
+Pokemon = MANKEY,16
+	Item = BLACKBELT
+	Moves = KARATECHOP,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = HOOTHOOT,16
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,CONFUSION,HYPNOSIS,ECHOEDVOICE
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = IVYSAUR,17
+	Item = MIRACLESEED
+	Moves = MEGADRAIN,SLEEPPOWDER,LEECHSEED,ACID
+	Nature = MODEST
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[AZUL3,Azul,1]
+Items = SUPERPOTION
+Pokemon = PIDGEOTTO,17
+	Moves = WINGATTACK,GROWL,QUICKATTACK,TWISTER
+	Nature = QUIRKY
+Pokemon = RATICATE,17
+	Moves = HYPERFANG,BITE,TAILWHIP,WORKUP
+	Nature = QUIRKY
+Pokemon = KADABRA,18
+	Moves = CONFUSION,DISABLE,HYPNOSIS,SHOCKWAVE
+	Nature = QUIRKY
+Pokemon = CHARMELEON,19
+	Item = ORANBERRY
+	Moves = FIREFANG,ROCKSMASH,SMOKESCREEN,METALCLAW
+	Nature = QUIRKY
+#-------------------------------
+[AZUL3,Azul,2]
+Items = SUPERPOTION
+Pokemon = PIDGEOTTO,17
+	Moves = WINGATTACK,GROWL,QUICKATTACK,TWISTER
+	Nature = QUIRKY
+Pokemon = RATICATE,17
+	Moves = HYPERFANG,BITE,TAILWHIP,WORKUP
+	Nature = QUIRKY
+Pokemon = KADABRA,18
+	Moves = CONFUSION,DISABLE,HYPNOSIS,SHOCKWAVE
+	Nature = QUIRKY
+Pokemon = WARTORTLE,19
+	Item = ORANBERRY
+	Moves = WATERPULSE,ROCKSMASH,WITHDRAW,RAPIDSPIN
+	Nature = QUIRKY
+#-------------------------------
+[AZUL3,Azul,3]
+Items = SUPERPOTION
+Pokemon = PIDGEOTTO,17
+	Moves = WINGATTACK,GROWL,QUICKATTACK,TWISTER
+	Nature = QUIRKY
+Pokemon = RATICATE,17
+	Moves = HYPERFANG,BITE,TAILWHIP,WORKUP
+	Nature = QUIRKY
+Pokemon = KADABRA,18
+	Moves = CONFUSION,DISABLE,HYPNOSIS,SHOCKWAVE
+	Nature = QUIRKY
+Pokemon = IVYSAUR,19
+	Item = ORANBERRY
+	Moves = RAZORLEAF,SLEEPPOWDER,LEECHSEED,ACID
+	Nature = QUIRKY
+#-------------------------------
+[AZUL3,Azul,4]
+Pokemon = PIDGEOTTO,17
+	Item = SHARPBEAK
+	Moves = WINGATTACK,GROWL,QUICKATTACK,TWISTER
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = RATICATE,18
+	Item = MUSCLEBAND
+	Moves = QUICKATTACK,BITE,HYPERFANG,THUNDERFANG
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = KADABRA,18
+	Moves = PSYBEAM,DISABLE,HYPNOSIS,SHOCKWAVE
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = CHARMELEON,19
+	Item = ORANBERRY
+	Moves = INCINERATE,ROCKSMASH,SMOKESCREEN,METALCLAW
+	Nature = MODEST
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[AZUL3,Azul,5]
+Pokemon = PIDGEOTTO,17
+	Item = SHARPBEAK
+	Moves = WINGATTACK,GROWL,QUICKATTACK,TWISTER
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = RATICATE,18
+	Item = MUSCLEBAND
+	Moves = QUICKATTACK,BITE,HYPERFANG,THUNDERFANG
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = KADABRA,18
+	Moves = PSYBEAM,DISABLE,HYPNOSIS,SHOCKWAVE
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = WARTORTLE,19
+	Item = ORANBERRY
+	Moves = WATERPULSE,ROCKSMASH,WITHDRAW,RAPIDSPIN
+	Nature = MODEST
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[AZUL3,Azul,6]
+Pokemon = PIDGEOTTO,17
+	Item = SHARPBEAK
+	Moves = WINGATTACK,GROWL,QUICKATTACK,TWISTER
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = RATICATE,18
+	Item = MUSCLEBAND
+	Moves = QUICKATTACK,BITE,HYPERFANG,THUNDERFANG
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = KADABRA,18
+	Moves = PSYBEAM,DISABLE,HYPNOSIS,SHOCKWAVE
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = IVYSAUR,19
+	Item = ORANBERRY
+	Moves = MEGADRAIN,SLEEPPOWDER,LEECHSEED,SLUDGE
+	Nature = MODEST
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[CHICA,Marga]
+Pokemon = PIDGEOT,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = VILEPLUME,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = GRANBULL,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CHICA,Marga,1]
+Pokemon = STARAPTOR,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = ROSERADE,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = GRANBULL,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CHICO, Tino]
+Pokemon = MARILL,17
+Pokemon = CUBONE,17
+#-------------------------------
+[CHICO,Tino,1]
+Pokemon = WATTREL,17
+Pokemon = CUBONE,17
+#-------------------------------
+[CHICA,Ruth]
+Pokemon = NIDORANfE,17
+Pokemon = NIDORANmA,17
+#-------------------------------
+[CHICA,Ruth,1]
+Pokemon = NIDORANfE,17
+Pokemon = NIDORANmA,17
+#-------------------------------
+[CAMPISTO, Ezequiel]
+Pokemon = YANMA,18
+#-------------------------------
+[CAMPISTO,Ezequiel,1]
+Pokemon = PALPITOAD,18
+#-------------------------------
+[CAMPISTA, Chana]
+Pokemon = SPEAROW,17
+Pokemon = VULPIX,17
+#-------------------------------
+[CAMPISTA,Chana,1]
+Pokemon = TAILLOW,17
+Pokemon = VULPIX,17
+#-------------------------------
+[ELITEROCKET,Menio]
+Pokemon = EKANS,20
+Pokemon = MURKROW,21
+#-------------------------------
+[ELITEROCKET,Menio,1]
+Pokemon = SANDILE,20
+Pokemon = MURKROW,21
+#-------------------------------
+[ELITEROCKET,Menio,2]
+Pokemon = KROKOROK,20
+	Moves = BITE,ROCKTOMB,BULLDOZE
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = MURKROW,21
+	Item = SITRUSBERRY
+	Moves = WINGATTACK,PURSUIT,FEINTATTACK
+	Nature = ADAMANT
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[MONTANERO,Francis]
+Pokemon = MACHOP,18
+Pokemon = SWINUB,19
+#-------------------------------
+[MONTANERO,Francis,1]
+Pokemon = MACHOP,18
+Pokemon = SWINUB,19
+#-------------------------------
+[CHICO,Pepe]
+Pokemon = TEDDIURSA,18
+Pokemon = SLOWPOKE,19
+#-------------------------------
+[CHICO,Pepe,1]
+Pokemon = TEDDIURSA,18
+Pokemon = LECHONK,19
+#-------------------------------
+[CHICA,Herminia]
+Pokemon = PSYDUCK,20
+Pokemon = WEEPINBELL,20
+Pokemon = FURRET,21
+#-------------------------------
+[CHICA,Herminia,1]
+Pokemon = DUCKLETT,20
+Pokemon = WEEPINBELL,20
+Pokemon = FURRET,21
+#-------------------------------
+[NADADOR,Luís]
+Pokemon = HORSEA,20
+Pokemon = POLIWHIRL,21
+#-------------------------------
+[NADADOR,Luís,1]
+Pokemon = HORSEA,20
+Pokemon = LOMBRE,21
+#-------------------------------
+[NADADORA,Lourdes]
+Pokemon = KRABBY,20
+Pokemon = SEEL,21
+#-------------------------------
+[NADADORA,Lourdes,1]
+Pokemon = KRABBY,20
+Pokemon = SPHEAL,21
+#-------------------------------
+[CAMPISTA,Diana]
+Pokemon = OCTILLERY,22
+#-------------------------------
+[CAMPISTA,Diana,1]
+Pokemon = OCTILLERY,22
+#-------------------------------
+[LIDER2,Misty]
+Items = SUPERPOTION
+Pokemon = GOLDEEN,22
+	Item = DAMPROCK
+	Moves = RAINDANCE,AQUAJET,FLIPTURN,SUPERSONIC
+	AbilityIndex = 2
+	Nature = QUIRKY
+Pokemon = GOLDUCK,22
+	Moves = CONFUSION,WATERPULSE,ICEPUNCH,RAINDANCE
+	AbilityIndex = 2
+	Nature = QUIRKY
+Pokemon = STARMIE,23
+	Item = SITRUSBERRY
+	Moves = WATERPULSE,GRASSKNOT,PSYBEAM,COSMICPOWER
+	AbilityIndex = 2
+	Nature = QUIRKY
+#-------------------------------
+[LIDER2,Misty,1]
+Items = SUPERPOTION
+Pokemon = GOLDEEN,22
+	Item = DAMPROCK
+	Moves = RAINDANCE,AQUAJET,FLIPTURN,SUPERSONIC
+	AbilityIndex = 2
+	Nature = QUIRKY
+Pokemon = FLOATZEL,22
+	Moves = AQUAJET,FLIPTURN,ICEFANG,BITE
+	Nature = QUIRKY
+Pokemon = STARMIE,23
+	Item = SITRUSBERRY
+	Moves = WATERPULSE,GRASSKNOT,PSYBEAM,COSMICPOWER
+	AbilityIndex = 2
+	Nature = QUIRKY
+#-------------------------------
+[LIDER2,Misty,2]
+Pokemon = POLITOED,22
+	Item = DAMPROCK
+	Moves = WATERPULSE,FLIPTURN,ICEPUNCH,MUDSHOT
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = SEADRA,22
+	Item = EVIOLITE
+	Moves = FOCUSENERGY,WATERPULSE,DRAGONBREATH,ICYWIND
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = FLOATZEL,22
+	Item = MYSTICWATER
+	Moves = AQUAJET,FLIPTURN,ICEPUNCH,BITE
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = STARMIE,23
+	Item = SITRUSBERRY
+	Moves = WATERPULSE,GRASSKNOT,PSYBEAM,COSMICPOWER
+	AbilityIndex = 2
+	Nature = MODEST
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[CAZABICHOS,Keigo]
+Pokemon = BEEDRILL,21
+Pokemon = BUTTERFREE,21
+#-------------------------------
+[CAZABICHOS,Keigo,1]
+Pokemon = BEEDRILL,21
+Pokemon = BUTTERFREE,21
+#-------------------------------
+[CEREBRITO,Richi]
+Pokemon = BULBASAUR,22
+Pokemon = CHARMANDER,22
+Pokemon = SQUIRTLE,22
+#-------------------------------
+[CEREBRITO,Richi,1]
+Pokemon = BULBASAUR,22
+Pokemon = CHARMANDER,22
+Pokemon = SQUIRTLE,22
+#-------------------------------
+[FOTOGRAFA,Nerea]
+Pokemon = SKIPLOOM,22
+#-------------------------------
+[FOTOGRAFA,Nerea,1]
+Pokemon = FLOETTE,22
+#-------------------------------
+[DUOCAMPISTA,Chio y Genaro]
+Pokemon = NIDORINO,22
+Pokemon = NIDORINA,22
+Pokemon = PONYTA,22
+Pokemon = TANGELA,22
+#-------------------------------
+[DUOCAMPISTA,Chio y Genaro,1]
+Pokemon = NIDORINO,22
+Pokemon = NIDORINA,22
+Pokemon = KIRLIA,22
+Pokemon = CORVISQUIRE,22
+#-------------------------------
+[CHICO,Edu]
+Pokemon = HOOTHOOT,24
+#-------------------------------
+[CHICO,Edu,1]
+Pokemon = CHARCADET,24
+#-------------------------------
+[BRUJITA,Eva]
+Pokemon = ABRA,25
+Pokemon = NATU,25
+#-------------------------------
+[BRUJITA,Eva,1]
+Pokemon = ABRA,24
+Pokemon = GOTHITA,24
+#-------------------------------
+[CHICA,Alicia]
+Pokemon = POLIWAG,24
+Pokemon = SUNKERN,24
+#-------------------------------
+[CHICA,Alicia,1]
+Pokemon = POLIWAG,24
+Pokemon = BOUNSWEET,24
+#-------------------------------
+[BRUJITA,Adelaida]
+Pokemon = EXEGGCUTE,25
+#-------------------------------
+[BRUJITA,Adelaida,1]
+Pokemon = IMPIDIMP,25
+#-------------------------------
+[CABALLERO,Tomás]
+Pokemon = MEOWTH,24
+Pokemon = CHANSEY,25
+#-------------------------------
+[CABALLERO,Tomás,1]
+Pokemon = CHERUBI,24
+Pokemon = CHANSEY,25
+#-------------------------------
+[CABALLERO,Armando]
+Pokemon = MEOWTH,24
+Pokemon = SNUBBULL,24
+#-------------------------------
+[CABALLERO,Armando,1]
+Pokemon = SPOINK,24
+Pokemon = SNUBBULL,24
+#-------------------------------
+[MARINERO,Toribio]
+Pokemon = MACHOP,24
+Pokemon = TENTACOOL,25
+#-------------------------------
+[MARINERO,Toribio,1]
+Pokemon = MACHOP,24
+Pokemon = FRILLISH,25
+#-------------------------------
+[MARINERO,Edmundo]
+Pokemon = SHELLDER,24
+Pokemon = OCTILLERY,25
+#-------------------------------
+[MARINERO,Edmundo,1]
+Pokemon = SHELLDER,24
+Pokemon = OCTILLERY,25
+#-------------------------------
+[MARINERO,Felipe]
+Pokemon = POLIWAG,24
+Pokemon = POLIWHIRL,24
+#-------------------------------
+[MARINERO,Felipe,1]
+Pokemon = FINIZEN,24
+Pokemon = POLIWHIRL,24
+#-------------------------------
+[FOTOGRAFA,Arrate]
+Pokemon = CLEFAIRY,26
+Pokemon = FLAAFFY,26
+Pokemon = LICKITUNG,27
+#-------------------------------
+[FOTOGRAFA,Arrate,1]
+Pokemon = CLEFAIRY,24
+Pokemon = HATTREM,24
+Pokemon = LICKITUNG,25
+#-------------------------------
+[MECANICO,Dimas]
+Pokemon = PIKACHU,27
+Pokemon = MAGNEMITE,28
+#-------------------------------
+[MECANICO,Dimas,1]
+Pokemon = PIKACHU,27
+Pokemon = YAMPER,28
+#-------------------------------
+[MECANICO,Manolo]
+Pokemon = VOLTORB,27
+Pokemon = CHINCHOU,28
+#-------------------------------
+[MECANICO,Manolo,1]
+Pokemon = VOLTORB,27
+Pokemon = ELECTRIKE,28
+#-------------------------------
+[MECANICA,Tita]
+Pokemon = ELECTABUZZ,28
+#-------------------------------
+[MECANICA,Tita,1]
+Pokemon = EMOLGA,28
+#-------------------------------
+[LIDER3,Surge]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = ELECTRODE,28
+	Item = LIGHTCLAY
+	Moves = LIGHTSCREEN,REFLECT,ELECTROBALL,SIGNALBEAM
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = MAGNETON,29
+	Item = AIRBALLOON
+	Moves = MIRRORSHOT,CHARGEBEAM,METALSOUND,THUNDERWAVE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = LANTURN,29
+	Moves = WATERPULSE,AURORABEAM,SIGNALBEAM,CHARGEBEAM
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = RAICHU,30
+	Item = SITRUSBERRY
+	Move = DISCHARGE,GRASSKNOT,THUNDERWAVE,ELECTRICTERRAIN
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[LIDER3,Surge,1]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = ELECTRODE,28
+	Item = LIGHTCLAY
+	Moves = LIGHTSCREEN,REFLECT,ELECTROBALL,SIGNALBEAM
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = MAGNETON,29
+	Item = AIRBALLOON
+	Moves = MIRRORSHOT,CHARGEBEAM,METALSOUND,THUNDERWAVE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = GALVANTULA,29
+	Moves = ELECTROBALL,GIGADRAIN,SIGNALBEAM,VOLTSWITCH
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = RAICHU,30
+	Item = SITRUSBERRY
+	Moves = DISCHARGE,GRASSKNOT,THUNDERWAVE,ELECTRICTERRAIN
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[LIDER3,Surge,2]
+Pokemon = ELECTRODE,28
+	Item = LIGHTCLAY
+	Moves = LIGHTSCREEN,REFLECT,ELECTROBALL,SIGNALBEAM
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = MAGNETON,29
+	Item = AIRBALLOON
+	Moves = MIRRORSHOT,CHARGEBEAM,METALSOUND,THUNDERWAVE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = KILOWATTREL,29
+	Item = MAGNET
+	Moves = VOLTSWITCH,AIRCUTTER,FEATHERDANCE,SHOCKWAVE
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = GALVANTULA,29
+	Item = LIFEORB
+	Moves = ELECTROBALL,GIGADRAIN,SIGNALBEAM,VOLTSWITCH
+	AbilityIndex = 2
+	Nature = JOLLY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = RAICHU,30
+	Item = SITRUSBERRY
+	Moves = DISCHARGE,GRASSKNOT,THUNDERWAVE,ELECTRICTERRAIN
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[CAMPISTO,AJ]
+Pokemon = SANDSHREW,30
+	IV = 31,31,31,31,31,31
+#-------------------------------
+[CAMPISTO,AJ,1]
+Pokemon = SANDSHREW,30
+	IV = 31,31,31,31,31,31
+#-------------------------------
+[CAMPISTO,Cris]
+Pokemon = VENONAT,28
+Pokemon = SUNFLORA,28
+#-------------------------------
+[CAMPISTO,Cris,1]
+Pokemon = MORELULL,28
+Pokemon = SUNFLORA,28
+#-------------------------------
+[CAMPISTA,Neli]
+Pokemon = ODDISH,29
+Pokemon = WEEPINBELL,28
+#-------------------------------
+[CAMPISTA,Neli,1]
+Pokemon = COTTONEE,28
+Pokemon = GLOOM,29
+#-------------------------------
+[MONTANERO,Adolfo]
+Pokemon = ONIX,29
+#-------------------------------
+[MONTANERO,Adolfo,1]
+Pokemon = ONIX,29
+#-------------------------------
+[MONTANERO,Alfonso]
+Pokemon = GRAVELER,29
+Pokemon = GRAVELER,29
+#-------------------------------
+[MONTANERO,Alfonso,1]
+Pokemon = GRAVELER,29
+Pokemon = BOLDORE,29
+#-------------------------------
+[MONTANERO,Baltasar]
+Pokemon = MACHOP,29
+Pokemon = GEODUDE,29
+Pokemon = MACHOKE,30
+#-------------------------------
+[MONTANERO,Baltasar,1]
+Pokemon = TIMBURR,29
+Pokemon = GEODUDE,29
+Pokemon = GURDURR,30
+#-------------------------------
+[ROCKETO,Rubén]
+Pokemon = KOFFING,23
+Pokemon = KOFFING,23
+#-------------------------------
+[ROCKETO,Rubén,1]
+Pokemon = KOFFING,23
+Pokemon = TRUBBISH,23
+#-------------------------------
+[ROCKETA,Ixta]
+Pokemon = EKANS,23
+Pokemon = RATICATE,22
+#-------------------------------
+[ROCKETA,Ixta,1]
+Pokemon = EKANS,23
+Pokemon = THIEVUL,22
+#-------------------------------
+[ATENEA1,Atenea]
+Items = SUPERPOTION
+Pokemon = MURKROW,25
+	Item = SCOPELENS
+	Moves = AERIALACE,NIGHTSLASH,TAUNT,UTURN
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = GLOOM,26
+	Item = BLACKSLUDGE
+	Moves = MEGADRAIN,POISONJAB,TOXIC,LEECHSEED
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = ARBOK,27
+	Item = POISONBARB
+	Moves = POISONFANG,CRUNCH,FIREFANG,COIL
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[ATENEA1,Atenea,1]
+Items = SUPERPOTION
+Pokemon = MURKROW,25
+	Item = SCOPELENS
+	Moves = AERIALACE,NIGHTSLASH,TAUNT,UTURN
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = WHIRLIPEDE,26
+	Item = BLACKSLUDGE
+	Moves = BUGBITE,POISONJAB,TOXIC,IRONDEFENSE
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = ARBOK,27
+	Item = POISONBARB
+	Moves = POISONFANG,CRUNCH,FIREFANG,COIL
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[ATENEA1,Atenea,2]
+Pokemon = MURKROW,25
+	Item = SCOPELENS
+	Moves = AERIALACE,NIGHTSLASH,TAUNT,UTURN
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = WHIRLIPEDE,26
+	Item = EVIOLITE
+	Moves = BUGBITE,POISONJAB,TOXIC,IRONDEFENSE
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = ABSOL,26
+	Item = FOCUSSASH
+	Moves = WORKUP,THIEF,XSCISSOR,AERIALACE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = ARBOK,27
+	Item = POISONBARB
+	Moves = POISONFANG,CRUNCH,FIREFANG,COIL
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CEREBRITO,Basilio]
+Pokemon = CUBONE,29
+Pokemon = SLOWPOKE,29
+#-------------------------------
+[CEREBRITO,Basilio,1]
+Pokemon = CUBONE,29
+Pokemon = TOXEL,29
+#-------------------------------
+[CEREBRITO,Dani]
+Pokemon = LEDIAN,30
+#-------------------------------
+[CEREBRITO,Dani,1]
+Pokemon = LEDIAN,30
+#-------------------------------
+[FOTOGRAFA,Miriam]
+Pokemon = PIDGEOTTO,30
+Pokemon = AMPHAROS,30
+#-------------------------------
+[FOTOGRAFA,Miriam,1]
+Pokemon = TRANQUILL,30
+Pokemon = AMPHAROS,30
+#-------------------------------
+[FOTOGRAFA,Ariana]
+Pokemon = AIPOM,30
+Pokemon = PARASECT,30
+#-------------------------------
+[FOTOGRAFA,Ariana,1]
+Pokemon = LOUDRED,30
+Pokemon = PARASECT,30
+#-------------------------------
+[MONTANERO,Óscar]
+Pokemon = GRAVELER,30
+Pokemon = ONIX,31
+#-------------------------------
+[MONTANERO,Óscar,1]
+Pokemon = NOSEPASS,30
+Pokemon = ONIX,31
+#-------------------------------
+[MONTANERO,Lucas]
+Pokemon = SUDOWOODO,30
+#-------------------------------
+[MONTANERO,Lucas,1]
+Pokemon = LAIRON,30
+#-------------------------------
+[MONTANERO,Evaristo]
+Pokemon = GRAVELER,30
+Pokemon = DUGTRIO,30
+Pokemon = SANDSLASH,30
+#-------------------------------
+[MONTANERO,Evaristo,1]
+Pokemon = GRAVELER,30
+Pokemon = EXCADRILL,30
+Pokemon = SANDSLASH,30
+#-------------------------------
+[ROJO3,Rojo,1]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,30
+	Item = MUSCLEBAND
+	Moves = BRICKBREAK,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = NOCTOWL,30
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,PSYBEAM,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = EEVEE,30
+	Item = SILKSCARF
+	Moves = TAKEDOWN,CHARM,BITE,QUICKATTACK
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = CHARMELEON,31
+	Item = SITRUSBERRY
+	Moves = FLAMEBURST,ROCKSMASH,SMOKESCREEN,DRAGONRAGE
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ROJO3,Rojo,2]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,30
+	Item = MUSCLEBAND
+	Moves = BRICKBREAK,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = NOCTOWL,30
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,PSYBEAM,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = EEVEE,30
+	Item = SILKSCARF
+	Moves = TAKEDOWN,CHARM,BITE,QUICKATTACK
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = WARTORTLE,31
+	Item = SITRUSBERRY
+	Moves = WATERPULSE,ROCKSMASH,ICEFANG,RAPIDSPIN
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ROJO3,Rojo,3]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,30
+	Item = MUSCLEBAND
+	Moves = BRICKBREAK,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = NOCTOWL,30
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,PSYBEAM,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = EEVEE,30
+	Item = SILKSCARF
+	Moves = TAKEDOWN,CHARM,BITE,QUICKATTACK
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = IVYSAUR,31
+	Item = SITRUSBERRY
+	Moves = MEGADRAIN,SLEEPPOWDER,LEECHSEED,SLUDGE
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ROJO3,Rojo,4]
+Pokemon = PRIMEAPE,30
+	Item = LIFEORB
+	Moves = BRICKBREAK,THUNDERPUNCH,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = NOCTOWL,30
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = EEVEE,30
+	Item = EVIOLITE
+	Moves = RETURN,CHARM,BITE,EXTREMESPEED
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+	Happiness = 255
+Pokemon = CHARMELEON,31
+	Item = SITRUSBERRY
+	Moves = FLAMEBURST,BRICKBREAK,SMOKESCREEN,DRAGONPULSE
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ROJO3,Rojo,5]
+Pokemon = PRIMEAPE,30
+	Item = LIFEORB
+	Moves = BRICKBREAK,THUNDERPUNCH,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = NOCTOWL,30
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = EEVEE,30
+	Item = EVIOLITE
+	Moves = RETURN,CHARM,BITE,EXTREMESPEED
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+	Happiness = 255
+Pokemon = WARTORTLE,31
+	Item = SITRUSBERRY
+	Moves = WATERPULSE,DARKPULSE,ICEBEAM,RAPIDSPIN
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ROJO3,Rojo,6]
+Pokemon = PRIMEAPE,30
+	Item = LIFEORB
+	Moves = BRICKBREAK,THUNDERPUNCH,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = NOCTOWL,30
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = EEVEE,30
+	Item = EVIOLITE
+	Moves = RETURN,CHARM,BITE,EXTREMESPEED
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+	Happiness = 255
+Pokemon = IVYSAUR,31
+	Item = SITRUSBERRY
+	Moves = GIGADRAIN,SLEEPPOWDER,LEECHSEED,SLUDGE
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[HOJA3,Hoja,1]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,30
+	Item = MUSCLEBAND
+	Moves = BRICKBREAK,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = NOCTOWL,30
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,PSYBEAM,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = EEVEE,30
+	Item = SILKSCARF
+	Moves = TAKEDOWN,CHARM,BITE,QUICKATTACK
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = CHARMELEON,31
+	Item = SITRUSBERRY
+	Moves = FLAMEBURST,ROCKSMASH,SMOKESCREEN,DRAGONRAGE
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[HOJA3,Hoja,2]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,30
+	Item = MUSCLEBAND
+	Moves = BRICKBREAK,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = NOCTOWL,30
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,PSYBEAM,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = EEVEE,30
+	Item = SILKSCARF
+	Moves = TAKEDOWN,CHARM,BITE,QUICKATTACK
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = WARTORTLE,31
+	Item = SITRUSBERRY
+	Moves = WATERPULSE,ROCKSMASH,ICEFANG,RAPIDSPIN
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[HOJA3,Hoja,3]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,30
+	Item = MUSCLEBAND
+	Moves = BRICKBREAK,FOCUSENERGY,UTURN,ROCKTOMB
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = NOCTOWL,30
+	Item = WISEGLASSES
+	Moves = AIRCUTTER,PSYBEAM,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = EEVEE,30
+	Item = SILKSCARF
+	Moves = TAKEDOWN,CHARM,BITE,QUICKATTACK
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = IVYSAUR,31
+	Item = SITRUSBERRY
+	Moves = MEGADRAIN,SLEEPPOWDER,LEECHSEED,SLUDGE
+	Nature = QUIRKY
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[HOJA3,Hoja,4]
+Pokemon = PRIMEAPE,30
+	Item = LIFEORB
+	Moves = BRICKBREAK,THUNDERPUNCH,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = NOCTOWL,30
+	Item = TWISTEDSPOON
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = EEVEE,30
+	Item = EVIOLITE
+	Moves = RETURN,CHARM,BITE,EXTREMESPEED
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+	Happiness = 255
+Pokemon = CHARMELEON,31
+	Item = SITRUSBERRY
+	Moves = FLAMEBURST,BRICKBREAK,SMOKESCREEN,DRAGONPULSE
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[HOJA3,Hoja,5]
+Pokemon = PRIMEAPE,30
+	Item = LIFEORB
+	Moves = BRICKBREAK,THUNDERPUNCH,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = NOCTOWL,30
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = EEVEE,30
+	Item = EVIOLITE
+	Moves = RETURN,CHARM,BITE,EXTREMESPEED
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+	Happiness = 255
+Pokemon = WARTORTLE,31
+	Item = SITRUSBERRY
+	Moves = WATERPULSE,DARKPULSE,ICEBEAM,RAPIDSPIN
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[HOJA3,Hoja,6]
+Pokemon = PRIMEAPE,30
+	Item = LIFEORB
+	Moves = BRICKBREAK,THUNDERPUNCH,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = NOCTOWL,30
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = EEVEE,30
+	Item = EVIOLITE
+	Moves = RETURN,CHARM,BITE,EXTREMESPEED
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+	Happiness = 255
+Pokemon = IVYSAUR,31
+	Item = SITRUSBERRY
+	Moves = GIGADRAIN,SLEEPPOWDER,LEECHSEED,SLUDGE
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[CEREBRITO,Carlos]
+Pokemon = VOLTORB,31
+Pokemon = PUPITAR,31
+#-------------------------------
+[CEREBRITO,Carlos,1]
+Pokemon = ELGYEM,31
+Pokemon = VIBRAVA,31
+#-------------------------------
+[CAMPISTA,Carol]
+Pokemon = QUAGSIRE,32
+#-------------------------------
+[CAMPISTA,Carol,1]
+Pokemon = CLODSIRE,32
+#-------------------------------
+[AZUL5,Azul,1]
+Items = SUPERPOTION,SUPERPOTION
+Pokemon = PIDGEOTTO,33
+	Item = SHARPBEAK
+	Moves = AIRCUTTER,FEATHERDANCE,TAKEDOWN,UTURN
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = GYARADOS,34
+	Moves = DRAGONRAGE,BITE,THRASH,HYDROPUMP
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = KADABRA,34
+	Item = FOCUSSASH
+	Moves = PSYBEAM,SHADOWBALL,HYPNOSIS,SHOCKWAVE
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = CHARMELEON,35
+	Item = SITRUSBERRY
+	Moves = FLAMEBURST,BRICKBREAK,SCARYFACE,DRAGONRAGE
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[AZUL5,Azul,2]
+Items = SUPERPOTION,SUPERPOTION
+Pokemon = PIDGEOTTO,33
+	Item = SHARPBEAK
+	Moves = AIRCUTTER,FEATHERDANCE,TAKEDOWN,UTURN
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = EXEGGCUTE,34
+	Item = LIGHTCLAY
+	Moves = GIGADRAIN,PSYBEAM,REFLECT,LIGHTSCREEN
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = KADABRA,34
+	Item = FOCUSSASH
+	Moves = PSYBEAM,SHADOWBALL,HYPNOSIS,SHOCKWAVE
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = WARTORTLE,35
+	Item = SITRUSBERRY
+	Moves = WATERPULSE,IRONDEFENSE,ICEFANG,RAPIDSPIN
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[AZUL5,Azul,3]
+Items = SUPERPOTION,SUPERPOTION
+Pokemon = PIDGEOTTO,33
+	Item = SHARPBEAK
+	Moves = AIRCUTTER,FEATHERDANCE,TAKEDOWN,UTURN
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = GROWLITHE,34
+	Item = CHARCOAL
+	Moves = CRUNCH,FIREFANG,TAKEDOWN,HOWL
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = KADABRA,34
+	Item = FOCUSSASH
+	Moves = PSYBEAM,SHADOWBALL,HYPNOSIS,SHOCKWAVE
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = IVYSAUR,35
+	Item = SITRUSBERRY
+	Moves = GIGADRAIN,POISONPOWDER,LEECHSEED,VENOSHOCK
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[AZUL5,Azul,4]
+Pokemon = PIDGEOTTO,33
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HYPERVOICE,UTURN
+	Nature = MODEST
+	IV = 16, 16, 16, 16, 16, 16
+Pokemon = GYARADOS,34
+	Item = WACANBERRY
+	Moves = DRAGONRAGE,CRUNCH,THRASH,AQUATAIL
+	Nature = QUIRKY
+	IV = 16, 16, 16, 16, 16, 16
+Pokemon = KADABRA,34
+	Item = FOCUSSASH
+	Moves = PSYSHOCK,SHADOWBALL,HYPNOSIS,ENERGYBALL
+	Nature = MODEST
+	IV = 16, 16, 16, 16, 16, 16
+Pokemon = CHARMELEON,35
+	Item = SITRUSBERRY
+	Moves = LAVAPLUME,BRICKBREAK,SCARYFACE,DRAGONPULSE
+	Nature = MODEST
+	IV = 16, 16, 16, 16, 16, 16
+#-------------------------------
+[AZUL5,Azul,5]
+Pokemon = PIDGEOTTO,33
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HYPERVOICE,UTURN
+	Nature = MODEST
+	IV = 16, 16, 16, 16, 16, 16
+Pokemon = SCOVILLAIN,34
+	Item = ASSAULTVEST
+	Moves = GIGADRAIN,FLAMEBURST,ZENHEADBUTT,CRUNCH
+	Nature = QUIRKY
+	IV = 16, 16, 16, 16, 16, 16
+Pokemon = KADABRA,34
+	Item = FOCUSSASH
+	Moves = PSYSHOCK,SHADOWBALL,HYPNOSIS,ENERGYBALL
+	Nature = MODEST
+	IV = 16, 16, 16, 16, 16, 16
+Pokemon = WARTORTLE,35
+	Item = SITRUSBERRY
+	Moves = WATERPLEDGE,IRONDEFENSE,ICEBEAM,DARKPULSE
+	Nature = MODEST
+	IV = 16, 16, 16, 16, 16, 16
+#-------------------------------
+[AZUL5,Azul,6]
+Pokemon = PIDGEOTTO,33
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HYPERVOICE,UTURN
+	Nature = MODEST
+	IV = 16, 16, 16, 16, 16, 16
+Pokemon = CENTISKORCH,34
+	Item = CHARCOAL
+	Moves = LEECHLIFE,FIRELASH,CRUNCH,COIL
+	Nature = QUIRKY
+	IV = 16, 16, 16, 16, 16, 16
+Pokemon = KADABRA,34
+	Item = FOCUSSASH
+	Moves = PSYSHOCK,SHADOWBALL,HYPNOSIS,ENERGYBALL
+	Nature = MODEST
+	IV = 16, 16, 16, 16, 16, 16
+Pokemon = IVYSAUR,35
+	Item = SITRUSBERRY
+	Moves = GIGADRAIN,POISONPOWDER,LEECHSEED,SLUDGEBOMB
+	Nature = MODEST
+	IV = 16, 16, 16, 16, 16, 16
+#-------------------------------
+[EXORCISTA,Espe]
+Pokemon = GASTLY,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Espe,1]
+Pokemon = GASTLY,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Marta]
+Pokemon = GASTLY,31
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = GASTLY,31
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Marta,1]
+Pokemon = SHUPPET,31
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = DUSKULL,31
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Mikela]
+Pokemon = MISDREAVUS,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Mikela,1]
+Pokemon = MISDREAVUS,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Macarena]
+Pokemon = GASTLY,30
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = GASTLY,30
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = GASTLY,30
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Macarena,1]
+Pokemon = GREAVARD,30
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = PHANTUMP,30
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = LITWICK,30
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Tamara]
+Pokemon = GASTLY,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = HAUNTER,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Tamara,1]
+Pokemon = DRIFLOON,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = HAUNTER,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Lena]
+Pokemon = HAUNTER,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Lena,1]
+Pokemon = LAMPENT,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Moira]
+Pokemon = GASTLY,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = GASTLY,31
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Moira,1]
+Pokemon = GASTLY,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = GOLETT,31
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Virginia]
+Pokemon = HAUNTER,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = HAUNTER,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[EXORCISTA,Virginia,1]
+Pokemon = LAMPENT,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = HAUNTER,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[ROCKETO,Antoni]
+Pokemon = ZUBAT,37
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = GOLBAT,37
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[ROCKETO,Antoni,1]
+Pokemon = GULPIN,37
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = GOLBAT,37
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[ROCKETA,Kuma]
+Pokemon = RATTATA,36
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = RATTATA,36
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = RATICATE,37
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[ROCKETA,Kuma,1]
+Pokemon = RATTATA,36
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = YUNGOOS,36
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = RATICATE,37
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[URANO1,Urano]
+Items = HYPERPOTION,HYPERPOTION,MEGARING
+Pokemon = SCYTHER,40
+	Item = EVIOLITE
+	Moves = UTURN,POUNCE,SWORDSDANCE,AERIALACE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = HERACROSS,40
+	Item = ASSAULTVEST
+	Moves = FURYCUTTER,ROCKSLIDE,BRICKBREAK,UTURN
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = KABUTOPS,41
+	Item = CHOICESCARF
+	Moves = AQUACUTTER,ROCKSLIDE,KNOCKOFF,UTURN
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = PINSIR,42
+	Item = PINSIRITE
+	Moves = XSCISSOR,BRICKBREAK,QUICKATTACK,SWORDSDANCE
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[URANO1,Urano,1]
+Items = HYPERPOTION,HYPERPOTION,MEGARING
+Pokemon = SCYTHER,40
+	Item = EVIOLITE
+	Moves = UTURN,POUNCE,SWORDSDANCE,AERIALACE
+	AbilityIndex = 1
+    Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = HERACROSS,40
+	Item = ASSAULTVEST
+	Moves = FURYCUTTER,ROCKSLIDE,BRICKBREAK,UTURN
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = KABUTOPS,41
+	Item = CHOICESCARF
+	Moves = AQUACUTTER,ROCKSLIDE,KNOCKOFF,UTURN
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = PINSIR,42
+	Item = PINSIRITE
+	Moves = XSCISSOR,BRICKBREAK,QUICKATTACK,SWORDSDANCE
+	Nature = QUIRKY
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[URANO1,Urano,2]
+Items = PINSIRITE
+Pokemon = SCYTHER,40
+	Item = EVIOLITE
+	Moves = UTURN,POUNCE,SWORDSDANCE,AERIALACE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = HERACROSS,40
+	Item = ASSAULTVEST
+	Moves = FURYCUTTER,ROCKSLIDE,BRICKBREAK,UTURN
+	Nature = JOLLY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = KABUTOPS,41
+	Item = CHOICESCARF
+	Moves = AQUACUTTER,ROCKSLIDE,KNOCKOFF,UTURN
+	Nature = JOLLY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = PINSIR,42
+	Item = PINSIRITE
+	Moves = XSCISSOR,BRICKBREAK,QUICKATTACK,SWORDSDANCE
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[CHICA,Geno]
+Pokemon = CLEFAIRY,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = JIGGLYPUFF,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[CHICA,Geno,1]
+Pokemon = KIRLIA,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = JIGGLYPUFF,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[DUOCAMPISTA,Tito y Lin]
+Pokemon = QUILAVA,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = CROCONAW,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[DUOCAMPISTA,Tito y Lin,1]
+Pokemon = QUILAVA,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = CROCONAW,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[CEREBRITO,Les]
+Pokemon = KOFFING,33
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[CEREBRITO,Les,1]
+Pokemon = BALTOY,33
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[CHICA,Andrea]
+Pokemon = MEOWTH,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = FURRET,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = AIPOM,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[CHICA,Andrea,1]
+Pokemon = ROCKRUFF,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = FURRET,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = AIPOM,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[MOTORISTA,Jaro]
+Pokemon = GRIMER,33
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = ARIADOS,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[MOTORISTA,Jaro,1]
+Pokemon = TOXEL,33
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = ARIADOS,32
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[MOTORISTA,Loren]
+Pokemon = EKANS,33
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = SNEASEL,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = ARBOK,33
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[MOTORISTA,Loren,1]
+Pokemon = SILICOBRA,33
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = SNEASEL,32
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = CYCLIZAR,33
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[ROCKETO,Cristian]
+Pokemon = ZUBAT,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[ROCKETO,Cristian,1]
+Pokemon = ZUBAT,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[CHICA,Busa]
+Pokemon = GLOOM,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[CHICA,Busa,1]
+Pokemon = GLOOM,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[DAMISELA,Brígida]
+Pokemon = EXEGGCUTE,36
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = SKIPLOOM,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[DAMISELA,Brígida,1]
+Pokemon = MORELULL,36
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = SKIPLOOM,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[CAMPISTA,Teófila]
+Pokemon = WEEPINBELL,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[CAMPISTA,Teófila,1]
+Pokemon = WEEPINBELL,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[DAMISELA,Puri]
+Pokemon = GLOOM,36
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = BAYLEEF,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[DAMISELA,Puri,1]
+Pokemon = SERVINE,36
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = BAYLEEF,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[CHICA,Lisa]
+Pokemon = TANGELA,36
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = IVYSAUR,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[CHICA,Lisa,1]
+Pokemon = ROSELIA,36
+	IV = 11, 11, 11, 11, 11, 11
+Pokemon = IVYSAUR,36
+	IV = 11, 11, 11, 11, 11, 11
+#-------------------------------
+[LIDER4,Erika]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = TANGROWTH,37
+	Moves = GRASSYGLIDE,SLEEPPOWDER,BRICKBREAK,ROCKSLIDE
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SUDOWOODO,38
+	Item = ASSAULTVEST
+	Moves = ROCKTOMB,WOODHAMMER,FIREPUNCH,SUCKERPUNCH
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = BELLOSSOM,38
+	Moves = GIGADRAIN,QUIVERDANCE,EARTHPOWER,SUNNYDAY
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = VILEPLUME,39
+	Item = POWERHERB
+	Moves = SOLARBEAM,SLUDGEBOMB,GIGADRAIN,LEECHSEED
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[LIDER4,Erika,1]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = TANGROWTH,37
+	Moves = GRASSYGLIDE,SLEEPPOWDER,BRICKBREAK,ROCKSLIDE
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SUDOWOODO,38
+	Item = ASSAULTVEST
+	Moves = ROCKTOMB,WOODHAMMER,FIREPUNCH,SUCKERPUNCH
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = LILLIGANT,38
+	Moves = GIGADRAIN,QUIVERDANCE,EARTHPOWER,SUNNYDAY
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = VILEPLUME,39
+	Item = POWERHERB
+	Moves = SOLARBEAM,SLUDGEBOMB,GIGADRAIN,LEECHSEED
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[LIDER4,Erika,2]
+Items = MEGARING
+Pokemon = TANGROWTH,37
+	Item = GRASSGEM
+	Moves = GRASSYGLIDE,SLEEPPOWDER,BRICKBREAK,ROCKSLIDE
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = SUDOWOODO,38
+	Item = ASSAULTVEST
+	Moves = HEADSMASH,WOODHAMMER,FIREPUNCH,SUCKERPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = LILLIGANT,38
+	Item = FOCUSSASH
+	Moves = HIGHJUMPKICK,LEAFBLADE,SWORDSDANCE,SUNNYDAY
+	AbilityIndex = 0
+	Form = 1
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = SCEPTILE,38
+	Item = SCEPTILITE
+	Moves = SCALESHOT,LEAFBLADE,XSCISSOR,DRAINPUNCH
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = VILEPLUME,39
+	Item = POWERHERB
+	Moves = SOLARBEAM,SLUDGEBOMB,GIGADRAIN,LEECHSEED
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[DUOMOTORISTA,Mark y Mike]
+Pokemon = ARBOK,35
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = CROBAT,35
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[DUOMOTORISTA,Mark y Mike,1]
+Pokemon = ARBOK,35
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = CROBAT,35
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[DUOLUCHA,Alex y Jan]
+Pokemon = PRIMEAPE,35
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = XATU,35
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[DUOLUCHA,Alex y Jan,1]
+Pokemon = PRIMEAPE,35
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = XATU,35
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[ROCKETA,Nova]
+Pokemon = GOLBAT,32
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[ROCKETA,Nova,1]
+Pokemon = GOLBAT,32
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[ROCKETO,Wexter]
+Pokemon = DROWZEE,31
+Pokemon = HYPNO,32
+#-------------------------------
+[ROCKETO,Wexter,1]
+Pokemon = MASCHIFF,31
+Pokemon = HYPNO,32
+#-------------------------------
+[ROCKETO,Mike]
+Pokemon = HOUNDOUR,31
+Pokemon = RATICATE,32
+#-------------------------------
+[ROCKETO,Mike,1]
+Pokemon = HOUNDOUR,31
+Pokemon = RATICATE,32
+#-------------------------------
+[ROCKETO,Nico]
+Pokemon = ELECTRODE,32
+Pokemon = ELECTRODE,33
+#-------------------------------
+[ROCKETO,Nico,1]
+Pokemon = LIEPARD,31
+Pokemon = ELECTRODE,32
+#-------------------------------
+[ELITEROCKET,Eusebio]
+Pokemon = RATICATE,34
+	Form = 1
+Pokemon = URSARING,34
+#-------------------------------
+[ELITEROCKET,Eusebio,1]
+Pokemon = RATICATE,34
+	Form = 1
+Pokemon = URSARING,34
+#-------------------------------
+[ELITEROCKET,Eusebio,2]
+Pokemon = RATICATE,34
+	Item = WIDELENS
+	Moves = CRUNCH,DOUBLEEDGE,IRONTAIL,PROTECT
+	AbilityIndex = 1
+	Form = 1
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = URSARING,34
+	Item = SILKSCARF
+	Moves = SLASH,CRUNCH,FIREPUNCH,BULLDOZE
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ROCKETA,Nora]
+Pokemon = ZUBAT,31
+Pokemon = SNEASEL,32
+#-------------------------------
+[ROCKETA,Nora,1]
+Pokemon = CROAGUNK,31
+Pokemon = SNEASEL,32
+#-------------------------------
+[ROCKETA,Ángela]
+Pokemon = FEAROW,32
+#-------------------------------
+[ROCKETA,Ángela,1]
+Pokemon = FEAROW,32
+#-------------------------------
+[ROCKETA,Teresa]
+Pokemon = ARBOK,33
+#-------------------------------
+[ROCKETA,Teresa,1]
+Pokemon = ARBOK,33
+#-------------------------------
+[ROCKETA,Salma]
+Pokemon = SANDSLASH,34
+Pokemon = ARIADOS,34
+#-------------------------------
+[ROCKETA,Salma,1]
+Pokemon = SCOVILLAIN,34
+Pokemon = SWALOT,34
+#-------------------------------
+[GIOVANNI1,Giovanni]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PERSIAN,39
+	Item = KINGSROCK
+	Moves = FAKEOUT,TAILSLAP,BITE,UTURN
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = NIDOKING,39
+	Moves = POISONJAB,BULLDOZE,THUNDERBOLT,ICEBEAM
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = KANGASKHAN,39
+	Item = SILKSCARF
+	Moves = BODYSLAM,BULLDOZE,FAKEOUT,CRUNCH
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = RHYDON,40
+	Item = FOCUSSASH
+	Moves = DRILLRUN,ROCKSLIDE,BRICKBREAK,FIREPUNCH
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GIOVANNI1,Giovanni,1]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PERSIAN,39
+	Item = KINGSROCK
+	Moves = FAKEOUT,TAILSLAP,BITE,UTURN
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = NIDOKING,39
+	Moves = POISONJAB,BULLDOZE,THUNDERBOLT,ICEBEAM
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = KANGASKHAN,39
+	Item = SILKSCARF
+	Moves = BODYSLAM,BULLDOZE,FAKEOUT,CRUNCH
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = RHYDON,40
+	Item = FOCUSSASH
+	Moves = DRILLRUN,ROCKSLIDE,BRICKBREAK,FIREPUNCH
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GIOVANNI1,Giovanni,2]
+Pokemon = PERSIAN,39
+	Item = KINGSROCK
+	Moves = FAKEOUT,TAILSLAP,BITE,UTURN
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = HONCHKROW,39
+	Item = ASSAULTVEST
+	Moves = DRILLPECK,SUCKERPUNCH,HEATWAVE,UTURN
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = NIDOKING,39
+	Item = LIFEORB
+	Moves = POISONJAB,BULLDOZE,THUNDERBOLT,ICEBEAM
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = KANGASKHAN,39
+	Item = SILKSCARF
+	Moves = BODYSLAM,BULLDOZE,FAKEOUT,CRUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = RHYDON,40
+	Item = FOCUSSASH
+	Moves = DRILLRUN,ROCKSLIDE,BRICKBREAK,FIREPUNCH
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[PESCADORA,Tonia]
+Pokemon = HORSEA,33
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = SEAKING,33
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[PESCADORA,Tonia,1]
+Pokemon = HORSEA,33
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = ARAQUANID,33
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[PESCADORA,Elisa]
+Pokemon = STARYU,32
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = KINGLER,33
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[PESCADORA,Elisa,1]
+Pokemon = STARYU,32
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = CRAWDAUNT,33
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[BRUJITA,Marian]
+Pokemon = ESPEON,35
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[BRUJITA,Marian,1]
+Pokemon = ESPEON,35
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[PESCADORA,Toni]
+Pokemon = GYARADOS,40
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[PESCADORA,Toni,1]
+Pokemon = GYARADOS,40
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[PESCADORA,Paulina]
+Pokemon = SEADRA,39
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = LANTURN,40
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[PESCADORA,Paulina,1]
+Pokemon = GASTRODON,39
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = LANTURN,40
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[CAMPISTA,Virginia]
+Pokemon = WEEPINBELL,40
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = STANTLER,40
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[CAMPISTA,Virginia,1]
+Pokemon = VIVILLON,40
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = SAWSBUCK,40
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[MECANICO,Benito]
+Pokemon = VOLTORB,39
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = ELECTRODE,39
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = ELECTABUZZ,40
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[MECANICO,Benito,1]
+Pokemon = SHINX,39
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = BOLTUND,39
+	IV = 12, 12, 12, 12, 12, 12
+Pokemon = ELECTABUZZ,40
+	IV = 12, 12, 12, 12, 12, 12
+#-------------------------------
+[AGATHA1,Ágatha]
+Items = MEGARING
+Pokemon = HAUNTER,40
+	Item = EVIOLITE
+	Moves = WILLOWISP,HEX,SLUDGEBOMB,CONFUSERAY
+	Nature = MODEST
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = MISDREAVUS,41
+	Item = ASSAULTVEST
+	Moves = SHADOWBALL,DAZZLINGGLEAM,THUNDERBOLT,MYSTICALFIRE
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = GENGAR,42
+	Item = GENGARITE
+	Moves = OMINOUSWIND,SLUDGE,FOCUSBLAST,ENERGYBALL
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[AGATHA1,Ágatha,1]
+Items = MEGARING
+Pokemon = BANETTE,40
+	Item = EVIOLITE
+	Moves = WILLOWISP,SHADOWCLAW,GUNKSHOT,CONFUSERAY
+	Nature = ADAMANT
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = MISDREAVUS,41
+	Item = ASSAULTVEST
+	Moves = SHADOWBALL,DAZZLINGGLEAM,THUNDERBOLT,MYSTICALFIRE
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = GENGAR,42
+	Item = GENGARITE
+	Moves = OMINOUSWIND,SLUDGE,FOCUSBLAST,ENERGYBALL
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[ORNITOLOGO,Cayetano]
+Pokemon = PIDGEOTTO,41
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = DODRIO,42
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ORNITOLOGO,Cayetano,1]
+Pokemon = TRANQUILL,41
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = DODRIO,42
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ORNITOLOGO,Malenio]
+Pokemon = FEAROW,41
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = NATU,42
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = SKARMORY,42
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ORNITOLOGO,Malenio,1]
+Pokemon = SWELLOW,41
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = NATU,42
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = CORVIKNIGHT,42
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ORNITOLOGO,Leno]
+Pokemon = DODUO,42
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = FARFETCHD,42
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ORNITOLOGO,Leno,1]
+Pokemon = FLETCHINDER,42
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = FARFETCHD,42
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[MOTORISTA,Gerardo]
+Pokemon = MUK,43
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[MOTORISTA,Gerardo,1]
+Pokemon = REVAVROOM,43
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[MOTORISTA,Isaac]
+Pokemon = NIDORINO,42
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = HOUNDOOM,43
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[MOTORISTA,Isaac,1]
+Pokemon = ROSELIA,42
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = HOUNDOOM,43
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[DAMISELA,Olivia]
+Pokemon = TOGETIC,43
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = IVYSAUR,44
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[DAMISELA,Olivia,1]
+Pokemon = TOGETIC,43
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = SERVINE,44
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[DAMISELA,Cleo]
+Pokemon = GRANBULL,44
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[DAMISELA,Cleo,1]
+Pokemon = FURFROU,44
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[FOTOGRAFA,Celia]
+Pokemon = BUTTERFREE,43
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = DEWGONG,44
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[FOTOGRAFA,Celia,1]
+Pokemon = VESPIQUEN,43
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = DELCATTY,44
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[CHICO,Ernesto]
+Pokemon = RATICATE,44
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = HYPNO,44
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[CHICO,Ernesto,1]
+Pokemon = WHISCASH,44
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = RIBOMBEE,44
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[DUOCAMPISTA,Sandro & Anita]
+Pokemon = LICKITUNG,43
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = PILOSWINE,43
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = MILTANK,43
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[DUOCAMPISTA,Sandro & Anita,1]
+Pokemon = LINOONE,43
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = PALPITOAD,43
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = MILTANK,43
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ROJO4,Rojo,1]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = VAPOREON,44
+	Item = MYSTICWATER
+	Moves = MUDDYWATER,AURORABEAM,ACIDARMOR,SHADOWBALL
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = CHARIZARD,45
+	Item = SITRUSBERRY
+	Moves = FLAMETHROWER,AIRSLASH,SMOKESCREEN,DRAGONRAGE
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[ROJO4,Rojo,2]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = JOLTEON,44
+	Item = MAGNET
+	Moves = DISCHARGE,SIGNALBEAM,VOLTSWITCH,SHADOWBALL
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = BLASTOISE,45
+	Item = SITRUSBERRY
+	Moves = SNIPESHOT,DARKPULSE,AURASPHERE,IRONDEFENSE
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[ROJO4,Rojo,3]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = FLAREON,44
+	Item = CHARCOAL
+	Moves = FLAREBLITZ,IRONTAIL,STRENGTH,WILLOWISP
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = VENUSAUR,45
+	Item = SITRUSBERRY
+	Moves = GIGADRAIN,SLEEPPOWDER,LEECHSEED,SLUDGEBOMB
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[ROJO4,Rojo,4]
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYCHIC,HYPNOSIS,CALMMIND
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = VAPOREON,44
+	Item = MYSTICWATER
+	Moves = MUDDYWATER,ICEBEAM,ACIDARMOR,SHADOWBALL
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = BISHARP,44
+	Item = EVIOLITE
+	Moves = IRONHEAD,SUCKERPUNCH,SWORDSDANCE,KNOCKOFF
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = CHARIZARD,45
+	Item = SITRUSBERRY
+	Moves = FLAMETHROWER,AIRSLASH,SCORCHINGSANDS,DRAGONPULSE
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[ROJO4,Rojo,5]
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYCHIC,HYPNOSIS,CALMMIND
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = JOLTEON,44
+	Item = MAGNET
+	Moves = DISCHARGE,SIGNALBEAM,VOLTSWITCH,SHADOWBALL
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = BISHARP,44
+	Item = EVIOLITE
+	Moves = IRONHEAD,SUCKERPUNCH,SWORDSDANCE,KNOCKOFF
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = BLASTOISE,45
+	Item = SITRUSBERRY
+	Moves = SNIPESHOT,DARKPULSE,AURASPHERE,ICEBEAM
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[ROJO4,Rojo,6]
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYCHIC,HYPNOSIS,CALMMIND
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = FLAREON,44
+	Item = CHARCOAL
+	Moves = FLAREBLITZ,IRONTAIL,STRENGTH,WILLOWISP
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = BISHARP,44
+	Item = EVIOLITE
+	Moves = IRONHEAD,SUCKERPUNCH,SWORDSDANCE,KNOCKOFF
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = VENUSAUR,45
+	Item = SITRUSBERRY
+	Moves = GIGADRAIN,SLEEPPOWDER,EARTHPOWER,SLUDGEBOMB
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[HOJA4,Hoja,1]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = VAPOREON,44
+	Item = MYSTICWATER
+	Moves = MUDDYWATER,AURORABEAM,ACIDARMOR,SHADOWBALL
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = CHARIZARD,45
+	Item = SITRUSBERRY
+	Moves = FLAMETHROWER,AIRSLASH,SMOKESCREEN,DRAGONRAGE
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[HOJA4,Hoja,2]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = JOLTEON,44
+	Item = MAGNET
+	Moves = DISCHARGE,SIGNALBEAM,VOLTSWITCH,SHADOWBALL
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = BLASTOISE,45
+	Item = SITRUSBERRY
+	Moves = SNIPESHOT,DARKPULSE,AURASPHERE,IRONDEFENSE
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[HOJA4,Hoja,3]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPNOSIS,CALMMIND
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = FLAREON,44
+	Item = CHARCOAL
+	Moves = FLAREBLITZ,IRONTAIL,STRENGTH,WILLOWISP
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = VENUSAUR,45
+	Item = SITRUSBERRY
+	Moves = GIGADRAIN,SLEEPPOWDER,LEECHSEED,SLUDGEBOMB
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[HOJA4,Hoja,4]
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYCHIC,HYPNOSIS,CALMMIND
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = VAPOREON,44
+	Item = MYSTICWATER
+	Moves = MUDDYWATER,ICEBEAM,ACIDARMOR,SHADOWBALL
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = BISHARP,44
+	Item = EVIOLITE
+	Moves = IRONHEAD,SUCKERPUNCH,SWORDSDANCE,KNOCKOFF
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = CHARIZARD,45
+	Item = SITRUSBERRY
+	Moves = FLAMETHROWER,AIRSLASH,SCORCHINGSANDS,DRAGONPULSE
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[HOJA4,Hoja,5]
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYCHIC,HYPNOSIS,CALMMIND
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = JOLTEON,44
+	Item = MAGNET
+	Moves = DISCHARGE,SIGNALBEAM,VOLTSWITCH,SHADOWBALL
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = BISHARP,44
+	Item = EVIOLITE
+	Moves = IRONHEAD,SUCKERPUNCH,SWORDSDANCE,KNOCKOFF
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = BLASTOISE,45
+	Item = SITRUSBERRY
+	Moves = SNIPESHOT,DARKPULSE,AURASPHERE,ICEBEAM
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[HOJA4,Hoja,6]
+Pokemon = PRIMEAPE,43
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,FOCUSENERGY,UTURN,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = NOCTOWL,44
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYCHIC,HYPNOSIS,CALMMIND
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = FLAREON,44
+	Item = CHARCOAL,FLAREBLITZ,IRONTAIL,STRENGTH,WILLOWISP
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = BISHARP,44
+	Item = EVIOLITE
+	Moves = IRONHEAD,SUCKERPUNCH,SWORDSDANCE,KNOCKOFF
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = VENUSAUR,45
+	Item = SITRUSBERRY
+	Moves = GIGADRAIN,SLEEPPOWDER,EARTHPOWER,SLUDGEBOMB
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[FOTOGRAFA,Eleanor]
+Pokemon = EXEGGUTOR,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = TAUROS,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[FOTOGRAFA,Eleanor,1]
+Pokemon = EXEGGUTOR,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = BOUFFALANT,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[MONTANERO,Chidi]
+Pokemon = SKARMORY,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = KLEAVOR,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[MONTANERO,Chidi,1]
+Pokemon = SKARMORY,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = KLEAVOR,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[BRUJITA,Tajani]
+Pokemon = VENOMOTH,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = MUK,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[BRUJITA,Tajani,1]
+Pokemon = MASQUERAIN,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = SWALOT,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[CAMPISTO,Jason]
+Pokemon = SANDSLASH,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = GLISCOR,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[CAMPISTO,Jason,1]
+Pokemon = CACTURNE,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = GLISCOR,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJA,Pedro]
+Pokemon = SNEASLER,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = VENOMOTH,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJA,Pedro,1]
+Pokemon = SNEASLER,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = VENOMOTH,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJA,Leno]
+Pokemon = ARIADOS,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = WEEZING,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJA,Leno,1]
+Pokemon = ARIADOS,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = WEAVILE,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJA,Ángel]
+Pokemon = ARBOK,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJA,Ángel,1]
+Pokemon = NINJASK,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJAA,Maika]
+Pokemon = HAUNTER,46
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = HAUNTER,46
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = GOLBAT,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJAA,Maika,1]
+Pokemon = HAUNTER,46
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = MORGREM,46
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = LOKIX,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJAA,Alicia]
+Pokemon = KOFFING,46
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = WEEZING,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJAA,Alicia,1]
+Pokemon = STUNKY,46
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = SKUNTANK,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJAA,Anaís]
+Pokemon = VILEPLUME,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NINJAA,Anaís,1]
+Pokemon = ROSERADE,46
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[LIDER5,Koga y Sachiko]
+Items = MAXPOTION,MAXPOTION,MEGARING
+Pokemon = TENTACRUEL,48
+	Moves = TOXICSPIKES,MUDDYWATER,VENOSHOCK,SLUDGEWAVE
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = MUK,48
+	Item = ASSAULTVEST
+	Moves = POISONJAB,KNOCKOFF,FIREPUNCH,ICEPUNCH
+	AbilityIndex = 2
+	Form = 1
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = CROBAT,49
+	Item = SHARPBEAK
+	Moves = FLY,CROSSPOISON,LEECHLIFE,PROTECT
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = BEEDRILL,49
+	Item = BEEDRILLITE
+	Moves = POISONJAB,PINMISSILE,DRILLRUN,PROTECT
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[LIDER5,Koga y Sachiko,1]
+Items = MAXPOTION,MAXPOTION,MEGARING
+Pokemon = DRAGALGE,48
+	Moves = TOXICSPIKES,MUDDYWATER,VENOSHOCK,SLUDGEWAVE
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = DRAPION,48
+	Item = ASSAULTVEST
+	Moves = POISONJAB,KNOCKOFF,AQUATAIL,ROCKSLIDE
+	AbilityIndex = 2
+	Form = 1
+	Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = CROBAT,49
+	Item = SHARPBEAK
+	Moves = FLY,CROSSPOISON,LEECHLIFE,PROTECT
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = BEEDRILL,49
+	Item = BEEDRILLITE
+	Moves = POISONJAB,PINMISSILE,DRILLRUN,PROTECT
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[LIDER5,Koga y Sachiko,2]
+Items = MEGARING
+Pokemon = DRAGALGE,48
+	Item = QUICKCLAW
+	Moves = TOXICSPIKES,MUDDYWATER,VENOSHOCK,SLUDGEWAVE
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = ACCELGOR,48
+	Item = LIFEORB
+	Moves = BUGBUZZ,FOCUSBLAST,GIGADRAIN,SLUDGEBOMB
+	AbilityIndex = 1
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = DRAPION,48
+	Item = ASSAULTVEST
+	Moves = POISONJAB,KNOCKOFF,AQUATAIL,ROCKSLIDE
+	AbilityIndex = 2
+	Form = 1
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = GRENINJA,48
+	Item = CHOICESPECS
+	Moves = HYDROPUMP,DARKPULSE,EXTRASENSORY,ICEBEAM
+	AbilityIndex = 2
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = CROBAT,49
+	Item = FLYINGGEM
+	Moves = ACROBATICS,CROSSPOISON,LEECHLIFE,PROTECT
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = BEEDRILL,49
+	Item = BEEDRILLITE
+	Moves = POISONJAB,PINMISSILE,DRILLRUN,PROTECT
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[ORNITOLOGO,Valentino]
+Pokemon = SPEAROW,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = FEAROW,45
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ORNITOLOGO,Valentino,1]
+Pokemon = DUCKLETT,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = SWANNA,45
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ORNITOLOGO,Marino]
+Pokemon = DELIBIRD,45
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[ORNITOLOGO,Marino,1]
+Pokemon = DELIBIRD,45
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[CAZABICHOS,Boris]
+Pokemon = PARASECT,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = FORRETRESS,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = LEDIAN,45
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[CAZABICHOS,Boris,1]
+Pokemon = LEAVANNY,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = ACCELGOR,45
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = LEDIAN,45
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[NADADOR,Ricardo]
+Pokemon = SEAKING,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = CLOYSTER,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[NADADOR,Ricardo,1]
+Pokemon = SHARPEDO,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = FLOATZEL,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[NADADORA,Cati]
+Pokemon = CURSOLA,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[NADADORA,Cati,1]
+Pokemon = CURSOLA,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[KARATEKA,Hitoshi]
+Pokemon = MACHOKE,48
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = PRIMEAPE,48
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[KARATEKA,Hitoshi,1]
+Pokemon = GURDURR,48
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = PRIMEAPE,48
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[KARATEKA,Hideki]
+Pokemon = POLIWRATH,48
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = HERACROSS,48
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[KARATEKA,Hideki,1]
+Pokemon = BRELOOM,48
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = MIENSHAO,48
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[KARATEKAA,Mónica]
+Pokemon = PRIMEAPE,48
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[KARATEKAA,Mónica,1]
+Pokemon = PRIMEAPE,48
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[KARATEKA,Koichi]
+Pokemon = HITMONLEE,50
+	Item = BLACKBELT
+	Moves = JUMPKICK,BOUNCE,BLAZEKICK,BULKUP
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = HITMONCHAN,50
+	Item = BLACKBELT
+	Moves = DRAINPUNCH,FIREPUNCH,THUNDERPUNCH,JETPUNCH
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = HITMONTOP,50
+	Item = BLACKBELT
+	Moves = CLOSECOMBAT,PAYBACK,STONEEDGE,BULKUP
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[KARATEKA,Koichi,1]
+Pokemon = HITMONLEE,50
+	Item = BLACKBELT
+	Moves = JUMPKICK,BOUNCE,BLAZEKICK,BULKUP
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = HITMONCHAN,50
+	Item = BLACKBELT
+	Moves = DRAINPUNCH,FIREPUNCH,THUNDERPUNCH,JETPUNCH
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = HITMONTOP,50
+	Item = BLACKBELT
+	Moves = CLOSECOMBAT,PAYBACK,STONEEDGE,BULKUP
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[MEDIUM,Silvio]
+Pokemon = MRMIME,51
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = SLOWBRO,51
+	Form = 1
+#-------------------------------
+[MEDIUM,Silvio,1]
+Pokemon = ORBEETLE,51
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = SLOWBRO,51
+	Form = 1
+#-------------------------------
+[MEDIUM,Tor]
+Pokemon = KADABRA,51
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = WYRDEER,51
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[MEDIUM,Tor,1]
+Pokemon = KADABRA,51
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = WYRDEER,51
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[MEDIUM,Luismi]
+Pokemon = GIRAFARIG,51
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[MEDIUM,Luismi,1]
+Pokemon = BRONZONG,52
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[BRUJITA,Tirsa]
+Pokemon = HAUNTER,52
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = MISDREAVUS,52
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[BRUJITA,Tirsa,1]
+Pokemon = SABLEYE,52
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = FROSLASS,52
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[BRUJITA,Dalia]
+Pokemon = JYNX,52
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[BRUJITA,Dalia,1]
+Pokemon = JYNX,52
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[BRUJITA,Eufrasia]
+Pokemon = HYPNO,52
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = XATU,52
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[BRUJITA,Eufrasia,1]
+Pokemon = GOTHITELLE,52
+	IV = 13, 13, 13, 13, 13, 13
+Pokemon = RABSCA,52
+	IV = 13, 13, 13, 13, 13, 13
+#-------------------------------
+[LIDER6,Sabrina]
+Items = MAXPOTION,MAXPOTION,MEGARING
+Pokemon = FARIGIRAF,53
+	Item = LIGHTCLAY
+	Moves = REFLECT,LIGHTSCREEN,PSYSHOCK,SIGNALBEAM
+	Nature = QUIRKY
+	IV = 19, 19, 19, 19, 19, 19
+Pokemon = ESPEON,53
+	Item = LIFEORB
+	Moves = PSYSHOCK,SHADOWBALL,DAZZLINGGLEAM,CALMMIND
+	Nature = MODEST
+	IV = 19, 19, 19, 19, 19, 19
+Pokemon = SLOWKING,53
+	Item = BLACKSLUDGE
+	Moves = CALMMIND,PSYCHIC,SLUDGEBOMB,SLACKOFF
+	AbilityIndex = 2
+	Form = 1
+	Nature = QUIRKY
+	IV = 19, 19, 19, 19, 19, 19
+Pokemon = XATU,53
+	Item = TWISTEDSPOON
+	Moves = AIRSLASH,PSYCHIC,SHADOWBALL,CONFUSERAY
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 19, 19, 19, 19, 19, 19
+Pokemon = ALAKAZAM,54
+	Item = ALAKAZITE
+	Moves = PSYCHIC,SHADOWBALL,FOCUSBLAST,PSYCHICTERRAIN
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 19, 19, 19, 19, 19, 19
+#-------------------------------
+[LIDER6,Sabrina,1]
+Items = MAXPOTION,MAXPOTION,MEGARING
+Pokemon = FARIGIRAF,53
+	Item = LIGHTCLAY
+	Moves = REFLECT,LIGHTSCREEN,PSYSHOCK,SIGNALBEAM
+	Nature = QUIRKY
+	IV = 19, 19, 19, 19, 19, 19
+Pokemon = GOTHITELLE,53
+	Item = LIFEORB
+	Moves = PSYSHOCK,SHADOWBALL,ENERGYBALL,CALMMIND
+	Nature = MODEST
+	IV = 19, 19, 19, 19, 19, 19
+Pokemon = SLOWKING,53
+	Item = BLACKSLUDGE
+	Moves = CALMMIND,PSYCHIC,SLUDGEBOMB,SLACKOFF
+	AbilityIndex = 2
+	Form = 1
+	Nature = QUIRKY
+	IV = 19, 19, 19, 19, 19, 19
+Pokemon = SIGILYPH,53
+	Item = TWISTEDSPOON
+	Moves = AIRSLASH,PSYCHIC,SHADOWBALL,CONFUSERAY
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 19, 19, 19, 19, 19, 19
+Pokemon = ALAKAZAM,54
+	Item = ALAKAZITE
+	Moves = PSYCHIC,SHADOWBALL,FOCUSBLAST,PSYCHICTERRAIN
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 19, 19, 19, 19, 19, 19
+#-------------------------------
+[LIDER6,Sabrina,2]
+Items = MEGARING
+Pokemon = FARIGIRAF,53
+	Item = LIGHTCLAY
+	Moves = REFLECT,LIGHTSCREEN,PSYSHOCK,SIGNALBEAM
+	Nature = QUIRKY
+	IV = 22, 22, 22, 22, 22, 22
+Pokemon = ARMAROUGE,53
+	Item = LIFEORB
+	Moves = EXPANDINGFORCE,ARMORCANNON,SHADOWBALL,AURASPHERE
+	Nature = MODEST
+	IV = 22, 22, 22, 22, 22, 22
+Pokemon = MEDICHAM,53
+	Item = CHOICESCARF
+	Moves = HIGHJUMPKICK,ZENHEADBUTT,ICEPUNCH,FIREPUNCH
+	Nature = ADAMANT
+	IV = 22, 22, 22, 22, 22, 22
+Pokemon = SIGILYPH,53
+	Item = TWISTEDSPOON
+	Moves = AIRSLASH,PSYCHIC,SHADOWBALL,CONFUSERAY
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 22, 22, 22, 22, 22, 22
+Pokemon = METAGROSS,53
+	Item = ASSAULTVEST
+	Moves = IRONHEAD,ZENHEADBUTT,THUNDERPUNCH,EARTHQUAKE
+	Nature = ADAMANT
+	IV = 22, 22, 22, 22, 22, 22
+Pokemon = ALAKAZAM,54
+	Item = ALAKAZITE
+	Moves = PSYCHIC,SHADOWBALL,FOCUSBLAST,PSYCHICTERRAIN
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 22, 22, 22, 22, 22, 22
+#-------------------------------
+[ROCKETO,Matías]
+Pokemon = RATICATE,47
+#-------------------------------
+[ROCKETO,Matías,1]
+Pokemon = WATCHOG,47
+#-------------------------------
+[ROCKETO,Ángel]
+Pokemon = GOLBAT,47
+Pokemon = BEEDRILL,47
+#-------------------------------
+[ROCKETO,Ángel,1]
+Pokemon = GOLBAT,47
+Pokemon = PURUGLY,47
+#-------------------------------
+[ROCKETO,Pol]
+Pokemon = FEAROW,48
+#-------------------------------
+[ROCKETO,Pol,1]
+Pokemon = KILOWATTREL,48
+#-------------------------------
+[ROCKETO,Íker]
+Pokemon = ELECTRODE,47
+Pokemon = ELECTRODE,47
+#-------------------------------
+[ROCKETO,Íker,1]
+Pokemon = ELECTRODE,47
+Pokemon = EXPLOUD,47
+#-------------------------------
+[ROCKETO,Leandro]
+Pokemon = HAUNTER,47
+Pokemon = SNEASEL,48
+#-------------------------------
+[ROCKETO,Leandro,1]
+Pokemon = LAMPENT,47
+Pokemon = SNEASEL,48
+#-------------------------------
+[ROCKETO,Oriol]
+Pokemon = VICTREEBEL,48
+#-------------------------------
+[ROCKETO,Oriol,1]
+Pokemon = AMOONGUSS,48
+#-------------------------------
+[ROCKETA,Lidia]
+Pokemon = VILEPLUME,48
+#-------------------------------
+[ROCKETA,Lidia,1]
+Pokemon = LURANTIS,48
+#-------------------------------
+[ROCKETA,Erica]
+Pokemon = MACHOKE,47
+Pokemon = MUK,47
+#-------------------------------
+[ROCKETA,Erica,1]
+Pokemon = SHIINOTIC,45
+Pokemon = MUK,45
+#-------------------------------
+[ROCKETA,Amelia]
+Pokemon = ARIADOS,47
+Pokemon = GOLBAT,47
+#-------------------------------
+[ROCKETA,Amelia,1]
+Pokemon = ARIADOS,47
+Pokemon = SWOOBAT,47
+#-------------------------------
+[ROCKETA,Carla]
+Pokemon = PARASECT,47
+Pokemon = MURKROW,47
+#-------------------------------
+[ROCKETA,Carla,1]
+Pokemon = PARASECT,47
+Pokemon = MIGHTYENA,47
+#-------------------------------
+[ROCKETA,Luna]
+Pokemon = VENOMOTH,48
+#-------------------------------
+[ROCKETA,Luna,1]
+Pokemon = LEAVANNY,48
+#-------------------------------
+[ROCKETA,Ceci]
+Pokemon = SANDSLASH,48
+#-------------------------------
+[ROCKETA,Ceci,1]
+Pokemon = MABOSSTIFF,48
+#-------------------------------
+[CIENTIFICO,Jerónimo]
+Pokemon = ELECTABUZZ,46
+#-------------------------------
+[CIENTIFICO,Jerónimo,1]
+Pokemon = BELLIBOLT,48
+#-------------------------------
+[CIENTIFICO,Armando]
+Pokemon = MAGMAR,48
+Pokemon = MUK,48
+#-------------------------------
+[CIENTIFICO,Armando,1]
+Pokemon = MAGMAR,48
+Pokemon = KLINKLANG,48
+#-------------------------------
+[CIENTIFICO,Andrés]
+Pokemon = MAGMAR,47
+Pokemon = ELECTABUZZ,47
+Pokemon = RHYDON,48
+#-------------------------------
+[CIENTIFICO,Andrés,1]
+Pokemon = MAGMAR,47
+Pokemon = ELECTABUZZ,47
+Pokemon = RHYDON,48
+#-------------------------------
+[CIENTIFICO,Josué]
+Pokemon = PORYGON2,48
+#-------------------------------
+[CIENTIFICO,Josué,1]
+Pokemon = PORYGON2,46
+#-------------------------------
+[ROCKETO,Pascual]
+Pokemon = ELECTRODE,48
+Pokemon = AMPHAROS,48
+#-------------------------------
+[ROCKETO,Pascual,1]
+Pokemon = DURANT,48
+Pokemon = LUXRAY,48
+#-------------------------------
+[ROCKETA,Mariam]
+Pokemon = TENTACRUEL,48
+Pokemon = BUTTERFREE,48
+#-------------------------------
+[ROCKETA,Mariam,1]
+Pokemon = SEISMITOAD,48
+Pokemon = BUTTERFREE,48
+#-------------------------------
+[ROCKETA,Rebeca]
+Pokemon = OCTILLERY,48
+	Moves = BULLETSEED,FIREBLAST,HYDROPUMP,ICEBEAM
+#-------------------------------
+[ROCKETA,Rebeca,1]
+Pokemon = OCTILLERY,48
+	Moves = BULLETSEED,FIREBLAST,HYDROPUMP,ICEBEAM
+#-------------------------------
+[ATLAS2,Atlas]
+Items = HYPERPOTION
+Pokemon = WEEZING,48
+	Item = POISONBARB
+	Moves = EXPLOSION,SLUDGEBOMB,TOXICSPIKES,FLAMETHROWER
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = HOUNDOOM,48
+	Item = BLACKGLASSES
+	Moves = FLAMETHROWER,DARKPULSE,NASTYPLOT,WILLOWISP
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = CROBAT,50
+	Item = WISEGLASSES
+	Moves = AIRSLASH,SLUDGEBOMB,GIGADRAIN,NASTYPLOT
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ATLAS2,Atlas,1]
+Items = HYPERPOTION
+Pokemon = GRIMMSNARL,48
+	Item = LIGHTCLAY
+	Moves = SPIRITBREAK,FALSESURRENDER,REFLECT,LIGHTSCREEN
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = HOUNDOOM,48
+	Item = BLACKGLASSES
+	Moves = FLAMETHROWER,DARKPULSE,NASTYPLOT,WILLOWISP
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = CROBAT,50
+	Item = WISEGLASSES
+	Moves = AIRSLASH,SLUDGEBOMB,GIGADRAIN,NASTYPLOT
+	Nature = MODEST
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ATLAS2,Atlas,2]
+Pokemon = WEEZING,48
+	Item = PAYAPABERRY
+	Moves = SLUDGEBOMB,WILLOWISP,FLAMETHROWER,TOXICSPIKES
+	Nature = CALM
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = GRIMMSNARL,48
+	Item = LIGHTCLAY
+	Moves = SPIRITBREAK,FALSESURRENDER,REFLECT,LIGHTSCREEN
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = HOUNDOOM,48
+	Item  = LIFEORB
+	Moves = FLAMETHROWER,DARKPULSE,NASTYPLOT,WILLOWISP
+	Nature = MODEST
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = CROBAT,50
+	Item = WISEGLASSES
+	Moves = AIRSLASH,SLUDGEBOMB,GIGADRAIN,NASTYPLOT
+	Nature = MODEST
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[ATENEA2,Atenea]
+Items = HYPERPOTION
+Pokemon = HONCHKROW,48
+	Item = SCOPELENS
+	Moves = DRILLPECK,SUCKERPUNCH,HEATWAVE,UTURN
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = VILEPLUME,48
+	Item = BLACKSLUDGE
+	Moves = GIGADRAIN,VENOSHOCK,TOXIC,LEECHSEED
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = ARBOK,50
+	Item = POISONBARB
+	Moves = GUNKSHOT,CRUNCH,FIREFANG,COIL
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ATENEA2,Atenea,1]
+Items = HYPERPOTION
+Pokemon = HONCHKROW,48
+	Item = SCOPELENS
+	Moves = DRILLPECK,SUCKERPUNCH,HEATWAVE,UTURN
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SCOLIPEDE,48
+	Item = BLACKSLUDGE
+	Moves = MEGAHORN,POISONJAB,SPINOUT,EARTHQUAKE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = ARBOK,50
+	Item = POISONBARB
+	Moves = GUNKSHOT,CRUNCH,FIREFANG,COIL
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ATENEA2,Atenea,2]
+Pokemon = ABSOL,48	
+	Item = FOCUSSASH
+	Moves = SUCKERPUNCH,PLAYROUGH,SWORDSDANCE,NIGHTSLASH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = HONCHKROW,48
+	Item = SCOPELENS
+	Moves = DRILLPECK,SUCKERPUNCH,HEATWAVE,UTURN
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = SCOLIPEDE,48
+	Item = BLACKSLUDGE
+	Moves = MEGAHORN,POISONJAB,TOXIC,EARTHQUAKE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = ARBOK,50
+	Item = POISONBARB
+	Moves = GUNKSHOT,CRUNCH,FIREFANG,COIL
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[AZUL6,Azul,1]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PIDGEOT,50
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = GYARADOS,50
+	Moves = DRAGONRAGE,CRUNCH,ICEFANG,AQUATAIL
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = ALAKAZAM,50
+	Moves = PSYCHIC,SHADOWBALL,HYPNOSIS,FOCUSBLAST
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = CHARIZARD,51
+	Item = SITRUSBERRY
+	Moves = FLAMETHROWER,AIRSLASH,SCARYFACE,DRAGONRAGE
+	Nature = MODEST
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[AZUL6,Azul,2]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PIDGEOT,50
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = EXEGGUTOR,50
+	Item = GRASSGEM
+	Moves = LEAFSTORM,PSYSHOCK,REFLECT,LIGHTSCREEN
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = ALAKAZAM,50
+	Moves = PSYCHIC,SHADOWBALL,HYPNOSIS,FOCUSBLAST
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = BLASTOISE,51
+	Item = SITRUSBERRY
+	Moves = SNIPESHOT,IRONDEFENSE,ICEBEAM,DARKPULSE
+	Nature = MODEST
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[AZUL6,Azul,3]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = PIDGEOT,50
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = ARCANINE,50
+	Item = CHARCOAL
+	Moves = CRUNCH,FLAREBLITZ,EXTREMESPEED,WILLOWISP
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = ALAKAZAM,50
+	Moves = PSYCHIC,SHADOWBALL,HYPNOSIS,FOCUSBLAST
+	Nature = QUIRKY
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = VENUSAUR,51
+	Item = SITRUSBERRY
+	Moves = GIGADRAIN,EARTHPOWER,LEECHSEED,SLUDGEBOMB
+	Nature = MODEST
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[AZUL6,Azul,4]
+Pokemon = PIDGEOT,50
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = HERACROSS,50
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = GYARADOS,50
+	Item = LIFEORB
+	Moves = EARTHQUAKE,CRUNCH,ICEFANG,AQUATAIL
+	Nature = QUIRKY
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = ALAKAZAM,50
+	Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,HYPNOSIS,FOCUSBLAST
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = CHARIZARD,51
+	Item = SITRUSBERRY
+	Moves = FLAMETHROWER,AIRSLASH,SCARYFACE,DRAGONRAGE
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+#-------------------------------
+[AZUL6,Azul,5]
+Pokemon = PIDGEOT,50
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = HERACROSS,50
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = SCOVILLAIN,50
+	Item = ASSAULTVEST
+	Moves = GIGADRAIN,FLAMETHROWER,ZENHEADBUTT,CRUNCH
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = ALAKAZAM,50
+	Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,HYPNOSIS,FOCUSBLAST
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = BLASTOISE,51
+	Item = SITRUSBERRY
+	Moves = SNIPESHOT,AURASPHERE,ICEBEAM,DARKPULSE
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+#-------------------------------
+[AZUL6,Azul,6]
+Pokemon = PIDGEOT,50
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = HERACROSS,50
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = CENTISKORCH,50
+	Item = LIFEORB
+	Moves = LEECHLIFE,FIRELASH,CRUNCH,COIL
+	Nature = QUIRKY
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = ALAKAZAM,50
+	Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,HYPNOSIS,FOCUSBLAST
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = VENUSAUR,51
+	Item = SITRUSBERRY
+	Moves = GIGADRAIN,EARTHPOWER,LEECHSEED,SLUDGEBOMB
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+#-------------------------------
+[GIOVANNI2,Giovanni]
+Items = FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = PERSIAN,51
+	Item = KINGSROCK
+	Moves = FAKEOUT,TAILSLAP,BITE,UTURN
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = NIDOKING,51
+	Item = EXPERTBELT
+	Moves = POISONJAB,BULLDOZE,THUNDERBOLT,ICEBEAM
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = NIDOQUEEN,51
+	Item = EXPERTBELT
+	Moves = SLUDGEWAVE,EARTHPOWER,THUNDERPUNCH,FIREPUNCH
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = KANGASKHAN,52
+	Item = KANGASKHANITE
+	Moves = BODYSLAM,EARTHQUAKE,FAKEOUT,THUNDERPUNCH
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = RHYPERIOR,53
+	Item = FOCUSSASH
+	Moves = DRILLRUN,STONEEDGE,HAMMERARM,MEGAHORN
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[GIOVANNI2,Giovanni,1]
+Items = FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = PERSIAN,51
+	Item = KINGSROCK
+	Moves = FAKEOUT,TAILSLAP,BITE,UTURN
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = NIDOKING,51
+	Item = EXPERTBELT
+	Moves = POISONJAB,BULLDOZE,THUNDERBOLT,ICEBEAM
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = NIDOQUEEN,51
+	Item = EXPERTBELT
+	Moves = SLUDGEWAVE,EARTHPOWER,THUNDERPUNCH,FIREPUNCH
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = KANGASKHAN,52
+	Item = KANGASKHANITE
+	Moves = BODYSLAM,EARTHQUAKE,FAKEOUT,THUNDERPUNCH
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = RHYPERIOR,53
+	Item = FOCUSSASH
+	Moves = DRILLRUN,STONEEDGE,HAMMERARM,MEGAHORN
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[GIOVANNI2,Giovanni,2]
+Items = MEGARING
+Pokemon = PERSIAN,51
+	Item = KINGSROCK
+	Moves = FAKEOUT,TAILSLAP,BITE,UTURN
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = STEELIX,51
+	Item = QUICKCLAW
+	Moves = IRONTAIL,EARTHQUAKE,CRUNCH,STEALTHROCK
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NIDOKING,51
+	Item = LIFEORB
+	Moves = POISONJAB,BULLDOZE,THUNDERBOLT,ICEBEAM
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NIDOQUEEN,51
+	Item = LIFEORB
+	Moves = SLUDGEWAVE,EARTHPOWER,THUNDERPUNCH,FIREPUNCH
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = KANGASKHAN,52
+	Item = KANGASKHANITE
+	Moves = BODYSLAM,EARTHQUAKE,FAKEOUT,THUNDERPUNCH
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = RHYPERIOR,53
+	Item = FOCUSSASH
+	Moves = DRILLRUN,STONEEDGE,HAMMERARM,MEGAHORN
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+#-------------------------------
+[NADADOR,Dino]
+Pokemon = POLITOED,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = STARMIE,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[NADADOR,Dino,1]
+Pokemon = PELIPPER,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = BRUXISH,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[NADADORA,Nora]
+Pokemon = SHELLDER,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = SHELLDER,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = CLOYSTER,51
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[NADADORA,Nora,1]
+Pokemon = SHELLDER,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = SHELLDER,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = CLOYSTER,51
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[PESCADOR,Roge]
+Pokemon = TENTACRUEL,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[PESCADOR,Roge,1]
+Pokemon = JELLICENT,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[KARATEKAA,Melisa]
+Pokemon = MACHOKE,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = PRIMEAPE,51
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[KARATEKAA,Melisa,1]
+Pokemon = GURDURR,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MEDICHAM,51
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[PESCADOR,Guido]
+Pokemon = MAGIKARP,51
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MAGIKARP,51
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = GYARADOS,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[PESCADOR,Guido,1]
+Pokemon = MAGIKARP,51
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = FEEBAS,51
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = GYARADOS,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[PESCADOR,Arnold]
+Pokemon = SEADRA,51
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = AZUMARILL,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[PESCADOR,Arnold,1]
+Pokemon = SWANNA,51
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = GASTRODON,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[NADADORA,Leonor]
+Pokemon = SLOWKING,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[NADADORA,Leonor,1]
+Pokemon = SLOWKING,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[NADADORA,Milena]
+Pokemon = STARMIE,51
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = QWILFISH,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[NADADORA,Milena,1]
+Pokemon = LUMINEON,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = CLAWITZER,52
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CEREBRITO,Stephen]
+Pokemon = SCYTHER,53
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = SCIZOR,54
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CEREBRITO,Stephen,1]
+Pokemon = SCYTHER,53
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = KLEAVOR,54
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[FOTOGRAFA,Cathy]
+Pokemon = DEWGONG,52
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = DELIBIRD,53
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[FOTOGRAFA,Cathy,1]
+Pokemon = BEARTIC,53
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = DELIBIRD,54
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CAMPISTA,Leandra]
+Pokemon = MAMOSWINE,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CAMPISTA,Leandra,1]
+Pokemon = FROSMOTH,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[LADRON,Jade]
+Pokemon = RAICHU,54
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = ARCANINE,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[LADRON,Jade,1]
+Pokemon = TOXTRICITY,54
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = SCRAFTY,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[LADRON,César]
+Pokemon = PERSIAN,54
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MAROWAK,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[LADRON,César,1]
+Pokemon = ZOROARK,54
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = FROSLASS,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[LADRON,Matías]
+Pokemon = ELECTRODE,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[LADRON,Matías,1]
+Pokemon = SHIFTRY,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CIENTIFICA,Valeria]
+Pokemon = MAGMAR,54
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MAGNETON,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CIENTIFICA,Valeria,1]
+Pokemon = MAGMAR,54
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = BEHEEYEM,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CIENTIFICA,Maxi]
+Pokemon = WEEZING,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CIENTIFICA,Maxi,1]
+Pokemon = ROTOM,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CIENTIFICA,Rebeca]
+Pokemon = ELECTABUZZ,55
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MUK,55
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MAGMAR,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CIENTIFICA,Rebeca,1]
+Pokemon = HELIOLISK,55
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = SWALOT,55
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = CAMERUPT,55
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[SURYA,Surya]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = WIGGLYTUFF,56
+	Item = QUICKCLAW
+	Moves = MISTYEXPLOSION,NASTYPLOT,THUNDERBOLT,PSYCHIC
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = RAPIDASH,56
+	Item = ASSAULTVEST
+	Moves = PLAYROUGH,PSYCHOCUT,MEGAHORN,DRILLRUN
+	AbilityIndex = 2
+	Form = 1
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = TOGEKISS,57
+	Item = LEFTOVERS
+	Moves = AIRSLASH,MISTYEXPLOSION,NASTYPLOT,FLAMETHROWER
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = MAIDIBLE,58
+	Item = LIFEORB
+	Moves = PLAYROUGH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[SURYA,Surya,1]
+Items = HYPERPOTION,HYPERPOTION
+Pokemon = WIGGLYTUFF,56
+	Item = QUICKCLAW
+	Moves = MISTYEXPLOSION,NASTYPLOT,THUNDERBOLT,PSYCHIC
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = RAPIDASH,56
+	Item = ASSAULTVEST
+	Moves = PLAYROUGH,PSYCHOCUT,MEGAHORN,DRILLRUN
+	AbilityIndex = 2
+	Form = 1
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = TOGEKISS,57
+	Item = LEFTOVERS
+	Moves = AIRSLASH,MISTYEXPLOSION,NASTYPLOT,FLAMETHROWER
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = MAIDIBLE,58
+	Item = LIFEORB
+	Moves = PLAYROUGH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[SURYA,Surya,2]
+Pokemon = WIGGLYTUFF,56
+	Item = QUICKCLAW
+	Moves = MISTYEXPLOSION,NASTYPLOT,THUNDERBOLT,PSYCHIC
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = TINKATON,56
+	Item = ASSAULTVEST
+	Moves = WOODHAMMER,PLAYROUGH,CRABHAMMER,ICEHAMMER
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = RAPIDASH,56
+	Item = CHOICEBAND
+	Moves = PLAYROUGH,PSYCHOCUT,MEGAHORN,DRILLRUN
+	AbilityIndex = 2
+	Form = 1
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = TOGEKISS,57
+	Item = LEFTOVERS
+	Moves = AIRSLASH,MISTYEXPLOSION,NASTYPLOT,FLAMETHROWER
+	AbilityIndex = 2
+	Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = MAIDIBLE,58
+	Item = LIFEORB
+	Moves = PLAYROUGH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+#-------------------------------
+[CEREBRITO,Erick]
+Pokemon = MAGMAR,56
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MAGCARGO,56
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MAROWAK,56
+	Form = 1
+#-------------------------------
+[CEREBRITO,Erick,1]
+Pokemon = CAMERUPT,56
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = PYROAR,56
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MAROWAK,56
+	Form = 1
+#-------------------------------
+[LADRON,Quinn]
+Pokemon = RAPIDASH,57
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = ARCANINE,57
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[LADRON,Quinn,1]
+Pokemon = HEATMOR,57
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = DARMANITAN,57
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CIENTIFICA,Anastasia]
+Pokemon = MAGCARGO,56
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MAGMORTAR,56
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = CHARIZARD,56
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CIENTIFICA,Anastasia,1]
+Pokemon = TALONFLAME,56
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MAGMORTAR,56
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = CHARIZARD,56
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[CIENTIFICA,Lucy]
+Pokemon = ARCANINE,56
+	Form = 1
+Pokemon = FLAREON,57
+#-------------------------------
+[CIENTIFICA,Lucy,1]
+Pokemon = ARCANINE,56
+	Form = 1
+Pokemon = CENTISKORCH,57
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[LIDER7,Blaine]
+Items = MAXPOTION,MAXPOTION,MEGARING
+Pokemon = NINETALES,56
+	Item = HEATROCK
+	Moves = LAVAPLUME,SOLARBEAM,EXTRASENSORY,NASTYPLOT
+	AbilityIndex = 2
+	Nature = QUIRKY,21
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = ARCANINE,58
+	Item = LIFEORB
+	Moves = FLAREBLITZ,EXTREMESPEED,WILDCHARGE,SUNNYDAY
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = SUNFLORA,58
+	Item = HEATROCK
+	Moves = FLAMETHROWER,SEEDFLARE,EARTHPOWER,SUNNYDAY
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = TYPHLOSION,58
+	Item = ASSAULTVEST
+	Moves = ERUPTION,EARTHPOWER,LAVAPLUME,FOCUSBLAST
+	AbilityIndex = 2
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = HOUNDOOM,59
+	Item = HOUNDOOMINITE
+	Moves = DARKPULSE,FIREBLAST,SOLARBEAM,NASTYPLOT
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+#-------------------------------
+[LIDER7,Blaine,1]
+Items = MAXPOTION,MAXPOTION,MEGARING
+Pokemon = TORKOAL,56
+	Item = HEATROCK
+	Moves = LAVAPLUME,SOLARBEAM,EARTHPOWER,STEALTHROCK
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = TURTONATOR,57
+	Item = WHITEHERB
+	Moves = DRAGONPULSE,SCORCHINGSANDS,OVERHEAT,SOLARBEAM
+	Nature = QUIRKY
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = SUNFLORA,58
+	Item = HEATROCK
+	Moves = FLAMETHROWER,SEEDFLARE,EARTHPOWER,SUNNYDAY
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = TYPHLOSION,58
+	Item = ASSAULTVEST
+	Moves = ERUPTION,EARTHPOWER,LAVAPLUME,FOCUSBLAST
+	AbilityIndex = 2
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+Pokemon = HOUNDOOM,59
+	Item = HOUNDOOMINITE
+	Moves = DARKPULSE,FIREBLAST,SOLARBEAM,NASTYPLOT
+	Nature = MODEST
+	IV = 21, 21, 21, 21, 21, 21
+#-------------------------------
+[LIDER7,Blaine,2]
+Items = MEGARING
+Pokemon = TORKOAL,56
+	Item = HEATROCK
+	Moves = LAVAPLUME,SOLARBEAM,EARTHPOWER,STEALTHROCK
+	AbilityIndex = 1
+	Nature = MODEST
+	IV = 24, 24, 24, 24, 24, 24
+Pokemon = DARMANITAN,57
+	Item = LIFEORB
+	Moves = FLAREBLITZ,EARTHQUAKE,HAMMERARM,ROCKSLIDE
+	Nature = ADAMANT
+	IV = 24, 24, 24, 24, 24, 24
+Pokemon = TURTONATOR,57
+	Item = WHITEHERB
+	Moves = DRAGONPULSE,SCORCHINGSANDS,OVERHEAT,SOLARBEAM
+	Nature = QUIRKY
+	IV = 24, 24, 24, 24, 24, 24
+Pokemon = SUNFLORA,58
+	Item = HEATROCK
+	Moves = FLAMETHROWER,SEEDFLARE,EARTHPOWER,SUNNYDAY
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 24, 24, 24, 24, 24, 24
+Pokemon = TYPHLOSION,58
+	Item = ASSAULTVEST
+	Moves = ERUPTION,EARTHPOWER,FLAMETHROWER,FOCUSBLAST
+	AbilityIndex = 2
+	Nature = MODEST
+	IV = 24, 24, 24, 24, 24, 24
+Pokemon = HOUNDOOM,59
+	Item = HOUNDOOMINITE
+	Moves = DARKPULSE,FIREBLAST,SOLARBEAM,NASTYPLOT
+	Nature = MODEST
+	IV = 24, 24, 24, 24, 24, 24
+#-------------------------------
+[MOTORISTA,Norberto]
+Pokemon = VENOMOTH,47
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = PRIMEAPE,47
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[MOTORISTA,Norberto,1]
+Pokemon = SEVIPER,47
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = CYCLIZAR,47
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[MOTORISTA,Isaías]
+Pokemon = MACHAMP,48
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[MOTORISTA,Isaías,1]
+Pokemon = CONKELDURR,48
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[MOTORISTA,Nico]
+Pokemon = VOLTORB,47
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = VOLTORB,47
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = MACHAMP,47
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[MOTORISTA,Nico,1]
+Pokemon = TOXEL,47
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = IMPIDIMP,47
+	IV = 14, 14, 14, 14, 14, 14
+Pokemon = TOXTRICITY,47
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[MOTORISTA,Berto]
+Pokemon = MUK,48
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[MOTORISTA,Berto,1]
+Pokemon = REVAVROOM,48
+	IV = 14, 14, 14, 14, 14, 14
+#-------------------------------
+[MOTORISTA,Virgilio]
+Items = MEGARING
+Pokemon = POLIWRATH,48
+	Item = BLACKBELT
+	Moves = DRAINPUNCH,AQUACUTTER,BULKUP,ICEPUNCH
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = PERSIAN,48
+	Item = ROCKYHELMET
+	Moves = DARKPULSE,POWERGEM,HYPERVOICE,NASTYPLOT
+	Form = 1
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = CHARIZARD,50
+	Item = CHARIZARDITEX
+	Moves = DRAGONCLAW,CRUNCH,FIREFANG,DRAGONDANCE
+	Nature = ADAMANT
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[MOTORISTA,Virgilio,1]
+Items = MEGARING
+Pokemon = CRABOMINABLE,48
+	Item = BLACKBELT
+	Moves = CLOSECOMBAT,ICEHAMMER,BULKUP,THUNDERPUNCH
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = PERSIAN,48
+	Item = ROCKYHELMET
+	Moves = DARKPULSE,POWERGEM,HYPERVOICE,NASTYPLOT
+	Form = 1
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = CHARIZARD,50
+	Item = CHARIZARDITEX
+	Moves = DRAGONCLAW,CRUNCH,FIREFANG,DRAGONDANCE
+	Nature = ADAMANT
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[KARATEKA,Evaristo,1]
+Pokemon = AZUMARILL,1
+Pokemon = AZUMARILL,1
+Pokemon = AZUMARILL,1
+Pokemon = AZUMARILL,1
+Pokemon = AZUMARILL,1
+Pokemon = AZUMARILL,1
+#-------------------------------
+[KARATEKA,Evaristo,2]
+Pokemon = VICTREEBEL,1
+Pokemon = VICTREEBEL,1
+Pokemon = VICTREEBEL,1
+Pokemon = VICTREEBEL,1
+Pokemon = VICTREEBEL,1
+Pokemon = VICTREEBEL,1
+#-------------------------------
+[KARATEKA,Evaristo,3]
+Pokemon = AVALUGG,1
+Pokemon = AVALUGG,1
+Pokemon = AVALUGG,1
+Pokemon = AVALUGG,1
+Pokemon = AVALUGG,1
+Pokemon = AVALUGG,1
+#-------------------------------
+[KARATEKAA,Lucrecia,1]
+Pokemon = ALAKAZAM,1
+Pokemon = ALAKAZAM,1
+Pokemon = ALAKAZAM,1
+Pokemon = ALAKAZAM,1
+Pokemon = ALAKAZAM,1
+Pokemon = ALAKAZAM,1
+#-------------------------------
+[KARATEKAA,Lucrecia,2]
+Pokemon = LUDICOLO,1
+Pokemon = LUDICOLO,1
+Pokemon = LUDICOLO,1
+Pokemon = LUDICOLO,1
+Pokemon = LUDICOLO,1
+Pokemon = LUDICOLO,1
+#-------------------------------
+[KARATEKAA,Lucrecia,3]
+Pokemon = PIDGEOT,1
+Pokemon = PIDGEOT,1
+Pokemon = PIDGEOT,1
+Pokemon = PIDGEOT,1
+Pokemon = PIDGEOT,1
+Pokemon = PIDGEOT,1
+#-------------------------------
+[ROCKETA,Carina]
+Pokemon = RATICATE,58
+Pokemon = GOLBAT,58
+#-------------------------------
+[ROCKETA,Carina,1]
+Pokemon = RATICATE,58
+Pokemon = GOLBAT,58
+#-------------------------------
+[ROCKETA,Raquel]
+Pokemon = WEEZING,59
+#-------------------------------
+[ROCKETA,Raquel,1]
+Pokemon = TOXICROAK,59
+#-------------------------------
+[ROCKETA,Mónica]
+Pokemon = VENOMOTH,58
+Pokemon = VILEPLUME,58
+#-------------------------------
+[ROCKETA,Mónica,1]
+Pokemon = VENOMOTH,58
+Pokemon = SHIFTRY,58
+#-------------------------------
+[ROCKETO,Quino]
+Pokemon = MUK,59
+#-------------------------------
+[ROCKETO,Quino,1]
+Pokemon = SEVIPER,59
+#-------------------------------
+[ROCKETO,Jin]
+Pokemon = MAGNETON,58
+Pokemon = FEAROW,58
+#-------------------------------
+[ROCKETO,Jin,1]
+Pokemon = MIGHTYENA,58
+Pokemon = VESPIQUEN,58
+#-------------------------------
+[ROCKETO,Tommy]
+Pokemon = GRANBULL,59
+#-------------------------------
+[ROCKETO,Tommy,1]
+Pokemon = MABOSSTIFF,59
+#-------------------------------
+[ELITEROCKET,Adam]
+Pokemon = GOLEM,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = TENTACRUEL,60
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Adam,1]
+Pokemon = GIGALITH,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = JELLICENT,60
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Duncan]
+Pokemon = SANDSLASH,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = GYARADOS,60
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Duncan,1]
+Pokemon = VIKAVOLT,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = GYARADOS,60
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Keldor]
+Pokemon = ARBOK,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = HYPNO,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = DONPHAN,60
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Keldor,1]
+Pokemon = ARBOK,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = REUNICLUS,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = KROOKODILE,60
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Víctor]
+Pokemon = MAGNEZONE,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = ESPEON,60
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Víctor,1]
+Pokemon = MAGNEZONE,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = ESPEON,60
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Brandon]
+Pokemon = MAMOSWINE,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = GENGAR,60
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Brandon,1]
+Pokemon = MAMOSWINE,60
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = DUSKNOIR,60
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Randor]
+Pokemon = GOLDUCK,61
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = GLISCOR,61
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = ELECTIVIRE,61
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Randor,1]
+Pokemon = ELECTIVIRE,61
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = GLISCOR,61
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = PANGORO,61
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Cosmo]
+Pokemon = STARMIE,61
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SLOWKING,61
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = DUDUNSPARCE,61
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ELITEROCKET,Cosmo,1]
+Pokemon = STARMIE,61
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SLOWKING,61
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = DUDUNSPARCE,61
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[SURYA2,Surya]
+Items = MAXPOTION,MAXPOTION
+Pokemon = WIGGLYTUFF,61
+	Item = QUICKCLAW
+	Moves = MISTYEXPLOSION,NASTYPLOT,THUNDERBOLT,PSYCHIC
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = RAPIDASH,61
+	Item = ASSAULTVEST
+	Moves = PLAYROUGH,PSYCHOCUT,MEGAHORN,DRILLRUN
+	AbilityIndex = 2
+	Form = 1
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = RATICATE,61
+	Item = WIDELENS
+	Moves = CRUNCH,DOUBLEEDGE,IRONTAIL,PROTECT
+	AbilityIndex = 1
+	Form = 1
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = WEAVILE,62
+	Item = FOCUSSASH
+	Moves = ICEPUNCH,NIGHTSLASH,LOWKICK,SWORDSDANCE
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = MAIDIBLE,62
+	Item = LIFEORB
+	Moves = PLAYROUGH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[SURYA2,Surya,1]
+Items = MAXPOTION,MAXPOTION
+Pokemon = WIGGLYTUFF,60
+	Item = QUICKCLAW
+	Moves = MISTYEXPLOSION,PROTECT,THUNDERBOLT,PSYCHIC
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = TINKATON,61
+	Item = CHOICEBAND
+	Moves = WOODHAMMER,PLAYROUGH,CRABHAMMER,ICEHAMMER
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = SCRAFTY,61
+	Item = SITRUSBERRY
+	Moves = DRAINPUNCH,KNOCKOFF,ICEPUNCH,DRAGONDANCE
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = WEAVILE,62
+	Item = FOCUSSASH
+	Moves = ICEPUNCH,NIGHTSLASH,LOWKICK,SWORDSDANCE
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = MAIDIBLE,62
+	Item = LIFEORB
+	Moves = PLAYROUGH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[SURYA2,Surya,2]
+Pokemon = WIGGLYTUFF,61
+	Item = QUICKCLAW
+	Moves = MISTYEXPLOSION,NASTYPLOT,THUNDERBOLT,PSYCHIC
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 22, 22, 22, 22, 22, 22
+Pokemon = INCINEROAR,61
+	Item = SITRUSBERRY
+	Moves = FLAREBLITZ,DARKESTLARIAT,FAKEOUT,PROTECT
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 22, 22, 22, 22, 22, 22
+Pokemon = TINKATON,61
+	Item = CHOICEBAND
+	Moves = WOODHAMMER,PLAYROUGH,CRABHAMMER,ICEHAMMER
+	Nature = QUIRKY
+	IV = 22, 22, 22, 22, 22, 22
+Pokemon = SCRAFTY,61
+	Item = SITRUSBERRY
+	Moves = DRAINPUNCH,KNOCKOFF,ICEPUNCH,DRAGONDANCE
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 22, 22, 22, 22, 22, 22
+Pokemon = WEAVILE,62
+	Item = FOCUSSASH
+	Moves = ICEPUNCH,NIGHTSLASH,LOWKICK,SWORDSDANCE
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 22, 22, 22, 22, 22, 22
+Pokemon = MAIDIBLE,62
+	Item = LIFEORB
+	Moves = PLAYROUGH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 22, 22, 22, 22, 22, 22
+#-------------------------------
+[GIOVANNI3,Giovanni]
+Items = FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = PERSIAN,61
+	Item = KINGSROCK
+	Moves = FAKEOUT,TAILSLAP,BITE,UTURN
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = TYRANITAR,61
+	Item = ASSAULTVEST
+	Moves = ROCKSLIDE,CRUNCH,EARTHQUAKE,FIREPUNCH
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NIDOKING,61
+	Item = LIFEORB
+	Moves = POISONJAB,BULLDOZE,THUNDERBOLT,ICEBEAM
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NIDOQUEEN,62
+	Item = LIFEORB
+	Moves = SLUDGEWAVE,EARTHPOWER,THUNDERPUNCH,FIREPUNCH
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = KANGASKHAN,62
+	Item = KANGASKHANITE
+	Moves = BODYSLAM,EARTHQUAKE,FAKEOUT,THUNDERPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = RHYPERIOR,63
+	Item = FOCUSSASH
+	Moves = DRILLRUN,STONEEDGE,HAMMERARM,MEGAHORN
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+#-------------------------------
+[GIOVANNI3,Giovanni,1]
+Items = FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = PERSIAN,61
+	Item = KINGSROCK
+	Moves = FAKEOUT,TAILSLAP,BITE,UTURN
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = TYRANITAR,61
+	Item = ASSAULTVEST
+	Moves = ROCKSLIDE,CRUNCH,EARTHQUAKE,FIREPUNCH
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NIDOKING,61
+	Item = LIFEORB
+	Moves = POISONJAB,BULLDOZE,THUNDERBOLT,ICEBEAM
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NIDOQUEEN,62
+	Item = LIFEORB
+	Moves = SLUDGEWAVE,EARTHPOWER,THUNDERPUNCH,FIREPUNCH
+	AbilityIndex = 2
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = KANGASKHAN,62
+	Item = KANGASKHANITE
+	Moves = BODYSLAM,EARTHQUAKE,FAKEOUT,THUNDERPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = RHYPERIOR,63
+	Item = FOCUSSASH
+	Moves = DRILLRUN,STONEEDGE,HAMMERARM,MEGAHORN
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+#-------------------------------
+[GIOVANNI3,Giovanni,2]
+Items = MEGARING
+Pokemon = TYRANITAR,61
+	Item = ASSAULTVEST
+	Moves = ROCKSLIDE,CRUNCH,EARTHQUAKE,FIREPUNCH
+	Nature = ADAMANT
+	IV = 28, 28, 28, 28, 28, 28
+Pokemon = EXCADRILL,61
+	Item = FOCUSSASH
+	Moves = IRONHEAD,EARTHQUAKE,ROCKSLIDE,SWORDSDANCE
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 28, 28, 28, 28, 28, 28
+Pokemon = NIDOKING,61
+	Item = LIFEORB
+	Moves = POISONJAB,BULLDOZE,THUNDERBOLT,ICEBEAM
+	AbilityIndex = 2
+	Nature = MODEST
+	IV = 28, 28, 28, 28, 28, 28
+Pokemon = NIDOQUEEN,62
+	Item = LIFEORB
+	Moves = SLUDGEWAVE,EARTHPOWER,THUNDERPUNCH,FIREPUNCH
+	AbilityIndex = 2
+	Nature = MODEST
+	IV = 28, 28, 28, 28, 28, 28
+Pokemon = KANGASKHAN,62
+	Item = KANGASKHANITE
+	Moves = BODYSLAM,EARTHQUAKE,FAKEOUT,THUNDERPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 28, 28, 28, 28, 28, 28
+Pokemon = RHYPERIOR,63
+	Item = FOCUSSASH
+	Moves = DRILLRUN,STONEEDGE,HAMMERARM,MEGAHORN
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 28, 28, 28, 28, 28, 28
+#-------------------------------
+[AZULALIADO0,Azul]
+Items = MEGARING
+Pokemon = PIDGEOT,61
+	Item = SHARPBEAK
+	Moves = AIRSLASH,HYPERVOICE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = HERACROSS,61
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = TENTACRUEL,62
+	Item = ASSAULTVEST
+	Moves = HYDROPUMP,SLUDGEBOMB,ICEBEAM,GIGADRAIN
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = ALAKAZAM,62
+	Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,CALMMIND,FOCUSBLAST
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = RHYPERIOR,62
+	Item = PASSHOBERRY
+	Moves = EARTHQUAKE,STONEEDGE,HAMMERARM,FIREPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = CHARIZARD,63
+	Item = CHARIZARDITEY
+	Moves = FLAMETHROWER,AIRSLASH,SOLARBEAM,DRAGONPULSE
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+[AZULALIADO1,Azul]
+Items = MEGARING
+Pokemon = PIDGEOT,61
+	Item = SHARPBEAK
+	Moves = AIRSLASH,HYPERVOICE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = HERACROSS,61
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = EXEGGUTOR,62
+	Item = LIGHTCLAY
+	Moves = LEAFSTORM,PSYSHOCK,REFLECT,LIGHTSCREEN
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = ALAKAZAM,62
+	Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,CALMMIND,FOCUSBLAST
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = RHYPERIOR,62
+	Item = PASSHOBERRY
+	Moves = EARTHQUAKE,STONEEDGE,HAMMERARM,FIREPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = BLASTOISE,63
+	Item = BLASTOISINITE
+	Moves = SNIPESHOT,AURASPHERE,ICEBEAM,DARKPULSE
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+[AZULALIADO2,Azul]
+Items = MEGARING
+Pokemon = PIDGEOT,61
+	Item = SHARPBEAK
+	Moves = AIRSLASH,HYPERVOICE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = HERACROSS,61
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = ARCANINE,62
+	Item = CHARCOAL
+	Moves = CRUNCH,FLAREBLITZ,EXTREMESPEED,WILDCHARGE
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = ALAKAZAM,62
+	Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,CALMMIND,FOCUSBLAST
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = RHYPERIOR,62
+	Item = PASSHOBERRY
+	Moves = EARTHQUAKE,STONEEDGE,HAMMERARM,FIREPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = VENUSAUR,63
+	Item = VENUSAURITE
+	Moves = GIGADRAIN,EARTHPOWER,PETALDANCE,SLUDGEBOMB
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+[VETERANO,Kenji]
+Pokemon = ARIADOS,63
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SCIZOR,64
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[VETERANO,Kenji,1]
+Pokemon = KRICKETUNE,63
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SCIZOR,64
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[VETERANO,Koichi]
+Pokemon = BEEDRILL,63
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = PARASECT,64
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[VETERANO,Koichi,1]
+Pokemon = LEAVANNY,63
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = PARASECT,64
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[VETERANO,Kenzo]
+Pokemon = HERACROSS,65
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[VETERANO,Kenzo,1]
+Pokemon = HERACROSS,65
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[VETERANA,Kazuya]
+Pokemon = BUTTERFREE,63
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = FORRETRESS,64
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[VETERANA,Kazuya,1]
+Pokemon = BUTTERFREE,63
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = ORBEETLE,64
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[VETERANA,Kai]
+Pokemon = LEDIAN,63
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = KLEAVOR,64
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[VETERANA,Kai,1]
+Pokemon = LEDIAN,63
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = FLYGON,64
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[VETERANA,Kisako]
+Pokemon = YANMEGA,65
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[VETERANA,Kisako,1]
+Pokemon = FROSMOTH,65
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[LIDER8,Urano]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+Pokemon = SCYTHER,64
+	Item = MAGNET
+	Moves = TAILWIND,AERIALACE,UTURN,SWORDSDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = HERACROSS,64
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,UTURN,STONEEDGE,MEGAHORN
+	AbilityIndex = 1
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = KABUTOPS,64
+	Item = CHOICEBAND
+	Moves = AQUACUTTER,STONEEDGE,UTURN,ICESPINNER
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = YANMEGA,65
+	Item = LIFEORB
+	Moves = BUGBUZZ,AIRSLASH,GIGADRAIN,SHADOWBALL
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = PINSIR,66
+	Item = PINSIRITE
+	Moves = RETURN,MEGAHORN,QUICKATTACK,SWORDSDANCE
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+	Happiness = 255
+#-------------------------------
+[LIDER8,Urano,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+Pokemon = SCYTHER,64
+	Item = MAGNET
+	Moves = TAILWIND,AERIALACE,UTURN,SWORDSDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = HERACROSS,64
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,UTURN,STONEEDGE,MEGAHORN
+	AbilityIndex = 1
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = KABUTOPS,64
+	Item = CHOICEBAND
+	Moves = AQUACUTTER,STONEEDGE,UTURN,ICESPINNER
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = YANMEGA,65
+	Item = LIFEORB
+	Moves = BUGBUZZ,AIRSLASH,GIGADRAIN,SHADOWBALL
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = PINSIR,66
+	Item = PINSIRITE
+	Moves = RETURN,MEGAHORN,QUICKATTACK,SWORDSDANCE
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+	Happiness = 255
+#-------------------------------
+[LIDER8,Urano,2]
+Items = MEGARING
+Pokemon = SCYTHER,64
+	Item = MAGNET
+	Moves = TAILWIND,AERIALACE,UTURN,SWORDSDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = GOLISOPOD,64
+	Item = ASSAULTVEST
+	Moves = FIRSTIMPRESSION,AQUACUTTER,STONEEDGE,DRILLRUN
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = HERACROSS,64
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,UTURN,STONEEDGE,MEGAHORN
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = KABUTOPS,64
+	Item = CHOICEBAND
+	Moves = AQUACUTTER,STONEEDGE,UTURN,ICESPINNER
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = YANMEGA,65
+	Item = LIFEORB
+	Moves = BUGBUZZ,AIRSLASH,GIGADRAIN,SHADOWBALL
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = PINSIR,66
+	Item = PINSIRITE
+	Moves = RETURN,MEGAHORN,QUICKATTACK,SWORDSDANCE
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+	Happiness = 255
+#-------------------------------
+[GUAY,Galo]
+Pokemon = VAPOREON,66
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = FLAREON,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,Galo,1]
+Pokemon = VAPOREON,66
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = FLAREON,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Leda,2]
+Pokemon = CHANSEY,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = BLISSEY,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Leda,1]
+Pokemon = CHANSEY,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = BLISSEY,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[FOTOGRAFA,Rita,2]
+Pokemon = LURANTIS,65
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = KINGLER,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[FOTOGRAFA,Rita,1]
+Pokemon = LURANTIS,65
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = KINGLER,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Jill,]
+Pokemon = RAPIDASH,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Jill,1]
+Pokemon = CAMERUPT,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[MEDIUM,Calixto]
+Pokemon = STARMIE,66
+	IV = 15, 15, 15, 15, 15, 15
+WYRDEER,66,,,,,,,,,,
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[MEDIUM,Calixto,1]
+Pokemon = BEHEEYEM,66
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = WYRDEER,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[MONTANERO,Aaronako]
+Pokemon = SNORLAX,66
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = MAROWAK,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[MONTANERO,Aaronako,1]
+Pokemon = SNORLAX,66
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = MAROWAK,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[PESCADORA,Maya]
+Pokemon = GOLDUCK,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[PESCADORA,Maya,1]
+Pokemon = GOLDUCK,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,Alberto]
+Pokemon = ARIADOS,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = FORRETRESS,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,Alberto,1]
+Pokemon = ARAQUANID,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = FORRETRESS,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,David]
+Pokemon = ARCANINE,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = STEELIX,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,David,1]
+Pokemon = STOUTLAND,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = STEELIX,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,Valdés]
+Pokemon = HYPNO,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SKARMORY,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = GENGAR,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,Valdés,1]
+Pokemon = LUCARIO,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = CORVIKNIGHT,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = GENGAR,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Vera]
+Pokemon = CLEFABLE,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = MEGANIUM,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Vera,1]
+Pokemon = CLEFABLE,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = MEGANIUM,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Carol]
+Pokemon = POLIWRATH,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = DUDUNSPARCE,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Carol,1]
+Pokemon = SEISMITOAD,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = DUDUNSPARCE,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Seara]
+Pokemon = RHYPERIOR,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SIRFETCHD,68
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = VILEPLUME,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Seara,1]
+Pokemon = RHYPERIOR,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SIRFETCHD,68
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SHIFTRY,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[ROJO5,Rojo,1]
+Items = FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NOCTOWL,68
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = SNORLAX,68
+	Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = VAPOREON,69
+	Item = MYSTICWATER
+	Moves = MUDDYWATER,AURORABEAM,ACIDARMOR,SHADOWBALL
+    Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = SCIZOR,69
+	Item = FOCUSSASH
+	Moves = BULLETPUNCH,IRONHEAD,SWORDSDANCE,BUGBITE
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = CHARIZARD,70
+	Item = CHARIZARDITEY
+	Moves = FLAMETHROWER,AIRSLASH,DRAGONPULSE,FOCUSBLAST
+    Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+#-------------------------------
+[ROJO5,Rojo,2]
+Items = FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NOCTOWL,68
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = SNORLAX,68
+	Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = JOLTEON,69
+	Item = MAGNET
+	Moves = THUNDER,SIGNALBEAM,VOLTSWITCH,SHADOWBALL
+    Nature = MODEST
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = SCIZOR,69
+	Item = FOCUSSASH
+	Moves = BULLETPUNCH,IRONHEAD,SWORDSDANCE,BUGBITE
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = BLASTOISE,70
+	Item = BLASTOISINITE
+	Moves = SNIPESHOT,DARKPULSE,AURASPHERE,ICEBEAM
+    Nature = MODEST
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[ROJO5,Rojo,3]
+Items = FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NOCTOWL,68
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = SNORLAX,68
+    Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = FLAREON,69
+	Item = CHARCOAL
+	Moves = FLAREBLITZ,IRONTAIL,STRENGTH,WILLOWISP
+    Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = SCIZOR,69
+	Item = FOCUSSASH
+	Moves = BULLETPUNCH,IRONHEAD,SWORDSDANCE,BUGBITE
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = VENUSAUR,70
+	Item = VENUSAURITE
+	Moves = GIGADRAIN,EARTHPOWER,LEECHSEED,SLUDGEBOMB
+    Nature = MODEST
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[ROJO5,Rojo,4]
+Items = MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = NOCTOWL,68
+	Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = SNORLAX,68
+    Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = VAPOREON,69
+	Item = MYSTICWATER
+	Moves = MUDDYWATER,ICEBEAM,ACIDARMOR,SHADOWBALL
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = SCIZOR,69
+	Item = FOCUSSASH
+	Moves = NIGHTSLASH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = CHARIZARD,70
+	Item = CHARIZARDITEY
+	Moves = FLAMETHROWER,AIRSLASH,SCORCHINGSANDS,DRAGONPULSE
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+[ROJO5,Rojo,5]
+Items = MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = NOCTOWL,68
+    Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = SNORLAX,68
+    Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = JOLTEON,69
+    Item = MAGNET
+	Moves = DISCHARGE,SIGNALBEAM,VOLTSWITCH,SHADOWBALL
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = SCIZOR,69
+    Item = FOCUSSASH
+	Moves = NIGHTSLASH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = BLASTOISE,70
+	Item = BLASTOISINITE
+	Moves = SNIPESHOT,DARKPULSE,AURASPHERE,ICEBEAM
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+[ROJO5,Rojo,6]
+Items = MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = NOCTOWL,68
+    Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = SNORLAX,68
+    Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = FLAREON,69
+    Item = CHARCOAL
+	Moves = FLAREBLITZ,IRONTAIL,STRENGTH,WILLOWISP
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = SCIZOR,69
+    Item = FOCUSSASH
+	Moves = NIGHTSLASH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = VENUSAUR,70
+	Item = VENUSAURITE
+	Moves = GIGADRAIN,SLEEPPOWDER,EARTHPOWER,SLUDGEBOMB
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+[HOJA5,Hoja,1]
+Items = FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NOCTOWL,68
+    Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = SNORLAX,68
+    Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = VAPOREON,69
+    Item = MYSTICWATER
+	Moves = MUDDYWATER,AURORABEAM,ACIDARMOR,SHADOWBALL
+    Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = SCIZOR,69
+    Item = FOCUSSASH
+	Moves = BULLETPUNCH,IRONHEAD,SWORDSDANCE,BUGBITE
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = CHARIZARD,70
+	Item = CHARIZARDITEY
+	Moves = FLAMETHROWER,AIRSLASH,DRAGONPULSE,FOCUSBLAST
+    Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+#-------------------------------
+[HOJA5,Hoja,2]
+Items = FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NOCTOWL,68
+    Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = SNORLAX,68
+    Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = JOLTEON,69
+    Item = MAGNET
+	Moves = THUNDER,SIGNALBEAM,VOLTSWITCH,SHADOWBALL
+    Nature = MODEST
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = SCIZOR,69
+    Item = FOCUSSASH
+	Moves = BULLETPUNCH,IRONHEAD,SWORDSDANCE,BUGBITE
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = BLASTOISE,70
+	Item = BLASTOISINITE
+	Moves = SNIPESHOT,DARKPULSE,AURASPHERE,ICEBEAM
+    Nature = MODEST
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[HOJA5,Hoja,3]
+Items = FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = NOCTOWL,68
+    Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = SNORLAX,68
+    Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = FLAREON,69
+    Item = CHARCOAL
+	Moves = FLAREBLITZ,IRONTAIL,STRENGTH,WILLOWISP
+    Nature = ADAMANT
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = SCIZOR,69
+    Item = FOCUSSASH
+	Moves = BULLETPUNCH,IRONHEAD,SWORDSDANCE,BUGBITE
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = VENUSAUR,70
+	Item = VENUSAURITE
+	Moves = GIGADRAIN,EARTHPOWER,LEECHSEED,SLUDGEBOMB
+    Nature = MODEST
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[HOJA5,Hoja,4]
+Items = MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = NOCTOWL,68
+    Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = SNORLAX,68
+    Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = VAPOREON,69
+    Item = MYSTICWATER
+	Moves = MUDDYWATER,ICEBEAM,ACIDARMOR,SHADOWBALL
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = KINGAMBIT,69
+    Item = FOCUSSASH
+	Moves = NIGHTSLASH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = CHARIZARD,70
+	Item = CHARIZARDITEY
+	Moves = FLAMETHROWER,AIRSLASH,SCORCHINGSANDS,DRAGONPULSE
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+[HOJA5,Hoja,5]
+Items = MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = NOCTOWL,68
+    Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = SNORLAX,68
+    Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = JOLTEON,69
+    Item = MAGNET
+	Moves = DISCHARGE,SIGNALBEAM,VOLTSWITCH,SHADOWBALL
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = KINGAMBIT,69
+    Item = FOCUSSASH,NIGHTSLASH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = BLASTOISE,70
+	Item = BLASTOISINITE
+	Moves = SNIPESHOT,DARKPULSE,AURASPHERE,ICEBEAM
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+[HOJA5,Hoja,6]
+Items = MEGARING
+Pokemon = ANNIHILAPE,68
+	Item = LIFEORB
+	Moves = CLOSECOMBAT,POISONJAB,UTURN,ROCKSLIDE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = NOCTOWL,68
+    Item = WISEGLASSES
+	Moves = AIRSLASH,PSYSHOCK,HYPERVOICE,CALMMIND
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = SNORLAX,68
+    Item = LEFTOVERS
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,AMNESIA
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = FLAREON,69
+    Item = CHARCOAL
+	Moves = FLAREBLITZ,IRONTAIL,STRENGTH,WILLOWISP
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = KINGAMBIT,69
+    Item = FOCUSSASH
+	Moves = NIGHTSLASH,IRONHEAD,SUCKERPUNCH,SWORDSDANCE
+    Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = VENUSAUR,70
+	Item = VENUSAURITE
+	Moves = GIGADRAIN,SLEEPPOWDER,EARTHPOWER,SLUDGEBOMB
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+
+
+
+
+
+#-------------------------------
+[ALTOMANDO1,Lorelei]
+Items = MEGARING
+Pokemon = NINETALES,68
+    Item = FOCUSSASH
+    Moves = BLIZZARD,MOONBLAST,LIGHTSCREEN,NASTYPLOT
+    Form = 1
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = JYNX,69
+    Item = WIDELENS
+	Moves = BLIZZARD,PSYCHIC,LOVELYKISS,NASTYPLOT
+	AbilityIndex = 2
+	Nature = TIMID
+    IV = 25,25,25,25,25,25
+Pokemon = WEAVILE,69
+	Item = LIFEORB
+	Moves = NIGHTSLASH,LOWKICK,ICEPUNCH,SWORDSDANCE
+	AbilityIndex = 0
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = MAMOSWINE,69
+	Item = ASSAULTVEST
+	Moves = EARTHQUAKE,ICICLECRASH,STONEEDGE,ICESHARD
+	AbilityIndex = 2
+	Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+Pokemon = LAPRAS,70
+    Item = LAPRASITE
+	Moves = BLIZZARD,THUNDERBOLT,HYPERVOICE,PSYCHIC
+	Nature = MODEST
+    IV = 25,25,25,25,25,25
+#-------------------------------
+[ALTOMANDO1,Lorelei,1]
+Items = MEGARING
+Pokemon = AURORUS,68
+    Item = FOCUSSASH
+    Moves = BLIZZARD,POWERGEM,EARTHPOWER,STEALTHROCK
+	AbilityIndex = 1
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = JYNX,69
+    Item = WIDELENS
+	Moves = BLIZZARD,PSYCHIC,LOVELYKISS,NASTYPLOT
+	AbilityIndex = 2
+	Nature = TIMID
+    IV = 25,25,25,25,25,25
+Pokemon = WEAVILE,69
+	Item = LIFEORB
+	Moves = NIGHTSLASH,LOWKICK,ICEPUNCH,SWORDSDANCE
+	AbilityIndex = 0
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = MAMOSWINE,69
+	Item = ASSAULTVEST
+	Moves = EARTHQUAKE,ICICLECRASH,STONEEDGE,ICESHARD
+	AbilityIndex = 2
+	Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+Pokemon = LAPRAS,70
+    Item = LAPRASITE
+	Moves = BLIZZARD,THUNDERBOLT,HYPERVOICE,PSYCHIC
+	Nature = MODEST
+    IV = 25,25,25,25,25,25
+#-------------------------------
+[ALTOMANDO1,Lorelei,2]
+Items = MEGARING
+Pokemon = AURORUS,68
+    Item = FOCUSSASH
+    Moves = BLIZZARD,POWERGEM,EARTHPOWER,STEALTHROCK
+	AbilityIndex = 1
+	Nature = MODEST
+	IV = 28,28,28,28,28,28
+Pokemon = CETITAN,68
+	Item = LIFEORB
+	Moves = ICESPINNER,EARTHQUAKE,HEAVYSLAM,LIQUIDATION
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 28,28,28,28,28,28
+Pokemon = JYNX,69
+    Item = WIDELENS
+	Moves = BLIZZARD,PSYCHIC,LOVELYKISS,NASTYPLOT
+	AbilityIndex = 2
+	Nature = TIMID
+	IV = 28,28,28,28,28,28
+Pokemon = WEAVILE,69
+	Item = LIFEORB
+	Moves = NIGHTSLASH,LOWKICK,ICEPUNCH,SWORDSDANCE
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 28,28,28,28,28,28
+Pokemon = MAMOSWINE,69
+	Item = ASSAULTVEST
+	Moves = EARTHQUAKE,ICICLECRASH,STONEEDGE,ICESHARD
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 28,28,28,28,28,28
+Pokemon = LAPRAS,70
+    Item = LAPRASITE
+	Moves = BLIZZARD,THUNDERBOLT,HYPERVOICE,PSYCHIC
+	Nature = MODEST
+	IV = 28,28,28,28,28,28
+#-------------------------------
+[ALTOMANDO2,Bruno]
+Items = MEGARING
+Pokemon = STEELIX,69
+	Item = LIFEORB
+	Moves = IRONTAIL,EARTHQUAKE,STEALTHROCK,THUNDERFANG
+	AbilityIndex = 2
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = HITMONCHAN,70
+	Item = ASSAULTVEST
+	Moves = DRAINPUNCH,FIREPUNCH,ICEPUNCH,MACHPUNCH
+	AbilityIndex = 1
+	Nature = CAREFUL
+    IV = 25,25,25,25,25,25
+Pokemon = HITMONLEE,70
+    Item = WIDELENS
+	Moves = HIGHJUMPKICK,BOUNCE,STONEEDGE,BLAZEKICK
+	AbilityIndex = 1
+	Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+Pokemon = POLIWRATH,70
+	Item = SITRUSBERRY
+	Moves = DRAINPUNCH,AQUACUTTER,ICEPUNCH,BULKUP
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = MACHAMP,71
+	Item = MACHAMPITE
+	Moves = DYNAMICPUNCH,BULLETPUNCH,EARTHQUAKE,BULKUP
+	Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+#-------------------------------
+[ALTOMANDO2,Bruno,1]
+Items = MEGARING
+Pokemon = STEELIX,69
+	Item = LIFEORB
+	Moves = IRONTAIL,EARTHQUAKE,STEALTHROCK,THUNDERFANG
+	AbilityIndex = 2
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = HITMONCHAN,70
+	Item = ASSAULTVEST
+	Moves = DRAINPUNCH,FIREPUNCH,ICEPUNCH,MACHPUNCH
+	AbilityIndex = 1
+	Nature = CAREFUL
+    IV = 25,25,25,25,25,25
+Pokemon = HITMONLEE,70
+    Item = WIDELENS
+	Moves = HIGHJUMPKICK,BOUNCE,STONEEDGE,BLAZEKICK
+	AbilityIndex = 1
+	Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+Pokemon = LUCARIO,70
+    Item = FOCUSSASH
+	Moves = FLASHCANNON,AURASPHERE,DARKPULSE,NASTYPLOT
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = MACHAMP,71
+	Item = MACHAMPITE
+	Moves = DYNAMICPUNCH,BULLETPUNCH,EARTHQUAKE,BULKUP
+    Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+#-------------------------------
+[ALTOMANDO2,Bruno,2]
+Items = MEGARING
+Pokemon = HAWLUCHA,69
+	Item = POWERHERB
+	Moves = SKYATTACK,HIGHJUMPKICK,SWORDSDANCE,UTURN
+    Nature = ADAMANT
+	IV = 28,28,28,28,28,28
+Pokemon = STEELIX,70
+	Item = LIFEORB
+	Moves = IRONTAIL,EARTHQUAKE,STEALTHROCK,THUNDERFANG
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 28,28,28,28,28,28
+Pokemon = HITMONCHAN,70
+	Item = ASSAULTVEST
+	Moves = DRAINPUNCH,FIREPUNCH,ICEPUNCH,MACHPUNCH
+	AbilityIndex = 1
+	Nature = CAREFUL
+	IV = 28,28,28,28,28,28
+Pokemon = HITMONLEE,70
+    Item = WIDELENS
+	Moves = HIGHJUMPKICK,BOUNCE,STONEEDGE,BLAZEKICK
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 28,28,28,28,28,28
+Pokemon = LUCARIO,70
+    Item = FOCUSSASH
+	Moves = FLASHCANNON,AURASPHERE,DARKPULSE,NASTYPLOT
+	Nature = TIMID
+	IV = 28,28,28,28,28,28
+Pokemon = MACHAMP,71
+	Item = MACHAMPITE
+	Moves = DYNAMICPUNCH,BULLETPUNCH,EARTHQUAKE,BULKUP
+    Nature = ADAMANT
+	IV = 28,28,28,28,28,28
+#-------------------------------
+[ALTOMANDO3,Agatha]
+Items = MEGARING
+Pokemon = CROBAT,70
+	Item = FLYINGGEM
+	Moves = ACROBATICS,UTURN,CROSSPOISON,HYPNOSIS
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = MISMAGIUS,71
+	Item = LIFEORB
+	Moves = SHADOWBALL,MOONBLAST,POWERGEM,NASTYPLOT
+	Nature = MODEST
+    IV = 25,25,25,25,25,25
+Pokemon = CURSOLA,71
+	Item = ASSAULTVEST
+	Moves = SHADOWBALL,ICEBEAM,GIGADRAIN,EARTHPOWER
+	Nature = MODEST
+    IV = 25,25,25,25,25,25
+Pokemon = TYPHLOSION,71
+	Item = POWERHERB
+	Moves = SHADOWBALL,WILLOWISP,FIREBLAST,SOLARBEAM
+    Form = 1
+    Nature = QUIRKY
+	IV = 25,25,25,25,25,25
+Pokemon = GENGAR,72
+	Item = GENGARITE
+	Moves = SHADOWBALL,SLUDGEBOMB,THUNDERBOLT,HYPNOSIS
+	Nature = MODEST
+    IV = 25,25,25,25,25,25
+#-------------------------------
+[ALTOMANDO3,Agatha,1]
+Items = MEGARING
+Pokemon = CROBAT,70	
+	Item = FLYINGGEM
+	Moves = ACROBATICS,UTURN,CROSSPOISON,HYPNOSIS
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = MISMAGIUS,71
+	Item = LIFEORB
+	Moves = SHADOWBALL,MOONBLAST,POWERGEM,NASTYPLOT
+	Nature = MODEST
+    IV = 25,25,25,25,25,25
+Pokemon = GOLURK,71
+	Item = ASSAULTVEST
+	Moves = SHADOWPUNCH,ICEPUNCH,THUNDERPUNCH,EARTHQUAKE
+	AbilityIndex = 0
+	Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+Pokemon = CHANDELURE,71
+	Item = POWERHERB
+	Moves = SHADOWBALL,WILLOWISP,FIREBLAST,SOLARBEAM
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = GENGAR,72
+	Item = GENGARITE
+	Moves = SHADOWBALL,SLUDGEBOMB,THUNDERBOLT,HYPNOSIS
+	Nature = MODEST
+    IV = 25,25,25,25,25,25
+#-------------------------------
+[ALTOMANDO3,Agatha,2]
+Items = MEGARING
+Pokemon = DRAGAPULT,70
+	Item = WHITEHERB
+	Moves = DRACOMETEOR,SHADOWBALL,FLAMETHROWER,THUNDER
+    Nature = TIMID
+	IV = 28,28,28,28,28,28
+Pokemon = CROBAT,71
+	Item = FLYINGGEM
+	Moves = ACROBATICS,UTURN,CROSSPOISON,HYPNOSIS
+    Nature = ADAMANT
+	IV = 28,28,28,28,28,28
+Pokemon = MISMAGIUS,71
+	Item = LIFEORB
+	Moves = SHADOWBALL,MOONBLAST,POWERGEM,NASTYPLOT
+	Nature = MODEST
+	IV = 28,28,28,28,28,28
+Pokemon = GOLURK,71
+	Item = ASSAULTVEST
+	Moves = SHADOWPUNCH,ICEPUNCH,THUNDERPUNCH,EARTHQUAKE
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 28,28,28,28,28,28
+Pokemon = CHANDELURE,71
+    Item = POWERHERB
+	Moves = SHADOWBALL,WILLOWISP,FIREBLAST,SOLARBEAM
+	Nature = MODEST
+	IV = 28,28,28,28,28,28
+Pokemon = GENGAR,72
+	Item = GENGARITE
+	Moves = SHADOWBALL,SLUDGEBOMB,THUNDERBOLT,HYPNOSIS
+	Nature = MODEST
+	IV = 28,28,28,28,28,28
+#-------------------------------
+[ALTOMANDO4,Lance]
+Items = MEGARING
+Pokemon = GYARADOS,71
+	Item = WACANBERRY
+	Moves = AQUATAIL,EARTHQUAKE,BOUNCE,DRAGONDANCE
+    AbilityIndex = 0
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = KINGDRA,72
+    Item = SCOPELENS
+    Moves = HYDROPUMP,DRAGONPULSE,ICEBEAM,FOCUSENERGY
+	AbilityIndex = 1
+    Nature  = TIMID
+    IV = 25,25,25,25,25,25
+Pokemon = AERODACTYL,72
+    Item = POWERHERB
+	Moves = SKYATTACK,STONEEDGE,TAILWIND,EARTHQUAKE
+	Nature = JOLLY
+    IV = 25,25,25,25,25,25
+Pokemon = AMPHAROS,72
+    Nature  = TIMID
+    Item = AMPHAROSITE
+    Moves = THUNDERBOLT,DRAGONPULSE,POWERGEM,COTTONGUARD
+	Nature = MODEST
+    IV = 25,25,25,25,25,25
+Pokemon = DRAGONITE,73
+	Item = WEAKNESSPOLICY
+	Moves = DRAGONCLAW,EARTHQUAKE,EXTREMESPEED,DRAGONDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+#-------------------------------
+[ALTOMANDO4,Lance,1]
+Items = MEGARING
+Pokemon = HAXORUS,71
+	Item = MUSCLEBAND
+	Moves = DRAGONCLAW,EARTHQUAKE,POISONJAB,DRAGONDANCE
+    AbilityIndex = 0
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = KINGDRA,72
+    Item = SCOPELENS
+    Moves = HYDROPUMP,DRAGONPULSE,ICEBEAM,FOCUSENERGY
+	AbilityIndex = 1
+    Nature  = TIMID
+    IV = 25,25,25,25,25,25
+Pokemon = HYDREIGON,72
+	Item = ASSAULTVEST
+	Moves = DRAGONPULSE,DARKPULSE,FLASHCANNON,FLAMETHROWER
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = AMPHAROS,72
+    Nature = TIMID
+    Item = AMPHAROSITE
+    Moves = THUNDERBOLT,DRAGONPULSE,POWERGEM,COTTONGUARD
+	Nature = MODEST
+    IV = 25,25,25,25,25,25
+Pokemon = DRAGONITE,73
+	Item = WEAKNESSPOLICY
+	Moves = DRAGONCLAW,EARTHQUAKE,EXTREMESPEED,DRAGONDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+#-------------------------------
+[ALTOMANDO4,Lance,2]
+Items = MEGARING
+Pokemon = SALAMENCE,71
+	Item = LIFEORB
+	Moves = DRAGONCLAW,FIREBLAST,DUALWINGBEAT,DRAGONDANCE
+    AbilityIndex = 0
+	Nature = JOLLY
+	IV = 29,29,29,29,29,29
+Pokemon = HAXORUS,72
+	Item = MUSCLEBAND
+	Moves = DRAGONCLAW,EARTHQUAKE,POISONJAB,DRAGONDANCE
+    AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 29,29,29,29,29,29
+Pokemon = KINGDRA,72
+    Item = SCOPELENS
+    Moves = HYDROPUMP,DRAGONPULSE,ICEBEAM,FOCUSENERGY
+	AbilityIndex = 1
+    Nature = TIMID
+	IV = 29,29,29,29,29,29
+Pokemon = HYDREIGON,72
+	Item = ASSAULTVEST
+	Moves = DRAGONPULSE,DARKPULSE,FLASHCANNON,FLAMETHROWER
+    Nature = TIMID
+	IV = 29,29,29,29,29,29
+Pokemon = AMPHAROS,72
+    Item = AMPHAROSITE
+    Moves = THUNDERBOLT,DRAGONPULSE,POWERGEM,COTTONGUARD
+	Nature = MODEST
+	IV = 29,29,29,29,29,29
+Pokemon = DRAGONITE,73
+	Item = WEAKNESSPOLICY
+	Moves = DRAGONCLAW,EARTHQUAKE,EXTREMESPEED,DRAGONDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 29,29,29,29,29,29
+#-------------------------------
+[CAMPEON,Azul,1]
+Items = MEGARING
+Pokemon = PIDGEOT,73
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = HERACROSS,74
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = TENTACRUEL,73
+	Item = ASSAULTVEST
+	Moves = HYDROPUMP,SLUDGEBOMB,ICEBEAM,GIGADRAIN
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = ALAKAZAM,74
+    Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,CALMMIND,FOCUSBLAST
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = RHYPERIOR,73
+	Item = PASSHOBERRY
+	Moves = EARTHQUAKE,STONEEDGE,HAMMERARM,FIREPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = CHARIZARD,75
+	Item = CHARIZARDITEY
+	Moves = FLAMETHROWER,AIRSLASH,SOLARBEAM,DRAGONPULSE
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+[CAMPEON,Azul,2]
+Items = MEGARING
+Pokemon = PIDGEOT,73
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = HERACROSS,74
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = EXEGGUTOR,73
+	Item = LIGHTCLAY
+	Moves = LEAFSTORM,PSYSHOCK,REFLECT,LIGHTSCREEN
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = ALAKAZAM,74
+    Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,CALMMIND,FOCUSBLAST
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = RHYPERIOR,73
+	Item = PASSHOBERRY
+	Moves = EARTHQUAKE,STONEEDGE,HAMMERARM,FIREPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = BLASTOISE,75
+	Item = BLASTOISINITE
+	Moves = SNIPESHOT,AURASPHERE,ICEBEAM,DARKPULSE
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+[CAMPEON,Azul,3]
+Items = MEGARING
+Pokemon = PIDGEOT,73
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+	Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = HERACROSS,74
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = ARCANINE,73
+    Item = CHARCOAL
+    Moves = CRUNCH,FLAREBLITZ,EXTREMESPEED,WILLOWISP
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = ALAKAZAM,74
+    Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,CALMMIND,FOCUSBLAST
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = RHYPERIOR,73
+	Item = PASSHOBERRY
+	Moves = EARTHQUAKE,STONEEDGE,HAMMERARM,FIREPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 27, 27, 27, 27, 27, 27
+Pokemon = VENUSAUR,75
+	Item = VENUSAURITE
+	Moves = GIGADRAIN,EARTHPOWER,LEECHSEED,SLUDGEBOMB
+    Nature = MODEST
+	IV = 27, 27, 27, 27, 27, 27
+#-------------------------------
+[CAMPEON,Azul,4]
+Items = MEGARING
+Pokemon = PIDGEOT,73
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = HERACROSS,74
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = TENTACRUEL,73
+	Item = ASSAULTVEST
+	Moves = HYDROPUMP,SLUDGEBOMB,ICEBEAM,GIGADRAIN
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = ALAKAZAM,74
+    Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,CALMMIND,FOCUSBLAST
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = RHYPERIOR,73
+	Item = PASSHOBERRY
+	Moves = EARTHQUAKE,STONEEDGE,HAMMERARM,FIREPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = CHARIZARD,75
+	Item = CHARIZARDITEY
+	Moves = FLAMETHROWER,AIRSLASH,SOLARBEAM,DRAGONPULSE
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+#-------------------------------
+[CAMPEON,Azul,5]
+Items = MEGARING
+Pokemon = PIDGEOT,73
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = HERACROSS,74
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = EXEGGUTOR,73
+	Item = LIGHTCLAY
+	Moves = LEAFSTORM,PSYSHOCK,REFLECT,LIGHTSCREEN
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = ALAKAZAM,74
+    Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,CALMMIND,FOCUSBLAST
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = RHYPERIOR,73
+	Item = PASSHOBERRY
+	Moves = EARTHQUAKE,STONEEDGE,HAMMERARM,FIREPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = BLASTOISE,75
+	Item = BLASTOISINITE
+	Moves = SNIPESHOT,AURASPHERE,ICEBEAM,DARKPULSE
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+#-------------------------------
+[CAMPEON,Azul,6]
+Items = MEGARING
+Pokemon = PIDGEOT,73
+	Item = SHARPBEAK
+	Moves = AIRSLASH,FEATHERDANCE,HEATWAVE,UTURN
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = HERACROSS,74
+	Item = FLAMEORB
+	Moves = CLOSECOMBAT,MEGAHORN,STONEEDGE,SHADOWCLAW
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = ARCANINE,73
+    Item = CHARCOAL
+    Moves = CRUNCH,FLAREBLITZ,EXTREMESPEED,WILLOWISP
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = ALAKAZAM,74
+    Item = FOCUSSASH
+	Moves = PSYCHIC,SHADOWBALL,CALMMIND,FOCUSBLAST
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = RHYPERIOR,73
+	Item = PASSHOBERRY
+	Moves = EARTHQUAKE,STONEEDGE,HAMMERARM,FIREPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = VENUSAUR,75
+	Item = VENUSAURITE
+	Moves = GIGADRAIN,EARTHPOWER,LEECHSEED,SLUDGEBOMB
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+#-------------------------------
+[OAK,Oak]
+Items = MEGARING
+Pokemon = TAUROS,76
+	Item = LIFEORB
+	Moves = RAGINGBULL,EARTHQUAKE,STONEEDGE,MEGAHORN
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = MUK,76
+	Item = ASSAULTVEST
+	Moves = GUNKSHOT,KNOCKOFF,ICEPUNCH,FIREPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = HYPNO,76
+	Item = WIDELENS
+	Moves = PSYCHIC,SHADOWBALL,FOCUSBLAST,HYPNOSIS
+	AbilityIndex = 2
+	Nature = CALM
+	IV = 31,31,31,31,31,31
+Pokemon = CELEBI,77
+	Item = SITRUSBERRY
+	Moves = PSYCHIC,GIGADRAIN,AURASPHERE,CALMMIND
+	Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = SNORLAX,77
+	Item = LEFTOVERS
+	Moves = BODYSLAM,CRUNCH,EARTHQUAKE,AMNESIA
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = PIDGEOT,78
+	Item = PIDGEOTITE
+	Moves = HURRICANE,HEATWAVE,FEATHERDANCE,HYPERVOICE
+	Nature = MODEST
+	IV = 31,31,31,31,31,31
+#-------------------------------
+[ASH,Ash]
+Items = MEGARING
+Pokemon = DRAGONITE,76
+	Item = YACHEBERRY
+	Moves = DRAGONCLAW,EARTHQUAKE,EXTREMESPEED,DRAGONDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = SIRFETCHD,76
+	Item = ASSAULTVEST
+	Moves = CLOSECOMBAT,FIRSTIMPRESSION,BRAVEBIRD,KNOCKOFF
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = DRACOVISH,77
+	Item = MYSTICWATER
+	Moves = LIQUIDATION,OUTRAGE,ICEFANG,DRAGONDANCE
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = GENGAR,77
+	Item = LIFEORB
+	Moves = SHADOWBALL,SLUDGEBOMB,THUNDERBOLT,HYPNOSIS
+	Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = LUCARIO,77
+	Item = FOCUSSASH
+	Moves = FLASHCANNON,AURASPHERE,DARKPULSE,NASTYPLOT
+	Nature = TIMID
+	IV = 31,31,31,31,31,31
+Pokemon = PIKACHU,78
+	Item = PIKACHUITE
+	Moves = VOLTTACKLE,IRONTAIL,BRICKBREAK,AQUATAIL
+	Form = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+#-------------------------------
+[NADADOR,Xenorth]
+Pokemon = GOLISOPOD,75
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = STARAPTOR,75
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[NADADOR,Ordono]
+Pokemon = POLIWRATH,80
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = SLOWKING,80
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[NADADORA,Luciana]
+Pokemon = AZUMARILL,75
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = TSAREENA,75
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[LIDER1HOENN,Norman]
+Pokemon = SLAKOTH,11
+	Item = SILKSCARF
+	Moves = YAWN,HEADBUTT,ROCKSMASH,SLACKOFF
+	Nature = QUIRKY
+Pokemon = SKITTY,11
+	Item = FOCUSSASH
+	Moves = FAKEOUT,DISARMINGVOICE,CHARM,QUICKATTACK
+    Nature = QUIRKY
+Pokemon = LOUDRED,12
+	Item = SITRUSBERRY
+	Moves = ECHOEDVOICE,WORKUP,BITE,SUPERSONIC
+    Nature = QUIRKY
+#-------------------------------
+[LIDER2HOENN,Candela]
+Pokemon = MAGMAR,21
+	Item = CHARCOAL
+	Moves = INCINERATE,CLEARSMOG,THUNDERPUNCH,WILLOWISP
+    Nature = QUIRKY
+	IV = 13,13,13,13,13,13
+Pokemon = MAGCARGO,21
+	Item = FOCUSSASH
+	Moves = ANCIENTPOWER,INCINERATE,AMNESIA,SCORCHINGSANDS
+    Nature = QUIRKY
+	IV = 13,13,13,13,13,13
+Pokemon = TORKOAL,22
+	Item = SITRUSBERRY
+	Moves = INCINERATE,CLEARSMOG,IRONDEFENSE,ZENHEADBUTT
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 13,13,13,13,13,13
+#-------------------------------
+[LIDER3HOENN,Alana]
+Pokemon = TROPIUS,26
+	Item = YACHEBERRY
+	Moves = TROPKICK,STOMP,SYNTHESIS,LEECHSEED
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = PELIPPER,26
+	Item = MYSTICWATER
+	Moves = BRINE,AIRCUTTER,ROOST,SHOCKWAVE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SKARMORY,26
+	Item = ROCKYHELMET
+	Moves = AERIALACE,STEELWING,IRONDEFENSE,ROOST
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = ALTARIA,27
+	Item = SITRUSBERRY
+	Moves = DRAGONCLAW,AERIALACE,FLAMETHROWER,WORKUP
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[LIDER4HOENN,Erico]
+Pokemon = EMOLGA,36
+	Item = ELECTRICGEM
+	Moves = VOLTSWITCH,AIRSLASH,LIGHTSCREEN,ELECTRICTERRAIN
+	AbilityIndex = 1
+	Nature = MODEST
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = ELECTABUZZ,36
+	Item  = MAGNET
+	Moves = WILDCHARGE,ICEPUNCH,BRICKBREAK,VOLTSWITCH
+    Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = EELEKTROSS,36
+	Item = ASSAULTVEST
+	Moves = DRAINPUNCH,FIREPUNCH,WILDCHARGE,AQUATAIL
+    Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = MANECTRIC,37
+	Item = LIFEORB
+	Moves = DISCHARGE,FLAMEBURST,SNARL,CHARGEBEAM
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[LIDER5HOENN,Petra]
+Items = MEGARING
+Pokemon = AERODACTYL,46
+	Item = AERODACTYLITE
+	Moves = STEALTHROCK,ROCKSLIDE,DUALWINGBEAT,EARTHQUAKE
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = ARMALDO,46
+	Item = WHITEHERB
+	Moves = XSCISSOR,ROCKSLIDE,AQUATAIL,SHELLSMASH
+    Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = CRADILY,46
+	Item = BIGROOT
+	Moves = GIGADRAIN,STONEEDGE,LEECHSEED,STOCKPILE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = PROBOPASS,47
+	Item = AIRBALLOON
+	Moves = DISCHARGE,FLASHCANNON,POWERGEM,EARTHPOWER
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[LIDER6HOENN,Marcial]
+Items = MEGARING
+Pokemon = MIENSHAO,50
+	Item = CHOICEBAND
+	Moves = UTURN,HIGHJUMPKICK,BOUNCE,KNOCKOFF
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = LUCARIO,50
+	Item = LIFEORB
+	Moves = AURASPHERE,FLASHCANNON,DARKPULSE,NASTYPLOT
+	Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = MACHAMP,51
+	Item = FLAMEORB
+	Moves = BULLETPUNCH,SUPERPOWER,STONEEDGE,THUNDERPUNCH
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = MEDICHAM,51
+	Item = MEDICHAMITE
+	Moves = FAKEOUT,ZENHEADBUTT,HIGHJUMPKICK,ICEPUNCH
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = HARIYAMA,52
+	Item = ASSAULTVEST
+	Moves = CLOSECOMBAT,FAKEOUT,EARTHQUAKE,KNOCKOFF
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+#-------------------------------
+[LIDER7HOENN,Plubio]
+Items = MEGARING
+Pokemon = LUDICOLO,55
+	Item = DAMPROCK
+	Moves = RAINDANCE,HYDROPUMP,ICEBEAM,GIGADRAIN
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 25,25,25,25,25,25
+Pokemon = GYARADOS,55
+	Item = LIFEORB
+	Moves = AQUATAIL,EARTHQUAKE,ICEFANG,DRAGONDANCE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 25,25,25,25,25,25
+Pokemon = SHARPEDO,56
+	Item = SHARPEDONITE
+	Moves = LIQUIDATION,ICEFANG,CRUNCH,RAINDANCE
+	Nature = ADAMANT
+	IV = 25,25,25,25,25,25
+Pokemon = KINGDRA,56
+	Item = SCOPELENS
+	Moves = SNIPESHOT,DRAGONPULSE,ICEBEAM,RAINDANCE
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 25,25,25,25,25,25
+Pokemon = MILOTIC,57
+	Item = LEFTOVERS
+	Moves = HYDROPUMP,ICEBEAM,DRAGONPULSE,RECOVER
+	AbilityIndex = 1
+	Nature = MODEST
+	IV = 25,25,25,25,25,25
+#-------------------------------
+[LIDER8HOENN,Vito y Leti]
+Items = MEGARING
+Pokemon = SOLROCK,67
+	Item = FOCUSSASH
+	Moves = LIGHTSCREEN,PROTECT,STONEEDGE,FLAREBLITZ
+	Nature = ADAMANT
+	IV - 27,27,27,27,27,27
+Pokemon = LUNATONE,67
+	Item = FOCUSSASH
+	Moves = REFLECT,HYPNOSIS,PSYCHIC,MOONBLAST
+	Nature = MODEST
+	IV - 27,27,27,27,27,27
+Pokemon = CLAYDOL,67
+	Item = LEFTOVERS
+	Moves = EARTHPOWER,PSYCHIC,SHOREUP,PSYCHICTERRAIN
+    Nature = QUIRKY
+	IV - 27,27,27,27,27,27
+Pokemon = GALLADE,68
+	Item = CHOICESCARF
+	Moves = SACREDSWORD,PSYCHOCUT,NIGHTSLASH,LEAFBLADE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV - 27,27,27,27,27,27
+Pokemon = GARDEVOIR,68
+	Item = GARDEVOIRITE
+	Moves = HYPERVOICE,PSYCHIC,THUNDERBOLT,PROTECT
+	Nature = MODEST
+	IV - 27,27,27,27,27,27
+#-------------------------------
+[PRISMM,Ivarn]
+Pokemon = URSALUNA,75
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = PERRSERKER,75
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = LUCARIO,76
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PRISMF,Diana]
+Pokemon = FLORGES,76
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = MISMAGIUS,76
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[VETERANO,Noel]
+Pokemon = BEAUTIFLY,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = FROSMOTH,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[VETERANA,Onsas]
+Pokemon = SCEPTILE,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = LEAVANNY,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PRISMM,Harvey]
+Pokemon = GENGAR,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = ARCANINE,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = TYRANITAR,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PRISMF,Vicenta]
+Pokemon = HIPPOWDON,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = FERROTHORN,78
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[VETERANO,Raúl]
+Pokemon = DRAGALGE,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = TREVENANT,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[KARATEKA,Antonio]
+Pokemon = EMBOAR,78
+	Item = MUSCLEBAND
+	Moves = FLAREBLITZ,HAMMERARM,WILDCHARGE,BULKUP
+	IV = 21,21,21,21,21,21
+#-------------------------------
+[KARATEKAA,Shuu]
+Pokemon = LUCARIO,78
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[FOTOGRAFA,Rose]
+Pokemon = BOUFFALANT,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = EELEKTROSS,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PRISMM,Cristóbal]
+Pokemon = LUXRAY,78
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = GOLURK,78,
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = KOMMOO,78
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[VETERANO,Santiago]
+Pokemon = VIKAVOLT,77,
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = WYRDEER,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[CIENTIFICO,Jorge]
+Pokemon = WOBBUFFET,78
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PESCADORA,Trini]
+Pokemon = LAPRAS,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = SEAKING,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = DREDNAW,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PESCADORA,Lea]
+Pokemon = GASTRODON,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = GRENINJA,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[CEREBRITO,Josh]
+Pokemon = BRELOOM,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = FLYGON,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[ROCKETO,Serge]
+Pokemon = ZOROARK,78
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = DUSKNOIR,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[CIENTIFICO,Alejandro]
+Pokemon = ORBEETLE,78
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = BEEDRILL,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[ROCKETA,Crissy]
+Pokemon = NIDOKING,78
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = SYLVEON,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[ELITEROCKET,Foxua]
+Pokemon = FLYGON,78,
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = HAWLUCHA,79
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = SIRFETCHD,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[ROCKETA,Sophie]
+Pokemon = EXCADRILL,78
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = CLAWITZER,78
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PRISMF,Yosimura]
+Pokemon = ARCANINE,79
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = FERROTHORN,79
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = DRAPION,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[MEDIUM,Adri]
+Pokemon = MUSHARNA,79
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = UMBREON,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[CABALLERO,Eustasio]
+Pokemon = TAUROS,80
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[CABALLERA,Anastasia]
+Pokemon = CHANDELURE,80
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[DAMISELA,Nati]
+Pokemon = DELCATTY,79
+	IV = 18,18,18,18,18,18
+Pokemon = MEGANIUM,79
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[VETERANA,Adriana]
+Pokemon = HERACROSS,79
+	IV = 18,18,18,18,18,18
+Pokemon = SCOLIPEDE,79
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[PRISMM,Carlos]
+Pokemon = EXCADRILL,80
+	IV = 18,18,18,18,18,18
+Pokemon = GLISCOR,80
+	IV = 18,18,18,18,18,18
+Pokemon = GYARADOS,80
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[PESCADOR,Frolo]
+Pokemon = GOREBYSS,80
+	IV = 18,18,18,18,18,18
+Pokemon = HUNTAIL,80
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[PESCADOR,Alejandro]
+Pokemon = GOLURK,80
+    IV = 18,18,18,18,18,18
+Pokemon = PALOSSAND,80
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[NADADORA,Cecilia]
+Pokemon = SAMUROTT,80
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[DUOPRISMA,Zaiko y Akkarin]
+Pokemon = SLAKING,81
+    IV = 18,18,18,18,18,18
+Pokemon = INFERNAPE,81
+    IV = 18,18,18,18,18,18
+Pokemon = MIMIKYU,81
+    IV = 18,18,18,18,18,18
+Pokemon = MEOWSCARADA,81
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[DUOPRISMA,Skyflyer y Hellfire]
+Pokemon = GALLADE,81
+    IV = 18,18,18,18,18,18
+Pokemon = DACHSBUN,81
+    IV = 18,18,18,18,18,18
+Pokemon = TYRANITAR,81
+    IV = 18,18,18,18,18,18
+Pokemon = SALAMENCE,81
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[DUOPRISMA,Ranni y Rykard]
+Pokemon = APPLETUN,81
+    IV = 18,18,18,18,18,18
+Pokemon = SNEASLER,81
+    IV = 18,18,18,18,18,18
+Pokemon = HARIYAMA,81
+    IV = 18,18,18,18,18,18
+Pokemon = SERPERIOR,81
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[DUOPRISMA,Loretta y Blaidd]
+Pokemon = VENOMOTH,81
+    IV = 18,18,18,18,18,18
+Pokemon = CORVIKNIGHT,81
+    IV = 18,18,18,18,18,18
+Pokemon = HAXORUS,81
+    IV = 18,18,18,18,18,18
+Pokemon = BLAZIKEN,81
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[MAXIMO,Máximo]
+Items = MEGARING
+Pokemon = SKARMORY,78
+	Item = REDCARD
+	Moves = STEALTHROCK,IRONHEAD,WHIRLWIND,BRAVEBIRD
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = AGGRON,78
+	Item = AIRBALLOON
+	Moves = IRONHEAD,STONEEDGE,EARTHQUAKE,AQUATAIL
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = CRADILY,78
+	Item = LEFTOVERS
+	Moves = EARTHPOWER,GIGADRAIN,POWERGEM,TOXIC
+	Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = ARMALDO,78
+	Item = CHOICEBAND
+	Moves = STONEEDGE,LEECHLIFE,NIGHTSLASH,AQUATAIL
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = METAGROSS,79
+	Item = METAGROSSITE
+	Moves = METEORMASH,THUNDERPUNCH,ICEPUNCH,ZENHEADBUTT
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+#-------------------------------
+[CINTIA,Cintia]
+Items = MEGARING
+Pokemon = ROSERADE,79
+	Item = WHITEHERB
+	Moves = SLUDGEBOMB,LEAFSTORM,SLEEPPOWDER,DAZZLINGGLEAM
+	Nature = MODEST,
+	IV = 30,30,30,30,30,30
+Pokemon = SPIRITOMB,79
+	Item = LUMBERRY
+	Moves = WILLOWISP,PROTECT,DARKPULSE,CONFUSERAY
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = LUCARIO,79
+	Item = FOCUSSASH
+	Moves = AURASPHERE,FLASHCANNON,DARKPULSE,NASTYPLOT
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = MILOTIC,79
+	Item = LEFTOVERS
+	Moves = SURF,ICEBEAM,RECOVER,HYPNOSIS
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = GARCHOMP,80
+	Item = GARCHOMPITE
+	Moves = EARTHQUAKE,DRAGONCLAW,STONEEDGE,SWORDSDANCE
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+#-------------------------------
+[MIRTO,Mirto]
+Pokemon = GALVANTULA,79
+	Item = LIFEORB
+	Moves = THUNDER,BUGBUZZ,STICKYWEB,GIGADRAIN
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = SCOLIPEDE,79
+	Item = FOCUSSASH
+	Moves = MEGAHORN,POISONJAB,EARTHQUAKE,SWORDSDANCE
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = ACCELGOR,79
+	Item = LIFEORB
+	Moves = BUGBUZZ,FOCUSBLAST,SLUDGEBOMB,GIGADRAIN
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = ESCAVALIER,79
+	Item = CHOICEBAND
+	Moves = XSCISSOR,IRONHEAD,DRILLRUN,CLOSECOMBAT
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = VOLCARONA,80
+	Item = LEFTOVERS
+	Moves = FIERYDANCE,BUGBUZZ,GIGADRAIN,QUIVERDANCE
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 30,30,30,30,30,30
+#-------------------------------
+[BILL,Bill]
+Pokemon = VAPOREON,78
+	Item = MYSTICWATER
+	Moves = HYDROPUMP,ICEBEAM,ACIDARMOR,AQUARING
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = JOLTEON,78
+	Item = MAGNET
+	Moves = THUNDER,SHADOWBALL,VOLTSWITCH,SIGNALBEAM
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = FLAREON,78
+	Item = CHARCOAL
+	Moves = CRUNCH,FLAREBLITZ,WILLOWISP,STRENGTH
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = ESPEON,78
+	Item = TWISTEDSPOON
+	Moves = PSYCHIC,DAZZLINGGLEAM,SHADOWBALL,FOCUSBLAST
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = UMBREON,78
+	Item = BLACKGLASSES
+	Moves = FOULPLAY,TOXIC,SWAGGER,MOONLIGHT
+	Nature = BOLD
+	IV = 30,30,30,30,30,30
+#-------------------------------
+[PRISMA,Prisma]
+Items = MEGARING
+Pokemon = ARTICUNO,84
+	Item = WEAKNESSPOLICY
+	Moves = PSYCHIC,AIRSLASH,SHADOWBALL,CALMMIND
+	Form = 1
+	Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = URSALUNA,84
+	Item = ASSAULTVEST
+	Moves = EARTHQUAKE,PLAYROUGH,DRAINPUNCH,ROCKSLIDE
+    Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = ZAPDOS,84
+	Item = LIFEORB
+	Moves = DRILLPECK,CLOSECOMBAT,ACROBATICS,UTURN
+	Form = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = LAPRAS,84
+	Item = LEFTOVERS
+	Moves = ICEBEAM,HYDROPUMP,THUNDERBOLT,PSYCHIC
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = MOLTRES,84
+	Item = CHESTOBERRY
+	Moves = AIRSLASH,DARKPULSE,NASTYPLOT,REST
+	Form = 1
+	Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = BUTTERFREE,85
+	Item = BUTTERFREEITE
+	Moves = BUGBUZZ,HURRICANE,ROOST,QUIVERDANCE
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+#-------------------------------

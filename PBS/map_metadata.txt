@@ -1,0 +1,1704 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Pallet Town
+Name = Pallet Town
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+MapPosition = 0,7,14
+BattleBack = Pueblo
+TrainerVictoryBGM = VictoriaEntrenador
+WildBattleBGM = Salvaje
+TrainerBattleBGM = Entrenador
+WildVictoryBGM = VictoriaSalvaje
+#-------------------------------
+[003]   # Route 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+MapPosition = 0,7,12
+BattleBack = Pradera
+WildBattleBGM = Salvaje
+TrainerVictoryBGM = VictoriaEntrenador
+TrainerBattleBGM = Entrenador
+WildVictoryBGM = VictoriaSalvaje
+#-------------------------------
+[004]   # Viridian City
+Name = Viridian City
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+MapPosition = 0,7,10
+BattleBack = Pueblo
+WildBattleBGM = Salvaje
+TrainerVictoryBGM = VictoriaEntrenador
+TrainerBattleBGM = Entrenador
+WildVictoryBGM = VictoriaSalvaje
+#-------------------------------
+[005]   # Route 20
+Name = Route 20
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+MapPosition = 0,5,10
+BattleBack = Pradera
+WildBattleBGM = Salvaje
+TrainerVictoryBGM = VictoriaEntrenador
+TrainerBattleBGM = Entrenador
+WildVictoryBGM = VictoriaSalvaje
+#-------------------------------
+[006]   # Route 2 South
+Name = Route 2 South
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+MapPosition = 0,7,8
+BattleBack = Pradera
+WildBattleBGM = Salvaje
+TrainerVictoryBGM = VictoriaEntrenador
+TrainerBattleBGM = Entrenador
+WildVictoryBGM = VictoriaSalvaje
+#-------------------------------
+[007]   # Route 2 North
+Name = Route 2 North
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+MapPosition = 0,7,6
+BattleBack = Pradera
+WildBattleBGM = Salvaje
+TrainerVictoryBGM = VictoriaEntrenador
+TrainerBattleBGM = Entrenador
+WildVictoryBGM = VictoriaSalvaje
+#-------------------------------
+[008]   # Viridian Forest
+Name = Viridian Forest
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+MapPosition = 0,7,7
+BattleBack = Bosque
+WildBattleBGM = Salvaje
+TrainerVictoryBGM = VictoriaEntrenador
+TrainerBattleBGM = Entrenador
+WildVictoryBGM = VictoriaSalvaje
+#-------------------------------
+[009]   # Pewter City
+Name = Pewter City
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+MapPosition = 0,7,4
+BattleBack = Pueblo
+WildBattleBGM = Salvaje
+TrainerVictoryBGM = VictoriaEntrenador
+TrainerBattleBGM = Entrenador
+WildVictoryBGM = VictoriaSalvaje
+#-------------------------------
+[010]   # Route 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+MapPosition = 0,9,4
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[011]   # Mt. Moon
+Name = Mt. Moon
+MapPosition = 0,6,11
+BattleBack = Cueva
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[012]   # Mt. Moon
+Name = Mt. Moon
+MapPosition = 0,13,3
+SnapEdges = true
+ShowArea = true
+Outdoor = true
+BattleBack = Noche
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[013]   # Mt. Moon
+Name = Mt. Moon
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[014]   # Route 4
+Name = Route 4
+MapPosition = 0,15,2
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[015]   # Cerulean City
+Name = Cerulean City
+MapPosition = 0,17,2
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[016]   # Route 24
+Name = Route 24
+MapPosition = 0,17,0
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[017]   # Route 5
+Name = Route 5
+MapPosition = 0,17,4
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[018]   # Route 6
+Name = Route 6
+MapPosition = 0,17,8
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[019]   # Vermilion City
+Name = Vermilion City
+MapPosition = 0,17,12
+SnapEdges = true
+BattleBack = Playa
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[020]   # Route 15
+Name = Route 15
+MapPosition = 0,21,12
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[021]   # Diglett's Tunnel
+Name = Diglett's Tunnel
+MapPosition = 0,6,11
+BattleBack = Cueva
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[022] # Route 9
+Name = Route 9
+MapPosition = 0,20,2
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Monte
+WildBattleBGM = Salvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+#-------------------------------
+[023]   # Route 10 North
+Name = Route 10 North
+MapPosition = 0,23,2
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Monte
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[024]   # Route 10 South
+Name = Route 10 South
+MapPosition = 0,23,4
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Monte
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[025]   # Rock Tunnel
+Name = Rock Tunnel
+MapPosition = 0,6,11
+BattleBack = Cueva
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[026]   # Rock Tunnel
+Name = Rock Tunnel
+MapPosition = 0,6,11
+BattleBack = Cueva
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[027]   # Pueblo Lavanda
+Name = Lavender Town
+MapPosition = 0,23,6
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Pueblo
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[028]   # House
+Name = House
+#-------------------------------
+[029]   # Oak's Lab
+Name = Oak's Lab
+MapPosition = 0,6,11
+BattleBack = Interior
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[030]   # House
+Name = House
+#-------------------------------
+[031]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[032]   # School
+Name = School
+#-------------------------------
+[033] # Transition
+Name = Transition
+#-------------------------------
+[034]   # House
+Name = House
+#-------------------------------
+[035]   # Transition
+Name = Transition
+#-------------------------------
+[036]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[037]   # House
+Name = House
+#-------------------------------
+[038]   # School
+Name = School
+#-------------------------------
+[039]   # Game Corner
+Name = Game Corner
+MapPosition = 0,6,11
+BattleBack = Interior
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[040]   # Museum of Science
+Name = Museum of Science
+MapPosition = 0,6,11
+BattleBack = Interior
+TrainerVictoryBGM = VictoriaEntrenador
+WildBattleBGM = Salvaje
+TrainerBattleBGM = Entrenador
+WildVictoryBGM = VictoriaSalvaje
+#-------------------------------
+[041]   # House
+Name = House
+#-------------------------------
+[042] # Pewter Gym
+Name = Pewter Gym
+MapPosition = 0,6,11
+BattleBack = G3
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[043]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[044]   # Caravan
+Name = Caravan
+#-------------------------------
+[045]   # House
+Name = House
+#-------------------------------
+[046]   # Transition
+Name = Transition
+#-------------------------------
+[047]   # Transition
+Name = Transition
+#-------------------------------
+[048]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[049]   # Guardería
+Name = Guardería
+#-------------------------------
+[050]   # House
+Name = House
+#-------------------------------
+[051]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[052]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[053]   # House
+Name = House
+#-------------------------------
+[054]   # House
+Name = House
+#-------------------------------
+[055]   # Subterráneo
+Name = Underground
+#-------------------------------
+[056]   # Vermilion Gym
+Name = Vermilion Gym
+MapPosition = 0,6,11
+BattleBack = G8
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[057]   # Cerulean Gym
+Name = Cerulean Gym
+MapPosition = 0,6,11
+BattleBack = G4
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[058]   # S.S. Anne
+Name = S.S. Anne
+MapPosition = 0,6,11
+BattleBack = Interior
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[059]   # S.S Anne
+Name = S.S. Anne
+BattleBack = Interior
+MapPosition = 0,6,11
+WildBattleBGM = Salvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+#-------------------------------
+[060]   # Bicycle Shop
+Name = Bicycle Shop
+#-------------------------------
+[061]   # Cafeteria
+Name = Cafeteria
+#-------------------------------
+[062]   # Bill's House
+Name = Bill's House
+#-------------------------------
+[063] # Pokémon Fan Club
+Name = Pokémon Fan Club
+#-------------------------------
+[064]   # Pokémon Tower
+Name = Pokémon Tower
+MapPosition = 0,6,11
+BattleBack = InteriorOscuro
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[065]   # Pokémon Tower
+Name = Pokémon Tower
+MapPosition = 0,23,6
+SnapEdges = true
+BattleBack = Nocturno
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[066]   # Transition
+Name = Transition
+#-------------------------------
+[067]   # Refugio Fuji
+Name = Refugio Fuji
+#-------------------------------
+[068]   # Transition
+Name = Transition
+#-------------------------------
+[069]   # Ciudad Carmín
+Name = Ciudad Carmín
+MapPosition = 0,6,11
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Playa
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[070]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[071] # Route 8
+Name = Route 8
+MapPosition = 0,20,6
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[072]   # Route 7
+Name = Route 7
+MapPosition = 0,15,6
+SnapEdges = true
+ShowArea = true
+Outdoor = true
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[073] # Transition
+Name = Transition
+#-------------------------------
+[074] # Transition
+Name = Transition
+#-------------------------------
+[075]   # Subterráneo
+Name = Subterráneo
+#-------------------------------
+[076]   # Celadon City
+Name = Celadon City
+MapPosition = 0,13,6
+SnapEdges = true
+Outdoor  =true
+ShowArea = true
+BattleBack = Ciudad
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[077]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[078]   # Department Store
+Name = Department Store
+#-------------------------------
+[079]   # Restaurante de Ramen
+Name = Restaurante de Ramen
+#-------------------------------
+[080]   # Edificio Azulona
+Name = Edificio Azulona
+#-------------------------------
+[081]   #   Pokémon Gym
+Name = Pokémon Gym
+MapPosition = 0,6,11
+BattleBack = G9
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[082]   # Team Rocket Hideout
+Name = Team Rocket Hideout
+MapPosition = 0,6,11
+BattleBack = InteriorOscuro
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[083]   # Team Rocket Hideout
+Name = Team Rocket Hideout
+MapPosition = 0,6,11
+BattleBack = InteriorOscuro
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[084]   # Team Rocket Hideout
+Name = Team Rocket Hideout
+MapPosition = 0,6,11
+BattleBack = InteriorOscuro
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[085]   # Team Rocket Hideout
+Name = Team Rocket Hideout
+MapPosition = 0,6,11
+BattleBack = InteriorOscuro
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[086] # Route 12
+Name = Route 12
+MapPosition = 0,23,9
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[087]   # Route 11
+Name = Route 11
+MapPosition = 0,11,6
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[088] # Transition
+Name = Transition
+#-------------------------------
+[089]   # House
+Name = House
+#-------------------------------
+[090]   # House
+Name = House
+#-------------------------------
+[091]   # Marengo Town
+Name = Marengo Town
+MapPosition = 0,23,15
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Pueblo
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[092]   # Route 13
+Name = Route 13
+SnapEdges = true
+BattleBack = field
+ShowArea = true
+Outdoor = true
+MapPosition = 0,20,15
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[093]   # Route 14
+Name = Route 14
+SnapEdges = true
+BattleBack = field
+Outdoor = true
+ShowArea = true
+MapPosition = 0,18,16
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[094]   # Fuchsia City
+Name = Fuchsia City
+SnapEdges = true
+BattleBack = city
+MapPosition = 0,15,16
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[095]   # Route 16
+Name = Route 16
+SnapEdges = true
+BattleBack = field
+MapPosition = 0,12,16
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[096]   # Transición
+Name = Transición
+#-------------------------------
+[097]   # Route 17
+Name = Route 17
+SnapEdges = true
+BattleBack = beach
+MapPosition = 0,15,18
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[098]   # Transición
+Name = Transición
+#-------------------------------
+[099]   # Saffron City
+Name = Saffron City
+SnapEdges = true
+BattleBack = city
+MapPosition = 0,17,6
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[100]   # Silph Co.
+Name = Silph Co.
+BattleBack = indoor3
+MapPosition = 0,6,11
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[101]   # Silph Co.
+Name = Silph Co.
+BattleBack = indoor3
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[102]   # Silph Co.
+Name = Silph Co.
+BattleBack = indoor3
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[103]   # Intro de verdad
+Name = Intro de verdad
+#-------------------------------
+[104]   # Intro de verdad de la buena
+Name = Intro de verdad de la buena
+#-------------------------------
+[105]   # Route 18
+Name = Route 18
+SnapEdges = true
+BattleBack = water
+MapPosition = 0,13,18
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[106]   # Route 19
+Name = Route 19
+SnapEdges = true
+BattleBack = beach
+MapPosition = 0,7,16
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[107]   # Route 3
+Name = Route 3
+SnapEdges = true
+BattleBack = field
+MapPosition = 0,11,4
+ShowArea = true
+Outdoor = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[108]   # Route 12
+Name = Route 12
+SnapEdges = true
+BattleBack = Pradera
+Outdoor = true
+ShowArea = true
+MapPosition = 0,23,12
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[109] # Route 24
+Name = Route 24
+MapPosition = 0,19,0
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+BattleBack = Pradera
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[110]   # Cycling Road
+Name = Cycling Road
+SnapEdges = true
+BattleBack = field
+MapPosition = 0,11,13
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[111]   # Cycling Road
+Name = Cycling Road
+SnapEdges = true
+BattleBack = field
+MapPosition = 0,11,16
+Outdoor = true
+BicycleAlways = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[112]   # Safari Zone
+Name = Safari Zone
+SnapEdges = true
+BattleBack = field3
+MapPosition = 0,16,15
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[113]   # Safari Zone
+Name = Safari Zone
+SnapEdges = true
+BattleBack = field3
+MapPosition = 0,16,14
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[114]   # Safari Zone
+Name = Safari Zone
+SnapEdges = true
+BattleBack = field3
+MapPosition = 0,16,15
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[115]   # Safari Zone
+Name = Safari Zone
+SnapEdges = true
+BattleBack = field3
+MapPosition = 0,16,14
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[116]   # Cinnabar Island
+Name = Cinnabar Island
+SnapEdges = true
+BattleBack = beach
+MapPosition = 0,7,18
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[117]   # Fighting Dojo
+Name = Fighting Dojo
+BattleBack = indoor
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[118]   # Cinnabar Lab
+Name = Cinnabar Lab
+#-------------------------------
+[119]   # Pokémon Mansion
+Name = Pokémon Mansion
+BattleBack = indoor2
+MapPosition = 0,6,11
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[120]   # Pokémon Mansion
+Name = Pokémon Mansion
+BattleBack = indoor2
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[121]   # Pokémon Mansion
+Name = Pokémon Mansion
+BattleBack = indoor1
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[122]   # Pokémon Mansion
+Name = Pokémon Mansion
+BattleBack = indoor1
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[123]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[124]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[125]   # Pokémon Gym
+Name = Pokémon Gym
+BattleBack = elite7
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[126]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[127]   # Pokémon Gym
+Name = Pokémon Gym
+BattleBack = distortion
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[128]   # Pokémon Gym
+Name = Pokémon Gym
+#-------------------------------
+[129]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[130]   # Seafoam Island
+Name = Seafoam Island
+#-------------------------------
+[131]  # Cinnabar Gym
+Name = Cinnabar Gym
+BattleBack = elite8
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[132]   # Pokémon League
+Name = Pokémon League
+BattleBack = elite1
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[133]   # Seafoam Island
+Name = Seafoam Island
+BattleBack = cave3
+MapPosition = 0,6,11
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[134]   # Seafoam Island
+Name = Seafoam Island
+BattleBack = cave3
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[135]   # Seafoam Island
+Name = Seafoam Island
+BattleBack = cave3
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[136]   # Seafoam Island
+Name = Seafoam Island
+BattleBack = cave3
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[137]   # Transición
+Name = Transition
+BattleBack = inside2
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[138]   # House
+Name = House
+#-------------------------------
+[139]   # House
+Name = House
+#-------------------------------
+[140]   # House
+Name = House
+#-------------------------------
+[141]   # House
+Name = House
+#-------------------------------
+[142]   # Tienda Exótica
+Name = Tienda Exótica
+#-------------------------------
+[143]   # Guard House
+Name = Guard House
+#-------------------------------
+[144]   # Casa del Sr. Psíquico
+Name = Casa del Sr. Psíquico
+#-------------------------------
+[145]   # Estación del Magnetotrén
+Name = Estación del Magnetotrén
+#-------------------------------
+[146]   # Granja Marengo
+Name = Granja Marengo
+#-------------------------------
+[147]   # Safari Zone
+Name = Safari Zone
+#-------------------------------
+[148]   # Safari Zone
+Name = Safari Zone
+#-------------------------------
+[149]   # Safari Zone
+Name = Safari Zone
+#-------------------------------
+[150]   # Central Energía
+Name = Central Energía
+BattleBack = indoor2
+ShowArea = true
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[151]   # Volcán Canela
+Name = Volcán Canela
+BattleBack = CuevaRoja
+MapPosition = 0,6,11
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[152]   # Volcán Canela
+Name = Volcán Canela
+BattleBack = CuevaRoja
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[153]   # Volcán Canela
+Name = Volcán Canela
+BattleBack = CuevaRoja
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[154]   # Route 21
+Name = Route 21
+SnapEdges = true
+BattleBack = field
+MapPosition = 0,3,10
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[155]   # Route 22
+Name = Route 22
+SnapEdges = true
+BattleBack = field
+MapPosition = 0,2,14
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[156]   # Route 22
+Name = Route 22
+SnapEdges = true
+BattleBack = field
+MapPosition = 0,3,13
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[157]   # Cataratas Tohjo
+Name = Cataratas Tohjo
+BattleBack = cave
+MapPosition = 0,6,11
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[158]   # Route 23
+Name = Route 23
+SnapEdges = true
+BattleBack = rocky
+MapPosition = 0,2,10
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[159]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[160]   # Mt. Silver
+Name = Mt. Silver
+SnapEdges = true
+BattleBack = CuevaAzul
+MapPosition = 0,6,11
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[161]   # Mt. Silver
+Name = Mt. Silver
+MapPosition = 0,6,11
+SnapEdges = true
+BattleBack = rocky
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[162]   # Mt. Silver
+Name = Mt. Silver
+SnapEdges = true
+BattleBack = cave3
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[163]   # Mt. Silver
+Name = Mt. Silver
+SnapEdges = true
+BattleBack = snow
+MapPosition = 0,1,8
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[164]   # Mt. Silver
+Name = Mt. Silver
+SnapEdges = true
+BattleBack = cave3
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[165]   # Mt. Silver
+Name = Mt. Silver
+SnapEdges = true
+BattleBack = snow
+MapPosition = 0,1,7
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[166]   # Route 25
+Name = Route 25
+SnapEdges = true
+BattleBack = snow
+MapPosition = 0,3,5
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[167]   # Indigo City
+Name = Indigo City
+SnapEdges = true
+BattleBack = snow
+MapPosition = 0,3,2
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[168]   # Celestial Cave
+Name = Celestial Cave
+BattleBack =  cave2
+MapPosition = 0,6,11
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[169]   # Celestial Cave
+Name = Celestial Cave
+BattleBack = cave2
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[170]   # Celestial Cave
+Name = Celestial Cave
+BattleBack = cave2
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[171]   # House
+Name = House
+#-------------------------------
+[172]   # Pokémon League
+Name = Pokémon League
+BattleBack = Lorelei
+#-------------------------------
+[173]   # Pokémon League
+Name = Pokémon League
+SnapEdges = true
+BattleBack = Campeon
+MapPosition = 0,23,6
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[174]   # Celestial Forest
+Name = Celestial Forest
+SnapEdges = true
+BattleBack = BosqueLila
+Outdoor = true
+ShowArea = true
+MapPosition = 0,7,12
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[175]   # House
+Name = House
+#-------------------------------
+[176]   # House
+Name = House
+#-------------------------------
+[177]  # House
+Name = House
+#-------------------------------
+[178]   # Claro Secreto
+Name = Claro Secreto
+SnapEdges = true
+BattleBack = Bosque
+MapPosition = 0,7,7
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[179]   # Rocket Lair
+Name = Rocket Lair
+#-------------------------------
+[180]   # Indigo Lodge
+Name = Indigo Lodge
+#-------------------------------
+[181]   # Cataratas Tohjo
+Name = Cataratas Tohjo
+SnapEdges = true
+BattleBack = Cielo
+MapPosition = 0,7,7
+Outdoor = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[182]   #  Viridian Gym
+Name = Viridian Gym
+MapPosition = 0,6,11
+BattleBack = elite8
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[183]   # Villa Ámbar
+Name = Villa Ámbar
+SnapEdges = true
+BattleBack = Playa
+MapPosition = 0,25,12
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[184]   # Route 26
+Name = Route 26
+SnapEdges = true
+BattleBack = Playa
+MapPosition = 0,26,12
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[185]   # Villa Azabache
+Name = Villa Azabache
+SnapEdges = true
+BattleBack = Pradera
+MapPosition = 0,28,12
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[186]   # Cabo Azabache
+Name = Cabo Azabache
+SnapEdges = true
+BattleBack = Pradera
+MapPosition = 0,29,11
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[187]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[188]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[189]   # Route 27
+Name = Route 27
+SnapEdges = true
+BattleBack = Monte
+MapPosition = 0,28,14
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[190]   # Islote Recuerdo
+Name = Islote Recuerdo
+SnapEdges = true
+BattleBack = Playa
+MapPosition = 0,27,15
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[191]   # Route 28
+Name = Route 28
+SnapEdges = true
+BattleBack = Playa
+MapPosition = 0,26,10
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[192]   # Villa Magenta
+Name = Villa Magenta
+SnapEdges = true
+BattleBack = Pradera
+MapPosition = 0,28,8
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[193]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
+[194]   # Route 29
+Name = Route 29
+SnapEdges = true
+BattleBack = Pradera
+MapPosition = 0,27,8
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[195]   # Ruta 29
+Name = Route 29
+SnapEdges = true
+BattleBack = Pradera
+MapPosition = 0,26,8
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[196]   # Route 30
+Name = Route 30
+SnapEdges = true
+BattleBack = Agua
+MapPosition = 0,26,7
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[197]   # Cabo Magenta
+Name = Cabo Magenta
+SnapEdges = true
+BattleBack = Playa
+MapPosition = 0,28,6
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[198]   # Cueva Glaciada
+Name = Cueva Glaciada
+BattleBack = Sub
+MapPosition = 0,27,7
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[199]   # Bosque Arcoiris
+Name = Bosque Arcoiris
+SnapEdges = true
+BattleBack = BosqueArcoiris
+MapPosition = 0,26,6
+Outdoor = true
+ShowArea = true
+WildBattleBGM = PrismaSalvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+#-------------------------------
+[200]   # Cueva Perdida
+Name = Cueva Perdida
+BattleBack = Cueva
+MapPosition = 0,27,14
+ShowArea = true
+WildBattleBGM = PrismaSalvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+#-------------------------------
+[201]   # Bosque Arcoiris
+Name = Bosque Arcoiris
+SnapEdges = true
+BattleBack = BosqueArcoiris
+MapPosition = 0,26,6
+Outdoor = true
+ShowArea = true
+WildBattleBGM = PrismaSalvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+#-------------------------------
+[202]   # Casa
+Name = House
+BattleBack = Interior
+MapPosition = 0,7,12
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[203]   # Casa
+Name = House
+#-------------------------------
+[204]   # Casa
+Name = House
+#-------------------------------
+[205]   # Casa
+Name = House
+BattleBack = Interior
+MapPosition = 0,7,12
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------
+[206]   # House
+Name = House
+BattleBack = Interior
+MapPosition = 0,7,12
+WildBattleBGM = PrismaSalvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+#-------------------------------
+[207]   # Dojo Magenta
+Name = Dojo Magenta
+BattleBack = Interior
+MapPosition = 0,7,12
+ShowArea = true
+WildBattleBGM = PrismaSalvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+#-------------------------------
+[208]   # Créditos
+Name = Créditos
+SnapEdges = true
+BattleBack = BosqueArcoiris
+MapPosition = 0,7,12
+Outdoor = false
+ShowArea = false
+WildBattleBGM = PrismaSalvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+#-------------------------------
+[209]   # Créditos 2
+Name = Créditos 2
+SnapEdges = true
+BattleBack = BosqueArcoiris
+MapPosition = 0,7,12
+Outdoor = false
+ShowArea = false
+WildBattleBGM = PrismaSalvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+#-------------------------------
+[210]   # Créditos 3
+Name = Créditos 3
+SnapEdges = true
+BattleBack = BosqueArcoiris
+MapPosition = 0,7,12
+Outdoor = false
+ShowArea = false
+WildBattleBGM = PrismaSalvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+#-------------------------------
+[211]   # Créditos 4
+Name = Créditos 4
+SnapEdges = true
+BattleBack = BosqueArcoiris
+MapPosition = 0,7,12
+Outdoor = false
+ShowArea = false
+WildBattleBGM = PrismaSalvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+#-------------------------------
+[212]   # Escena
+Name = Escena
+SnapEdges = true
+BattleBack = BosqueArcoiris
+MapPosition = 0,7,12
+Outdoor = false
+ShowArea = false
+WildBattleBGM = PrismaSalvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+#-------------------------------
+[213]   # Almacen Secreto
+Name = Almacen Secreto
+SnapEdges = true
+BattleBack = Monte
+MapPosition = 0,28,14
+Outdoor = true
+ShowArea = true
+WildBattleBGM = PrismaSalvaje
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+#-------------------------------
+[214]   # Almacen Secreto
+Name = Almacen Secreto
+SnapEdges = false
+BattleBack = InteriorOscuro
+MapPosition = 0,28,14
+Outdoor = false
+ShowArea = false
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = PrismaEntrenador
+WildBattleBGM = PrismaSalvaje
+#-------------------------------

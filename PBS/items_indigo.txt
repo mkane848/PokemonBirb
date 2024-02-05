@@ -1,0 +1,292 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[POKEVIAL]
+Name = Pokévial
+NamePlural = Pokévials
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Restore the health of your Pokémon team. It is recharged at Pokémon Centers.
+#-------------------------------
+[DEXNAV]
+Name = PokéRadar
+NamePlural = PokéRadar
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Detect which Pokémon appear in the area.
+#-------------------------------
+[TALADOR]
+Name = Axe
+NamePlural = Axes
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = A tool that allows you to cut bushes and make them disappear, very ecological.
+#-------------------------------
+[ILUMINADOR]
+Name = Illuminator
+NamePlural = Illuminators
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = A gadget that allows you to illuminate dark areas.
+#-------------------------------
+[Escalada]
+Name = Climbing Equipment
+NamePlural = Climbing Equipment
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Tools to climb a rock wall.
+#-------------------------------
+[BONOBICI]
+Name = Bike Voucher
+NamePlural = Bike Vouchers
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Can be exchanged for a bike in Cerulean City.
+#-------------------------------
+[TICKETBARCO]
+Name = S.S. Ticket
+NamePlural = S.S. Tickets
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = The ticket required for sailing on the ferry S.S. Anne. It has a drawing of a ship on it.
+#-------------------------------
+[LLAVEROCKET]
+Name = Elevator Key
+NamePlural = Elevator Keys
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A key that activates the elevator in the Team Rocket Hideout.
+#-------------------------------
+[LLAVESUPERSECRETA]
+Name = Super Secret Key
+NamePlural = Super Secret Keys
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A key that activates the secret elevator in the Team Rocket Hideout.
+#-------------------------------
+[LENSOFTRUTH]
+Name = Lens of Truth
+NamePlural = Lens of Truth
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem, LensOfTruth
+Description = Allows hidden truths to be revealed in the world...
+#-------------------------------
+[Anillo]
+Name = Engagement Ring
+NamePlural = Engagement Rings
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = An engagement ring worn by a once married person, but who?
+#-------------------------------
+[TESECRETO]
+Name = Secret Tea
+NamePlural = Secret Tea
+Pocket = 8
+Price = 0
+Description = Its aroma is intoxicating.
+Flags = KeyItem
+#-------------------------------
+[SURFMONTURA]
+Name = Surf Mount
+NamePlural = Surf Mounts
+Pocket = 8
+Price = 0
+Description = Allows you to navigate through the water
+Flags = KeyItem
+#-------------------------------
+[TMAGN1]
+Name = Magnetic Card
+NamePlural = Magnetic Card
+Pocket = 8
+Price = 0
+Description = Combined with another card, it allows you to open doors in Silph Co.
+Flags = KeyItem
+#-------------------------------
+[TMAGN2]
+Name = Magnetic Card
+NamePlural = Magnetic Card
+Pocket = 8
+Price = 0
+Description = Combined with another card, it allows you to open doors in Silph Co.
+Flags = KeyItem
+#-------------------------------
+[PLUMAEOLICA]
+Name = Wind Plume
+NamePlural = Wind Plumes
+Pocket = 8
+Price = 0
+Description = The plume always seems to move as if there were a light breeze.
+Flags = KeyItem
+#-------------------------------
+[INCUBADORA]
+Name = Incubator
+NamePlural = Incubators
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Incubator for raising eggs.
+#-------------------------------
+[DIPLOMA]
+Name = Diploma
+NamePlural = Diplomas
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A diploma for completing the Pokédex.
+#-------------------------------
+[OFRENDAPRISMATICA]
+Name = Ofrenda Prismática
+NamePlural = Ofrenda Prismática
+Pocket = 8
+Price = 0
+Description = Entrégalas en los Altares de las Aves Guardianas.
+Flags = KeyItem
+#-------------------------------
+[MUNECOCOPIONA]
+Name = Pokémuñeco Especial
+NamePlural = Pokémuñeco Especial
+Pocket = 8
+Price = 0
+Description = Pertenece a la Copiona de Ciudad Azafrán.
+Flags = KeyItem
+#-------------------------------
+[RESGUARDO]
+Name = Resguardo
+NamePlural = Resguardo
+Pocket = 8
+Price = 0
+Description = El resguardo de una generosa compra de Leche Mu-Mu.
+Flags = KeyItem
+#-------------------------------
+[LLAVECAMION]
+Name = Truck Key
+NamePlural = Truck Keys
+Pocket = 8
+Price = 0
+Description = Opens the back of a truck.
+Flags = KeyItem
+#-------------------------------
+###
+### Plates
+###
+#-------------------------------
+[SCapsula]
+Name = Vigor Plate
+NamePlural = Vigor Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's HP stat.
+#-------------------------------
+[ACapsula]
+Name = Strong Plate
+NamePlural = Strong Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's Attack statistic.
+#-------------------------------
+[DCapsula]
+Name = Sturdy Plate
+NamePlural = Sturdy Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's Defense statistic.
+#-------------------------------
+[AECapsula]
+Name = Wise Plate
+NamePlural = Wise Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's Special Attack stat.
+#-------------------------------
+[DECapsula]
+Name = Spirit Plate
+NamePlural = Spirit Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's Special Defense stat.
+#-------------------------------
+[VCapsula]
+Name = Momentum Plate
+NamePlural = Momentum Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's Speed stat.
+#-------------------------------
+###
+### Mega Stones 
+###
+#-------------------------------
+[PIKACHUITE]
+Name = Pikachuite
+NamePlural = Pikachuites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Pikachu hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[LAPRASITE]
+Name = Laprasite
+NamePlural = Laprasites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Lapras hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[MACHAMPITE]
+Name = Machampite
+NamePlural = Machampites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Machamp hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[BUTTERFREEITE]
+Name = Butterfreeite
+NamePlural = Butterfreeites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Butterfree hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[KINGLERITE]
+Name = Kinglerite
+NamePlural = Kinglerites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Kingler hold it, and it will be able to Mega Evolve.
+#-------------------------------
