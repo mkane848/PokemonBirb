@@ -1,0 +1,4 @@
+Name		= Lens of Truth
+Version		= 2.0
+Link		= https://newpokeliberty.blogspot.com/2017/05/scripts-lens-of-truth.html
+Credits		= Drimer, KeMiX
