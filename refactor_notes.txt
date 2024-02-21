@@ -32,10 +32,6 @@ Battles:
 #-------------------------------
 
 TODO
-- Fix opening
-    - Fix graphics during "Gender" selection
-    - Fix SE not playing in opening menu
-    - Fix control responsiveness
 - Set Pokedex correctly - do we just use National?
     - "Classic" Mode might just be Kanto + Johto?
 - General EDBX battle graphics cleanup
