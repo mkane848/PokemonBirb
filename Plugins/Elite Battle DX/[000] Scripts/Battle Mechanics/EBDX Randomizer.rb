@@ -27,6 +27,11 @@ module EliteBattle
   #-----------------------------------------------------------------------------
   def self.randomizeTrainers
     # loads compiled data and creates new array
+    # pokemonParams[0] = (pokemonParams[1] < 36)
+    #    ? await getRandomPokemon(pokemonCollection)
+    #    : await getRandomPokemon(maxEvolvedPokemon);
+    # old rando used to check if replaced pkmn was lv36 and up and would grab max evolved form
+    # how do we replicate this here?
     data = load_data("Data/trainers.dat")
     trainer_exclusions = EliteBattle.get_data(:RANDOMIZER, :Metrics, :EXCLUSIONS_TRAINERS)
     species_exclusions = EliteBattle.get_data(:RANDOMIZER, :Metrics, :EXCLUSIONS_SPECIES)
