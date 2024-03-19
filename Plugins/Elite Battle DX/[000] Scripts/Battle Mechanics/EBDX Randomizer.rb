@@ -43,7 +43,18 @@ module EliteBattle
       # iterate through party
       for i in 0...data[key].pokemon.length
         next if !species_exclusions.nil? && species_exclusions.include?(data[key].pokemon[i][:species])
-        data[key].pokemon[i][:species] = EliteBattle.all_species.sample
+        temp_pkmn = EliteBattle.all_species.sample
+        if data[key].pokemon[i][:level] > 35 && EliteBattle.getNextEvos(temp_pkmn).length > 0
+          evolved_pkmn = EliteBattle.getNextEvos(temp_pkmn).last
+          if temp_pkmn != evolved_pkmn
+            puts "Evolving " + temp_pkmn.to_s + " -> " + evolved_pkmn.to_s 
+            temp_pkmn = evolved_pkmn
+          end
+        end
+        data[key].pokemon[i][:species] = temp_pkmn
+        data[key].pokemon[i][:moves] = []
+        # data[key].pokemon[i][:item] = 
+        # data[key].pokemon[i].resetMoves
       end
     end
     return data
