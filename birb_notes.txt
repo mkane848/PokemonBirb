@@ -17,3 +17,4 @@ TODO:
     - Old Move Relearners?
 
 - Put Randy in every Pkmn Center?
+- Fix battle speed, will probably need to update tick vs seconds system

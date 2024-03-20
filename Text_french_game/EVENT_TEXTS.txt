@@ -2169,93 +2169,93 @@ No
 #-------------------------------
 [Map039]
 Oye, ¡no deberías estar perdiendo el tiempo en el Casino!
-Oye, ¡no deberías estar perdiendo el tiempo en el Casino!
+Hey, you shouldn't be wasting your time at the Casino!
 ¿No has derrotado a la líder <b>Erika</b> todavía?
-¿No has derrotado a la líder <b>Erika</b> todavía?
+Haven't you defeated the leader <b>Erika</b> yet?
 Aquí puedes cambiar tus fichas por Pokémon.
-Aquí puedes cambiar tus fichas por Pokémon.
+Here you can exchange your tokens for Pokémon.
 ¿Qué premio quieres?\ch[1,6, Pikachu - 3000 monedas,Scyther - 7000 monedas, Porygon - 10000 monedas,Dratini - 15000 monedas, Corsola - 5000 monedas,Nada]
-¿Qué premio quieres?\ch[1,6, Pikachu - 3000 monedas,Scyther - 7000 monedas, Porygon - 10000 monedas,Dratini - 15000 monedas, Corsola - 5000 monedas,Nada]
+What prize do you want?\ch[1,6, Pikachu - 3000 coins,Scyther - 7000 coins, Porygon - 10000 coins,Dratini - 15000 coins, Corsola - 5000 coins,Nothing]
 ¿Quieres comprar un \v[3]?
-¿Quieres comprar un \v[3]?
+Do you want to buy a \v[3]?
 No te lo puedes permitir.
-No te lo puedes permitir.
+You can't afford it.
 ¡Venga, a ver qué tal te desenvuelves en el <b>Gira-Voltorb</b>!
-¡Venga, a ver qué tal te desenvuelves en el <b>Gira-Voltorb</b>!
+Come on, let's see how you do on the <b>Gira-Voltorb</b>!
 Mi Pokémon ha encontrado esto en el suelo, a lo mejor te viene bien.
-Mi Pokémon ha encontrado esto en el suelo, a lo mejor te viene bien.
+My Pokémon found this on the ground, maybe it will come in handy.
 ¡Ah! No tienes un Monedero.
-¡Ah! No tienes un Monedero.
+Ah! You don't have a Wallet.
 (Recibes 100 fichas)
-(Recibes 100 fichas)
+(You receive 100 tokens)
 Yo solo vengo aquí para acompañar a mi nieto, me hace ilusión verlo feliz.
-Yo solo vengo aquí para acompañar a mi nieto, me hace ilusión verlo feliz.
+I only come here to accompany my grandson, I'm excited to see him happy.
 ¡Ya está! ¡Ya casi me alcanzan las fichas para poder canjearlas por el Pokémon que quería!
-¡Ya está! ¡Ya casi me alcanzan las fichas para poder canjearlas por el Pokémon que quería!
+That's it! I almost have enough tokens to redeem them for the Pokémon I wanted!
 Habla conmigo al otro lado del mostrador para empezar a jugar al <b>Gira-Voltorb</b>.
-Habla conmigo al otro lado del mostrador para empezar a jugar al <b>Gira-Voltorb</b>.
+Talk to me on the other side of the counter to start playing <b>Gira-Voltorb</b>.
 ¿Crees que soy demasiado joven para a estas cosas? Pues que sepas que ahora mismo en mi casa tengo 10 ordenadores minando criptomonedas.
-¿Crees que soy demasiado joven para a estas cosas? Pues que sepas que ahora mismo en mi casa tengo 10 ordenadores minando criptomonedas.
+Do you think I'm too young for these things? Well, you should know that right now in my house I have 10 computers mining cryptocurrencies.
 ¡Voy a ser rico!
-¡Voy a ser rico!
+I'll be rich!
 Esto... ¡esto es una zona reservada sin nada sospechoso ni particular!
-Esto... ¡esto es una zona reservada sin nada sospechoso ni particular!
+This... this is a reserved area with nothing suspicious or strange!
 Me obligarás a tomar medidas serias si no te vas.
-Me obligarás a tomar medidas serias si no te vas.
+They forced me to take serious action if you don't leave.
 ...
 ...
 ¡Está bien! ¡No me dejas otra salida!
-¡Está bien! ¡No me dejas otra salida!
+Alright! You leave me no other way out!
 Con que esas tenemos, ¿eh?
-Con que esas tenemos, ¿eh?
+So we have those, eh?
 Bajaré para informar a los jefes de que nos estás dando problemas, ¡tú lo has querido!
-Bajaré para informar a los jefes de que nos estás dando problemas, ¡tú lo has querido!
+I'll go down to inform the bosses that you're giving us problems, you asked for it!
 ¡Se acabó! Tengo que luchar contra esta adicción.
-¡Se acabó! Tengo que luchar contra esta adicción.
+It's over! I have to fight this addiction.
 Toma, te doy las últimas fichas que me quedaban.
-Toma, te doy las últimas fichas que me quedaban.
+Here, I'll give you the last chips I had left.
 (Recibes 200 fichas)
-(Recibes 200 fichas)
+(You receive 200 tokens)
 Volveré a casa y abrazaré a mi mujer y a mis hijos, ¡tengo que acabar con este modo de vida!
-Volveré a casa y abrazaré a mi mujer y a mis hijos, ¡tengo que acabar con este modo de vida!
+I'll return home and hug my wife and children, I have to end this way of life!
 <b>Erico:</b> ¡Uff! Este casino es mi perdición, el de mi ciudad natal no es tan grande.
-<b>Erico:</b> ¡Uff! Este casino es mi perdición, el de mi ciudad natal no es tan grande.
+<b>Erico:</b> Phew! This casino is my downfall, the one in my hometown isn't this big.
 Se supone que viajé hasta aquí para hacer turismo sano pero he caído en la ludopatía. ¡Jajaja!
-Se supone que viajé hasta aquí para hacer turismo sano pero he caído en la ludopatía. ¡Jajaja!
+I was supposed to travel here for some healthy tourism, but I think I got addicted to gambling. Ha ha ha!
 ¡Ya sé! Si activo mi espíritu combativo, podré sacar energía para marcharme.
-¡Ya sé! Si activo mi espíritu combativo, podré sacar energía para marcharme.
+I know! If I activate my fighting spirit, I'll be able to summon the energy to leave.
 ¿Me ayudas con un combatito Pokémon? ¡Jajaja!
-¿Me ayudas con un combatito Pokémon? ¡Jajaja!
+Can you help me with a Pokémon battle? Ha ha ha!
 ¡Uy! Pues no ha salido como yo esperaba, has aplastado mi espíritu combativo.
-¡Uy! Pues no ha salido como yo esperaba, has aplastado mi espíritu combativo.
+Oops! Well, it hasn't turned out as I expected, you've crushed my fighting spirit.
 Bueno, supongo que no pasa nada si me quedo un rato más por aquí. ¡Jajaja!
-Bueno, supongo que no pasa nada si me quedo un rato más por aquí. ¡Jajaja!
+Well, I guess it's okay if I hang around here a little longer then. Ha ha ha!
 ¿En serio? ¿Le niegas ese favor a un pobre señor mayor? A este paso acabaré arruinado, ¡jajaja!
-¿En serio? ¿Le niegas ese favor a un pobre señor mayor? A este paso acabaré arruinado, ¡jajaja!
+Oh really? You'd deny a poor old man a favor? At this rate I'll end up ruined, hahaha!
 <b>Erico:</b> Pues no ha salido como yo esperaba, has aplastado mi espíritu combativo.
-<b>Erico:</b> Pues no ha salido como yo esperaba, has aplastado mi espíritu combativo.
+<b>Erico:</b> Well, this hasn't turned out as I expected, you've crushed my fighting spirit.
 Los del <b>Team Rocket</b> se pasan con mucha frecuencia por aquí, ¿qué tramarán?
-Los del <b>Team Rocket</b> se pasan con mucha frecuencia por aquí, ¿qué tramarán?
+<b>Team Rocket</b> members stop by here very frequently, what are they up to?
 Las tragaperras son un mero juego de azar. Si consigo usarlo a mi favor...
-Las tragaperras son un mero juego de azar. Si consigo usarlo a mi favor...
+Slot machines are a mere game of chance. If I can use it to my advantage...
 ¡Te doy la bienvenida al Casino Azulona!
-¡Te doy la bienvenida al Casino Azulona!
+I welcome you to Celedon Casino!
 ¿Quieres comprar unas cuantas fichas?
-¿Quieres comprar unas cuantas fichas?
+Do you want to buy a few chips?
 No tienes un Monedero.
-No tienes un Monedero.
+You don't have a Wallet.
 Tu Monedero está lleno.
-Tu Monedero está lleno.
+Your Wallet is full.
 No te lo puedes permitir, lo siento.
-No te lo puedes permitir, lo siento.
+You can't afford it, sorry.
 Aquí tienes, ¡muchas gracias!
-Aquí tienes, ¡muchas gracias!
+Here you go, thank you very much!
 ¿No? Piénsalo bien. ¡Solo se vive una vez!
-¿No? Piénsalo bien. ¡Solo se vive una vez!
+No? Think wisely. You only live once!
 ¡Hoy he ganado muchísimas fichas! Me siento tan afortunado que compartiré unas cuantas contigo.
-¡Hoy he ganado muchísimas fichas! Me siento tan afortunado que compartiré unas cuantas contigo.
+I won a lot of chips today! I feel so lucky that I'll share a few with you.
 ¡Hoy he ganado muchísimas fichas! A este paso podré reclamar el premio supremo.
-¡Hoy he ganado muchísimas fichas! A este paso podré reclamar el premio supremo.
+I won a lot of chips today! At this rate I'll be able to claim the grand prize.
 Yes
 Yes
 No
@@ -2267,7 +2267,7 @@ No
 5000 coins [$100,000]
 5000 coins [$100,000]
 Salir
-Salir
+Go out
 #-------------------------------
 [Map040]
 ¡A ver si convenzo a mi padre de que me ayude a capturar un Clefairy! Se ha convertido en mi obsesión ahora que me han contado su origen.

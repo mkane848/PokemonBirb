@@ -53,8 +53,12 @@ module EliteBattle
         end
         data[key].pokemon[i][:species] = temp_pkmn
         data[key].pokemon[i][:moves] = []
-        # data[key].pokemon[i][:item] = 
-        # data[key].pokemon[i].resetMoves
+        # if !data[key].pokemon[i][:item] = data[key].pokemon[i][:item].nil?
+        data[key].pokemon[i][:item] = nil
+        # if !data[key].pokemon[i][:item] = data[key].pokemon[i][:abilityIndex].nil?
+        data[key].pokemon[i][:abilityIndex] = nil
+        # if !data[key].pokemon[i][:item] = data[key].pokemon[i][:nature].nil? 
+        data[key].pokemon[i][:item] = data[key].pokemon[i][:nature] = nil
       end
     end
     return data
