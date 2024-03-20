@@ -4,3 +4,16 @@
 03/19/2024
     - Updated randomizer function to clear the movelist of a Trainer's randomized Pokemon to address the replaced Pkmn's moveset not changing
         TODO: Make sure all definitions that need to be wiped like held item, ability, etc. are accounted for
+
+03/20/2024
+    - More translations!
+
+
+
+TODO:
+- Remove NPCs and Events we won't be using
+    - Alpha Hives?
+    - Trade Experts?
+    - Old Move Relearners?
+
+- Put Randy in every Pkmn Center?
