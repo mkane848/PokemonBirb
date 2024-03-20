@@ -1553,245 +1553,245 @@ Por cierto, mi Pokémon tuvo una cría el otro día, ¿por qué no te lo quedas?
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Un buen entrenador siempre se asegura de llevar unas cuantas Pokéball a su recaudo.
-Un buen entrenador siempre se asegura de llevar unas cuantas Pokéball a su recaudo.
+A good trainer always makes sure to keep a few Pokéballs on hand.
 Te daría alguna, pero ahora mismo no sé dónde me las he dejado.
-Te daría alguna, pero ahora mismo no sé dónde me las he dejado.
+I would give you some, but I don't know where I put them.
 <b>Prof. Oak</b>: ¿Quieres a Charmander como Pokémon inicial?
-<b>Prof. Oak</b>: ¿Quieres a Charmander como Pokémon inicial?
+<b>Prof. Oak</b>: Do you want Charmander as a starter Pokémon?
 <b>Prof. Oak</b>: Es un Pokémon difícil de criar... ¡pero si lo logras, la recompensa será grande!
-<b>Prof. Oak</b>: Es un Pokémon difícil de criar... ¡pero si lo logras, la recompensa será grande!
+<b>Prof. Oak</b>: It's a difficult Pokémon to breed... but if you succeed, the reward will be great!
 Es un Pokémon del <b>Prof. Oak</b>.
-Es un Pokémon del <b>Prof. Oak</b>.
+It is one of <b>Prof. Oak</b>'s Pokémon.
 Si necesitas curar a tu Pokémon, acude a mí y utilizaremos esta máquina.
-Si necesitas curar a tu Pokémon, acude a mí y utilizaremos esta máquina.
+If you need to heal your Pokémon, come to me and we'll use this machine.
 ¿Necesitar curar a tus Pokémon?
-¿Necesitar curar a tus Pokémon?
+Need to heal your Pokémon?
 ¡Eso está hecho!
-¡Eso está hecho!
+That's done!
 ¡Listo! ¡Están como nuevos!
-¡Listo! ¡Están como nuevos!
+Ready! They're like new!
 Ten cuidado y no fuerces demasiado a tus Pokémon, ¡podrías acabar muy mal!
-Ten cuidado y no fuerces demasiado a tus Pokémon, ¡podrías acabar muy mal!
+Be careful and don't push your Pokémon too much, you could end up very hurt!
 \c[1]<b>\v[12]:</b>\c[0] Abuelo, ¿vas a decirme por qué nos necesitabas con tanta urgencia? ¡Estoy harto de esperar!
-\c[1]<b>\v[12]:</b>\c[0] Abuelo, ¿vas a decirme por qué nos necesitabas con tanta urgencia? ¡Estoy harto de esperar!
+\c[1]<b>\v[12]:</b>\c[0] BGrandpa, are you going to tell me why you needed us so badly? I'm tired of waiting!
 <b>Prof. Oak:</b> ¡Ah, sí! ¡Os había llamado para algo importante, desde luego!
-<b>Prof. Oak:</b> ¡Ah, sí! ¡Os había llamado para algo importante, desde luego!
+<b>Prof. Oak:</b> Oh, yes! I had called you for something important, of course!
 <b>Prof. Oak:</b> Mirad, en esas Pokéball hay 3 Pokémon.
-<b>Prof. Oak:</b> Mirad, en esas Pokéball hay 3 Pokémon.
+<b>Prof. Oak:</b> Look, there are 3 Pokémon in those Pokéballs.
 Creo que ya tenéis edad para recibir a vuestro primer Pokémon y aprender a combatir con él.
-Creo que ya tenéis edad para recibir a vuestro primer Pokémon y aprender a combatir con él.
+I think you're old enough to receive your first Pokémon and learn to fight with it.
 <b>Prof. Oak:</b> En mi juventud fui un magnífico entrenador, ¿sabéis? Pero me hago viejo, me apetece jubilarme de una vez.
-<b>Prof. Oak:</b> En mi juventud fui un magnífico entrenador, ¿sabéis? Pero me hago viejo, me apetece jubilarme de una vez.
+<b>Prof. Oak:</b> In my youth I was a magnificent trainer, you know? But I'm getting old, I want to retire once and for all.
 Pero como último legado, me gustaría que vosotros también os convirtierais en unos entrenadores competentes.
-Pero como último legado, me gustaría que vosotros también os convirtierais en unos entrenadores competentes.
+But for my last legacy, I would also like you to become competent trainers.
 \c[1]<b>\v[12]:</b>\c[0] Bueno... ¡eso no supondrá ningún problema! Soy el mejor.
-\c[1]<b>\v[12]:</b>\c[0] Bueno... ¡eso no supondrá ningún problema! Soy el mejor.
+\c[1]<b>\v[12]:</b>\c[0] Well... that won't be a problem! I'm the best.
 Te he superado en todo desde que éramos pequeños, \PN.
-Te he superado en todo desde que éramos pequeños, \PN.
+I've surpassed you in everything since we were little, \PN.
 \c[1]<b>\v[12]:</b>\c[0] Y como muestra de buena voluntad, dejaré que tú elijas primero a tu Pokémon, ¡venga!
-\c[1]<b>\v[12]:</b>\c[0] Y como muestra de buena voluntad, dejaré que tú elijas primero a tu Pokémon, ¡venga!
+\c[1]<b>\v[12]:</b>\c[0] And as a sign of good will, I'll let you choose your Pokémon first, come on!
 <b>Prof. Oak:</b> Elige a tu Pokémon sabiamente, \PN. ¡Estoy seguro de que seréis grandes compañeros!
-<b>Prof. Oak:</b> Elige a tu Pokémon sabiamente, \PN. ¡Estoy seguro de que seréis grandes compañeros!
+<b>Prof. Oak:</b> Choose your Pokémon wisely, \PN. I'm sure you'll be great companions!
 <b>Prof. Oak:</b> ¡Estoy seguro de que no te arrepentirás del Pokémon que has escogido!
-<b>Prof. Oak:</b> ¡Estoy seguro de que no te arrepentirás del Pokémon que has escogido!
+<b>Prof. Oak:</b> I'm sure you won't regret the Pokémon you chose!
 <b>Prof. Oak</b>: Falta una tercera persona a la cual le tengo que entregar un Pokémon.
-<b>Prof. Oak</b>: Falta una tercera persona a la cual le tengo que entregar un Pokémon.
+<b>Prof. Oak</b>: There is a third person missing to whom I have to give a Pokémon.
 Se suponía que tenía que venir desde <b>Ciudad Verde</b>. Además, también tenía que entregarme un paquete importante.
-Se suponía que tenía que venir desde <b>Ciudad Verde</b>. Además, también tenía que entregarme un paquete importante.
+They were supposed to come from <b>Viridian City</b>. In addition, they also had to deliver an important package to me.
 Si no es mucha molestia, \PN, ¿podrías ir a <b>Ciudad Verde</b> para encontrarte con esa persona?
-Si no es mucha molestia, \PN, ¿podrías ir a <b>Ciudad Verde</b> para encontrarte con esa persona?
+If it's not too much trouble, \PN, could you go to <b>Viridian City</b> to meet them?
 <b>Prof. Oak</b>: ¿Quieres a Squirtle como Pokémon inicial?
-<b>Prof. Oak</b>: ¿Quieres a Squirtle como Pokémon inicial?
+<b>Prof. Oak</b>: Do you want Squirtle as your starter Pokémon?
 <b>Prof. Oak</b>: Muy buena decisión, desde luego. ¡No te arrepentirás!
-<b>Prof. Oak</b>: Muy buena decisión, desde luego. ¡No te arrepentirás!
+<b>Prof. Oak</b>: Very good decision, of course. You won't regret it!
 \c[1]<b>\v[12]:</b>\c[0] ¿Has visto a mi abuelo? Nos había llamado para que viniéramos al laboratorio lo más rápido posible.
-\c[1]<b>\v[12]:</b>\c[0] ¿Has visto a mi abuelo? Nos había llamado para que viniéramos al laboratorio lo más rápido posible.
+\c[1]<b>\v[12]:</b>\c[0] Have you seen my grandfather? He called us to come to the laboratory as quickly as possible.
 Pero no lo veo por ninguna parte...
-Pero no lo veo por ninguna parte...
+But I don't see him anywhere...
 \c[1]<b>\v[12]:</b>\c[0] Como muestra de buena voluntad, dejaré que tú elijas primero a tu Pokémon, ¡venga!
-\c[1]<b>\v[12]:</b>\c[0] Como muestra de buena voluntad, dejaré que tú elijas primero a tu Pokémon, ¡venga!
+\c[1]<b>\v[12]:</b>\c[0] As a sign of goodwill, I'll let you choose your Pokémon first, come on!
 \sh\c[1]<b>\v[12]:</b>\c[0] ¡AJÁ!
-\sh\c[1]<b>\v[12]:</b>\c[0] ¡AJÁ!
+\sh\c[1]<b>\v[12]:</b>\c[0] AHA!
 \c[1]<b>\v[12]:</b>\c[0] ¡Has caído en mi trampa, \PN!
-\c[1]<b>\v[12]:</b>\c[0] ¡Has caído en mi trampa, \PN!
+\c[1]<b>\v[12]:</b>\c[0] You've fallen into my trap, \PN!
 Sabía que escogerías a ese Pikachu debilucho. ¡En cambio yo voy a escoger a un Pokémon fuerte de verdad!
-Sabía que escogerías a ese Pikachu debilucho. ¡En cambio yo voy a escoger a un Pokémon fuerte de verdad!
+I knew you'd pick that weakling Pikachu. I'm going to choose a really strong Pokémon, instead!
 Como yo soy el segundo, ¡escogeré al Pokémon que tiene ventaja frente al tuyo!
-Como yo soy el segundo, ¡escogeré al Pokémon que tiene ventaja frente al tuyo!
+Since I'm second, I'll choose the Pokémon that has the advantage over yours!
 <b>Prof. Oak:</b> ¡Mira que eres competitivo! ¿Eh?
-<b>Prof. Oak:</b> ¡Mira que eres competitivo! ¿Eh?
+<b>Prof. Oak:</b> Wow, look how competitive you are!
 Pero bueno, ahora ya tenéis los dos a vuestro Pokémon inicial y estáis listos para vivir aventuras.
-Pero bueno, ahora ya tenéis los dos a vuestro Pokémon inicial y estáis listos para vivir aventuras.
+But hey, now you both have your starter Pokémon and are ready to adventure.
 \c[1]<b>\v[12]</b>\c[0]: ¡Ja! ¡Has caído en mi trampa, \PN!
-\c[1]<b>\v[12]</b>\c[0]: ¡Ja! ¡Has caído en mi trampa, \PN!
+\c[1]<b>\v[12]</b>\c[0]: Ha! You've fallen into my trap, \PN!
 Como yo soy el segundo, escogeré al Pokémon que tiene ventaja frente al tuyo.
-Como yo soy el segundo, escogeré al Pokémon que tiene ventaja frente al tuyo.
+Since I'm second, I'll choose the Pokémon that has the advantage over yours!
 \c[1]<b>\v[12]:</b>\c[0] ¿Qué es lo que quieres ahora, abuelo? ¡Tengo mucho que hacer!
-\c[1]<b>\v[12]:</b>\c[0] ¿Qué es lo que quieres ahora, abuelo? ¡Tengo mucho que hacer!
+\c[1]<b>\v[12]:</b>\c[0] What do you want now, grandpa? I have a lot to do!
 ¡Mis Pokémon tienen que hacerse más fuertes!
-¡Mis Pokémon tienen que hacerse más fuertes!
+My Pokémon have to get stronger!
 <b>Prof. Oak:</b> ¡Relájate un poco, hombre! Que acabas de empezar.
-<b>Prof. Oak:</b> ¡Relájate un poco, hombre! Que acabas de empezar.
+<b>Prof. Oak:</b> Relax a little, my boy! You just started.
 <b>Prof. Oak:</b> \c[3]<b>Hoja</b>\c[0], querida muchacha, ¿me has traído eso tan importante?
-<b>Prof. Oak:</b> \c[3]<b>Hoja</b>\c[0], querida muchacha, ¿me has traído eso tan importante?
+<b>Prof. Oak:</b> \c[3]<b>Leaf</b>\c[0], dear girl, have you brought me that important item?
 \c[3]<b>Hoja:</b>\c[0] Sí, aquí... espere...\n¡Aquí tiene!
-\c[3]<b>Hoja:</b>\c[0] Sí, aquí... espere...\n¡Aquí tiene!
+\c[3]<b>Leaf:</b>\c[0] Yes, here... wait...\nHere you go!
 <b>Prof. Oak:</b> \c[2]<b>Rojo</b>\c[0], querido muchacho, ¿me has traído eso tan importante?
-<b>Prof. Oak:</b> \c[2]<b>Rojo</b>\c[0], querido muchacho, ¿me has traído eso tan importante?
+<b>Prof. Oak:</b> \c[2]<b>Red</b>\c[0], dear boy, have you brought me that important item?
 \c[2]<b>Rojo:</b>\c[0] Sí, aquí... espere...\n¡Aquí tiene!
-\c[2]<b>Rojo:</b>\c[0] Sí, aquí... espere...\n¡Aquí tiene!
+\c[2]<b>Red:</b>\c[0] Yes, here... wait...\nHere you go!
 <b>Prof. Oak:</b> ¡Ajá! ¡Tres unidades de <b>Pokédex</b> traídas desde <b>Hoenn</b>!
-<b>Prof. Oak:</b> ¡Ajá! ¡Tres unidades de <b>Pokédex</b> traídas desde <b>Hoenn</b>!
+<b>Prof. Oak:</b> Aha! Three <b>Pokédex</b> units from <b>Hoenn</b>!
 \c[1]<b>\v[12]:</b>\c[0] ¿El qué? ¿<b>Pokédex</b>? ¿Qué es eso?
-\c[1]<b>\v[12]:</b>\c[0] ¿El qué? ¿<b>Pokédex</b>? ¿Qué es eso?
+\c[1]<b>\v[12]:</b>\c[0] Huh? <b>Pokédex</b>? What's that?
 <b>Prof. Oak:</b> *Ejem* Bueno, esto es alto secreto pero...
-<b>Prof. Oak:</b> *Ejem* Bueno, esto es alto secreto pero...
+<b>Prof. Oak:</b> *Ahem* Well, this is top secret, but...
 <b>Prof. Oak:</b> Desde hace unos años, he colaborado en un proyecto con una empresa tecnológica de <b>Hoenn</b>.
-<b>Prof. Oak:</b> Desde hace unos años, he colaborado en un proyecto con una empresa tecnológica de <b>Hoenn</b>.
+<b>Prof. Oak:</b> For a few years now, I have collaborated on a project with a technology company from <b>Hoenn</b>.
 Queríamos construir una especie de enciclopedia electrónica Pokémon, para que los entrenadores pudieran registrar y consultar la información de cualquier especie.
-Queríamos construir una especie de enciclopedia electrónica Pokémon, para que los entrenadores pudieran registrar y consultar la información de cualquier especie.
+We wanted to build a kind of electronic Pokémon encyclopedia, so that trainers could record and consult information on any species.
 \c[1]<b>\v[12]:</b>\c[0] ¡Genial! ¡Con esa enciclopedia podré saber qué Pokémon son los mejores!
-\c[1]<b>\v[12]:</b>\c[0] ¡Genial! ¡Con esa enciclopedia podré saber qué Pokémon son los mejores!
+\c[1]<b>\v[12]:</b>\c[0] Brilliant! With that encyclopedia I'll be able to know which Pokémon are the best!
 <b>Prof. Oak:</b> Bueno...
-<b>Prof. Oak:</b> Bueno...
+<b>Prof. Oak:</b> Well...
 <b>Prof. Oak:</b> La <b>Pokédex</b> ahora mismo está vacía, estas son las primeras unidades que se han construido.
-<b>Prof. Oak:</b> La <b>Pokédex</b> ahora mismo está vacía, estas son las primeras unidades que se han construido.
+<b>Prof. Oak:</b> The <b>Pokédex</b> is empty right now, these are the first units that have been built.
 Por eso quería pediros una misión importante.
-Por eso quería pediros una misión importante.
+That's why I wanted to ask you to go on an important mission.
 <b>Prof. Oak:</b> ¿Estaríais dispuestos a llenarla con la información de todos los Pokémon de la región de <b>Kanto</b>?
-<b>Prof. Oak:</b> ¿Estaríais dispuestos a llenarla con la información de todos los Pokémon de la región de <b>Kanto</b>?
+<b>Prof. Oak:</b> Would you be willing to fill it with information on all the Pokémon in the <b>Kanto</b> region?
 \c[1]<b>\v[12]:</b>\c[0] ¡Pero eso es imposible! Son cientos de especies de Pokémon por descubrir.
-\c[1]<b>\v[12]:</b>\c[0] ¡Pero eso es imposible! Son cientos de especies de Pokémon por descubrir.
+\c[1]<b>\v[12]:</b>\c[0] But that's impossible! There are hundreds of Pokémon species to discover.
 <b>Prof. Oak:</b> No es imposible... ¡yo lo hice!
-<b>Prof. Oak:</b> No es imposible... ¡yo lo hice!
+<b>Prof. Oak:</b> It's not impossible... I did it!
 ¡Fui capaz de hacerme con todos!
-¡Fui capaz de hacerme con todos!
-\c[3]<b>Hoja:</b>\c[0] Yo...
-\c[3]<b>Hoja:</b>\c[0] Yo...
-\c[2]<b>Rojo:</b>\c[0] Yo...
-\c[2]<b>Rojo:</b>\c[0] Yo...
+I was able to catch them all!
+\c[3]<b>Hoja:</b>\c[0] I...
+\c[3]<b>Leaf:</b>\c[0] Yo...
+\c[2]<b>Rojo:</b>\c[0] I...
+\c[2]<b>Red:</b>\c[0] Yo...
 \c[3]<b>Hoja:</b>\c[0] Yo sí lo haré, <b>Prof. Oak</b>...
-\c[3]<b>Hoja:</b>\c[0] Yo sí lo haré, <b>Prof. Oak</b>...
+\c[3]<b>Leaf:</b>\c[0] I will, <b>Prof. Oak</b>...
 No sé si le seré de mucha ayuda, pero... ¡usted ha confiado en mí para esto!
-No sé si le seré de mucha ayuda, pero... ¡usted ha confiado en mí para esto!
+I don't know if I'll be of much help to you, but... you trusted me with this!
 \c[2]<b>Rojo:</b>\c[0] Yo sí lo haré, <b>Prof. Oak</b>...
-\c[2]<b>Rojo:</b>\c[0] Yo sí lo haré, <b>Prof. Oak</b>...
+\c[2]<b>Red:</b>\c[0] I will, <b>Prof. Oak</b>...
 <b>Prof. Oak:</b> ¡Así se habla!
-<b>Prof. Oak:</b> ¡Así se habla!
+<b>Prof. Oak:</b> Well said!
 Pues os entregaré una <b>Pokédex</b> a cada uno.
-Pues os entregaré una <b>Pokédex</b> a cada uno.
+Here, I'll give you each a <b>Pokédex</b>.
 ¡Recibes <b>Pokedex</b>!
-¡Recibes <b>Pokedex</b>!
+You receive a <b>Pokedex</b>!
 También os entrego unas Pokéball y Pociones iniciales para que podáis empezar con buen pie.
-También os entrego unas Pokéball y Pociones iniciales para que podáis empezar con buen pie.
+I'll also give you some Pokéballs and Potions so you can get off to a good start.
 ¡Además del <b>Pokévial</b>, una herramienta que todo entrenador debe tener!
-¡Además del <b>Pokévial</b>, una herramienta que todo entrenador debe tener!
+In addition to the <b>Pokévial</b>, a tool that every trainer should have!
 \c[1]<b>\v[12]:</b>\c[0] Qué fastidio... yo quería desafiar a los líderes de gimnasio.
-\c[1]<b>\v[12]:</b>\c[0] Qué fastidio... yo quería desafiar a los líderes de gimnasio.
+\c[1]<b>\v[12]:</b>\c[0] What a bummer... I wanted to challenge the gym leaders.
 <b>Prof. Oak:</b> Puedes hacerlo, \c[1]<b>\v[12]</b>\c[0].
-<b>Prof. Oak:</b> Puedes hacerlo, \c[1]<b>\v[12]</b>\c[0].
+<b>Prof. Oak:</b> You can do it, \c[1]<b>\v[12]</b>\c[0].
 Vuestra aventura Pokémon la marcáis vosotros. Pero si por el camino podéis ir llenando la <b>Pokédex</b>...
-Vuestra aventura Pokémon la marcáis vosotros. Pero si por el camino podéis ir llenando la <b>Pokédex</b>...
+Your Pokémon adventure is yours. But if along the way you can fill the <b>Pokédex</b>...
 \c[1]<b>\v[12]:</b>\c[0] ¡Ja! Lo que voy a hacer es pedirle a mi hermana un <b>PokéRadar</b> para saber qué Pokémon aparecen en cada zona.
-\c[1]<b>\v[12]:</b>\c[0] ¡Ja! Lo que voy a hacer es pedirle a mi hermana un <b>PokéRadar</b> para saber qué Pokémon aparecen en cada zona.
+\c[1]<b>\v[12]:</b>\c[0] Ha! What I'm going to do is ask my sister for a <b>PokéRadar</b> to find out which Pokémon appear in each area.
 ¡Ni se os ocurra visitarla y pedírselo vosotros primero!
-¡Ni se os ocurra visitarla y pedírselo vosotros primero!
+Don't even think about visiting her and asking her first!
 \c[1]<b>\v[12]:</b>\c[0] \PN, \c[3]<b>Hoja</b>\c[0], solo uno de los tres puede convertirse en <b>Maestro Pokémon</b>...
-\c[1]<b>\v[12]:</b>\c[0] \PN, \c[3]<b>Hoja</b>\c[0], solo uno de los tres puede convertirse en <b>Maestro Pokémon</b>...
+\c[1]<b>\v[12]:</b>\c[0] \PN, \c[3]<b>Leaf</b>\c[0], only one of us can become <b>Pokémon Master</b>...
 \c[1]<b>\v[12]:</b>\c[0] \PN, \c[2]<b>Rojo</b>\c[0], solo uno de los tres puede convertirse en <b>Maestro Pokémon</b>...
-\c[1]<b>\v[12]:</b>\c[0] \PN, \c[2]<b>Rojo</b>\c[0], solo uno de los tres puede convertirse en <b>Maestro Pokémon</b>...
+\c[1]<b>\v[12]:</b>\c[0] \PN, \c[2]<b>Red</b>\c[0], only one of us can become <b>Pokémon Master</b>...
 ¡Y pienso ser yo!
-¡Y pienso ser yo!
+And I think it's me!
 <b>Prof. Oak:</b> Vuestro primer destino debería ser <b>Ciudad Plateada</b>.
-<b>Prof. Oak:</b> Vuestro primer destino debería ser <b>Ciudad Plateada</b>.
+<b>Prof. Oak:</b> Your first destination should be <b>Pewter City</b>.
 Ahí vive un chico muy majo llamado <b>Brock</b> que es líder de gimnasio.
-Ahí vive un chico muy majo llamado <b>Brock</b> que es líder de gimnasio.
+A very nice boy named <b>Brock</b> lives there who is their gym leader.
 Si le vencéis, os entregará su medalla de gimnasio y podréis convertiros en <b>Aspirantes</b> para participar algún día en la <b>Liga Pokémon</b>.
-Si le vencéis, os entregará su medalla de gimnasio y podréis convertiros en <b>Aspirantes</b> para participar algún día en la <b>Liga Pokémon</b>.
+If you beat him, he will give you his gym badge and you can become <b>Applicants</b> to one day participate in the <b>Pokémon League</b>.
 <b>Prof. Oak:</b> ¡No puedes irte todavía, \PN! ¡Tienes que elegir a tu Pokémon!
-<b>Prof. Oak:</b> ¡No puedes irte todavía, \PN! ¡Tienes que elegir a tu Pokémon!
+<b>Prof. Oak:</b> You can't leave yet, \PN! You have to choose your Pokémon!
 \c[1]<b>\v[12]:</b>\c[0] ¡No tan rápido, \PN!
-\c[1]<b>\v[12]:</b>\c[0] ¡No tan rápido, \PN!
+\c[1]<b>\v[12]:</b>\c[0] Not so fast, \PN!
 \c[1]<b>\v[12]:</b>\c[0] ¿Te vas a marchar sin ni si quiera probar a tu primer Pokémon?
-\c[1]<b>\v[12]:</b>\c[0] ¿Te vas a marchar sin ni si quiera probar a tu primer Pokémon?
+\c[1]<b>\v[12]:</b>\c[0] Are you going to leave without even trying your first Pokémon?
 ¡No seas tan sosainas!
-¡No seas tan sosainas!
+Don't be so lame!
 \c[1]<b>\v[12]:</b>\c[0] ¡Vamos a comprobar cuál es más fuerte!
-\c[1]<b>\v[12]:</b>\c[0] ¡Vamos a comprobar cuál es más fuerte!
+\c[1]<b>\v[12]:</b>\c[0] Let's see which one is stronger!
 \c[1]<b>\v[12]:</b>\c[0] Ha sido un buen calentamiento, pero la próxima vez seré mucho más fuerte.
-\c[1]<b>\v[12]:</b>\c[0] Ha sido un buen calentamiento, pero la próxima vez seré mucho más fuerte.
+\c[1]<b>\v[12]:</b>\c[0] It was a good warm-up, but next time I'll be much stronger.
 Pienso enfrentarme a todo lo que me encuentre para hacer que mi Pokémon se fortalezca.
-Pienso enfrentarme a todo lo que me encuentre para hacer que mi Pokémon se fortalezca.
+I plan to face everything I encounter to make my Pokémon stronger.
 Y ahora, ¡me voy! ¡No tengo ni un segundo que perder!
-Y ahora, ¡me voy! ¡No tengo ni un segundo que perder!
+And now, I'm leaving! I don't have a second to waste!
 <b>Prof. Oak</b>: ¡Una última cosa antes de marcharte, \PN!
-<b>Prof. Oak</b>: ¡Una última cosa antes de marcharte, \PN!
+<b>Prof. Oak</b>: One last thing before you leave, \PN!
 <b>Prof. Oak</b>: No creo que le haya pasado nada grave pero me empieza a preocupar, ¿y si se ha perdido por el camino?
-<b>Prof. Oak</b>: No creo que le haya pasado nada grave pero me empieza a preocupar, ¿y si se ha perdido por el camino?
+<b>Prof. Oak</b>: I don't think anything serious has happened to them but I worry, what if they got lost along the way?
 <b>Prof. Oak</b>: Si no es mucha molestia, \PN, ¿podrías ir a <b>Ciudad Verde</b> para encontrarte con esa persona?
-<b>Prof. Oak</b>: Si no es mucha molestia, \PN, ¿podrías ir a <b>Ciudad Verde</b> para encontrarte con esa persona?
+<b>Prof. Oak</b>: If it's not too much trouble, \PN, could you go to <b>Viridian City</b> to meet them?
 <b>Prof. Oak</b>: ¿Quieres a Bulbasaur como Pokémon inicial?
-<b>Prof. Oak</b>: ¿Quieres a Bulbasaur como Pokémon inicial?
+<b>Prof. Oak</b>: Do you want Bulbasaur as your starter Pokémon?
 <b>Prof. Oak</b>: ¡Es un Pokémon muy amigable, te llevarás de maravilla con él!
-<b>Prof. Oak</b>: ¡Es un Pokémon muy amigable, te llevarás de maravilla con él!
+<b>Prof. Oak</b>: It's a very friendly Pokémon, you'll get along great with it!
 <b>Prof. Oak:</b> Vuestra aventura Pokémon la marcáis vosotros, pero si por el camino podéis ir llenando la <b>Pokédex</b>...
-<b>Prof. Oak:</b> Vuestra aventura Pokémon la marcáis vosotros, pero si por el camino podéis ir llenando la <b>Pokédex</b>...
+<b>Prof. Oak:</b> Your Pokémon adventure is yours. But if along the way you can fill the <b>Pokédex</b>...
 Ven a verme más adelante para que la vaya examinando, por favor.
-Ven a verme más adelante para que la vaya examinando, por favor.
+Come see me later so I can examine it, please.
 <b>Prof. Oak:</b> El último gimnasio está en <b>Ciudad Verde</b>, por fin ha reabierto sus puertas.
-<b>Prof. Oak:</b> El último gimnasio está en <b>Ciudad Verde</b>, por fin ha reabierto sus puertas.
+<b>Prof. Oak:</b> The last gym is in <b>Viridian City</b>, it's finally reopened its doors.
 Por cierto, ¿has probado el <b>Equipo de Escalada</b>? Se me ocurre que podrías usarlo por ejemplo en <b>Isla Canela</b>.
-Por cierto, ¿has probado el <b>Equipo de Escalada</b>? Se me ocurre que podrías usarlo por ejemplo en <b>Isla Canela</b>.
+By the way, have you tried <b>Climbing Equipment</b>? It occured to me that you could use it on <b>Cinnabar Island</b>, for example,.
 <b>Prof. Oak:</b> ¿Ya has conseguido todas las medallas? ¡Eso es fantástico!
-<b>Prof. Oak:</b> ¿Ya has conseguido todas las medallas? ¡Eso es fantástico!
+<b>Prof. Oak:</b> Have you already gotten all eight badges? That's fantastic!
 Para llegar a la <b>Liga Pokémon</b>, tienes que tomar el camino a la izquierda de <b>Ciudad Verde</b>.
-Para llegar a la <b>Liga Pokémon</b>, tienes que tomar el camino a la izquierda de <b>Ciudad Verde</b>.
+To get to the <b>Pokémon League</b>, you have to take the path to the left of <b>Viridian City</b>.
 <b>Prof. Oak:</b> ¿Qué tal andas, \PN? Yo pensando ya en mi jubilación...
-<b>Prof. Oak:</b> ¿Qué tal andas, \PN? Yo pensando ya en mi jubilación...
+<b>Prof. Oak:</b> How are you doing, \PN? I'm already thinking about my retirement...
 <b>Bill</b> te estaba buscando y parecía importante, no olvides hablar con él.
-<b>Bill</b> te estaba buscando y parecía importante, no olvides hablar con él.
+<b>Maester</b> was looking for you and it seemed important, don't forget to talk to him.
 En otro orden de cosas, lo he estado pensando y... ¡creo que aún tengo fuerza suficiente para desenpolvar mis viejas pokéball!
-En otro orden de cosas, lo he estado pensando y... ¡creo que aún tengo fuerza suficiente para desenpolvar mis viejas pokéball!
+On another note, I've been thinking about it and... I think I still have enough strength to dust off my old Pokéballs!
 ¿Me harías el honor de ofrecerme un combate, \PN?
-¿Me harías el honor de ofrecerme un combate, \PN?
+Would you do me the honor of offering me a battle, \PN?
 <b>Prof. Oak:</b> ¡Gracias, \PN! Ha sido muy bonito revivir mis tiempos de entrenador Pokémon contigo.
-<b>Prof. Oak:</b> ¡Gracias, \PN! Ha sido muy bonito revivir mis tiempos de entrenador Pokémon contigo.
+<b>Prof. Oak:</b> Thank you, \PN! It's been very nice to relive my days as a Pokémon trainer with you.
 Teniendo en cuenta que llevaba años sin combatir, no lo he hecho tan mal, ¿verdad?
-Teniendo en cuenta que llevaba años sin combatir, no lo he hecho tan mal, ¿verdad?
+Considering I haven't battled in years, I wasn't too bad, right?
 No te molesto más. Eso sí, avísame si consigues capturar a los 251 primeros Pokémon de la <b>Pokédex</b>.
-No te molesto más. Eso sí, avísame si consigues capturar a los 251 primeros Pokémon de la <b>Pokédex</b>.
+I won't bother you anymore. Of course, let me know if you manage to capture the first 251 Pokémon in the <b>Pokédex</b>.
 ¡Vaya, qué chasco! Y yo que me sentía con mucha energía hoy.
-¡Vaya, qué chasco! Y yo que me sentía con mucha energía hoy.
+Wow, what a disappointment! And I was feeling very energetic today.
 ¿Me dejas revisar tu <b>Pokédex</b>? Sería todo un hallazgo que consiguieras capturar a los 251 primeros Pokémon...
-¿Me dejas revisar tu <b>Pokédex</b>? Sería todo un hallazgo que consiguieras capturar a los 251 primeros Pokémon...
+Can you let me check your <b>Pokédex</b>? It would be quite a find if you managed to capture the first 251 Pokémon...
 ...
 ...
 Veo que actualmente tienes \v[400] Pokémon de los 251 primeros.
-Veo que actualmente tienes \v[400] Pokémon de los 251 primeros.
+I see that you currently have \v[400] Pokémon from the first 251.
 ¡Lo has conseguido! ¡Has completado la <b>Pokédex Clásica</b>!
-¡Lo has conseguido! ¡Has completado la <b>Pokédex Clásica</b>!
+You've got it! You completed the <b>Classic Pokédex</b>!
 Mereces un reconocimiento.
-Mereces un reconocimiento.
+You deserve recognition.
 <b>Prof. Oak:</b> ¡Ah! Una cosa más. Un colega de una región lejana me ha enviado estos documentos.
-<b>Prof. Oak:</b> ¡Ah! Una cosa más. Un colega de una región lejana me ha enviado estos documentos.
+<b>Prof. Oak:</b> Ah! One more thing. A colleague from a distant region has sent me these documents.
 <b>Prof. Oak:</b> Se tratan de unos extraños Pokémon que habitaron en un tiempo pasado.
-<b>Prof. Oak:</b> Se tratan de unos extraños Pokémon que habitaron en un tiempo pasado.
+<b>Prof. Oak:</b> They are strange Pokémon that lived in a past time.
 Curioso, ¿eh?
-Curioso, ¿eh?
+Curious, huh?
 ¡Sigue así! Estás haciendo grandes progresos.
-¡Sigue así! Estás haciendo grandes progresos.
+Keep it up! You're making great progress.
 <b>Prof. Oak</b>: ¡Ah! ¿Ese Pokémon? Se trata de un Pikachu que encontré abandonado.
-<b>Prof. Oak</b>: ¡Ah! ¿Ese Pokémon? Se trata de un Pikachu que encontré abandonado.
+<b>Prof. Oak</b>: Ah! That Pokémon? This is a Pikachu that I found abandoned.
 Es un poco rebelde, pero si aún así quieres cuidarlo... ¿quieres a este Pokémon inicial?
-Es un poco rebelde, pero si aún así quieres cuidarlo... ¿quieres a este Pokémon inicial?
+It's a little rebellious, but if you still want to take care of it... do you want this starter Pokémon?
 <b>Prof. Oak</b>: ¡Una elección de lo más interesante, \PN!
-<b>Prof. Oak</b>: ¡Una elección de lo más interesante, \PN!
+<b>Prof. Oak</b>: A most interesting choice, \PN!
 El <b>Prof. Oak</b> es una eminencia no solo de talla regional... ¡sino de talla mundial, diría yo!
-El <b>Prof. Oak</b> es una eminencia no solo de talla regional... ¡sino de talla mundial, diría yo!
+<b>Prof. Oak</b>is an eminence not only of regional stature... but of world stature, I would say!
 Sus investigaciones han sido clave para descubrir muchas nuevas especies de Pokémon.
-Sus investigaciones han sido clave para descubrir muchas nuevas especies de Pokémon.
+His research has been key to discovering many new species of Pokémon.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -1799,45 +1799,45 @@ No
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 \c[3]<b>Hoja:</b>\c[0] ¡Hola, \PN! Estoy preparando mi viaje a <b>Johto</b>, no tardaré en irme.
-\c[3]<b>Hoja:</b>\c[0] ¡Hola, \PN! Estoy preparando mi viaje a <b>Johto</b>, no tardaré en irme.
+\c[3]<b>Leaf:</b>\c[0] Hello, \PN! I'm preparing for my trip to <b>Johto</b>, I won't be long before leaving.
 ¿Qué debería visitar primero? Creo que será <b>Ciudad Iris</b>, o tal vez <b>Ciudad Trigal</b>... ¡ay, no sé!
-¿Qué debería visitar primero? Creo que será <b>Ciudad Iris</b>, o tal vez <b>Ciudad Trigal</b>... ¡ay, no sé!
+What should I visit first? I think it will be <b>Ecruteak City</b>, or maybe <b>Goldenrod City</b>... oh, I don't know!
 Por cierto, mi Pokémon tuvo una cría el otro día, ¿por qué no te lo quedas? Te ayudará a ir completando la <b>Pokédex</b>.
-Por cierto, mi Pokémon tuvo una cría el otro día, ¿por qué no te lo quedas? Te ayudará a ir completando la <b>Pokédex</b>.
+By the way, my Pokémon laid an Egg the other day, why don't you keep it? It'll help you complete the <b>Pokédex</b>.
 \c[2]<b>Rojo:</b>\c[0] ¡Hola, \PN! Estoy preparando mi viaje a <b>Johto</b>, no tardaré en irme.
-\c[2]<b>Rojo:</b>\c[0] ¡Hola, \PN! Estoy preparando mi viaje a <b>Johto</b>, no tardaré en irme.
+\c[2]<b>Red:</b>\c[0] Hello, \PN! I'm preparing for my trip to <b>Johto</b>, I won't be long before leaving.
 Inventarse motes para los Pokémon puede ser una forma muy entretenida de reforzar su personalidad y el vínculo que te une con ellos.
-Inventarse motes para los Pokémon puede ser una forma muy entretenida de reforzar su personalidad y el vínculo que te une con ellos.
+Coming up with nicknames for your Pokémon can be a very entertaining way to reinforce their personality and the bond you share with them.
 La clave es saber elegir motes pegadizos y fáciles de recordar.
-La clave es saber elegir motes pegadizos y fáciles de recordar.
+The key is knowing how to choose nicknames that are catchy and easy to remember.
 Por ejemplo, Pepito me parece un mote muy entrañable.
-Por ejemplo, Pepito me parece un mote muy entrañable.
+For example, Pepito seems like a very endearing nickname to me.
 <b>Ciudad Verde</b> tiene un urbanismo envidiable que combina con mucha armonía la naturaleza con la mano del ser humano.
-<b>Ciudad Verde</b> tiene un urbanismo envidiable que combina con mucha armonía la naturaleza con la mano del ser humano.
+<b>Viridian City</b> has enviable urban planning that harmoniously combines nature with the hand of human beings.
 ¡Ya soy mayor para jugar con muñecas, prefiero jugar con Pokémon!
-¡Ya soy mayor para jugar con muñecas, prefiero jugar con Pokémon!
+I'm too old to play with dolls, I prefer to play with Pokémon!
 Lo bueno de los Pokémon es que podré jugar con ellos hasta que me haga vieja, ¡nunca me cansaré!
-Lo bueno de los Pokémon es que podré jugar con ellos hasta que me haga vieja, ¡nunca me cansaré!
+The good thing about Pokémon is that I'll be able to play with them until I get old, I'll never get tired!
 Nuestro hijo siempre ha sido un poco torpe, ¡pero tiene un gran corazón!
-Nuestro hijo siempre ha sido un poco torpe, ¡pero tiene un gran corazón!
+Our son has always been a little clumsy, but he has a big heart!
 Seguro que este viaje Pokémon le viene bien para madurar.
-Seguro que este viaje Pokémon le viene bien para madurar.
+Surely this Pokémon trip is good for him to mature.
 Nuestra hija siempre ha sido un poco torpe, ¡pero tiene un gran corazón!
-Nuestra hija siempre ha sido un poco torpe, ¡pero tiene un gran corazón!
+Our daughter has always been a little clumsy, but she has a big heart!
 Muchos Aspirantes se encuentran el gimnasio cerrado al llegar aquí ya que el líder pasa la mitad del tiempo fuera de la ciudad.
-Muchos Aspirantes se encuentran el gimnasio cerrado al llegar aquí ya que el líder pasa la mitad del tiempo fuera de la ciudad.
+Many trainers find the gym closed when they arrive here since the leader spends half of his time out of town.
 ¡Menudo irresponsable, sea quien sea ese líder!
-¡Menudo irresponsable, sea quien sea ese líder!
+What an irresponsible person, whoever that leader is!
 No puedo creer que el famoso <b>Prof. Oak</b> se haya fijado en nuestro hijo para entregarle un Pokémon.
-No puedo creer que el famoso <b>Prof. Oak</b> se haya fijado en nuestro hijo para entregarle un Pokémon.
+I can't believe that the famous <b>Prof. Oak</b> has recognized our son and given him a Pokémon.
 ¿Le habrá visto algún potencial secreto que nosotros no vemos?
-¿Le habrá visto algún potencial secreto que nosotros no vemos?
+Has he seen some secret potential that we don't?
 No puedo creer que el famoso <b>Prof. Oak</b> se haya fijado en nuestra hija para entregarle un Pokémon.
-No puedo creer que el famoso <b>Prof. Oak</b> se haya fijado en nuestra hija para entregarle un Pokémon.
+I can't believe that the famous <b>Prof. Oak</b> has recognized our daughter and given her a Pokémon.
 #-------------------------------
 [Map031]
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -1853,133 +1853,133 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 ¿Ya te has medido con algún entrenador? Recuerda que si tu Pokémon tiene mayor Velocidad que el rival, atacará antes.
-¿Ya te has medido con algún entrenador? Recuerda que si tu Pokémon tiene mayor Velocidad que el rival, atacará antes.
+Have you already battled a trainer? Remember that if your Pokémon has a higher Speed than the opponent, it will attack sooner.
 Aunque tengas un equipo lleno con 6 Pokémon, puedes seguir capturando.
-Aunque tengas un equipo lleno con 6 Pokémon, puedes seguir capturando.
+Even if you have a team full of 6 Pokémon, you can still capture new ones.
 Los Pokémon que no entren en tu equipo se enviarán directamente a tu PC.
-Los Pokémon que no entren en tu equipo se enviarán directamente a tu PC.
+Pokémon that don't make your team will be sent directly to your PC.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Recordar movimiento
-Recordar movimiento
+Remember moves
 Niveles de los líderes
-Niveles de los líderes
+Level Caps
 Nada
-Nada
+Nothing
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map032]
 ¿Qué tenemos aquí? ¡Alguien que quiere aprender!
-¿Qué tenemos aquí? ¡Alguien que quiere aprender!
+What do we have here? Someone who wants to learn!
 ¿Te atreves con un pequeño examen para comprobar tus conocimientos básicos sobre los combates Pokémon?
-¿Te atreves con un pequeño examen para comprobar tus conocimientos básicos sobre los combates Pokémon?
+Do you dare to take a short test to test your basic knowledge of Pokémon battles?
 ¡Bien! Primera pregunta: ¿contra qué es eficaz el tipo Volador?
-¡Bien! Primera pregunta: ¿contra qué es eficaz el tipo Volador?
+Good! First question: what is the Flying type effective against?
 ¡Mal! ¡Hay que estudiar más, joven!
-¡Mal! ¡Hay que estudiar más, joven!
+Bad! You have to study more, young man!
 ¡Correctísimo!
-¡Correctísimo!
+Correct!
 ¿De qué tipo es Onix?
-¿De qué tipo es Onix?
+What type is Onix?
 Tercera pregunta: ¿qué objeto cura el veneno en los Pokémon?
-Tercera pregunta: ¿qué objeto cura el veneno en los Pokémon?
+Third question: what item cures poison in Pokémon?
 ¡Vaya! Veo que has estado estudiando mucho. Creo que mereces una pequeña recompensa por tu esfuerzo.
-¡Vaya! Veo que has estado estudiando mucho. Creo que mereces una pequeña recompensa por tu esfuerzo.
+Oh! I see you've been studying a lot. I think you deserve a little reward for your efforts.
 Puedes quedarte con esto.
-Puedes quedarte con esto.
+You can have this.
 ¡Vaya! No pierdes nada por intentarlo.
-¡Vaya! No pierdes nada por intentarlo.
+Oh! You don't lose anything by trying.
 Los grandes entrenadores Pokémon se caracterizan por su disciplina y su ansia de conocimiento.
-Los grandes entrenadores Pokémon se caracterizan por su disciplina y su ansia de conocimiento.
+Great Pokémon trainers are characterized by their discipline and their desire for knowledge.
 Nunca dejes de aprender y de escuchar a los que ya han pasado por el lugar en el que te encuentras.
-Nunca dejes de aprender y de escuchar a los que ya han pasado por el lugar en el que te encuentras.
+Never stop learning and listening to those who have already been where you are.
 Por lo visto, si caminas junto a tu Pokémon mejorarás tu amistad con él. ¡Yo eso no lo sabía!
-Por lo visto, si caminas junto a tu Pokémon mejorarás tu amistad con él. ¡Yo eso no lo sabía!
+Apparently, if you walk with your Pokémon you will improve your friendship with it. I didn't know that!
 Estoy estudiándome la tabla de tipos. Por ejemplo, Eevee es de tipo Normal... ¡lo que significa que apenas tiene debilidades! Solo ante el tipo Lucha.
-Estoy estudiándome la tabla de tipos. Por ejemplo, Eevee es de tipo Normal... ¡lo que significa que apenas tiene debilidades! Solo ante el tipo Lucha.
+I'm studying the type table. For example, Eevee is a Normal type... which means it has almost no weaknesses! Only against Fighting types.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 No veo bien la pizarra, ¡Menos mal que he traído mis gafas!
-No veo bien la pizarra, ¡Menos mal que he traído mis gafas!
+I can't see the board well, thank goodness I brought my glasses!
 Espera, ¡si me he traído dos! Pues toma, para ti.
-Espera, ¡si me he traído dos! Pues toma, para ti.
+Wait, I brought two! Here, for you.
 Con unas Gafas Especiales, tu Pokémon mejorará el daño de movimientos de categoría Especial.
-Con unas Gafas Especiales, tu Pokémon mejorará el daño de movimientos de categoría Especial.
+With Special Glasses, your Pokémon will improve the damage of Special moves.
 ¡Aseguráte de equiparlas en el Pokémon adecuado!
-¡Aseguráte de equiparlas en el Pokémon adecuado!
+Make sure you equip them on the right Pokémon!
 ¡Vamos allá!
-¡Vamos allá!
+Let's go there!
 Mejor no
-Mejor no
+Better not
 Planta, Tierra y Lucha
-Planta, Tierra y Lucha
+Grass, Ground, and Fighting
 Planta, Bicho y Lucha
-Planta, Bicho y Lucha
+Grass, Bug, and Fighting
 Planta, Hielo y Lucha
-Planta, Hielo y Lucha
+Grass, Ice, and Fighting
 Roca y Tierra
-Roca y Tierra
+Rock and Ground
 Solo Roca
-Solo Roca
+Only Rock
 Solo Tierra
-Solo Tierra
+Only Ground
 Despertar
-Despertar
+Wake up
 Antídoto
-Antídoto
+Antidote
 Baya Aranja
-Baya Aranja
+Oran Berry
 #-------------------------------
 [Map033]
 ¿Has atravesado el <b>Túnel Diglett</b>? ¡Qué valiente!
-¿Has atravesado el <b>Túnel Diglett</b>? ¡Qué valiente!
+Have you gone through <b>Diglett Tunnel</b>? How brave!
 Los Diglett pueden ser muy molestos ya que no te dejan escapar. Y como te encuentres algún día con un Dugtrio...
-Los Diglett pueden ser muy molestos ya que no te dejan escapar. Y como te encuentres algún día con un Dugtrio...
+Digletts can be very annoying since they won't let you escape. And if you meet a Dugtrio one day...
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Si quieres conseguir a todos los Pokémon, tendrás que viajar por todas partes. Bosque, montaña, playa...
-Si quieres conseguir a todos los Pokémon, tendrás que viajar por todas partes. Bosque, montaña, playa...
+If you want to catch every Pokémon, you'll have to travel everywhere. Forests, mountains, beaches...
 He oído que en el <b>Bosque Verde</b> de vez en cuando se dejan ver Pikachu. Ojalá atrapar uno...
-He oído que en el <b>Bosque Verde</b> de vez en cuando se dejan ver Pikachu. Ojalá atrapar uno...
+I've heard that you can see Pikachu from time to time in the <b>Viridian Forest</b>. I hope I can catch one...
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
-¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
+Do you want to take a break so that your team can rest?
 Bien, tómate tu tiempo.
-Bien, tómate tu tiempo.
+Well, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
+You and your Pokemon are loaded with energy, come back any time!
 Estamos a tu servicio.
-Estamos a tu servicio.
+We are at your service.
 ¡Hola! ¿Me recuerdas? Soy ayudante del <b>Prof. Oak</b>.
-¡Hola! ¿Me recuerdas? Soy ayudante del <b>Prof. Oak</b>.
+Hello! Remember me? I am an assistant to <b>Prof. Oak</b>.
 A ver, seguramente no me recuerdes porque los científicos nos parecemos un poco entre todos.
-A ver, seguramente no me recuerdes porque los científicos nos parecemos un poco entre todos.
+Let's see, you probably don't remember me since we scientists are all a bit alike.
 El caso es que el <b>Prof. Oak</b> está muy contento con los progresos de tu <b>Pokédex</b>. Por eso me ha pedido que te entregue esta recompensa.
-El caso es que el <b>Prof. Oak</b> está muy contento con los progresos de tu <b>Pokédex</b>. Por eso me ha pedido que te entregue esta recompensa.
+The fact is that <b>Prof. Oak</b> is very happy with the progress of your <b>Pokédex</b>. That's why he asked me to give you this reward.
 Espero que te ayude a iluminar los caminos más oscuros, cuando las demás luces se apaguen.
-Espero que te ayude a iluminar los caminos más oscuros, cuando las demás luces se apaguen.
+I hope it helps you illuminate the darkest paths when the other lights go out.
 El <b>Prof. Oak</b> está muy contento con los progresos de tu <b>Pokédex</b>. Por eso me ha pedido que te entregue el <b>Iluminador</b>.
-El <b>Prof. Oak</b> está muy contento con los progresos de tu <b>Pokédex</b>. Por eso me ha pedido que te entregue el <b>Iluminador</b>.
+<b>Prof. Oak</b> is very happy with the progress of your <b>Pokédex</b>. That's why he has asked me to give you the <b>Illuminator</b>.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -1987,49 +1987,49 @@ No
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Estoy buscando un Kadabra, ¿lo cambiarías por mi Mr. Mime?
-Estoy buscando un Kadabra, ¿lo cambiarías por mi Mr. Mime?
+I'm looking for a Kadabra, would you trade it for my Mr. Mime?
 ¡Bien, veo que tienes un Kadabra! ¡Hagamos el intercambio!
-¡Bien, veo que tienes un Kadabra! ¡Hagamos el intercambio!
+I see you have a Kadabra! Let's trade!
 ¡Muchas gracias! Aunque ahora tendré que intercambiarlo de nuevo para que evolucione.
-¡Muchas gracias! Aunque ahora tendré que intercambiarlo de nuevo para que evolucione.
+Thank you so much! Although now I'll have to exchange it again for it to evolve.
 Si tienes un Kadabra, ponlo en el primer lugar de tu equipo para que pueda verlo bien.
-Si tienes un Kadabra, ponlo en el primer lugar de tu equipo para que pueda verlo bien.
+If you have a Kadabra, put it at the top of your team so it can see it well.
 ¡Vaya, qué lástima! Atraparía a un Abra pero siempre se escapan...
-¡Vaya, qué lástima! Atraparía a un Abra pero siempre se escapan...
+Wow, what a shame! I would catch an Abra, but they always escape...
 ¡Me encanta Kadabra! Aunque ahora tendré que intercambiarlo de nuevo para que evolucione.
-¡Me encanta Kadabra! Aunque ahora tendré que intercambiarlo de nuevo para que evolucione.
+I love Kadabra! Although now I'll have to exchange it again for it to evolve.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map035]
 Solo aquellos Aspirantes que hayan conseguido las 8 Medallas de Gimnasio podrán tomar el camino hacia la <b>Liga Pokémon</b>.
-Solo aquellos Aspirantes que hayan conseguido las 8 Medallas de Gimnasio podrán tomar el camino hacia la <b>Liga Pokémon</b>.
+Only those Challengers who have earned all 8 Gym Badges will be able to take the path to the <b>Pokémon League</b>.
 Por favor, date la vuelta y no nos obligues a usar la violencia.
-Por favor, date la vuelta y no nos obligues a usar la violencia.
+Please turn around and don't force us to use violence.
 Solo aquellos que se hayan hecho con las 8 medallas de gimnasio de <b>Kanto</b> podrán pasar.
-Solo aquellos que se hayan hecho con las 8 medallas de gimnasio de <b>Kanto</b> podrán pasar.
+Only those who have collected all 8 <b>Kanto</b> Gym Badges will be able to pass.
 ¡Y las has conseguido! Te damos la bienvenida, Aspirante \PN.
-¡Y las has conseguido! Te damos la bienvenida, Aspirante \PN.
+And you have achieved them! We welcome you, Trainer \PN.
 Dirígete al <b>Monte Plateado</b> para empezar tu última prueba antes de la <b>Liga Pokémon</b>.
-Dirígete al <b>Monte Plateado</b> para empezar tu última prueba antes de la <b>Liga Pokémon</b>.
+Head to <b>Mt. Silver</b> to begin your last test before the <b>Pokémon League</b>.
 Para pasar por aquí, debes de haberte hecho con las 8 medallas de gimnasio de <b>Céfira Este</b>...
-Para pasar por aquí, debes de haberte hecho con las 8 medallas de gimnasio de <b>Céfira Este</b>...
+To pass through here, you must have obtained the 8 gym badges from <b>East Céfira</b>...
 ¡Lo cual es así! Te damos la bienvenida, Aspirante \PN.
-¡Lo cual es así! Te damos la bienvenida, Aspirante \PN.
+And so you have! We welcome you, Trainer \PN.
 Ten cuidado en la <b>Calle Victoria</b>, cada entrenador dará lo mejor de sí mismo para tratar de frenar tu avance.
-Ten cuidado en la <b>Calle Victoria</b>, cada entrenador dará lo mejor de sí mismo para tratar de frenar tu avance.
+Be careful on <b>Victory Road</b>, each trainer will do their best to try to stop your progress.
 ¡Confío en ti y en tus Pokémon! Solo de esa manera podrás salir adelante.
-¡Confío en ti y en tus Pokémon! Solo de esa manera podrás salir adelante.
+Trust yourself and your Pokémon! It's the only way you can get ahead.
 #-------------------------------
 [Map036]
 ¡No me lo puedo creer! ¡Han visto al <b>Team Rocket</b> dirigirse al <b>Mt. Moon</b>!
-¡No me lo puedo creer! ¡Han visto al <b>Team Rocket</b> dirigirse al <b>Mt. Moon</b>!
+I can't believe it! You've seen <b>Team Rocket</b> heading to <b>Mt. Moon</b>!
 Llevaban un tiempo muy tranquilitos, espero que no vuelvan a hacer ninguna fechoría...
-Llevaban un tiempo muy tranquilitos, espero que no vuelvan a hacer ninguna fechoría...
+They've been very calm for a while, I hope they don't do anything wrong again...
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -2045,11 +2045,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
@@ -2063,107 +2063,107 @@ Misión cumplida, ¡vuelve cuando lo necesites!
 Estamos a tu servicio.
 Estamos a tu servicio.
 Estoy buscando un Metapod, ¿lo cambiarías por mi Swinub? ¡Lo atrapé en <b>Johto</b>!
-Estoy buscando un Metapod, ¿lo cambiarías por mi Swinub? ¡Lo atrapé en <b>Johto</b>!
+I'm looking for a Metapod, would you trade it for my Swinub? I caught him in <b>Johto</b>!
 ¡Bien, veo que tienes un Metapod! ¡Hagamos el intercambio!
-¡Bien, veo que tienes un Metapod! ¡Hagamos el intercambio!
+Well, I see you have a Metapod! Let's trade!
 ¡Uy, qué cuco es Metapod! ¡Me encanta!
-¡Uy, qué cuco es Metapod! ¡Me encanta!
+Wow, what a cute Metapod! I love it!
 Si tienes un Metapod, ponlo en el primer lugar de tu equipo para que pueda verlo bien.
-Si tienes un Metapod, ponlo en el primer lugar de tu equipo para que pueda verlo bien.
+If you have a Metapod, put it in the first place in your party so I can see it well.
 ¡Vaya, qué lástima! Tendré que adentrarme en el <b>Bosque Verde</b>, supongo...
-¡Vaya, qué lástima! Tendré que adentrarme en el <b>Bosque Verde</b>, supongo...
+Wow, what a shame! I'll have to go into the <b>Viridian Forest</b>, I guess...
 Recordar movimiento
 Recordar movimiento
 Niveles de los líderes
 Niveles de los líderes
 Nada
-Nada
+Nothing
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map037]
 Cuantos más combates gane tu Pokémon, más feliz será. ¡Y todo serán ventajas con un Pokémon feliz!
-Cuantos más combates gane tu Pokémon, más feliz será. ¡Y todo serán ventajas con un Pokémon feliz!
+The more battles your Pokémon wins, the happier it will be. And it will all be advantages with a happy Pokémon!
 Por ejemplo, le podrás sacar partido a esta MT.
-Por ejemplo, le podrás sacar partido a esta MT.
+For example, you can take advantage of this TM.
 Algunos Pokémon solo evolucionan al alcanzar un nivel muy alto de felicidad.
-Algunos Pokémon solo evolucionan al alcanzar un nivel muy alto de felicidad.
+Some Pokémon only evolve by reaching a very high level of happiness.
 Puede que parezca difícil, pero merece mucho la pena evolucionar de esa manera.
-Puede que parezca difícil, pero merece mucho la pena evolucionar de esa manera.
+It may seem difficult, but it is very worth it to evolve in this way.
 Las bayas son importantes para los combates decisivos. Ten, toma ésta.
-Las bayas son importantes para los combates decisivos. Ten, toma ésta.
+Berries are important for decisive battles. Here, take this one.
 La Baya Zidra recuperará parte de la salud de tu Pokémon sin tener que malgastar un turno.
-La Baya Zidra recuperará parte de la salud de tu Pokémon sin tener que malgastar un turno.
+The Sitrus Berry will restore some of your Pokémon's health without having to waste a turn.
 Considera equipársela a tu Pokémon más frágil durante un combate importante.
-Considera equipársela a tu Pokémon más frágil durante un combate importante.
+Consider equipping it on your weakest Pokémon during an important battle.
 El líder <b>Brock</b> compagina su trabajo en el gimnasio con su trabajo en casa, ya que tiene que cuidar de 9 hermanos.
-El líder <b>Brock</b> compagina su trabajo en el gimnasio con su trabajo en casa, ya que tiene que cuidar de 9 hermanos.
+The leader <b>Brock</b> combines his work at the gym with his work at home, since he has to take care of 9 siblings.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Trabajo en el museo investigando fósiles, ¡es muy gratificante saber que contribuyo al conocimiento de los Pokémon!
-Trabajo en el museo investigando fósiles, ¡es muy gratificante saber que contribuyo al conocimiento de los Pokémon!
+I work at the museum researching fossils, it's very gratifying to know that I contribute to the knowledge of Pokémon!
 Se calcula que aún nos quedan miles de especies de Pokémon prehistóricos por descubrir.
-Se calcula que aún nos quedan miles de especies de Pokémon prehistóricos por descubrir.
+It's estimated that we still have thousands of species of prehistoric Pokémon left to discover.
 A mi hijo le intercambiaron un Zubat el otro día en clase.
-A mi hijo le intercambiaron un Zubat el otro día en clase.
+My son traded for a Zubat the other day in class.
 Y se nota que es de intercambio porque le está costando coger confianza... ¡pero seguro que en poco tiempo conseguirán hacerse amigos!
-Y se nota que es de intercambio porque le está costando coger confianza... ¡pero seguro que en poco tiempo conseguirán hacerse amigos!
+And you can tell that it's from a trade because he's having a hard time gaining trust... but I'm sure that in a short time they'll become friends!
 ¿Has visto a algún miembro del <b>Team Rocket</b> últimamente? Los rumores dicen que están maquinando algún plan por aquí cerca.
-¿Has visto a algún miembro del <b>Team Rocket</b> últimamente? Los rumores dicen que están maquinando algún plan por aquí cerca.
+Have you seen any members of <b>Team Rocket</b> lately? Rumors say that they are plotting some plan nearby.
 ¡Vamos, Zubat bonito, usa Ataque Ala!
-¡Vamos, Zubat bonito, usa Ataque Ala!
+Come on, pretty Zubat, use Wing Attack!
 ¡Guau! ¡Mi Pokémon ahora se ha hecho mucho más fuerte!
-¡Guau! ¡Mi Pokémon ahora se ha hecho mucho más fuerte!
+Wow! My Pokémon has become much stronger now!
 Estoy empollándome mis guías de Pokémon para poder desafiar a los líderes.
-Estoy empollándome mis guías de Pokémon para poder desafiar a los líderes.
+I'm digging into my Pokémon guides so I can challenge the leaders.
 ¿Sabías que si un Pokémon utiliza un movimiento de su mismo tipo, tendrá una bonificación de daño?
-¿Sabías que si un Pokémon utiliza un movimiento de su mismo tipo, tendrá una bonificación de daño?
+Did you know that if a Pokémon uses a move that shares its type, it'll have a damage bonus?
 #-------------------------------
 [Map038]
 ¡Qué suerte que pudiéramos alquilar esta casa para pasar unas vacaciones junto a mi hermano y mi novio!
-¡Qué suerte que pudiéramos alquilar esta casa para pasar unas vacaciones junto a mi hermano y mi novio!
+How lucky that we could rent this house for a vacation with my brother and my boyfriend!
 Hay muchas cosas por ver en <b>Ciudad Azulona</b>.
-Hay muchas cosas por ver en <b>Ciudad Azulona</b>.
+There are many things to see in <b>Celadon City</b>.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 ¿Tienes un Scyther? ¿Te gustaría cambiarlo por mi Heracross?
-¿Tienes un Scyther? ¿Te gustaría cambiarlo por mi Heracross?
+Do you have a Scyther? Would you like to trade it for my Heracross?
 ¡Qué guay! ¡Pues a intercambiar se ha dicho!
-¡Qué guay! ¡Pues a intercambiar se ha dicho!
+How cool! Let's trade!
 Heracross es un Pokémon que necesita de un buen entrenamiento, ¡te deseo suerte!
-Heracross es un Pokémon que necesita de un buen entrenamiento, ¡te deseo suerte!
+Heracross is a Pokémon that needs good training, I wish you luck!
 Si tienes un Scyther, ponlo en el primer lugar de tu equipo para que pueda verlo bien.
-Si tienes un Scyther, ponlo en el primer lugar de tu equipo para que pueda verlo bien.
+If you have a Scyther, put it at the top of your team so I can see it well.
 ¡Vaya, qué mala suerte la mía!
-¡Vaya, qué mala suerte la mía!
+Wow, unlucky!
 ¿Por qué se ha traído a su hermano pequeño? Pensaba que estas vacaciones serían para los dos solos...
-¿Por qué se ha traído a su hermano pequeño? Pensaba que estas vacaciones serían para los dos solos...
+Why did he bring his little brother? She thought this vacation would be for just the two of them...
 Mi hermano mayor intentó derrotar a la líder <b>Erika</b>, confiando en su victoria ya que los Pokémon de tipo Planta no suelen ser muy buenos...
-Mi hermano mayor intentó derrotar a la líder <b>Erika</b>, confiando en su victoria ya que los Pokémon de tipo Planta no suelen ser muy buenos...
+My older brother tried to defeat the leader <b>Erika</b>, confidident in his victory since Grass-type Pokémon are usually weak...
 ¡Pero estaba muy equivocado! Se ha llevado la paliza de su vida.
-¡Pero estaba muy equivocado! Se ha llevado la paliza de su vida.
+But I was very wrong! He took the beating of a lifetime.
 ¿Quién crees que ganará la <b>Liga Pokémon</b> de este año? ¡Todos los Aspirantes son muy buenos!
-¿Quién crees que ganará la <b>Liga Pokémon</b> de este año? ¡Todos los Aspirantes son muy buenos!
+Who do you think will win this year's <b>Pokémon League</b>? All of the trainers are very good!
 Mi Pikachu podría evolucionar a Raichu y hacerse más fuerte si le diera una Piedra Trueno.
-Mi Pikachu podría evolucionar a Raichu y hacerse más fuerte si le diera una Piedra Trueno.
+My Pikachu could evolve into Raichu and get stronger if I gave it a Thunder Stone.
 Sin embargo, también puedo dejarlo así y equiparle un objeto llamado Mineral Evolutivo, que potencia a los Pokémon no evolucionados.
-Sin embargo, también puedo dejarlo así y equiparle un objeto llamado Mineral Evolutivo, que potencia a los Pokémon no evolucionados.
+However, I can also leave it and equip it with an item called Eviolite, which powers up unevolved Pokémon.
 ¿Has visto al <b>Team Rocket</b> deambular por la ciudad? Pues es el pan de todos los días.
-¿Has visto al <b>Team Rocket</b> deambular por la ciudad? Pues es el pan de todos los días.
+Have you seen <b>Team Rocket</b> wandering around the city? Well, it is daily bread.
 Cada vez tienen más influencia en todas partes. Al parecer, manejan muchísimo dinero.
-Cada vez tienen más influencia en todas partes. Al parecer, manejan muchísimo dinero.
+They have more and more influence everywhere. Apparently they handle a lot of money.
 La verdad, no quiero que mis hijas crezcan en un mundo donde esos canallas lo controlan todo.
-La verdad, no quiero que mis hijas crezcan en un mundo donde esos canallas lo controlan todo.
+The truth is, I don't want my daughters to grow up in a world where those scoundrels control everything.
 ¡Eh! ¡Tú eres Aspirante!
-¡Eh! ¡Tú eres Aspirante!
+Hey! You're a trainer!
 Pues te voy a contar un secreto: ¿has visto ese edificio grande de oficinas?
-Pues te voy a contar un secreto: ¿has visto ese edificio grande de oficinas?
+Well, I'm going to tell you a secret: have you seen that big office building?
 Pues hay una entrada secreta trasera, aunque no sé muy bien cómo acceder a ella.
-Pues hay una entrada secreta trasera, aunque no sé muy bien cómo acceder a ella.
+Well, there's a secret entrance in the back, although I don't really know how to access it.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2471,7 +2471,7 @@ No
 #-------------------------------
 [Map043]
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -2487,11 +2487,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 Al parecer, <b>Bill</b> tiene una colección de Pokémon muy raros.
 Al parecer, <b>Bill</b> tiene una colección de Pokémon muy raros.
 Creo que sueña con hacerse con todos algún día. Y cuando digo todos, es todos. ¡A escala planetaria!
@@ -2643,7 +2643,7 @@ No
 #-------------------------------
 [Map048]
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -2659,11 +2659,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Esto llevará un rato.
@@ -2789,7 +2789,7 @@ No
 #-------------------------------
 [Map051]
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -2805,11 +2805,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
 Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
@@ -2841,7 +2841,7 @@ No
 #-------------------------------
 [Map052]
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -2857,11 +2857,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 He leído que los cráneos que los Cubone llevan en la cabeza pueden llegar a venderse por un precio desorbitado.
 He leído que los cráneos que los Cubone llevan en la cabeza pueden llegar a venderse por un precio desorbitado.
 Pertenezco a un gremio de Exorcistas. Nos han llamado para solucionar un problema de malos espíritus en la <b>Torre Pokémon</b>.
@@ -3949,7 +3949,7 @@ Antes de meterse en el <b>Mt. Moon</b>, hay que descansar bien.
 No solo los Pokémon salvajes son duros, ¡también habrá otros Montañeros como yo que querrán retarte a un combate!
 No solo los Pokémon salvajes son duros, ¡también habrá otros Montañeros como yo que querrán retarte a un combate!
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -3965,11 +3965,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 Sí
 Sí
 No
@@ -4189,7 +4189,7 @@ Emm...
 ¿Ves a esa Exorcista? Dicen que puede ver el futuro, aunque yo creo que se trata de una simple estafa...
 ¿Ves a esa Exorcista? Dicen que puede ver el futuro, aunque yo creo que se trata de una simple estafa...
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -4205,11 +4205,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Esto llevará un rato.
@@ -6543,7 +6543,7 @@ Misión cumplida, ¡vuelve cuando lo necesites!
 Estamos a tu servicio.
 Estamos a tu servicio.
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -6559,11 +6559,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 ¿Has podido ver las granjas de Miltank? Ojalá puedas sacar un rato libre.
 ¿Has podido ver las granjas de Miltank? Ojalá puedas sacar un rato libre.
 Normalmente la gente que para en <b>Pueblo Marengo</b> es solo para hacer un alto en el camino.
@@ -6611,7 +6611,7 @@ Misión cumplida, ¡vuelve cuando lo necesites!
 Estamos a tu servicio.
 Estamos a tu servicio.
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -6627,11 +6627,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 He intentado desafiar al líder de gimnasio de <b>Ciudad Fucsia</b>, pero sus técnicas venenosas y ágiles han acabado con mi equipo Pokémon sin esfuerzo alguno.
 He intentado desafiar al líder de gimnasio de <b>Ciudad Fucsia</b>, pero sus técnicas venenosas y ágiles han acabado con mi equipo Pokémon sin esfuerzo alguno.
 Tal vez si probara con un Pokémon de tipo Acero...
@@ -6821,7 +6821,7 @@ Misión cumplida, ¡vuelve cuando lo necesites!
 Estamos a tu servicio.
 Estamos a tu servicio.
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -6837,11 +6837,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 No todas las aventuras tienen por qué producirse en cuevas y montañas...
 No todas las aventuras tienen por qué producirse en cuevas y montañas...
 Aunque entre tú y yo, si algún día consigues entrar en la <b>Cueva Celeste</b>... ¡eso sí que sería una aventura!
@@ -6947,7 +6947,7 @@ Misión cumplida, ¡vuelve cuando lo necesites!
 Estamos a tu servicio.
 Estamos a tu servicio.
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -6963,11 +6963,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 El <b>Team Rocket</b> lleva unas semanas tranquilo desde que lo expulsaron de <b>Ciudad Azafrán</b>.
 El <b>Team Rocket</b> lleva unas semanas tranquilo desde que lo expulsaron de <b>Ciudad Azafrán</b>. 
 Cuentan que su líder, <b>Giovanni</b>, fue derrotado por un misterioso vagabundo harapiento que pasaba por ahí.
@@ -8145,7 +8145,7 @@ No
 #-------------------------------
 [Map159]
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -8161,11 +8161,11 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 ¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
 ¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
 Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
@@ -9435,7 +9435,7 @@ No
 #-------------------------------
 [Map187]
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -9451,13 +9451,13 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 ¡Hola! ¿Qué necesitas?
-¡Hola! ¿Qué necesitas?
+Hello! What do you need?
 ¡Vuelve si necesitas recordar movimientos!
 ¡Vuelve si necesitas recordar movimientos!
 ¡Quiero visitar el <b>Bosque Arcoiris</b>! Se trata del bosque de cerezos más grande del mundo.
@@ -9495,7 +9495,7 @@ No
 #-------------------------------
 [Map188]
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -9511,13 +9511,13 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 ¡Hola! ¿Qué necesitas?
-¡Hola! ¿Qué necesitas?
+Hello! What do you need?
 ¡Vuelve si necesitas recordar movimientos!
 ¡Vuelve si necesitas recordar movimientos!
 Ahora que están abriendo <b>Centros Pokémon</b> por toda la isla, tal vez el siguiente paso sea construir un gimnasio.
@@ -9727,7 +9727,7 @@ Empiezan así y acaban quitándonos el trabajo.
 #-------------------------------
 [Map193]
 ¡Hola, Aspirante! ¿Qué necesitas?
-¡Hola, Aspirante! ¿Qué necesitas?
+Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 ¿Qué Pokémon debería recordar un movimiento?
 Vale, ¡vuelve cuando lo necesites!
@@ -9743,13 +9743,13 @@ Hmm... parece que no puedo enseñarle nada a tú \v[3].
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
-<b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
+<b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
-¡Vuelve si necesitas cualquier cosa!
+Come back if you need anything!
 ¡Hola! ¿Qué necesitas?
-¡Hola! ¿Qué necesitas?
+Hello! What do you need?
 ¡Vuelve si necesitas recordar movimientos!
 ¡Vuelve si necesitas recordar movimientos!
 Hay una cueva fría como el hielo no muy lejos de esta villa.
