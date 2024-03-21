@@ -8,7 +8,7 @@ EXPBarXY           = 4,16
 Bitmap             = dataBox
 Container          = containers
 HPColors           = barColors
-ExpandInDoubles    = true
+ExpandInDoubles    = false
 CONTAINER
   XYZ              = 20,6,1
 NAME
