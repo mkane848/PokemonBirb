@@ -274,6 +274,12 @@ module EnvironmentEBDX
     "base" => "Interior",
   }
 
+  # Birb attempts
+  LAB = {
+    "backdrop" => "IndoorB", "spinLights" => true, "lightsA" => true,
+    
+  }
+
 end
 #===============================================================================
 #  Extra additions to the battle scene based on terrain
