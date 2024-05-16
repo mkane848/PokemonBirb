@@ -166,9 +166,9 @@ module Battle::CatchAndStoreMixin
     end
     # Store the Pokémon
     if pbPlayer.party_full? && (@sendToBoxes == 0 || @sendToBoxes == 2)   # Ask/must add to party
-      cmds = [_INTL("Add to your party"),
-              _INTL("Send to a Box"),
-              _INTL("See {1}'s summary", pkmn.name),
+      cmds = [_INTL("Party"),
+              _INTL("Box"),
+              _INTL("Summary"),
               _INTL("Check party")]
       cmds.delete_at(1) if @sendToBoxes == 2   # Remove "Send to a Box" option
       loop do

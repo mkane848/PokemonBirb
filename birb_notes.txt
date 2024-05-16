@@ -18,3 +18,4 @@ TODO:
 
 - Put Randy in every Pkmn Center?
 - Fix battle speed, will probably need to update tick vs seconds system
+- Fix TMs, randomizer is grabbing gen9 (i.e. I found TM60 and 073 Drain Punch)

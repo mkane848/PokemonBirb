@@ -477,7 +477,7 @@ WildBattleBGM = Salvaje
 [066]   # Transition
 Name = Transition
 #-------------------------------
-[067]   Fuji Refuge
+[067]   # Fuji Refuge
 Name = Fuji Refuge
 #-------------------------------
 [068]   # Transition
@@ -1078,7 +1078,7 @@ Name = Safari Zone
 [149]   # Safari Zone
 Name = Safari Zone
 #-------------------------------
-[150]   Power Plant
+[150]   # Power Plant
 Name = Power Plant
 BattleBack = indoor2
 ShowArea = true
