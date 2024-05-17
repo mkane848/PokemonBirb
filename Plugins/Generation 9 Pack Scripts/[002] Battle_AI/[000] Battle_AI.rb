@@ -11,12 +11,15 @@ class Battle::AI
     8  => [:THERMALEXCHANGE],
     7  => [:EARTHEATER, :TOXICDEBRIS, :PROTOSYNTHESIS, :QUARKDRIVE, :SUPERSWEETSYRUP, :MINDSEYE],
     6  => [:SUPREMEOVERLORD, :SEEDSOWER, :OPPORTUNIST],
-    5  => [:ARMORTAIL, :ROCKYPAYLOAD, :SHARPNESS, :LINGERINGAROMA, :CUDCHEW, :TOXICCHAIN],
+    5  => [:ARMORTAIL, :ROCKYPAYLOAD, :SHARPNESS, :LINGERINGAROMA, :CUDCHEW, 
+           :TOXICCHAIN, :POISONPUPPETEER],
     4  => [:PURIFYINGSALT, :WELLBAKEDBODY, :ANGERSHELL, :ELECTROMORPHOSIS, :WINDPOWER],
     3  => [:WINDRIDER, :HOSPITALITY,
            :TABLETSOFRUIN, :SWORDOFRUIN, :VESSELOFRUIN, :BEADSOFRUIN
           ],
-    1  => [:EMBODYASPECT, :EMBODYASPECT_1, :EMBODYASPECT_2, :EMBODYASPECT_3]
+    1  => [:EMBODYASPECT, :EMBODYASPECT_1, :EMBODYASPECT_2, :EMBODYASPECT_3,
+           :TERASHIFT, :TERASHELL, :TERAFORMZERO
+          ]
 
   }
 
@@ -97,11 +100,15 @@ class Battle::AI
       end
     end
     if @ai.trainer.medium_skill?
-      [:TABLETSOFRUIN, :SWORDOFRUIN, :VESSELOFRUIN, :BEADSOFRUIN].each_with_index do |abil, i|
-        category = (i < 2) ? move.physicalMove? : move.specialMove?
-        category = !category if i.odd? && @battle.field.effects[PBEffects::WonderRoom] > 0
-        mult = (i.even?) ? multipliers[:attack_multiplier] : multipliers[:defense_multiplier]
-        mult *= 0.75 if @battle.pbCheckGlobalAbility(abil) && !user.has_active_ability?(abil) && category
+      [:TABLETSOFRUIN, :SWORDOFRUIN, :VESSELOFRUIN, :BEADSOFRUIN].each_with_index do |ability, i|
+        next if !@ai.battle.pbCheckGlobalAbility(ability)
+        category = (i < 2) ? physicalMove?(calc_type) : specialMove?(calc_type)
+        category = !category if i.odd? && @ai.battle.field.effects[PBEffects::WonderRoom] > 0
+        if i.even? && !user.has_active_ability?(ability)
+          multipliers[:attack_multiplier] *= 0.75 if category
+        elsif i.odd? && !target.has_active_ability?(ability)
+          multipliers[:defense_multiplier] *= 0.75 if category
+        end
       end
     end
     # Ability effects that alter damage
@@ -227,7 +234,7 @@ class Battle::AI
       case @ai.battle.field.terrain
       when :Electric
         multipliers[:power_multiplier] *= terrain_multiplier if calc_type == :ELECTRIC && user_battler.affectedByTerrain?
-        multipliers[:power_multiplier] *= 1.5 if function_code == "IncreasePowerWhileElectricTerrain" && user_battler.affectedByTerrain?
+        multipliers[:power_multiplier] *= 1.5 if function_code == "IncreasePowerInElectricTerrain" && user_battler.affectedByTerrain?
       when :Grassy
         multipliers[:power_multiplier] *= terrain_multiplier if calc_type == :GRASS && user_battler.affectedByTerrain?
       when :Psychic
@@ -257,8 +264,12 @@ class Battle::AI
         case calc_type
         when :FIRE
           multipliers[:final_damage_multiplier] *= 1.5
-        when :WATER                                  # Added for Hydro Steam
-          multipliers[:final_damage_multiplier] /= 2 if function_code != "IncreasePowerInSunWeather"
+        when :WATER
+          if function_code == "IncreasePowerInSunWeather" # Added for Hydro Steam
+            multipliers[:final_damage_multiplier] *= 1.5
+          else
+            multipliers[:final_damage_multiplier] /= 2
+          end
         end
       when :Rain, :HeavyRain
         case calc_type
@@ -311,7 +322,7 @@ class Battle::AI
     #---------------------------------------------------------------------------
     # Added for Drowsy
     #---------------------------------------------------------------------------
-    if @ai.trainer.high_skill? && user.status == :DROWSY
+    if @ai.trainer.high_skill? && target.status == :DROWSY
       multipliers[:final_damage_multiplier] *= 4 / 3.0
     end
     #---------------------------------------------------------------------------
@@ -397,7 +408,7 @@ class Battle::AI
     proc { |battler, reserves, ai, battle|
       next false if !battler.ability_active?
       next false if battler.ability != :ZEROTOHERO
-      next false if battler.form != 0
+      next false if battler.battler.form != 0
       # Don't try to transform if entry hazards will
       # KO the battler if it switches back in
       entry_hazard_damage = ai.calculate_entry_hazard_damage(battler.pokemon, battler.side)
@@ -412,7 +423,7 @@ class Battle::AI
           "UserMakeSubstituteSwitchOut"        # Shed Tail
         ]
       hasSwitchMove = false
-      battler.eachMoveWithIndex do |m, i|
+      battler.battler.eachMoveWithIndex do |m, i|
         next if !switchFunctions.include?(m.function_code) || !battle.pbCanChooseMove?(battler.index, i, false)
         hasSwitchMove = true
         break
@@ -465,6 +476,71 @@ class Battle::AI
       # Good As Gold Pokémon immunity to status moves
       return true if @move.statusMove?  && @target.has_active_ability?(:GOODASGOLD) && 
                                           !(@user.has_active_ability?(:MYCELIUMMIGHT))
+    end
+    return ret
+  end
+  #===============================================================================
+  # AI_ChooseMove_GenericEffects
+  #===============================================================================
+  # Aliased to adds score modifier for the Gen 9 abilities and moves.
+  #-------------------------------------------------------------------------------
+  alias paldea_get_score_for_weather get_score_for_weather
+  def get_score_for_weather(weather, move_user, starting = false)
+    return 0 if @battle.pbCheckGlobalAbility(:AIRLOCK) ||
+                @battle.pbCheckGlobalAbility(:CLOUDNINE)
+    ret = paldea_get_score_for_weather(weather, move_user, starting)
+    each_battler do |b, i|
+      # Check each battler's abilities/other moves affected by the new weather
+      if @trainer.medium_skill? && !b.has_active_item?(:UTILITYUMBRELLA)
+        # Abilities
+        beneficial_abilities = {
+          :Sun       => [:ORICHALCUMPULSE,:PROTOSYNTHESIS]
+        }[weather]
+        if beneficial_abilities && beneficial_abilities.length > 0 &&
+           b.has_active_ability?(beneficial_abilities)
+          ret += (b.opposes?(move_user)) ? -5 : 5
+        end
+        # Moves
+        beneficial_moves = {
+          :Sun       => ["IncreasePowerInSunWeather"],
+          :Rain      => ["LowerTargetSpeed1AlwaysHitsInRain",
+                         "ParalyzeTargetAlwaysHitsInRain",
+                         "BurnTargetAlwaysHitsInRain"]
+        }[weather]
+        if beneficial_moves && beneficial_moves.length > 0 &&
+           b.has_move_with_function?(*beneficial_moves)
+          ret += (b.opposes?(move_user)) ? -5 : 5
+        end
+      end
+    end
+    return ret
+  end
+
+  #-------------------------------------------------------------------------------
+  # Aliased to adds score modifier for the Gen 9 abilities and moves.
+  #-------------------------------------------------------------------------------
+  alias paldea_get_score_for_terrain get_score_for_terrain
+  def get_score_for_terrain(terrain, move_user, starting = false)
+    ret = paldea_get_score_for_terrain(terrain, move_user, starting)
+    # Check for abilities/moves affected by the terrain
+    if @trainer.medium_skill?
+      abils = {
+        :Electric => [:QUARKDRIVE,:HADRONENGINE]
+      }[terrain]
+      good_moves = {
+        :Electric => ["IncreasePowerInElectricTerrain"],
+      }[terrain]
+      each_battler do |b, i|
+        next if !b.battler.affectedByTerrain?
+        # Abilities
+        if abils && b.has_active_ability?(abils)
+          ret += (b.opposes?(move_user)) ? -8 : 8
+        end
+        # Moves
+        if good_moves && b.has_move_with_function?(*good_moves)
+          ret += (b.opposes?(move_user)) ? -5 : 5
+        end
+      end
     end
     return ret
   end
@@ -546,5 +622,21 @@ class Battle::AI::AIBattler
       }
     end
     return paldea_wants_ability?(ability)
+  end
+end
+
+#===============================================================================
+# AIMove
+#===============================================================================
+# Add Glaive Rush to accuracy calculation
+#-------------------------------------------------------------------------------
+class Battle::AI::AIMove
+  # Full accuracy calculation.
+  alias paldea_rough_accuracy rough_accuracy
+  def rough_accuracy
+    if @ai.trainer.medium_skill?
+      return 100 if @ai.target.effects[PBEffects::GlaiveRush] > 0
+    end
+    return paldea_rough_accuracy
   end
 end
