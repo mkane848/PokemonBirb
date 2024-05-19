@@ -157,7 +157,7 @@ I can't wait to find out what my starter Pokémon will be!
 Casa de \v[12]
 \v[12]'s House
 El <b>Prof. Oak</b> se instaló en <b>Pueblo Paleta</b> junto a su familia hará unos 30 años.
-The<b>Prof. Oak</b> settled in <b>Pallet Town</b> with his family about 30 years ago.
+<b>Prof. Oak</b> settled in <b>Pallet Town</b> with his family about 30 years ago.
 Él dice que fue la mejor decisión de su vida, ya que el clima rural le ayuda en sus investigaciones.
 He says it was the best decision of his life, since the rural climate helps him in his research.
 ¡Hasta ha construido un jardín secreto en su laboratorio! O eso dicen los rumores...
@@ -1515,39 +1515,39 @@ No
 #-------------------------------
 [Map028]
 ¡Es una <b>Nintendo Switch</b> nuevecita! Ojalá tuviese un catálogo interesante de juegos con los que aprovecharla...
-¡Es una <b>Nintendo Switch</b> nuevecita! Ojalá tuviese un catálogo interesante de juegos con los que aprovecharla...
+It's a brand new <b>Nintendo Switch</b>! I wish I had more games for it...
 <b>Mamá:</b> Supongo que así es la vida...
-<b>Mamá:</b> Supongo que así es la vida...
+<b>Mom:</b> I guess that's life...
 Los hijos crecen y emprenden sus propios proyectos, lejos de su hogar.
-Los hijos crecen y emprenden sus propios proyectos, lejos de su hogar.
+Children grow up and take on their own dreams, far from home.
 Pase lo que pase, ¡recuerda que tu madre siempre estará orgullosa de ti en tu aventura Pokémon!
-Pase lo que pase, ¡recuerda que tu madre siempre estará orgullosa de ti en tu aventura Pokémon!
+No matter what happens, remember that your mom will always be proud of you on your Pokémon adventure!
 <b>Dalia Oak:</b> Si hubiera querido, el abuelo me habría dado otro Pokémon inicial y otra <b>Pokédex</b>.
-<b>Dalia Oak:</b> Si hubiera querido, el abuelo me habría dado otro Pokémon inicial y otra <b>Pokédex</b>.
+<b>Dahlia Oak:</b> If I'd wanted it, Grandpa would have given me another starter Pokémon and another <b>Pokédex</b>.
 Pero la verdad es que prefiero quedarme aquí de relax. ¡Como en casa, en ningún sitio!
-Pero la verdad es que prefiero quedarme aquí de relax. ¡Como en casa, en ningún sitio!
+But the truth is that I prefer to stay here to relax. There's no place like home!
 <b>Dalia Oak:</b> ¿Cómo? ¿Que mi hermano quiere pedirme el <b>PokéRadar</b>?
-<b>Dalia Oak:</b> ¿Cómo? ¿Que mi hermano quiere pedirme el <b>PokéRadar</b>?
+<b>Dahlia Oak:</b> Huh? My brother wants to ask me for the <b>PokéRadar</b>?
 ¡Que se las apañe sin él! Aún me debe el dinero que le presté cuando se fue de vacaciones a otra región.
-¡Que se las apañe sin él! Aún me debe el dinero que le presté cuando se fue de vacaciones a otra región.
+Let him do without it! He still owes me the money I lent him when he went on vacation to another region.
 ¿Y si te lo doy a ti? ¡Eso le daría mucha rabia! ¡Jijiji!
-¿Y si te lo doy a ti? ¡Eso le daría mucha rabia! ¡Jijiji!
+What if I give it to you? That would make him so mad! Hee hee hee!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Guardabas una Poción junto al PC. Será mejor cogerla para el viaje que te espera.
-Guardabas una Poción junto al PC. Será mejor cogerla para el viaje que te espera.
+You've kept a Potion next to the PC. It'll be better to take it for the trip that awaits you.
 No es momento de perder el tiempo en tu PC ahora.
-No es momento de perder el tiempo en tu PC ahora.
+There's no time to be wasted on your PC now.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 \c[1]<b>\v[12]:</b>\c[0] Ahora no estoy para juegos, \PN. ¡Tengo mucho que estudiar si quiero convertirme en líder de gimnasio!
-\c[1]<b>\v[12]:</b>\c[0] Ahora no estoy para juegos, \PN. ¡Tengo mucho que estudiar si quiero convertirme en líder de gimnasio!
+\c[1]<b>\v[12]:</b>\c[0] I'm not into games right now, \PN. I have a lot to study if I want to become a gym leader!
 Tengo que memorizar más de 50 temas sobre Pokémon, leyes, protocolos... ¡puff! Pero pienso conseguirlo.
-Tengo que memorizar más de 50 temas sobre Pokémon, leyes, protocolos... ¡puff! Pero pienso conseguirlo.
+I have to memorize more than 50 topics about Pokémon, laws, protocols... phew! But I plan to get it.
 Por cierto, mi Pokémon tuvo una cría el otro día, ¿por qué no te lo quedas? Te ayudará a ir completando la <b>Pokédex</b>.
-Por cierto, mi Pokémon tuvo una cría el otro día, ¿por qué no te lo quedas? Te ayudará a ir completando la <b>Pokédex</b>.
+By the way, my Pokémon had a baby the other day, why don't you keep it? It will help you complete the <b>Pokédex</b>.
 #-------------------------------
 [Map029]
 Aquí solo hay basura.
@@ -1573,7 +1573,7 @@ Ready! They're like new!
 Ten cuidado y no fuerces demasiado a tus Pokémon, ¡podrías acabar muy mal!
 Be careful and don't push your Pokémon too much, you could end up very hurt!
 \c[1]<b>\v[12]:</b>\c[0] Abuelo, ¿vas a decirme por qué nos necesitabas con tanta urgencia? ¡Estoy harto de esperar!
-\c[1]<b>\v[12]:</b>\c[0] BGrandpa, are you going to tell me why you needed us so badly? I'm tired of waiting!
+\c[1]<b>\v[12]:</b>\c[0] Grandpa, are you going to tell me why you needed us so badly? I'm tired of waiting!
 <b>Prof. Oak:</b> ¡Ah, sí! ¡Os había llamado para algo importante, desde luego!
 <b>Prof. Oak:</b> Oh, yes! I had called you for something important, of course!
 <b>Prof. Oak:</b> Mirad, en esas Pokéball hay 3 Pokémon.
