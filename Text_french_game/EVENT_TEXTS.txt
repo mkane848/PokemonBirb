@@ -411,11 +411,11 @@ But that means that my Pokémon companions will be able to defend me from any da
 \c[2]<b>Rojo:</b>\c[0] Estaba a punto de entrar en el <b>Bosque Verde</b> pero no lo tengo demasiado claro...
 \c[2]<b>Red:</b>\c[0] I was about to enter the <b>Viridian Forest</b> but I'm not too sure...
 \c[2]<b>Rojo:</b>\c[0] Y para colmo, ese \c[1]<b>\v[12]</b>\c[0] es un chico de lo más desagradable... me pone un poco nervioso.
-\c[2]<b>Rojo:</b>\c[0] And to top it off, that \c[1]<b>\v[12]</b>\c[0] is a most unpleasant boy... he makes me a little nervous.
+\c[2]<b>Red:</b>\c[0] And to top it off, that \c[1]<b>\v[12]</b>\c[0] is a most unpleasant boy... he makes me a little nervous.
 \c[2]<b>Rojo:</b>\c[0] ¿Qué? ¿Dices que si combato contigo tendré más confianza?
 \c[2]<b>Red:</b>\c[0] Huh? You think that if I battle you I'll have more confidence?
 \c[2]<b>Rojo:</b>\c[0] Ya entiendo, los Pokémon son criaturas fascinantes... ¡incluso abrumadoras!
-\c[2]<b>Rojo:</b>\c[0] I get it, Pokémon are fascinating creatures...it's overwhelming!
+\c[2]<b>Red:</b>\c[0] I get it, Pokémon are fascinating creatures...it's overwhelming!
 \c[2]<b>Rojo:</b>\c[0] Me voy al <b>Bosque Verde</b>, \PN. ¡Espero salir de una sola pieza!
 \c[2]<b>Red:</b>\c[0] I'm going to the <b>Viridian Forest</b>, \PN. I hope I get out in one piece!
 Un pequeño arbusto bloquea el paso. Tal vez se podría cortar con algo...
@@ -625,95 +625,95 @@ None of those...
 #-------------------------------
 [Map010]
 No irás muy lejos si no evoluciones a tus Pokémon, ¡por eso me gustan los Pokémon Bicho! ¡Evolucionan muy rápido!
-No irás muy lejos si no evoluciones a tus Pokémon, ¡por eso me gustan los Pokémon Bicho! ¡Evolucionan muy rápido!
+You won't get very far if you don't evolve your Pokémon, which is why I like Bug Pokémon! They evolve quickly!
 No todos los Pokémon Bicho evolucionan igual de rápido. Existe uno muy raro llamado Larvesta que tarda un montón, ¡pero es muy fuerte!
-No todos los Pokémon Bicho evolucionan igual de rápido. Existe uno muy raro llamado Larvesta que tarda un montón, ¡pero es muy fuerte!
+Not all Bug Pokémon evolve equally fast. There's a super rare one called Larvesta that takes a long time, but is very strong!
 <b>PISTA DE ENTRENADOR:</b> Puedes acelerar el juego pulsando la tecla ALT
-<b>PISTA DE ENTRENADOR:</b> Puedes acelerar el juego pulsando la tecla ALT
+<b>TRAINER HINT:</b> You can speed up the game by pressing the Q key
 Me encantan los pantalones cortos. ¡Si es que son la mar de cómodos! ¿No te encanta llevar ropa cómoda?
-Me encantan los pantalones cortos. ¡Si es que son la mar de cómodos! ¿No te encanta llevar ropa cómoda?
+I love shorts. They're very comfortable! Don't you love wearing comfy clothes?
 Los pantalones cortos son lo último en moda. Por eso no me corto en llevarlos a todas horas.
-Los pantalones cortos son lo último en moda. Por eso no me corto en llevarlos a todas horas.
+Shorts are the latest in fashion. That's why I don't shy away from wearing them all the time.
 Estas excavaciones se hacen con mucho cuidado, intentando no dañar el hábitat de los Pokémon.
-Estas excavaciones se hacen con mucho cuidado, intentando no dañar el hábitat de los Pokémon.
+These excavations are done very carefully, trying not to damage the Pokémon's habitat.
 La armonía entre humanos y Pokémon es la clave para alcanzar un mundo mejor.
-La armonía entre humanos y Pokémon es la clave para alcanzar un mundo mejor.
+Harmony between humans and Pokémon is the key to achieving a better world.
 <b>PISTA DE ENTRENADOR:</b> Puedes encontrar el save de tu partida en Mi PC->Disco Local->usuarios->Tu usuario->Juegos guardados
-<b>PISTA DE ENTRENADOR:</b> Puedes encontrar el save de tu partida en Mi PC->Disco Local->usuarios->Tu usuario->Juegos guardados
+<b>TRAINER HINT:</b> You can find the save of your game in...uh...check back on this later!
 ¡Eh! ¿Estabas mirándome? ¡Pues ahora no te queda otro remedio que combatir!
-¡Eh! ¿Estabas mirándome? ¡Pues ahora no te queda otro remedio que combatir!
+Hey! Were you looking at me? Well now you have no choice but to fight!
 ¡Deja de mirar fijamente a la gente si no quieres luchar!
-¡Deja de mirar fijamente a la gente si no quieres luchar!
+Stop staring at people if you don't want to fight!
 Tienes pinta de querer poner a pruebas tus habilidades, ¿me equivoco?
-Tienes pinta de querer poner a pruebas tus habilidades, ¿me equivoco?
+You look like you want to test your skills, am I wrong?
 En esta ruta hay un Pokémon muy raro llamado Jigglypuff con el poder de dormir a los demás, ¡y es redondito y rosa!
-En esta ruta hay un Pokémon muy raro llamado Jigglypuff con el poder de dormir a los demás, ¡y es redondito y rosa!
+There's a very rare Pokémon called Jigglypuff on this route with the power to put others to sleep. It's round and pink!
 ¿Has visto esas pequeñas rocas? Las puedes romper usando Golpe Roca.
-¿Has visto esas pequeñas rocas? Las puedes romper usando Golpe Roca.
+Have you seen those little rocks? You can break them using Rock Smash.
 Si no tienes esa MT todavía, diría que en <b>Ciudad Plateada</b> es bastante común.
-Si no tienes esa MT todavía, diría que en <b>Ciudad Plateada</b> es bastante común.
+If you don't have that TM yet, I'd say it's pretty common in <b>Pewter City</b>.
 Voy a combatir con el Pokémon que acabo de capturar. ¡Se va a poner morado contigo!
-Voy a combatir con el Pokémon que acabo de capturar. ¡Se va a poner morado contigo!
+I'm going to battle with the Pokémon I just caught. He's going to turn purple on you!
 Los Pokémon que entrenas son más fuertes que los que encuentras en estado salvaje, ¿no crees?
-Los Pokémon que entrenas son más fuertes que los que encuentras en estado salvaje, ¿no crees?
+The Pokémon you train are stronger than the ones you find in the wild, don't you think?
 ¡Oye! ¡No te pongas en medio! Quiero disfrutar de las vistas.
-¡Oye! ¡No te pongas en medio! Quiero disfrutar de las vistas.
+Hey! Don't get in the way! I want to enjoy the views.
 El Monte Moon está un poco más allá y es un hervidero de Pokémon. Procura comprar muchas Poké Ball en el Centro Pokémon de Ciudad Plateada antes de ir.
-El Monte Moon está un poco más allá y es un hervidero de Pokémon. Procura comprar muchas Poké Ball en el Centro Pokémon de Ciudad Plateada antes de ir.
+Mt. Moon is just ahead and full of Pokémon. Try to buy plenty of Poké Balls at the Pokémon Center in Pewter City before you go.
 #-------------------------------
 [Map011]
 ¡Para llegar a Ciudad Celeste hay que cruzar esta cueva!
-¡Para llegar a Ciudad Celeste hay que cruzar esta cueva!
+You have to get through this cave to get to Cerulean City!
 Los Zubat son rivales duros de pelar, pero, si atrapas uno, verás como vale la pena.
-Los Zubat son rivales duros de pelar, pero, si atrapas uno, verás como vale la pena.
+The Zubat can be tough to fight, but it's worth it if you catch one.
 ¿Qué pasa? Estoy esperando aquí a mis amigos, porque los he perdido de vista en la cueva.
-¿Qué pasa? Estoy esperando aquí a mis amigos, porque los he perdido de vista en la cueva.
+What's up? I'm waiting here for my friends because I lost sight of them in the cave.
 He venido porque dicen que aquí hay unos fósiles muy raros.
-He venido porque dicen que aquí hay unos fósiles muy raros.
+I came because they say there are some very rare fossils here.
 ¡Aaaah! ¡Pero bueno, no me des esos sustos!
-¡Aaaah! ¡Pero bueno, no me des esos sustos!
+AAAAAH! Hey, don't scare me like that!
 Creo que debería buscar Pokémon más fuertes. A ver... ¿Por donde empiezo?
-Creo que debería buscar Pokémon más fuertes. A ver... ¿Por donde empiezo?
+I think I should look for stronger Pokémon. Let's see... Where do I start?
 <b>PISTA DE ENTRENADOR:</b> Podrás encontrar mejoras del <b>Pokévial</b> a lo largo de tu aventura para aumentar sus usos.
-<b>PISTA DE ENTRENADOR:</b> Podrás encontrar mejoras del <b>Pokévial</b> a lo largo de tu aventura para aumentar sus usos.
+<b>TRAINER HINT:</b> You can find upgrades for the <b>Pokévial</b> throughout your adventure to increase its charges.
 ¿Has visto esas nubes de polvo que se mueven tan rápido? Seguramente sea un Pokémon salvaje, ¡así que evítalas si no quieres combatir con ellos!
-¿Has visto esas nubes de polvo que se mueven tan rápido? Seguramente sea un Pokémon salvaje, ¡así que evítalas si no quieres combatir con ellos!
+Have you seen those fast moving dust clouds? It's probably a wild Pokémon, so avoid them if you don't want to fight!
 Hola, ¿te gustaría explorar la cueva a fondo junto a mí?
-Hola, ¿te gustaría explorar la cueva a fondo junto a mí?
+Hello, would you like to explore the cave in depth with me?
 No deberías rondar sitios oscuros en soledad, puede ser peligroso.
-No deberías rondar sitios oscuros en soledad, puede ser peligroso.
+You shouldn't wander around dark places alone, it can be dangerous.
 ¡Hola, soy <b>Don Prodigio</b>!
-¡Hola, soy <b>Don Prodigio</b>!
+Hello, I'm <b>Don Prodigio</b>!
 Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
+I can trade you one of your Pokémon for another of similar value.
 ¿Qué te parece?
-¿Qué te parece?
+How about it?
 ¿No? Pues te pierdes Pokémon maravillosos...
-¿No? Pues te pierdes Pokémon maravillosos...
+No? Well, you'll miss out on wonderful Pokémon...
 No tengo más Pokémon que ofrecerte por ahora.
-No tengo más Pokémon que ofrecerte por ahora.
+I have no more Pokémon to offer you for now.
 Búscame en otros lugares del mundo para seguir haciendo intercambios.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
+Look for me in other places in the world to continue making exchanges.
 Han... han pasado unos tíos muy raros por aquí. ¡Creo que eran del <b>Team Rocket</b>!
-Han... han pasado unos tíos muy raros por aquí. ¡Creo que eran del <b>Team Rocket</b>!
+Some very strange folks passed by here. I think they were from <b>Team Rocket</b>!
 Toma esto por si te topas con ellos, ¡aunque yo en tu lugar haría lo posible para evitarlos!
-Toma esto por si te topas con ellos, ¡aunque yo en tu lugar haría lo posible para evitarlos!
+Take this in case you run into them, although if I were you I'd do my best to avoid them!
 Yo en tu lugar haría lo posible para no tener que enfrentarme al <b>Team Rocket</b>. He escuchado que son realmente peligrosos.
-Yo en tu lugar haría lo posible para no tener que enfrentarme al <b>Team Rocket</b>. He escuchado que son realmente peligrosos.
+If I were you, I'd do everything possible to avoid facing <b>Team Rocket</b>. I've heard they're really dangerous.
 Acepto
-Acepto
+I accept
 No me interesa
-No me interesa
+I'm not interested
 #-------------------------------
 [Map012]
 Por favor, se ruega no molestar a los Clefairy.
-Por favor, se ruega no molestar a los Clefairy.
+Please do not disturb the Clefairy.
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
+It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
 En concreto, sientes la presencia de un Pokémon Hada muy poderoso.
-En concreto, sientes la presencia de un Pokémon Hada muy poderoso.
+You feel the presence of a very powerful Fairy Pokémon.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make it come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -721,89 +721,89 @@ The <b>Alpha Nest</b> is empty...
 ¡Espera, \PN!
 Wait, \PN!
 \c[3]<b>Hoja:</b>\c[0] ¿Lo has escuchado? ¡El <b>Team Rocket</b> anda por aquí! ¡Son una banda criminal temible!
-\c[3]<b>Hoja:</b>\c[0] ¿Lo has escuchado? ¡El <b>Team Rocket</b> anda por aquí! ¡Son una banda criminal temible!
+\c[3]<b>Leaf:</b>\c[0] Have you heard? <b>Team Rocket</b> is here! They're a fearsome criminal gang!
 Creo que el <b>Prof. Oak</b> no tuvo en cuenta estos posibles peligros cuando nos mandó de viaje...
-Creo que el <b>Prof. Oak</b> no tuvo en cuenta estos posibles peligros cuando nos mandó de viaje...
+I don't think <b>Prof. Oak</b> took these possible dangers into account when he sent us on our adventure...
 \c[3]<b>Hoja:</b>\c[0] ¿Qué debería hacer? Aún estoy a tiempo de dar la vuelta e irme a casa.
-\c[3]<b>Hoja:</b>\c[0] ¿Qué debería hacer? Aún estoy a tiempo de dar la vuelta e irme a casa.
+\c[3]<b>Leaf:</b>\c[0] What should I do? I still have time to turn around and go home.
 Pero mis Pokémon... creo que ya me han cogido algo de cariño. ¿Y si al tirar la toalla les decepciono?
-Pero mis Pokémon... creo que ya me han cogido algo de cariño. ¿Y si al tirar la toalla les decepciono?
+But my Pokémon...I think they've grown a little fond of me already. What if I disappoint them by throwing in the towel?
 \c[3]<b>Hoja:</b>\c[0] \PN... ¿podrías tener un combate conmigo? Necesito saber si estoy lista para continuar.
-\c[3]<b>Hoja:</b>\c[0] \PN... ¿podrías tener un combate conmigo? Necesito saber si estoy lista para continuar.
+\c[3]<b>Leaf:</b>\c[0] \PN... could you battle me? I need to know if I'm ready to continue.
 \c[3]<b>Hoja:</b>\c[0] Ya veo. Aunque haya perdido, mis Pokémon se han esforzado al máximo.
-\c[3]<b>Hoja:</b>\c[0] Ya veo. Aunque haya perdido, mis Pokémon se han esforzado al máximo.
+\c[3]<b>Leaf:</b>\c[0] I see. Even though I lost, my Pokémon tried their best.
 Tendré que continuar por respeto a ellos...
-Tendré que continuar por respeto a ellos...
+I'll have to continue out of respect for them...
 \c[3]<b>Hoja:</b>\c[0] Intentaré que esos <b>Rocket</b> no me vean.
-\c[3]<b>Hoja:</b>\c[0] Intentaré que esos <b>Rocket</b> no me vean.
+\c[3]<b>Leaf:</b>\c[0] I'll try not to let <b>Team Rocket</b> see me.
 Tengo que centrarme en llenar la <b>Pokédex</b>, como nos pidió el profesor.
-Tengo que centrarme en llenar la <b>Pokédex</b>, como nos pidió el profesor.
+I have to focus on filling out the <b>Pokédex</b>, like <b>Prof. Oak</b> asked us to do.
 \c[2]<b>Rojo:</b>\c[0] ¿Lo has escuchado? ¡El <b>Team Rocket</b> anda por aquí! ¡Son una banda criminal temible!
-\c[2]<b>Rojo:</b>\c[0] ¿Lo has escuchado? ¡El <b>Team Rocket</b> anda por aquí! ¡Son una banda criminal temible!
+\c[2]<b>Red:</b>\c[0] Have you heard? <b>Team Rocket</b> is here! They're a fearsome criminal gang!
 \c[2]<b>Rojo:</b>\c[0] ¿Qué debería hacer? Aún estoy a tiempo de dar la vuelta e irme a casa.
-\c[2]<b>Rojo:</b>\c[0] ¿Qué debería hacer? Aún estoy a tiempo de dar la vuelta e irme a casa.
+\c[2]<b>Red:</b>\c[0] What should I do? I still have time to turn around and go home.
 \c[2]<b>Rojo:</b>\c[0] \PN... ¿podrías tener un combate conmigo? Necesito saber si estoy listo para continuar.
-\c[2]<b>Rojo:</b>\c[0] \PN... ¿podrías tener un combate conmigo? Necesito saber si estoy listo para continuar.
+\c[2]<b>Red:</b>\c[0] \PN... could you battle me? I need to know if I'm ready to continue.
 \c[2]<b>Rojo:</b>\c[0] Ya veo. Aunque haya perdido, mis Pokémon se han esforzado al máximo.
-\c[2]<b>Rojo:</b>\c[0] Ya veo. Aunque haya perdido, mis Pokémon se han esforzado al máximo.
+\c[2]<b>Red:</b>\c[0] I see. Even though I lost, my Pokémon tried their best.
 \c[2]<b>Rojo:</b>\c[0] Intentaré que esos <b>Rocket</b> no me vean.
-\c[2]<b>Rojo:</b>\c[0] Intentaré que esos <b>Rocket</b> no me vean.
+\c[2]<b>Red:</b>\c[0] I'll try not to let <b>Team Rocket</b> see me.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map013]
 No deberías meter las narices en nuestros asuntos, ¡prepárate para morder el polvo!
-No deberías meter las narices en nuestros asuntos, ¡prepárate para morder el polvo!
+You shouldn't stick your nose into our affairs, get ready to bite the dust!
 Si yo no consigo pararte los pies, lo hará el <b>Comandante Atlas</b>, ¡y él es muchísimo más fuerte que tú!
-Si yo no consigo pararte los pies, lo hará el <b>Comandante Atlas</b>, ¡y él es muchísimo más fuerte que tú!
+If I can't stop you, <b>Commander Atlas</b> will, and he's way stronger than you!
 <b>Recluta Rocket:</b> ¡Mire, comandante <b>Atlas</b>!
-<b>Recluta Rocket:</b> ¡Mire, comandante <b>Atlas</b>!
+<b>Rocket Recruit:</b> Look, Commander <b>Atlas</b>!
 ¡Esa es la persona de la que le hemos hablado! ¡Nos ha estado causando muchos problemas!
-¡Esa es la persona de la que le hemos hablado! ¡Nos ha estado causando muchos problemas!
+That's the person we told you about! They've been causing us a lot of trouble!
 <b>Atlas:</b> ¿En serio os habéis dejado derrotar por este chico? ¡Panda de inútiles!
-<b>Atlas:</b> ¿En serio os habéis dejado derrotar por este chico? ¡Panda de inútiles!
+<b>Atlas:</b> Have you seriously let yourself be defeated by a child? Useless!
 <b>Atlas:</b> ¿En serio os habéis dejado derrotar por esta chica? ¡Panda de inútiles!
-<b>Atlas:</b> ¿En serio os habéis dejado derrotar por esta chica? ¡Panda de inútiles!
+<b>Atlas:</b> Have you seriously let yourself be defeated by a child? Useless!
 <b>Atlas:</b> Soy <b>Atlas</b>, uno de los altos mandos del <b>Team Rocket</b>.
-<b>Atlas:</b> Soy <b>Atlas</b>, uno de los altos mandos del <b>Team Rocket</b>.
+<b>Atlas:</b> I am <b>Atlas</b>, one of the senior officers of <b>Team Rocket</b>.
 ¡Incluso soy el ojito derecho de nuestro jefe! Por eso no permitiré que esta operación salga mal.
-¡Incluso soy el ojito derecho de nuestro jefe! Por eso no permitiré que esta operación salga mal.
+I'm our boss's eyes and ears! That's why I won't let this operation go wrong.
 El <b>Team Rocket</b> le sacará un auténtico valor a los fósiles del <b>Mt. Moon</b>, ¡imagínate lo que podríamos hacer con todo el dinero!
-El <b>Team Rocket</b> le sacará un auténtico valor a los fósiles del <b>Mt. Moon</b>, ¡imagínate lo que podríamos hacer con todo el dinero!
+<b>Team Rocket</b> will extract so much value from the fossils of <b>Mt. Moon</b>. Imagine what we could do with all that money!
 Podríamos construir hospitales, carreteras, laboratorios... ¡la región de <b>Kanto</b> prosperaría!
-Podríamos construir hospitales, carreteras, laboratorios... ¡la región de <b>Kanto</b> prosperaría!
+We could build hospitals, roads, laboratories... the <b>Kanto</b> region would prosper!
 No dejaré que acabes con nuestros bellos proyectos, ¡prepárate para morder el polvo!
-No dejaré que acabes con nuestros bellos proyectos, ¡prepárate para morder el polvo!
+I won't let you get in the way of our beautiful plans, get ready to bite the dust!
 <b>Atlas:</b> ¡Vaya, vaya! Ahora entiendo como has sido capaz de derrotar a mis subordinados.
-<b>Atlas:</b> ¡Vaya, vaya! Ahora entiendo como has sido capaz de derrotar a mis subordinados.
+<b>Atlas:</b> Whoa, whoa! Now I understand how you were able to defeat my subordinates.
 De todos modos, hemos logrado hacernos con un buen número de fósiles.
-De todos modos, hemos logrado hacernos con un buen número de fósiles.
+Either way, we've managed to get ahold of a good number of fossils.
 <b>Atlas:</b> Espero no tener que repetirte esto de nuevo: ¡no metas las narices en los asuntos del <b>Team Rocket</b> o acabarás lamentándolo!
-<b>Atlas:</b> Espero no tener que repetirte esto de nuevo: ¡no metas las narices en los asuntos del <b>Team Rocket</b> o acabarás lamentándolo!
+<b>Atlas:</b> I hope I don't have to repeat myself: don't stick your nose into <b>Team Rocket</b>'s affairs or you'll end up regretting it!
 ¡Pronto todos los fósiles del Mt. Moon serán nuestros! Podremos especular con ellos y venderlos a un gran precio.
-¡Pronto todos los fósiles del Mt. Moon serán nuestros! Podremos especular con ellos y venderlos a un gran precio.
+All the fossils in Mt. Moon will soon be ours! We'll speculate on them and sell them at a high price.
 ¿Tanto te importan esos fósiles? ¡Pero si no son más que rocas inútiles!
-¿Tanto te importan esos fósiles? ¡Pero si no son más que rocas inútiles!
+Do you care that much about those fossils? They're nothing more than useless rocks!
 Eh, ¡las manos quietecitas! Los fósiles los he encontrado yo. ¡Así que me pertenecen!
-Eh, ¡las manos quietecitas! Los fósiles los he encontrado yo. ¡Así que me pertenecen!
+Hands where I can see them! I found these fossils, they belong to me!
 Muy bien. ¡Nos quedaremos cada uno con un fósil! Muy lejos, en <b>Isla Canela</b>, hay un laboratorio en el que estudian cómo regenerar los fósiles de Pokémon.
-Muy bien. ¡Nos quedaremos cada uno con un fósil! Muy lejos, en <b>Isla Canela</b>, hay un laboratorio en el que estudian cómo regenerar los fósiles de Pokémon.
+Very well. We'll each keep a fossil! Far away, on <b>Cinnabar Island</b>, there's a laboratory where they study how to regenerate Pokémon fossils.
 ¿Quieres quedarte con el <b>Fósil Hélix</b>?
-¿Quieres quedarte con el <b>Fósil Hélix</b>?
+Do you want to keep the <b>Helix Fossil</b>?
 Muy bien, pues yo me quedo con este.
-Muy bien, pues yo me quedo con este.
+Very good, I'll take this one.
 Un fósil para cada uno, así estaremos en paz.
-Un fósil para cada uno, así estaremos en paz.
+A fossil for each of us, that's fair.
 ¡Somos el Team Rocket, los ladrones de Pokémon! ¡Nuestra fuerza inspira temor!
-¡Somos el Team Rocket, los ladrones de Pokémon! ¡Nuestra fuerza inspira temor!
+We're <b>Team Rocket</b>, the Pokémon thieves! Our strength inspires fear!
 ¿Será posible? ¡Mis compañeros me vengarán!
-¿Será posible? ¡Mis compañeros me vengarán!
+Is this possible...? My companions will avenge me!
 ¿Quieres quedarte con el <b>Fósil Domo</b>?
-¿Quieres quedarte con el <b>Fósil Domo</b>?
+Do you want to keep the <b>Dome Fossil</b>?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -811,65 +811,65 @@ No
 Mt. Moon
 Mt. Moon
 ¿Estás usando bayas en tus Pokémon? Te pueden dar una buena ventaja.
-¿Estás usando bayas en tus Pokémon? Te pueden dar una buena ventaja.
+Are you using berries on your Pokémon? They can give you a good advantage.
 Prueba con esta baya, por ejemplo.
-Prueba con esta baya, por ejemplo.
+Try this berry, for example.
 Las bayas pueden tener efectos muy positivos en los Pokémon, ¡y además son 100% naturales!
-Las bayas pueden tener efectos muy positivos en los Pokémon, ¡y además son 100% naturales!
+Berries can have very positive effects on Pokémon, and they're 100% natural!
 Me encanta subir hasta aquí para ver los molinos girar, ¡es muy hipnótico!
-Me encanta subir hasta aquí para ver los molinos girar, ¡es muy hipnótico!
+I love going up here to watch the windmills turning, it's so hypnotic!
 Ojalá llegue el día en el que el mundo se sostenga solo con energía renovable, como la que producen estos molinos.
-Ojalá llegue el día en el que el mundo se sostenga solo con energía renovable, como la que producen estos molinos.
+I hope that one day the world is sustained by renewable energy, like what these mills produce.
 ¡Un puñetazo bien dado es capaz de acabar con cualquier oponente! ¡Es mi filosofía de vida!
-¡Un puñetazo bien dado es capaz de acabar con cualquier oponente! ¡Es mi filosofía de vida!
+A well-placed punch is capable of finishing off any opponent! It's my life philosophy!
 Y para demostrártelo, enseñaré Megapuño a tus Pokémon. ¿Te interesa?
-Y para demostrártelo, enseñaré Megapuño a tus Pokémon. ¿Te interesa?
+And to prove it to you, I'll teach Mega Punch to your Pokémon. Are you interested?
 ¿No te gusta mi filosofía de tortazos? Bueno, ya te dará una torta la vida algún día.
-¿No te gusta mi filosofía de tortazos? Bueno, ya te dará una torta la vida algún día.
+You don't like my punching philosophy? Well, life will give you a punch one day.
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
+It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
 En concreto, sientes la presencia de un Pokémon Siniestro muy poderoso.
-En concreto, sientes la presencia de un Pokémon Siniestro muy poderoso.
+You feel the presence of a very powerful Dark Pokémon.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make it come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
 The <b>Alpha Nest</b> is empty...
 No hay nada más poderoso que una buena patada rápida y bien dada en los puntos débiles, ¿a qué sí?
-No hay nada más poderoso que una buena patada rápida y bien dada en los puntos débiles, ¿a qué sí?
+There's nothing more powerful than a good, quick kick to a weak point, right?
 Y para demostrártelo, enseñaré Megapatada a tus Pokémon. ¿Te interesa?
-Y para demostrártelo, enseñaré Megapatada a tus Pokémon. ¿Te interesa?
+And to prove it to you, I'll teach Mega Kick to your Pokémon. Are you interested?
 ¿No quieres aprender Megapatada? Pues yo lo resuelvo todo así en la vida...
-¿No quieres aprender Megapatada? Pues yo lo resuelvo todo así en la vida...
+Don't you want to learn Mega Kick? Well, I solve everything like that in life...
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map015]
 ¿Te gusta mi bici? La he comprado en la <b>Tienda de Bicis</b>, pero te advierto de que los precios son algo caros.
-¿Te gusta mi bici? La he comprado en la <b>Tienda de Bicis</b>, pero te advierto de que los precios son algo caros.
+Do you like my bike? I bought it at the <b>Bike Shop</b>, but I've gotta warn you that it's pretty expensive.
 <b>Este:</b> Túnel Roca
-<b>Este:</b> Túnel Roca
+<b>East:</b> Rock Tunnel
 <b>Ciudad Celeste</b>, ¡el azul del agua nos rodea!
-<b>Ciudad Celeste</b>, ¡el azul del agua nos rodea!
+<b>Cerulean City</b>, the blue of the water surrounds us!
 <b>Misty:</b> ¿Te vienes al mirador del faro de la <b>Ruta 24</b>?
-<b>Misty:</b> ¿Te vienes al mirador del faro de la <b>Ruta 24</b>?
+<b>Misty:</b> Are you coming to look out from the lighthouse on <b>Route 24</b>?
 ¡De vez en cuando se pueden ver Pokémon de tipo Agua muy raros!
-¡De vez en cuando se pueden ver Pokémon de tipo Agua muy raros!
+Very rare Water-type Pokémon can be seen from time to time!
 <b>Chica:</b> ¡Sí! ¡Suena genial! Así pasamos un rato divertido.
-<b>Chica:</b> ¡Sí! ¡Suena genial! Así pasamos un rato divertido.
+<b>Girl:</b> Yes! That sounds great! We had a fun time.
 Al norte de la ciudad vive un famoso Pokémaniaco llamado <b>Bill</b>.
-Al norte de la ciudad vive un famoso Pokémaniaco llamado <b>Bill</b>.
+A famous Pokémaniac named <b>Bill</b> lives north of the city.
 Yo fui profesor suyo en el colegio. La verdad es que de pequeño ya demostró tener una gran inteligencia.
-Yo fui profesor suyo en el colegio. La verdad es que de pequeño ya demostró tener una gran inteligencia.
+I was his teacher at school. As a child he already demonstrated great intelligence.
 ¿Estás llenando una Enciclopedia Pokémon para el <b>Prof. Oak</b>? Suena bastante divertido, pero prefiero dar un paseo con la bici.
-¿Estás llenando una Enciclopedia Pokémon para el <b>Prof. Oak</b>? Suena bastante divertido, pero prefiero dar un paseo con la bici.
+Are you filling out a Pokémon Encyclopedia for <b>Prof. Oak</b>? It sounds pretty fun, but I prefer going on a bike ride.
 Hemos cortado la salida de <b>Ciudad Celeste</b> hasta que terminemos una operación contra el <b>Team Rocket</b>.
-Hemos cortado la salida de <b>Ciudad Celeste</b> hasta que terminemos una operación contra el <b>Team Rocket</b>.
+We've cut off the exit from <b>Cerulean City</b> until we finish our investigation into <b>Team Rocket</b>.
 ¡Disculpa las molestias!
-¡Disculpa las molestias!
+Sorry for the disturbances!
 Are you familiar with a Pokémon called Lycanroc?
 Are you familiar with a Pokémon called Lycanroc?
 If you show me one in the first place of your team, I can change it to various forms.
@@ -883,65 +883,65 @@ I see you have one, what form do you want to change it to?
 \v[1] has acquired its dusk form.
 \v[1] has acquired its dusk form.
 \c[1]<b>\v[12]:</b>\c[0] ¡Hombre, \PN! ¿Al final has conseguido tu primera medalla?
-\c[1]<b>\v[12]:</b>\c[0] ¡Hombre, \PN! ¿Al final has conseguido tu primera medalla?
+\c[1]<b>\v[12]:</b>\c[0] Man, \PN! Have you finally gotten your first badge?
 ¡Me dejas muy sorprendido!
-¡Me dejas muy sorprendido!
+I'm shocked!
 ¿Y la <b>Pokédex</b>? ¿La estás llenando como nos pidió mi abuelo? ¡Yo ya tengo más de 30 especies diferentes!
-¿Y la <b>Pokédex</b>? ¿La estás llenando como nos pidió mi abuelo? ¡Yo ya tengo más de 30 especies diferentes!
+And the <b>Pokédex</b>? Are you filling it like my grandfather asked us to? I already have more than 30 different species!
 \c[1]<b>\v[12]:</b>\c[0] Se podría decir que he nacido para ser entrenador. Atraigo a los Pokémon con mi instinto natural.
-\c[1]<b>\v[12]:</b>\c[0] Se podría decir que he nacido para ser entrenador. Atraigo a los Pokémon con mi instinto natural.
+\c[1]<b>\v[12]:</b>\c[0] You could say that I was born to be a trainer. I attract Pokémon with my natural instinct.
 \c[1]<b>\v[12]:</b>\c[0] ¿Quieres ver el equipo Pokémon que me he formado?
-\c[1]<b>\v[12]:</b>\c[0] ¿Quieres ver el equipo Pokémon que me he formado?
+\c[1]<b>\v[12]:</b>\c[0] Do you want to see the Pokémon team I've made?
 \c[1]<b>\v[12]:</b>\c[0] Como veo que has progresado, aunque sea penosamente, te contaré algo.
-\c[1]<b>\v[12]:</b>\c[0] Como veo que has progresado, aunque sea penosamente, te contaré algo.
+\c[1]<b>\v[12]:</b>\c[0] I see that you've made some progress, so even if it pains me, I'll tell you something.
 \c[1]<b>\v[12]:</b>\c[0] Al otro lado del puente vive un famoso <b>Pokémaniaco</b> llamado <b>Bill</b>.
-\c[1]<b>\v[12]:</b>\c[0] Al otro lado del puente vive un famoso <b>Pokémaniaco</b> llamado <b>Bill</b>.
+\c[1]<b>\v[12]:</b>\c[0] A famous <b>Pokémaniac</b> named <b>Bill</b> lives on the other side of the bridge.
 Conseguí convencerle para que me enseñara unos cuantos Pokémon raros y así he conseguido llenar un poco la <b>Pokédex</b>.
-Conseguí convencerle para que me enseñara unos cuantos Pokémon raros y así he conseguido llenar un poco la <b>Pokédex</b>.
+I convinced him to show me a few rare Pokémon, so I've managed to fill the <b>Pokédex</b> a little extra.
 \c[1]<b>\v[12]:</b>\c[0] ¡Es lo que tiene tener don de gentes! En la vida hay otras cualidades, aparte de la fuerza.
-\c[1]<b>\v[12]:</b>\c[0] ¡Es lo que tiene tener don de gentes! En la vida hay otras cualidades, aparte de la fuerza.
+\c[1]<b>\v[12]:</b>\c[0] That's what it means to have people skills! There are other qualities in life apart from strength.
 En fin, mejor me voy. ¡Hasta luego!
-En fin, mejor me voy. ¡Hasta luego!
+Anyway, I'd better go. Smell you later!
 Cuando terminemos nuestra estancia en <b>Ciudad Celeste</b>, nos iremos a un crucero romántico que sale de <b>Ciudad Carmín</b>.
-Cuando terminemos nuestra estancia en <b>Ciudad Celeste</b>, nos iremos a un crucero romántico que sale de <b>Ciudad Carmín</b>.
+When we finish our stay in <b>Cerulean City</b>, we'll go on a romantic cruise that leaves from <b>Vermilion City</b>.
 Atrapar, entrenar, combatir... ¡nunca pensé que la vida de entrenador sería tan dura!
-Atrapar, entrenar, combatir... ¡nunca pensé que la vida de entrenador sería tan dura! 
+Catching, training, fighting... I never thought the life of a trainer would be so hard!
 ¿Hay recompensa al final de esto?
-¿Hay recompensa al final de esto?
+Is there a reward at the end of this?
 ¿Has entrado en la Cafetería? Hay gente intercambiando Pokémon y esas cosas.
-¿Has entrado en la Cafetería? Hay gente intercambiando Pokémon y esas cosas.
+Have you checked out the Cafeteria? There are people trading Pokémon and stuff.
 Puente Pepita
-Puente Pepita
+Nugget Bridge
 Mi novio me dio esto el otro día, se lo trajo del <b>Mt. Moon</b>.
-Mi novio me dio esto el otro día, se lo trajo del <b>Mt. Moon</b>.
+My boyfriend gave this to me the other day, he brought it from <b>Mt. Moon</b>.
 La verdad es que solo es un puñado de polvo.
-La verdad es que solo es un puñado de polvo.
+The truth is that it's just a handful of dust.
 Tal vez las cosas sean más de lo que aparentan a simple vista. También se aplica a personas y Pokémon.
-Tal vez las cosas sean más de lo que aparentan a simple vista. También se aplica a personas y Pokémon.
+Maybe things are more than they appear at first glance. That also applies to people and Pokémon.
 Tienda de Bicis
-Tienda de Bicis
+Bike Shop
 ¡Te doy la bienvenida a <b>Ciudad Celeste</b>! Dicen que aquí bebemos el agua más pura de toda la región, directamente de la montaña.
-¡Te doy la bienvenida a <b>Ciudad Celeste</b>! Dicen que aquí bebemos el agua más pura de toda la región, directamente de la montaña.
+Welcome to <b>Cerulean City</b>! They say that we drink the purest water in the entire region, directly from the mountains.
 Supongo que por esa razón nuestra líder se especializa en el tipo Agua.
-Supongo que por esa razón nuestra líder se especializa en el tipo Agua.
+I guess that's why our leader specializes in Water-types.
 La historia de cómo conocí a mi Voltorb es graciosa, ¡lo confundí con una Pokéball!
-La historia de cómo conocí a mi Voltorb es graciosa, ¡lo confundí con una Pokéball!
+The story of how I met my Voltorb is funny, I mistook him for a Pokéball!
 Al menos la Pokéball la hubiera podido usar para capturar a un Pokémon más fuerte. Pero bueno, así son las cosas.
-Al menos la Pokéball la hubiera podido usar para capturar a un Pokémon más fuerte. Pero bueno, así son las cosas.
+At least I could have used a Pokéball to capture a stronger Pokémon. But hey, that's how it goes.
 Le estoy tomando declaración a este señor. Le ha entrado a robar el <b>Team Rocket</b> en su casa.
-Le estoy tomando declaración a este señor. Le ha entrado a robar el <b>Team Rocket</b> en su casa. 
+I'm taking a statement from this man. <b>Team Rocket</b> broke into his house and robbed him.
 ¿Que te gustaría saber más? ¡Esto es trabajo de la policía! Tú deberías estar consiguiendo medallas.
-¿Que te gustaría saber más? ¡Esto es trabajo de la policía! Tú deberías estar consiguiendo medallas.
+What would you like to know more about? This is police work! You should be getting badges.
 ¿Has estado en la <b>Cueva Celeste</b>? Seguramente no, porque la entrada está cerrada.
-¿Has estado en la <b>Cueva Celeste</b>? Seguramente no, porque la entrada está cerrada.
+Have you been to the <b>Celestial Cave</b>? Probably not, since the entrance is closed.
 Los Pokémon de esa cueva son <b>peligrosísimos</b>. ¡Hasta un líder de gimnasio estaría en problemas ahí dentro!
-Los Pokémon de esa cueva son <b>peligrosísimos</b>. ¡Hasta un líder de gimnasio estaría en problemas ahí dentro!
+The Pokémon in that cave are <b>very dangerous</b>. Even a Gym Leader would be in trouble in there!
 ¡Esos malnacidos del <b>Team Rocket</b>...! Se metieron en mi casa durante una persecución policial y me la dejaron llena de destrozos.
-¡Esos malnacidos del <b>Team Rocket</b>...! Se metieron en mi casa durante una persecución policial y me la dejaron llena de destrozos.
+Those <b>Team Rocket</b> bastards...! They broke into my house during a police chase and left it in shambles.
 Mmm... mi Pokémon nota la presencia de un campo psíquico enorme en la <b>Cueva Celeste</b>.
-Mmm... mi Pokémon nota la presencia de un campo psíquico enorme en la <b>Cueva Celeste</b>.
+Hmm... my Pokémon noticed the presence of a huge psychic field in the <b>Celestial Cave</b>.
 ¿Qué lo estará causando?
-¿Qué lo estará causando?
+What could be causing it?
 Un pequeño arbusto bloquea el paso. Tal vez se podría cortar con algo...
 A small bush blocks the way. Maybe it could be cut with something...
 ¡El <b>Talador</b> corta el arbusto como si fuera mantequilla!
@@ -955,175 +955,175 @@ Dusk
 #-------------------------------
 [Map016]
 <b>Recluta Rocket:</b> ¡Vaya, has logrado vencer a todos los entrenadores del <b>Puente Pepita</b>! Sin duda eres alguien a tener en cuenta.
-<b>Recluta Rocket:</b> ¡Vaya, has logrado vencer a todos los entrenadores del <b>Puente Pepita</b>! Sin duda eres alguien a tener en cuenta.
+<b>Rocket Recruit:</b> Wow, you managed to defeat all the trainers on <b>Nugget Bridge</b>! You're certainly someone to take note of.
 Te has ganado una pequeña recompensa.
-Te has ganado una pequeña recompensa.
+You've earned a small reward.
 <b>Recluta Rocket:</b> Represento al <b>Team Rocket</b>, imagino que ya nos conocerás.
-<b>Recluta Rocket:</b> Represento al <b>Team Rocket</b>, imagino que ya nos conocerás.
+<b>Rocket Recruit:</b> I represent <b>Team Rocket</b>, I imagine you've heard of us.
 Estamos intentando cazar a jóvenes talentos para nuestras filas y creo que tú tienes el perfil ideal.
-Estamos intentando cazar a jóvenes talentos para nuestras filas y creo que tú tienes el perfil ideal. 
+We're scouting young talents for our ranks and I think you exactly what we're looking for.
 ¡Te esperaría una vida de éxito y ensueño!
-¡Te esperaría una vida de éxito y ensueño!
+A life of success and glory would await you!
 ¿Qué me dices? ¿Aceptas?
-¿Qué me dices? ¿Aceptas?
+What do you say? Do you accept?
 ...
 ...
 ¿No? Necesitas argumentos más persuasivos, entiendo. ¡Te haré una oferta que no podrás rechazar!
-¿No? Necesitas argumentos más persuasivos, entiendo. ¡Te haré una oferta que no podrás rechazar!
+No? You need a more persuasive argument, I get it. I'll make you an offer you can't refuse!
 <b>Recluta Rocket:</b> Muy bien, tú ganas.
-<b>Recluta Rocket:</b> Muy bien, tú ganas.
+<b>Rocket Recruit:</b> Alright, you win.
 Pero con tu talento, podrías escalar muy alto en el <b>Team Rocket</b>, que lo sepas. ¡El jefe estaría encantadísimo contigo!
-Pero con tu talento, podrías escalar muy alto en el <b>Team Rocket</b>, que lo sepas. ¡El jefe estaría encantadísimo contigo!
+But with your talent, you could climb very high within the ranks of <b>Team Rocket</b>, you know. The boss would be very happy with you!
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
+It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
 En concreto, sientes la presencia de un Pokémon Psíquico muy poderoso.
-En concreto, sientes la presencia de un Pokémon Psíquico muy poderoso.
+Specifically, you feel the presence of a very powerful Psychic Pokémon.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make it come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
 The <b>Alpha Nest</b> is empty...
 Juraría haber visto un objeto oculto en las cercanías... ¿cómo puede la gente dejar tantas cosas tiradas en un lugar como este?
-Juraría haber visto un objeto oculto en las cercanías... ¿cómo puede la gente dejar tantas cosas tiradas en un lugar como este?
+I could swear I saw something on the ground nearby... how can people leave so many things lying around in a place like this?
 <b>Recluta Rocket:</b> Con tu talento, podrías escalar muy alto en el <b>Team Rocket</b>, que lo sepas. ¡El jefe estaría encantadísimo contigo!
-<b>Recluta Rocket:</b> Con tu talento, podrías escalar muy alto en el <b>Team Rocket</b>, que lo sepas. ¡El jefe estaría encantadísimo contigo!
+<b>Rocket Recruit:</b> With your talent, you could climb very high within the ranks of <b>Team Rocket</b>, you know. The boss would be very happy with you!
 Yo soy el primero y pienso ir muy en serio, ¡prepárate para tu peor pesadilla!
-Yo soy el primero y pienso ir muy en serio, ¡prepárate para tu peor pesadilla!
+I'm the first and I plan to be very serious, prepare yourself for your worst nightmare!
 El puente no está hecho de oro realmente, ¡es madera pintada! Lo he leído en la guía turística.
-El puente no está hecho de oro realmente, ¡es madera pintada! Lo he leído en la guía turística.
+The bridge isn't actually made of gold, it's painted wood! I read it in the tourist guide.
 Hemos venido de acampada, ¡esta ruta es ideal para ello! Tanto los niños como los Pokémon se lo pasan pipa.
-Hemos venido de acampada, ¡esta ruta es ideal para ello! Tanto los niños como los Pokémon se lo pasan pipa.
+We're camping, this route is perfect for it! The children and Pokémon have a great time.
 ¡Has obtenido una <b>Mejora del Pokévial</b>!
-¡Has obtenido una <b>Mejora del Pokévial</b>!
+You've obtained a <b>Pokévial Upgrade</b>!
 ¡Los usos del <b>Pokévial</b> han aumentado en 1!
-¡Los usos del <b>Pokévial</b> han aumentado en 1!
+The <b>Pokévial</b>'s uses have increased by 1!
 ¡Soy la tercera! Imagino que ya estarás al límite de tus fuerzas, ¡pues voy a rematarte!
-¡Soy la tercera! Imagino que ya estarás al límite de tus fuerzas, ¡pues voy a rematarte!
+I'm the third! I'm sure you're already at the limit of your strength, so I'm going to finish you off!
 Este puente es bonito... pero no tan bonito como el Puente Charizard, en Teselia.
-Este puente es bonito... pero no tan bonito como el Puente Charizard, en Teselia.
+This bridge is nice... but not as nice as the Charizard Bridge in Unova.
 ¡El año que viene pienso desafiar a los líderes de gimnasio! Me convertiré en el Campeón más joven de la historia.
-¡El año que viene pienso desafiar a los líderes de gimnasio! Me convertiré en el Campeón más joven de la historia.
+Next year I'm gonna challenge the gym leaders! I'll become the youngest Champion in history.
 Soy el segundo y en mi clase soy el más fuerte. ¡No te lo pondré fácil!
-Soy el segundo y en mi clase soy el más fuerte. ¡No te lo pondré fácil!
+I'm the second and I'm the strongestin my class. I won't make it easy for you!
 Las notas del colegio dan igual, ¡lo único importante es convertirse en el Campeón de Kanto!
-Las notas del colegio dan igual, ¡lo único importante es convertirse en el Campeón de Kanto!
+School grades don't matter, the only important thing is to become the Kanto Champion!
 He visto a un Pokémon muy raro de color amarillo. Pero, en un segundo, ha desaparecido. ¡Qué raros son los Pokémon!
-He visto a un Pokémon muy raro de color amarillo. Pero, en un segundo, ha desaparecido. ¡Qué raros son los Pokémon!
+I saw a very strange yellow Pokémon, but it disappeared in the blink of an eye. Pokémon can be so rare!
 Has llegado a la última, llegaste a la reina del puente. Siento decirte que no tienes ninguna posibilidad contra mis Pokémon.
-Has llegado a la última, llegaste a la reina del puente. Siento decirte que no tienes ninguna posibilidad contra mis Pokémon.
+You've reached your final opponent, the queen of the bridge. I'm sorry to tell you this, but you don't stand a chance against my Pokémon.
 Una amable señora fue la que propuso todo este reto del puente. Dijo que estaba buscando a jóvenes entrenadores fuertes y valientes.
-Una amable señora fue la que propuso todo este reto del puente. Dijo que estaba buscando a jóvenes entrenadores fuertes y valientes.
+A kind lady proposed this whole bridge challenge. She said that she was looking for strong and brave young trainers.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map017]
 <b>Norte:</b> Ciudad Celeste\n<b>Sur:</b> Ciudad Azafrán
-<b>Norte:</b> Ciudad Celeste\n<b>Sur:</b> Ciudad Azafrán
+<b>North:</b> Cerulean City\n<b>South:</b> Saffron City
 Si pones a un Ditto a criar con cualquier otro Pokémon, siempre saldrá un huevo.
-Si pones a un Ditto a criar con cualquier otro Pokémon, siempre saldrá un huevo.
+If you breed a Ditto with any other Pokémon, an egg will always hatch.
 Por eso los Criadores Pokémon más veteranos llevan a un Ditto o varios en su equipo.
-Por eso los Criadores Pokémon más veteranos llevan a un Ditto o varios en su equipo.
+That's why the most veteran Pokémon Breeders carry at least one Ditto on their team.
 Guardería Pokémon
-Guardería Pokémon
+Pokémon Daycare
 No menosprecies a un Pokémon solo porque no está creciendo como tú deseabas.
-No menosprecies a un Pokémon solo porque no está creciendo como tú deseabas.
+Don't look down on a Pokémon just because it's not growing the way you wanted it to.
 ¡Tal vez descubras que tiene otras capacidades igual de útiles!
-¡Tal vez descubras que tiene otras capacidades igual de útiles!
+You may discover that it has other abilities that are just as useful!
 ¡Ah, eres tú! Hemos ido a mirar a tus Pokémon, ¡y nos hemos encontrado un huevo! Aquí ha habido tema...
-¡Ah, eres tú! Hemos ido a mirar a tus Pokémon, ¡y nos hemos encontrado un huevo! Aquí ha habido tema...
+Ah, it's you! We were raising your Pokemon, and my goodness, we were so surprised! Your Pokemon was holding an Egg! We don't know how it got there, but your Pokemon had it.
 ¿Te gustaría quedártelo?
-¿Te gustaría quedártelo?
+ You do want it, don't you?
 No tienes espacio en tu equipo para guardarlo.
-No tienes espacio en tu equipo para guardarlo.
+You don't have space on your PC to store it.
 \PN recibió un huevo.
-\PN recibió un huevo.
+\PN received an Egg.
 No tengo problema en quedármelo, ¿pero estás seguro de que no lo quieres?
-No tengo problema en quedármelo, ¿pero estás seguro de que no lo quieres?
+I have no problem keeping it, but are you sure you don't want it?
 Vale, lo cuidaré muy bien, ¡muchas gracias!
-Vale, lo cuidaré muy bien, ¡muchas gracias!
+Okay, I'll take good care of it, thank you very much!
 Soy el encargado de la Guardería, aquí puedes dejar a tus Pokémon para que los cuidemos.
-Soy el encargado de la Guardería, aquí puedes dejar a tus Pokémon para que los cuidemos.
+I'm in charge of the Daycare, you can leave your Pokémon here so we can take care of them.
 Habla con mi mujer si quieres dejarnos alguno de tus Pokémon. Y ni se te ocurra intentar descubrir como se reproducen.
-Habla con mi mujer si quieres dejarnos alguno de tus Pokémon. Y ni se te ocurra intentar descubrir como se reproducen.
+Talk to my wife if you want to leave us any of your Pokémon. And don't even think about trying to find out how they reproduce.
 ¡Ah, eres tú! Tu \v[3] está muy bien.
-¡Ah, eres tú! Tu \v[3] está muy bien.
+Oh, it's you! Your \v[3] is very good.
 ¡Ah, eres tú! \v[3] y \v[4] están bien.
-¡Ah, eres tú! \v[3] y \v[4] están bien.
+Oh, it's you! \v[3] and \v[4] are fine.
 Aunque no les gusta estar juntos.
-Aunque no les gusta estar juntos.
+They would rather play with other Pokémon, though.
 Parece que no se llevan demasiado bien.
-Parece que no se llevan demasiado bien.
+They don't seem to like each other that much.
 Parece que se gustan un poco.
-Parece que se gustan un poco.
+The two seem to get along.
 Están juntos todo el tiempo.
-Están juntos todo el tiempo.
+The two get along very well!
 Intenté que mi Marill pusiera huevos para obtener un Azurill, pero no funcionó.
-Intenté que mi Marill pusiera huevos para obtener un Azurill, pero no funcionó.
+I tried getting my Marill to lay eggs to get an Azurill, but it didn't work.
 Según me contó mi padre, hace falta equipar a tu Pokemon con un incienso especial para que produzca un huevo de Pokemon Bebé.
-Según me contó mi padre, hace falta equipar a tu Pokemon con un incienso especial para que produzca un huevo de Pokemon Bebé.
+According to my father, you need to equip your Pokemon with a special incense to make it produce a Baby Pokemon egg.
 Subterráneo
-Subterráneo
+Underground
 ¿Has estado en el <b>Camino de Bicis</b>, al lado de <b>Ciudad Azulona</b>? Aunque últimamente se ha llenado de motoristas y maleantes...
-¿Has estado en el <b>Camino de Bicis</b>, al lado de <b>Ciudad Azulona</b>? Aunque últimamente se ha llenado de motoristas y maleantes...
+Have you been to the <b>Bike Path</b>, next to <b>Celadon City</b>? It's been filled with bikers and thugs lately...
 ¡Uff, uff, uff! ¡Tengo que entrenar para el siguiente Triatlón de <b>Hoenn</b>! Esta vez me lo pienso llevar.
-¡Uff, uff, uff! ¡Tengo que entrenar para el siguiente Triatlón de <b>Hoenn</b>! Esta vez me lo pienso llevar.
+Huff, huff, huff! I have to train for the next <b>Hoenn</b> Triathlon! This time I plan on taking gold.
 ¿Te interesa criar Pokémon? Entonces necesitarás esto.
-¿Te interesa criar Pokémon? Entonces necesitarás esto.
+Are you interested in breeding Pokémon? Then you'll need this.
 Con la <b>Incubadora</b>, podrás almacenar Huevos Pokémon de forma segura sin usar huecos de tu equipo.
-Con la <b>Incubadora</b>, podrás almacenar Huevos Pokémon de forma segura sin usar huecos de tu equipo.
+With the <b>Incubator</b>, you can safely store Pokémon Eggs without using slots in your equipment.
 Ahora, ¡a caminar mucho para hacerlos eclosionar!
-Ahora, ¡a caminar mucho para hacerlos eclosionar!
+Now, let's walk a lot to hatch them!
 Si te metes en esa caseta verde, podrás atravesar <b>Ciudad Azafrán</b> por debajo y atajar hasta la <b>Ruta 6</b>.
-Si te metes en esa caseta verde, podrás atravesar <b>Ciudad Azafrán</b> por debajo y atajar hasta la <b>Ruta 6</b>.
+If you get into that green booth, you can cross <b>Saffron City</b> underneath and take a shortcut to <b>Route 6</b>.
 La construcción del <b>Subterráneo</b> llevó años, pero ha permitido a la gente viajar por la región sin tener que pasar por sitios llenos de aglomeraciones.
-La construcción del <b>Subterráneo</b> llevó años, pero ha permitido a la gente viajar por la región sin tener que pasar por sitios llenos de aglomeraciones.
+The construction of the <b>Underground</b> took years, but it's allowed people to travel around the region without having to go through crowded areas.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map018]
 <b>Pista de entrenador:</b> Algunos objetos están ocultos a la vista.
-<b>Pista de entrenador:</b> Algunos objetos están ocultos a la vista.
+<b>Trainer Hint:</b> Some objects are hidden from view.
 ¿Ves todas estas Pokéball? ¡Pues ten cuidado, que algunas no son lo que parecen!
-¿Ves todas estas Pokéball? ¡Pues ten cuidado, que algunas no son lo que parecen!
+Do you see all these Pokéballs? Well, be careful, some aren't what they seem!
 A ciertos Pokémon les encanta camuflarse como Pokéball para sorprender a los entrenadores novatos.
-A ciertos Pokémon les encanta camuflarse como Pokéball para sorprender a los entrenadores novatos.
+Certain Pokémon love to camouflage themselves as Pokéballs to surprise newbie trainers.
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 Unas pocas maletas y mis queridos Pokémon... ¡Es lo único que necesito para lanzarme a la aventura!
-Unas pocas maletas y mis queridos Pokémon... ¡Es lo único que necesito para lanzarme a la aventura!
+A few suitcases and my beloved Pokémon... It's all I need to embark on an adventure!
 ¿Tú también estás realizando tu viaje en solitario? ¡Pues que la suerte te acompañe hasta que volvemos a vernos!
-¿Tú también estás realizando tu viaje en solitario? ¡Pues que la suerte te acompañe hasta que volvemos a vernos!
+Are you also going on an adventure? Well, may luck be with you until we meet again!
 A la hora de pescar, lo más importante es tratar de no hacerle daño al Pokémon.
-A la hora de pescar, lo más importante es tratar de no hacerle daño al Pokémon.
+When fishing, the most important thing is to try not to hurt the Pokémon.
 Por eso siempre se usan cañas especiales, sin pinchos ni elementos cortantes.
-Por eso siempre se usan cañas especiales, sin pinchos ni elementos cortantes.
+That is why special rods are always used, without spikes or sharp elements.
 Nos vamos de picnic... ¿y sabes por qué?
-Nos vamos de picnic... ¿y sabes por qué?
+We're going on a picnic...do you know why?
 Pues nos vamos de picnic... porque nos encanta sentir el aroma del viento. ¿Que? ¿No te parece razón suficiente?
-Pues nos vamos de picnic... porque nos encanta sentir el aroma del viento. ¿Que? ¿No te parece razón suficiente?
+Well, we're going on a picnic...because we love the aroma of the wind. What? Don't you think that's a good enough reason?
 ¡Shh! Ni se te ocurra meterte en esta hierba alta, ¡me espantarás a los Pokémon raros!
-¡Shh! Ni se te ocurra meterte en esta hierba alta, ¡me espantarás a los Pokémon raros!
+Shh! Don't even think about getting into this tall grass, you'll scare away the rare Pokémon!
 No importa si un Pokémon es raro o corriente, ¡todos merecen el mismo amor!
-No importa si un Pokémon es raro o corriente, ¡todos merecen el mismo amor!
+It doesn't matter if a Pokémon is rare or common, they all deserve the same love!
 Hay un objeto en mitad del lago, supongo que podría intentar cogerlo usando Surf pero...
-Hay un objeto en mitad del lago, supongo que podría intentar cogerlo usando Surf pero...
+There's something in the middle of the lake, I guess I could try to grab it using Surf but...
 ¡A mí solo me interesa pescar!
-¡A mí solo me interesa pescar!
+I'm only interested in fishing!
 <b>Norte:</b> Ciudad Azafrán\n<b>Sur:</b> Ciudad Carmín
-<b>Norte:</b> Ciudad Azafrán\n<b>Sur:</b> Ciudad Carmín
+<b>North:</b> Saffron City\n<b>South:</b> Vermilion City City
 ¡Quiero ser más fuerte! ¿Cuál es tu secreto? ¿Cuántas horas entrenas al día?
-¡Quiero ser más fuerte! ¿Cuál es tu secreto? ¿Cuántas horas entrenas al día?
+I want to be stronger! What's your secret? How many hours a day you train?
 ¡Tengo los Pokémon más especiales del mundo! No los verás en ninguna otra parte.
-¡Tengo los Pokémon más especiales del mundo! No los verás en ninguna otra parte.
+I have the most special Pokémon in the world! You won't see them anywhere else.
 Los Pokémon, incluso dentro de su misma especie, pueden tener muchas diferencias. ¡Eso los hace todavía más especiales!
-Los Pokémon, incluso dentro de su misma especie, pueden tener muchas diferencias. ¡Eso los hace todavía más especiales!
+Pokémon, even within the same species, can have many differences. That makes them even more special!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------

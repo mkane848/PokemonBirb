@@ -21,7 +21,12 @@ TODO:
     - Trade Experts?
     - Old Move Relearners?
 
-- Put Randy in every Pkmn Center?
+- Put Randy in every Pkmn Center
 - Fix TMs, randomizer is grabbing gen9 (i.e. I found TM60 and 073 Drain Punch)
 - Replace EBDX Boss Battle (only used for Mewtwo fight) with something else
 - Verify all battlebacks are properly set with OG battle system and assets
+- Check if Mega-ing Pokemon still works (oops)
+- Trainer names/classes still in Spanish during battle
+- Check game script for "Rojo"/"Hoja"
+- PokeVial
+- PokeRadar
