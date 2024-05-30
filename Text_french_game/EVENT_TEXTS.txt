@@ -92,10 +92,8 @@ No
 [Map002]
 Aquí solo hay basura.
 No, Kato, there's only trash in here.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-You can continue playing as normal, but remember that you have failed.
+¡Cuidado con los Pokémon salvajes!
+Be careful with wild Pokémon!
 ¡Espera, \PN!
 Wait, \PN!
 <b>Prof. Oak:</b> ¿Pero a dónde vas, insensato? ¿No sabes lo peligroso que es meterse en la hierba alta sin tener Pokémon?
@@ -106,8 +104,10 @@ Wait, \PN!
 <b>Prof. Oak:</b> Where are you going? Don't you know how dangerous it is to go into tall grass without Pokémon?
 <b>Prof. Oak:</b> Vamos a ponerle remedio a eso, anda. ¡Acompáñame al laboratorio!
 <b>Prof. Oak:</b> Let's remedy to that, come on. To the laboratory!
-¡Cuidado con los Pokémon salvajes!
-Be careful with wild Pokémon!
+Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
+Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Laboratorio del Prof. Oak
 Prof. Oak's Laboratory
 <b>Pueblo Paleta</b>, ¡el inicio de una aventura comienza siempre aquí!
@@ -118,6 +118,10 @@ Las bayas como esta, por ejemplo, los vuelven locos.
 Berries like this, for example, drive them crazy.
 Tanto tus Pokémon como tú necesitaréis muchas calorías para recorrer la región. ¡Comed bien!
 Both you and your Pokémon will need a lot of calories to travel the region. Eat well!
+¡La tecnología de hoy en día es increíble!
+Today's technology is amazing!
+Una pena que nos la perdamos porque internet no llega bien hasta <b>Pueblo Paleta</b>.
+It's a shame that we missed it because the internet doesn't reach <b>Pallet Town</b> well.
 <b>Bill:</b> ¡A ti te estaba yo buscando, \PN!
 <b>Bill:</b> I was looking for you,\PN!
 <b>Bill:</b> Sé que no has tenido mucho tiempo a descansar, pero quiero proponerte algo.
@@ -138,32 +142,28 @@ En ese caso, cogeremos mi barco... ¡rumbo a la <b>Isla Prisma</b>!
 In that case, we'll take my boat... heading to <b>Prism Island</b>!
 De acuerdo, aún tienes cosas que hacer. Seguiré por aquí para cuando lo tengas todo listo.
 Okay, you still have things to do. I'll still be here for when you have everything ready.
-¡La tecnología de hoy en día es increíble!
-Today's technology is amazing!
-Una pena que nos la perdamos porque internet no llega bien hasta <b>Pueblo Paleta</b>.
-It's a shame that we missed it because the internet doesn't reach <b>Pallet Town</b> well.
 Casa de \PN
 \PN's House
+If you're playing on Android and having lag when surfing, put a Flying-type Pokémon 1st on your team to fix it.
+If you're playing on Android and having lag when surfing, put a Flying-type Pokémon 1st on your team to fix it.
 Me gustan las flores, ¡qué bien que haya tantas por aquí!
 I like flowers, it's good that there are so many of them around here!
 Aunque si algún día llega una persona alérgica, lo va a pasar bastante mal...
 Although if an allergic person arrives, they're going to have a pretty bad time...
-If you're playing on Android and having lag when surfing, put a Flying-type Pokémon 1st on your team to fix it.
-If you're playing on Android and having lag when surfing, put a Flying-type Pokémon 1st on your team to fix it.
+Casa de \v[12]
+\v[12]'s House
 ¡Pronto me convertiré en Entrenador Pokémon! Solo me faltan unos meses para cumplir los 10 años...
 I'm gonna be a Pokémon Trainer! I'm only a few months away from turning 10...
 ¡No puedo esperar a saber cuál será mi Pokémon inicial!
 I can't wait to find out what my starter Pokémon will be!
-Casa de \v[12]
-\v[12]'s House
+¡Pasar tiempo junto a tus Pokémon es lo mejor que puedes hacer en la vida! Incluso sacrificaría el tiempo que he pasado junto a algún familiar a cambio de más tiempo con mi querido Vileplume.
+Spending time with your Pokémon is the best thing you can do in life! I would even sacrifice the time I have spent with a family member in exchange for more time with my beloved Vileplume.
 El <b>Prof. Oak</b> se instaló en <b>Pueblo Paleta</b> junto a su familia hará unos 30 años.
 <b>Prof. Oak</b> settled in <b>Pallet Town</b> with his family about 30 years ago.
 Él dice que fue la mejor decisión de su vida, ya que el clima rural le ayuda en sus investigaciones.
 He says it was the best decision of his life, since the rural climate helps him in his research.
 ¡Hasta ha construido un jardín secreto en su laboratorio! O eso dicen los rumores...
 He's even built a secret garden in his lab! Or so the rumors say...
-¡Pasar tiempo junto a tus Pokémon es lo mejor que puedes hacer en la vida! Incluso sacrificaría el tiempo que he pasado junto a algún familiar a cambio de más tiempo con mi querido Vileplume.
-Spending time with your Pokémon is the best thing you can do in life! I would even sacrifice the time I have spent with a family member in exchange for more time with my beloved Vileplume.
 Sí
 Yes
 No
@@ -666,14 +666,14 @@ Mt. Moon is just ahead and full of Pokémon. Try to buy plenty of Poké Balls at
 You have to get through this cave to get to Cerulean City!
 Los Zubat son rivales duros de pelar, pero, si atrapas uno, verás como vale la pena.
 The Zubat can be tough to fight, but it's worth it if you catch one.
-¿Qué pasa? Estoy esperando aquí a mis amigos, porque los he perdido de vista en la cueva.
-What's up? I'm waiting here for my friends because I lost sight of them in the cave.
-He venido porque dicen que aquí hay unos fósiles muy raros.
-I came because they say there are some very rare fossils here.
 ¡Aaaah! ¡Pero bueno, no me des esos sustos!
 AAAAAH! Hey, don't scare me like that!
 Creo que debería buscar Pokémon más fuertes. A ver... ¿Por donde empiezo?
 I think I should look for stronger Pokémon. Let's see... Where do I start?
+¿Qué pasa? Estoy esperando aquí a mis amigos, porque los he perdido de vista en la cueva.
+What's up? I'm waiting here for my friends because I lost sight of them in the cave.
+He venido porque dicen que aquí hay unos fósiles muy raros.
+I came because they say there are some very rare fossils here.
 <b>PISTA DE ENTRENADOR:</b> Podrás encontrar mejoras del <b>Pokévial</b> a lo largo de tu aventura para aumentar sus usos.
 <b>TRAINER HINT:</b> You can find upgrades for the <b>Pokévial</b> throughout your adventure to increase its charges.
 ¿Has visto esas nubes de polvo que se mueven tan rápido? Seguramente sea un Pokémon salvaje, ¡así que evítalas si no quieres combatir con ellos!
@@ -682,28 +682,12 @@ Hola, ¿te gustaría explorar la cueva a fondo junto a mí?
 Hello, would you like to explore the cave in depth with me?
 No deberías rondar sitios oscuros en soledad, puede ser peligroso.
 You shouldn't wander around dark places alone, it can be dangerous.
-¡Hola, soy <b>Don Prodigio</b>!
-Hello, I'm <b>Don Prodigio</b>!
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-I can trade you one of your Pokémon for another of similar value.
-¿Qué te parece?
-How about it?
-¿No? Pues te pierdes Pokémon maravillosos...
-No? Well, you'll miss out on wonderful Pokémon...
-No tengo más Pokémon que ofrecerte por ahora.
-I have no more Pokémon to offer you for now.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
-Look for me in other places in the world to continue making exchanges.
 Han... han pasado unos tíos muy raros por aquí. ¡Creo que eran del <b>Team Rocket</b>!
 Some very strange folks passed by here. I think they were from <b>Team Rocket</b>!
 Toma esto por si te topas con ellos, ¡aunque yo en tu lugar haría lo posible para evitarlos!
 Take this in case you run into them, although if I were you I'd do my best to avoid them!
 Yo en tu lugar haría lo posible para no tener que enfrentarme al <b>Team Rocket</b>. He escuchado que son realmente peligrosos.
 If I were you, I'd do everything possible to avoid facing <b>Team Rocket</b>. I've heard they're really dangerous.
-Acepto
-I accept
-No me interesa
-I'm not interested
 #-------------------------------
 [Map012]
 Por favor, se ruega no molestar a los Clefairy.
@@ -1035,7 +1019,7 @@ You may discover that it has other abilities that are just as useful!
 ¡Ah, eres tú! Hemos ido a mirar a tus Pokémon, ¡y nos hemos encontrado un huevo! Aquí ha habido tema...
 Ah, it's you! We were raising your Pokemon, and my goodness, we were so surprised! Your Pokemon was holding an Egg! We don't know how it got there, but your Pokemon had it.
 ¿Te gustaría quedártelo?
- You do want it, don't you?
+You do want it, don't you?
 No tienes espacio en tu equipo para guardarlo.
 You don't have space on your PC to store it.
 \PN recibió un huevo.
@@ -1311,7 +1295,7 @@ Mi Lapras y yo les estamos dando caza.
 <b>Lapras:</b> ¡Laaaaaaap!
 <b>Lapras:</b> ¡Laaaaaaap!
 <b>???:</b> ¡Parece que a mi Lapras le gustas!
-<b>???:</b> ¡Parece que a mi Lapras le gustas! 
+<b>???:</b> ¡Parece que a mi Lapras le gustas!
 Suele tener buen ojo para la gente con potencial.
 Suele tener buen ojo para la gente con potencial.
 <b>???:</b> En fin, ten mucho cuidado. Dicen que han visto al <b>Team Rocket</b> por las cercanías de <b>Pueblo Lavanda</b>.
@@ -1375,7 +1359,7 @@ La vida no puede ser así de bonita.
 \c[3]<b>Hoja:</b>\c[0] ¡A-así lo haré, señora <b>Lorelei</b>! ¡Muchas gracias por sus palabras!
 \c[3]<b>Hoja:</b>\c[0] ¡A-así lo haré, señora <b>Lorelei</b>! ¡Muchas gracias por sus palabras!
 <b>Lorelei:</b> ¡De nada! Y tened cuidado con el <b>Túnel Roca</b>.
-<b>Lorelei:</b> ¡De nada! Y tened cuidado con el <b>Túnel Roca</b>. 
+<b>Lorelei:</b> ¡De nada! Y tened cuidado con el <b>Túnel Roca</b>.
 Es una travesía bastante peligrosa.
 Es una travesía bastante peligrosa.
 \c[2]<b>Rojo:</b>\c[0] ...
@@ -1516,12 +1500,6 @@ No
 [Map028]
 ¡Es una <b>Nintendo Switch</b> nuevecita! Ojalá tuviese un catálogo interesante de juegos con los que aprovecharla...
 It's a brand new <b>Nintendo Switch</b>! I wish I had more games for it...
-<b>Mamá:</b> Supongo que así es la vida...
-<b>Mom:</b> I guess that's life...
-Los hijos crecen y emprenden sus propios proyectos, lejos de su hogar.
-Children grow up and take on their own dreams, far from home.
-Pase lo que pase, ¡recuerda que tu madre siempre estará orgullosa de ti en tu aventura Pokémon!
-No matter what happens, remember that your mom will always be proud of you on your Pokémon adventure!
 <b>Dalia Oak:</b> Si hubiera querido, el abuelo me habría dado otro Pokémon inicial y otra <b>Pokédex</b>.
 <b>Dahlia Oak:</b> If I'd wanted it, Grandpa would have given me another starter Pokémon and another <b>Pokédex</b>.
 Pero la verdad es que prefiero quedarme aquí de relax. ¡Como en casa, en ningún sitio!
@@ -1532,6 +1510,12 @@ But the truth is that I prefer to stay here to relax. There's no place like home
 Let him do without it! He still owes me the money I lent him when he went on vacation to another region.
 ¿Y si te lo doy a ti? ¡Eso le daría mucha rabia! ¡Jijiji!
 What if I give it to you? That would make him so mad! Hee hee hee!
+<b>Mamá:</b> Supongo que así es la vida...
+<b>Mom:</b> I guess that's life...
+Los hijos crecen y emprenden sus propios proyectos, lejos de su hogar.
+Children grow up and take on their own dreams, far from home.
+Pase lo que pase, ¡recuerda que tu madre siempre estará orgullosa de ti en tu aventura Pokémon!
+No matter what happens, remember that your mom will always be proud of you on your Pokémon adventure!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Guardabas una Poción junto al PC. Será mejor cogerla para el viaje que te espera.
@@ -1666,10 +1650,10 @@ That's why I wanted to ask you to go on an important mission.
 <b>Prof. Oak:</b> It's not impossible... I did it!
 ¡Fui capaz de hacerme con todos!
 I was able to catch them all!
-\c[3]<b>Hoja:</b>\c[0] I...
-\c[3]<b>Leaf:</b>\c[0] Yo...
-\c[2]<b>Rojo:</b>\c[0] I...
-\c[2]<b>Red:</b>\c[0] Yo...
+\c[3]<b>Hoja:</b>\c[0] Yo...
+\c[3]<b>Hoja:</b>\c[0] Yo...
+\c[2]<b>Rojo:</b>\c[0] Yo...
+\c[2]<b>Rojo:</b>\c[0] Yo...
 \c[3]<b>Hoja:</b>\c[0] Yo sí lo haré, <b>Prof. Oak</b>...
 \c[3]<b>Leaf:</b>\c[0] I will, <b>Prof. Oak</b>...
 No sé si le seré de mucha ayuda, pero... ¡usted ha confiado en mí para esto!
@@ -1869,7 +1853,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
@@ -2059,7 +2043,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 Estoy buscando un Metapod, ¿lo cambiarías por mi Swinub? ¡Lo atrapé en <b>Johto</b>!
@@ -2501,7 +2485,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 ¿A ti te suenan los Caramelosraros? He visto a entrenadores jóvenes obsesionados con eso.
@@ -2669,7 +2653,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
@@ -2821,7 +2805,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 Pensaba que atravesar el <b>Mt. Moon</b> era duro pero, ¡el <b>Túnel Roca</b> es mucho peor!
@@ -2877,7 +2861,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 Recordar movimiento
@@ -2954,10 +2938,6 @@ Yo soy más científica, aunque a veces ves cosas en los Pokémon que desafían 
 Yo soy más científica, aunque a veces ves cosas en los Pokémon que desafían toda lógica.
 #-------------------------------
 [Map056]
-No soy muy fuerte físicamente, pero soy un manitas con todo lo eléctrico.
-No soy muy fuerte físicamente, pero soy un manitas con todo lo eléctrico.
-¡Vale, hablaré! Rebusca en los cubos de basura y encontrarás la manera de llegar a <b>Surge</b>.
-¡Vale, hablaré! Rebusca en los cubos de basura y encontrarás la manera de llegar a <b>Surge</b>.
 En este cubo sólo hay basura.
 En este cubo sólo hay basura.
 ¡Has encontrado la segunda papelera y has pulsado su interruptor! La corriente eléctrica ha desaparecido.
@@ -2968,6 +2948,10 @@ En este cubo sólo hay basura.
 ¡Vaya! Parece que en este cubo sólo hay basura.
 Los botones de las papeleras han cambiado de sitio.
 Los botones de las papeleras han cambiado de sitio.
+No soy muy fuerte físicamente, pero soy un manitas con todo lo eléctrico.
+No soy muy fuerte físicamente, pero soy un manitas con todo lo eléctrico.
+¡Vale, hablaré! Rebusca en los cubos de basura y encontrarás la manera de llegar a <b>Surge</b>.
+¡Vale, hablaré! Rebusca en los cubos de basura y encontrarás la manera de llegar a <b>Surge</b>.
 ¡Una barrera eléctrica corta el paso!
 ¡Una barrera eléctrica corta el paso!
 Dicen que cuando estaba en el ejército, el <b>Surge</b> era muy estricto con la tropa.
@@ -3085,7 +3069,7 @@ No
 #-------------------------------
 [Map058]
 \c[1]<b>\v[12]:</b>\c[0] ¿Tú también, \PN?
-\c[1]<b>\v[12]:</b>\c[0] ¿Tú también, \PN? 
+\c[1]<b>\v[12]:</b>\c[0] ¿Tú también, \PN?
 ¿Cómo es que los tres hemos acabado en el <b>S.S. Anne</b>?
 ¿Cómo es que los tres hemos acabado en el <b>S.S. Anne</b>?
 ¡Menuda casualidad!
@@ -3244,18 +3228,6 @@ Los marineros no vivimos anclados en el pasado. ¡También tenemos Pokémon!
 Los marineros no vivimos anclados en el pasado. ¡También tenemos Pokémon!
 Nosotros pescamos a todos nuestros Pokémon en alta mar.
 Nosotros pescamos a todos nuestros Pokémon en alta mar.
-¡Hola, soy <b>Don Prodigio</b>!
-¡Hola, soy <b>Don Prodigio</b>!
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-¿Qué te parece?
-¿Qué te parece?
-¿No? Pues te pierdes Pokémon maravillosos...
-¿No? Pues te pierdes Pokémon maravillosos...
-No tengo más Pokémon que ofrecerte por ahora.
-No tengo más Pokémon que ofrecerte por ahora.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
 <b>Capitán:</b> ¡Habéis sido muy valientes al plantarle cara al <b>Team Rocket</b>!
 <b>Capitán:</b> ¡Habéis sido muy valientes al plantarle cara al <b>Team Rocket</b>!
 Se nota que sois los alumnos del <b>Prof. Oak</b> ni más ni menos.
@@ -3304,10 +3276,6 @@ Pienso pedirles la hoja de reclamaciones.
 ¡Pronto nos haremos con el control de la región de Kanto!
 Estamos buscando a un científico que va a bordo de este crucero.
 Estamos buscando a un científico que va a bordo de este crucero.
-Acepto
-Acepto
-No me interesa
-No me interesa
 #-------------------------------
 [Map060]
 Aquí hay bicis de muchos lugares del mundo, pero no le preguntes al dueño de la tienda por las características de cada una.
@@ -3811,7 +3779,7 @@ Aparecieron distintas organizaciones, entre ellas el <b>Team Rocket</b> y <b>Sil
 <b>Sr. Fuji:</b> Y lo logramos.
 <b>Sr. Fuji:</b> Y lo logramos.
 <b>Sr. Fuji:</b> Logramos crear una criatura de un poder incomparable.
-<b>Sr. Fuji:</b> Logramos crear una criatura de un poder incomparable. 
+<b>Sr. Fuji:</b> Logramos crear una criatura de un poder incomparable.
 Nu-nunca había visto nada igual.
 Nu-nunca había visto nada igual.
 Pero escapó de nuestro control. El Pokémon era demasiado fuerte como para someterse al mandato de los seres humanos.
@@ -3929,7 +3897,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 Oye, pareces tener buen ojo para los negocios. ¡Te propongo uno!
@@ -4063,7 +4031,7 @@ Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos qu
 Glu, glu, glu...
 Glu, glu, glu...
 ¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones!
-¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones! 
+¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones!
 Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
 Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
 Aquí solo hay basura.
@@ -4097,7 +4065,7 @@ Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos qu
 Glu, glu, glu...
 Glu, glu, glu...
 ¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones!
-¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones! 
+¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones!
 Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
 Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
 Aquí solo hay basura.
@@ -4215,7 +4183,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
@@ -4272,30 +4240,34 @@ No
 No
 #-------------------------------
 [Map078]
-Me gusta alcanzar la cima de los sitios, aunque sea la de un Centro Comercial.
-Me gusta alcanzar la cima de los sitios, aunque sea la de un Centro Comercial.
-¡Una máquina expendedora!
-¡Una máquina expendedora!
 ¡Te doy la bienvenida al Centro Comercial de <b>Ciudad Azulona</b>! Estamos a tu entera disposición.
 ¡Te doy la bienvenida al Centro Comercial de <b>Ciudad Azulona</b>! Estamos a tu entera disposición.
-Dicen que van a poner a la venta un tipo de ball más eficaz incluso que la Ultraball, ¡es impresionante!
-Dicen que van a poner a la venta un tipo de ball más eficaz incluso que la Ultraball, ¡es impresionante!
+¡Una máquina expendedora!
+¡Una máquina expendedora!
+Me gusta alcanzar la cima de los sitios, aunque sea la de un Centro Comercial.
+Me gusta alcanzar la cima de los sitios, aunque sea la de un Centro Comercial.
 Me pregunto si venderán la MT Triataque, se trata de mi movimiento favorito.
 Me pregunto si venderán la MT Triataque, se trata de mi movimiento favorito.
 Se trata de un movimiento potente que puede causar estados alterados al azar.
 Se trata de un movimiento potente que puede causar estados alterados al azar.
-Mi hermana es entrenadora, ahí donde la ves. ¡Pero también es muy caprichosa!
-Mi hermana es entrenadora, ahí donde la ves. ¡Pero también es muy caprichosa!
+Dicen que van a poner a la venta un tipo de ball más eficaz incluso que la Ultraball, ¡es impresionante!
+Dicen que van a poner a la venta un tipo de ball más eficaz incluso que la Ultraball, ¡es impresionante!
 No he venido a comprar nada, es que me gusta pasear por aquí y cruzarme de vez en cuando con mis amigas.
 No he venido a comprar nada, es que me gusta pasear por aquí y cruzarme de vez en cuando con mis amigas.
+Mi hermana es entrenadora, ahí donde la ves. ¡Pero también es muy caprichosa!
+Mi hermana es entrenadora, ahí donde la ves. ¡Pero también es muy caprichosa!
+¿A qué piso quieres ir?
+¿A qué piso quieres ir?
+¿A qué planta debería ir primero? Tengo que comprar muchos complementos para mis queridos Pokémon.
+¿A qué planta debería ir primero? Tengo que comprar muchos complementos para mis queridos Pokémon.
 ¿Has visto? ¡Han vuelto a subir el precio de los Repelentes!
 ¿Has visto? ¡Han vuelto a subir el precio de los Repelentes!
 ¿Cuánto vale la seguridad de mis hijos? ¡Quiero poder pasear con ellos sin toparme con Pokemon salvajes!
 ¿Cuánto vale la seguridad de mis hijos? ¡Quiero poder pasear con ellos sin toparme con Pokemon salvajes!
-¿A qué planta debería ir primero? Tengo que comprar muchos complementos para mis queridos Pokémon.
-¿A qué planta debería ir primero? Tengo que comprar muchos complementos para mis queridos Pokémon.
-¿A qué piso quieres ir?
-¿A qué piso quieres ir?
+¡Ah! Solo tienen medicinas para los Pokémon, yo necesito algo para curarme la espalda.
+¡Ah! Solo tienen medicinas para los Pokémon, yo necesito algo para curarme la espalda.
+Lo entenderás cuando seas mayor.
+Lo entenderás cuando seas mayor.
 Qué sed tengo... ¡quiero una bebida de la máquina expendedora!
 Qué sed tengo... ¡quiero una bebida de la máquina expendedora!
 ¿Agua fresca? ¿Te crees que tengo 5 años? ¡Dame algo mejor!
@@ -4304,10 +4276,6 @@ Qué sed tengo... ¡quiero una bebida de la máquina expendedora!
 ¡Mmmm! ¡Un Refresco! Te lo cambio por esta MT.
 ¡Mmmm! ¡Una Limonada! Te la cambio por esta MT.
 ¡Mmmm! ¡Una Limonada! Te la cambio por esta MT.
-¡Ah! Solo tienen medicinas para los Pokémon, yo necesito algo para curarme la espalda.
-¡Ah! Solo tienen medicinas para los Pokémon, yo necesito algo para curarme la espalda.
-Lo entenderás cuando seas mayor.
-Lo entenderás cuando seas mayor.
 ¡Me podría pasar el día dando vueltas por el Centro Comercial! Creo que es mi afición favorita.
 ¡Me podría pasar el día dando vueltas por el Centro Comercial! Creo que es mi afición favorita.
 ¿Tienes un Hypno? ¿Te gustaría cambiarlo por mi Girafarig?
@@ -4324,28 +4292,16 @@ Existen unas piedras especiales que aumentan mucho el poder de ciertos Pokémon.
 Existen unas piedras especiales que aumentan mucho el poder de ciertos Pokémon. Se llaman Megapiedras.
 Lamentablemente, aquí no las venden.
 Lamentablemente, aquí no las venden.
+Si vas a enfrentarte al gimnasio de la ciudad, te recomiendo personalmente que compres la MT Puño Fuego y se la enseñes a algún Pokémon.
+Si vas a enfrentarte al gimnasio de la ciudad, te recomiendo personalmente que compres la MT Puño Fuego y se la enseñes a algún Pokémon.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
-Si vas a enfrentarte al gimnasio de la ciudad, te recomiendo personalmente que compres la MT Puño Fuego y se la enseñes a algún Pokémon.
-Si vas a enfrentarte al gimnasio de la ciudad, te recomiendo personalmente que compres la MT Puño Fuego y se la enseñes a algún Pokémon.
-¡Hola, soy <b>Don Prodigio</b>!
-¡Hola, soy <b>Don Prodigio</b>!
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-¿Qué te parece?
-¿Qué te parece?
-¿No? Pues te pierdes Pokémon maravillosos...
-¿No? Pues te pierdes Pokémon maravillosos...
-No tengo más Pokémon que ofrecerte por ahora.
-No tengo más Pokémon que ofrecerte por ahora.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
+¡En esta planta venden muchas MTs molonas! Ahora podré montar nuevas estrategias con mi equipo.
+¡En esta planta venden muchas MTs molonas! Ahora podré montar nuevas estrategias con mi equipo.
 Aquí venden unas cuantas piedras evolutivas, ¿debería comprar una para mi Eevee?
 Aquí venden unas cuantas piedras evolutivas, ¿debería comprar una para mi Eevee?
 ¿O debería esperar a ver si encuentro una piedra más rara para darle acceso a otra evolución?
 ¿O debería esperar a ver si encuentro una piedra más rara para darle acceso a otra evolución?
-¡En esta planta venden muchas MTs molonas! Ahora podré montar nuevas estrategias con mi equipo.
-¡En esta planta venden muchas MTs molonas! Ahora podré montar nuevas estrategias con mi equipo.
 P1
 P1
 P2
@@ -4360,10 +4316,6 @@ Sí
 Yes
 No
 No
-Acepto
-Acepto
-No me interesa
-No me interesa
 #-------------------------------
 [Map079]
 ¡Qué rico está el curry! Aunque el mejor que he probado viene de una región llamada <b>Galar</b>.
@@ -4375,7 +4327,7 @@ Ahí cocinan un curry especial que encanta tanto a humanos como a Pokémon.
 Toma, ¿me lo sujetas?
 Toma, ¿me lo sujetas?
 Ahora sí... ¡a comer ramen toda la noche!
-Ahora sí... ¡a comer ramen toda la noche! 
+Ahora sí... ¡a comer ramen toda la noche!
 Los hay de muchos sabores, así que tengo para rato.
 Los hay de muchos sabores, así que tengo para rato.
 ¡Shhh! Escucha, ¿sabías que hay un sótano secreto en el Casino Azulona?
@@ -4444,18 +4396,18 @@ Puedes conseguir Mini Setas de los Paras salvajes, por ejemplo.
 Puedes conseguir Mini Setas de los Paras salvajes, por ejemplo.
 Ven siempre que quieras, que necesito muchas setas para hacer un buen estofado.
 Ven siempre que quieras, que necesito muchas setas para hacer un buen estofado.
-<b>EricLostie:</b> ¡Espero que estés disfrutando de esta versión de <b>Kanto</b>! O por lo menos, que te esté resultando entretenida.
-<b>EricLostie:</b> ¡Espero que estés disfrutando de esta versión de <b>Kanto</b>! O por lo menos, que te esté resultando entretenida.
-Cualquier feedback que puedas dejarme por redes sociales es más que bienvenido.
-Cualquier feedback que puedas dejarme por redes sociales es más que bienvenido.
-¡Tanto el positivo como el negativo, claro!
-¡Tanto el positivo como el negativo, claro!
 ¿El Pokémon de la mesa? Sí, quédatelo, por qué no.
 ¿El Pokémon de la mesa? Sí, quédatelo, por qué no.
 La verdad es que ya me daba hasta lástima que nadie viniera a por él.
 La verdad es que ya me daba hasta lástima que nadie viniera a por él.
 Yo tengo que seguir estudiando. ¿Sabías que en este juego puedes encontrar más de 100 MTs?
 Yo tengo que seguir estudiando. ¿Sabías que en este juego puedes encontrar más de 100 MTs?
+<b>EricLostie:</b> ¡Espero que estés disfrutando de esta versión de <b>Kanto</b>! O por lo menos, que te esté resultando entretenida.
+<b>EricLostie:</b> ¡Espero que estés disfrutando de esta versión de <b>Kanto</b>! O por lo menos, que te esté resultando entretenida.
+Cualquier feedback que puedas dejarme por redes sociales es más que bienvenido.
+Cualquier feedback que puedas dejarme por redes sociales es más que bienvenido.
+¡Tanto el positivo como el negativo, claro!
+¡Tanto el positivo como el negativo, claro!
 Sí
 Yes
 No
@@ -4485,7 +4437,7 @@ Perfecto, ¡mucha suerte en el gimnasio!
 Ah, te doy la bienvenida. Estaba empezando a aburrirme.
 Ah, te doy la bienvenida. Estaba empezando a aburrirme.
 Los Pokémon de tipo Planta tienen ventaja ante los de tipo Agua. Y frente a los tipos Tierra y Roca también suelen salir ganando.
- Los Pokémon de tipo Planta tienen ventaja ante los de tipo Agua. Y frente a los tipos Tierra y Roca también suelen salir ganando.
+Los Pokémon de tipo Planta tienen ventaja ante los de tipo Agua. Y frente a los tipos Tierra y Roca también suelen salir ganando.
 Pero ¿tú no eres quien me estaba mirando a hurtadillas antes?
 Pero ¿tú no eres quien me estaba mirando a hurtadillas antes?
 Ah, que estabas mirando a <b>Erika</b> y no a mí.
@@ -4499,7 +4451,7 @@ Ah... ¿eh?... ¡Uy, perdona! Me había quedado ensimismada en mis pensamientos 
 Ah... ¿ya has derrotado a tres líderes? Entonces no te has dormido en los laureles, por lo que veo.
 Ah... ¿ya has derrotado a tres líderes? Entonces no te has dormido en los laureles, por lo que veo.
 En ese caso, te haré una demostración de mi estilo floral de combate.
-En ese caso, te haré una demostración de mi estilo floral de combate. 
+En ese caso, te haré una demostración de mi estilo floral de combate.
 ¡En guardia, Aspirante!
 ¡En guardia, Aspirante!
 <b>Erika:</b> Ah... eh... ya veo que has superado mi estilo de combate floral con creces.
@@ -4847,7 +4799,7 @@ Eso sí, ¡pásate por la granja, que tenemos Pokémon muy monos!
 <b>Agatha:</b> ¡Jesús! ¿Es que tengo que exiliarme de esta región para huir de la fama?
 <b>Agatha:</b> ¡Jesús! ¿Es que tengo que exiliarme de esta región para huir de la fama?
 \c[1]<b>\v[12]:</b>\c[0] ¡Usted es una leyenda viva de los Pokémon de tipo Fantasma!
-\c[1]<b>\v[12]:</b>\c[0] ¡Usted es una leyenda viva de los Pokémon de tipo Fantasma! 
+\c[1]<b>\v[12]:</b>\c[0] ¡Usted es una leyenda viva de los Pokémon de tipo Fantasma!
 Mi abuelo me ha enseñado fotos en las que aparecen juntos entrenando de jóvenes.
 Mi abuelo me ha enseñado fotos en las que aparecen juntos entrenando de jóvenes.
 <b>Agatha:</b> ¿Eh? ...\n¡Ah! ¿Sois los jóvenes que ha enviado <b>Samuel</b> de viaje?
@@ -4863,7 +4815,7 @@ El predecesor de <b>Giovanni</b> ya sembraba el terror cuando yo era joven.
 Esa organización es el mal. Haríais bien en evitarlos a toda costa.
 Esa organización es el mal. Haríais bien en evitarlos a toda costa.
 \c[1]<b>\v[12]:</b>\c[0] Se agradece el consejo viniendo de una figura tan sabia.
-\c[1]<b>\v[12]:</b>\c[0] Se agradece el consejo viniendo de una figura tan sabia. 
+\c[1]<b>\v[12]:</b>\c[0] Se agradece el consejo viniendo de una figura tan sabia.
 Pero todos los miembros del <b>Team Rocket</b> con los que me he cruzado no me han parecido más que unos torpes idiotas.
 Pero todos los miembros del <b>Team Rocket</b> con los que me he cruzado no me han parecido más que unos torpes idiotas.
 <b>Agatha:</b> ¡Jujuju! No has visto la verdadera magnitud de su poder, me temo.
@@ -4896,12 +4848,12 @@ Mi Dodrio es el Pokémon más rápido de toda la región, ¡y lo demostraré gan
 Mi Dodrio es el Pokémon más rápido de toda la región, ¡y lo demostraré ganando la próxima carrera montada en él!
 Aunque yo también debería adelgazar un poco para maximizar las posibilidades de victoria...
 Aunque yo también debería adelgazar un poco para maximizar las posibilidades de victoria...
-<b>Pueblo Marengo</b>, una existencia gris pero apacible y llena de vida
-<b>Pueblo Marengo</b>, una existencia gris pero apacible y llena de vida
 Solo tenemos a un Tauros para todos los Miltank y la verdad es que el pobre termina un poco agotado...
 Solo tenemos a un Tauros para todos los Miltank y la verdad es que el pobre termina un poco agotado...
 Pero es difícil hacerse con más Tauros, ya que estos solo habitan en la <b>Zona Safari</b> de <b>Ciudad Fucsia</b>.
 Pero es difícil hacerse con más Tauros, ya que estos solo habitan en la <b>Zona Safari</b> de <b>Ciudad Fucsia</b>.
+<b>Pueblo Marengo</b>, una existencia gris pero apacible y llena de vida
+<b>Pueblo Marengo</b>, una existencia gris pero apacible y llena de vida
 Así que te has dispuesto a desafiar a los líderes de gimnasio, ¿eh? Yo lo intenté también cuando era joven.
 Así que te has dispuesto a desafiar a los líderes de gimnasio, ¿eh? Yo lo intenté también cuando era joven.
 Aunque ahora lo único que me apetece es criar a mis Pokémon y verlos sanos y felices.
@@ -4914,10 +4866,12 @@ Si te interesa comprar productos de la granja, los vendemos en el edificio que e
 Si te interesa comprar productos de la granja, los vendemos en el edificio que está más arriba.
 No solo vendemos productos ecológicos, ¡sino también a muy buen precio!
 No solo vendemos productos ecológicos, ¡sino también a muy buen precio!
+El otro día un granjero novato intentó ordeñar a un Miltank por la noche y se confundió con un Tauros...
+El otro día un granjero novato intentó ordeñar a un Miltank por la noche y se confundió con un Tauros...
 <b>Agatha:</b> ¿Lo tienes todo listo para combatir? No te preocupes, no voy a emplearme a fondo. Solo lo necesario.
 <b>Agatha:</b> ¿Lo tienes todo listo para combatir? No te preocupes, no voy a emplearme a fondo. Solo lo necesario.
 En ese caso, me saltaré las formalidades.
-En ese caso, me saltaré las formalidades. 
+En ese caso, me saltaré las formalidades.
 ¡Comprobemos la fuerza verdadera de tu espíritu!
 ¡Comprobemos la fuerza verdadera de tu espíritu!
 <b>Agatha:</b> El bueno de <b>Samuel</b> no se equivoca escogiendo a sus discípulos. ¡Bravo!
@@ -4940,8 +4894,6 @@ Aprovecha bien este poder, pues muy pocos son los elegidos para esgrimirlo.
 Aprovecha bien este poder, pues muy pocos son los elegidos para esgrimirlo.
 No tengo prisa, este parece un buen lugar en el que esperar.
 No tengo prisa, este parece un buen lugar en el que esperar.
-El otro día un granjero novato intentó ordeñar a un Miltank por la noche y se confundió con un Tauros...
-El otro día un granjero novato intentó ordeñar a un Miltank por la noche y se confundió con un Tauros...
 Llevo toda mi vida en este pueblo y creo que aún me quedan unas cuantas décadas más a pesar de mi avanzada edad.
 Llevo toda mi vida en este pueblo y creo que aún me quedan unas cuantas décadas más a pesar de mi avanzada edad.
 Es cierto eso que dicen de que el aire puro de campo te da una salud de hierro.
@@ -5327,7 +5279,7 @@ El ascensor está inoperativo.
 <b>Secretaria:</b> ¡Oh, señor <b>Bruno</b>! ¡Tiene que ayudarnos, es usted nuestra única esperanza!
 <b>Secretaria:</b> ¡Oh, señor <b>Bruno</b>! ¡Tiene que ayudarnos, es usted nuestra única esperanza!
 \c[1]<b>\v[12]:</b>\c[0] ¡Anda, es <b>Bruno</b>! Otro <b>Alto Mando</b> de la región.
-\c[1]<b>\v[12]:</b>\c[0] ¡Anda, es <b>Bruno</b>! Otro <b>Alto Mando</b> de la región. 
+\c[1]<b>\v[12]:</b>\c[0] ¡Anda, es <b>Bruno</b>! Otro <b>Alto Mando</b> de la región.
 Se dice que es el hombre con la la mayor fuerza física de la historia.
 Se dice que es el hombre con la la mayor fuerza física de la historia.
 A veces ser entrenador es todo un chollo, ¿eh? ¡No paramos de conocer a gente famosa día sí y día también!
@@ -6073,7 +6025,7 @@ Las rocas volcánicas son supercuriosas, ¿en serio todo esto se ha formado a pa
 De vez en cuando se pueden encontrar tesoros en las rocas, ¡tesoros que salen de las profundidades de la tierra!
 De vez en cuando se pueden encontrar tesoros en las rocas, ¡tesoros que salen de las profundidades de la tierra!
 <b>???:</b> ¿Andas en busca del líder de gimnasio de esta isla? ¡Pues has tenido suerte, lo tienes ante ti!
-<b>???:</b> ¿Andas en busca del líder de gimnasio de esta isla? ¡Pues has tenido suerte, lo tienes ante ti! 
+<b>???:</b> ¿Andas en busca del líder de gimnasio de esta isla? ¡Pues has tenido suerte, lo tienes ante ti!
 Soy <b>Blaine</b>. Científico, experto del tipo Fuego y maestro de los acertijos.
 Soy <b>Blaine</b>. Científico, experto del tipo Fuego y maestro de los acertijos.
 <b>Blaine:</b> No obstante, lo más preciso sería decir que tu suerte ha sido a medias, ya que tenemos un contratiempo.
@@ -6154,18 +6106,6 @@ Volcán Canela, ¡continúa con precaución!
 ¿No? Como quieras, seguiré yo solo.
 ¿No quieres desenterrar tesoros? Pues te pierdes cosas muy buenas que yacen ocultas en la tierra.
 ¿No quieres desenterrar tesoros? Pues te pierdes cosas muy buenas que yacen ocultas en la tierra.
-¡Hola, soy <b>Don Prodigio</b>!
-¡Hola, soy <b>Don Prodigio</b>!
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-¿Qué te parece?
-¿Qué te parece?
-¿No? Pues te pierdes Pokémon maravillosos...
-¿No? Pues te pierdes Pokémon maravillosos...
-No tengo más Pokémon que ofrecerte por ahora.
-No tengo más Pokémon que ofrecerte por ahora.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
 Lo malo de vivir en una isla es que para ver a cualquier familiar hay que coger un barco o volar en un Pokémon.
 Lo malo de vivir en una isla es que para ver a cualquier familiar hay que coger un barco o volar en un Pokémon.
 Los barcos son caros y en cuanto a volar... aún no me he encontrado con ningún Pokémon con alas por aquí.
@@ -6199,7 +6139,7 @@ También me gustaría obsequiarte con esto.
 La mansión fue construida hace 200 años por un noble extranjero para instalarse con sus hijos.
 La mansión fue construida hace 200 años por un noble extranjero para instalarse con sus hijos.
 Tenían una colección de Pokémon muy exótica y la gente visitaba la mansión para poder verlos, es por eso que se la llamó <b>Mansión Pokémon</b>.
- Tenían una colección de Pokémon muy exótica y la gente visitaba la mansión para poder verlos, es por eso que se la llamó <b>Mansión Pokémon</b>.
+Tenían una colección de Pokémon muy exótica y la gente visitaba la mansión para poder verlos, es por eso que se la llamó <b>Mansión Pokémon</b>.
 Lamentablemente los hijos de la familia murieron por enfermedad, así que el padre decidió volver a su región de origen y puso la mansión a la venta.
 Lamentablemente los hijos de la familia murieron por enfermedad, así que el padre decidió volver a su región de origen y puso la mansión a la venta.
 La mansión fue comprada por una compañía científica que instaló un laboratorio en su parte superior para poder llevar a cabo los experimentos más avanzados.
@@ -6220,10 +6160,6 @@ Sí
 Yes
 No
 No
-Acepto
-Acepto
-No me interesa
-No me interesa
 #-------------------------------
 [Map117]
 Muchas veces, el primero en golpear es el que acaba ganando el combate. Por eso la Velocidad es importante en los Pokémon, ¿lo sabías?
@@ -6333,7 +6269,7 @@ Si no, ¿cómo es posible que consigan hacer todos esos movimientos que parecen 
 Estoy buscando un Bellossom. ¿lo cambiarías por mi Chikorita?
 Estoy buscando un Bellossom. ¿lo cambiarías por mi Chikorita?
 ¡Cúidalo muy bien!
-¡Cúidalo muy bien! 
+¡Cúidalo muy bien!
 ¡Vaya! Veo que no tienes uno.
 ¡Vaya! Veo que no tienes uno.
 Si te haces con un Bellossom, ponlo en el primer lugar de tu equipo para que pueda verlo.
@@ -6455,7 +6391,7 @@ El laboratorio se encuentra en el piso más superior de la mansión. Al parecer,
 <b>Diario:</b> 24 de febrero. Hemos conseguido crear vida a partir del ADN de Mew.
 <b>Diario:</b> 24 de febrero. Hemos conseguido crear vida a partir del ADN de Mew.
 Llamamos a este nuevo ejemplar: Mewtwo, el Pokémon Psíquico más poderoso que jamás ha existido.
-Llamamos a este nuevo ejemplar: Mewtwo, el Pokémon Psíquico más poderoso que jamás ha existido. 
+Llamamos a este nuevo ejemplar: Mewtwo, el Pokémon Psíquico más poderoso que jamás ha existido.
 El señor <b>Giovanni</b> se ha mostrado muy interesado en seguir todos los experimentos a los que sometemos a Mewtwo.
 El señor <b>Giovanni</b> se ha mostrado muy interesado en seguir todos los experimentos a los que sometemos a Mewtwo.
 Parece un interruptor, ¿quieres pulsarlo?
@@ -6539,7 +6475,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
@@ -6607,7 +6543,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
@@ -6720,18 +6656,16 @@ En ese caso, joven promesa, ¡sigue estudiando!
 ¿Has visto esos pergaminos del suelo? Tal vez te otorguen cierta sabiduría que te permita vencer al líder Koga...
 La verdad es que como aprendiz de ninja, tengo que leerme muchos textos ninja cada día. Es la parte más pesada de todas...
 La verdad es que como aprendiz de ninja, tengo que leerme muchos textos ninja cada día. Es la parte más pesada de todas...
+Credo del Ninja: "La clave de la victoria es analizar el punto débil"
+Credo del Ninja: "La clave de la victoria es analizar el punto débil"
 Estás bastante cerca, ¿pero seguro que quieres exponerte a las temibles maniobras venenosas de Koga?
 Estás bastante cerca, ¿pero seguro que quieres exponerte a las temibles maniobras venenosas de Koga?
 Nadie acostumbra a hablarme después de vencerme, así que no sé qué más decirte.
 Nadie acostumbra a hablarme después de vencerme, así que no sé qué más decirte.
-Credo del Ninja: "La clave de la victoria es analizar el punto débil"
-Credo del Ninja: "La clave de la victoria es analizar el punto débil"
 He entrenado muy duramente mis técnicas ninja, ¡es hora de ponerlas en práctica!
 He entrenado muy duramente mis técnicas ninja, ¡es hora de ponerlas en práctica!
 Seguiré entrenando para convertirme algún día en un Maestro Ninja, ¡como el líder Koga!
 Seguiré entrenando para convertirme algún día en un Maestro Ninja, ¡como el líder Koga!
-Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
-Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
 ¡Hola, joven promesa! ¿Vienes a desafiar al gimnasio de <b>Ciudad Fucsia</b>?
 ¡Hola, joven promesa! ¿Vienes a desafiar al gimnasio de <b>Ciudad Fucsia</b>?
 Bueno... pues hay un problema. ¿Sabes? Un pequeño impedimento.
@@ -6758,14 +6692,16 @@ Perfecto, ¡mucha suerte en el gimnasio!
 ¿Has vencido a los líderes? ¡Qué bien!
 Siento no haber sido de mucha ayuda en esta ocasión, pero el líder <b>Koga</b> tiene preferencia por los Aspirantes autorresolutivos.
 Siento no haber sido de mucha ayuda en esta ocasión, pero el líder <b>Koga</b> tiene preferencia por los Aspirantes autorresolutivos.
+Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
+Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
 ¿Has descubierto el secreto de los caminos invisibles? ¡Entonces no eres alguien cualquiera!
 ¿Has descubierto el secreto de los caminos invisibles? ¡Entonces no eres alguien cualquiera!
 A pesar de que somos expertos en tipo Veneno, el entrenamiento ninja nos hace tener un cuerpo sano en una mente sana.
 A pesar de que somos expertos en tipo Veneno, el entrenamiento ninja nos hace tener un cuerpo sano en una mente sana.
-Aún tienes por delante a tres obcecados líderes de gimnasio que no te lo pondrán nada fácil. Así que, ¡mucha suerte!
-Aún tienes por delante a tres obcecados líderes de gimnasio que no te lo pondrán nada fácil. Así que, ¡mucha suerte!
 Credo del Ninja: "Un ninja solo puede ser derrotado por otro ninja"
 Credo del Ninja: "Un ninja solo puede ser derrotado por otro ninja"
+Aún tienes por delante a tres obcecados líderes de gimnasio que no te lo pondrán nada fácil. Así que, ¡mucha suerte!
+Aún tienes por delante a tres obcecados líderes de gimnasio que no te lo pondrán nada fácil. Así que, ¡mucha suerte!
 La fuerza no es la clave para ganar, ¿Sabes? ¡Lo importante en un combate Pokémon es la estrategia!
 La fuerza no es la clave para ganar, ¿Sabes? ¡Lo importante en un combate Pokémon es la estrategia!
 Si algún día eres capaz de adaptarte a la perfección a cualquier estrategia, te habrás convertido en un Maestro Pokémon.
@@ -6817,7 +6753,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
@@ -6943,7 +6879,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
@@ -6969,7 +6905,7 @@ Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
 El <b>Team Rocket</b> lleva unas semanas tranquilo desde que lo expulsaron de <b>Ciudad Azafrán</b>.
-El <b>Team Rocket</b> lleva unas semanas tranquilo desde que lo expulsaron de <b>Ciudad Azafrán</b>. 
+El <b>Team Rocket</b> lleva unas semanas tranquilo desde que lo expulsaron de <b>Ciudad Azafrán</b>.
 Cuentan que su líder, <b>Giovanni</b>, fue derrotado por un misterioso vagabundo harapiento que pasaba por ahí.
 Cuentan que su líder, <b>Giovanni</b>, fue derrotado por un misterioso vagabundo harapiento que pasaba por ahí.
 Cuentan que su líder, <b>Giovanni</b>, fue derrotado por una misteriosa vagabunda harapienta que pasaba por ahí.
@@ -6988,12 +6924,14 @@ Nada
 [Map131]
 ¡Resuelve el siguiente acertijo!
 ¡Resuelve el siguiente acertijo!
-¿Qué ave legendaria es de tipo Fuego?
-¿Qué ave legendaria es de tipo Fuego?
+¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
+¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
 ¿Es la respuesta correcta? ¡Pasa a la siguiente sala para averiguarlo!
 ¿Es la respuesta correcta? ¡Pasa a la siguiente sala para averiguarlo!
-¿Qué perro legendario es de tipo Fuego?
-¿Qué perro legendario es de tipo Fuego?
+¿Qué probabilidad de quemar tiene Llamarada?
+¿Qué probabilidad de quemar tiene Llamarada?
+¡Completa la palabra que falta! Simisage, Simipour y...
+¡Completa la palabra que falta! Simisage, Simipour y...
 Lamentablemente, tu respuesta era incorrecta.
 Lamentablemente, tu respuesta era incorrecta.
 Ahora sufrirás el poder de las quemaduras antes de enfrentarte a mi ayudante.
@@ -7004,30 +6942,26 @@ Ahora, ¡enfréntante a mi ayudante en un ardiente combate!
 Ahora, ¡enfréntante a mi ayudante en un ardiente combate!
 ¡Excelente combate! Puedes cruzar la siguiente puerta para un nuevo acertijo.
 ¡Excelente combate! Puedes cruzar la siguiente puerta para un nuevo acertijo.
-¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
-¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
-¿Qué probabilidad de quemar tiene Llamarada?
-¿Qué probabilidad de quemar tiene Llamarada?
-¡Completa la palabra que falta! Simisage, Simipour y...
-¡Completa la palabra que falta! Simisage, Simipour y...
-¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
-¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
+¿Qué ave legendaria es de tipo Fuego?
+¿Qué ave legendaria es de tipo Fuego?
+¿Qué perro legendario es de tipo Fuego?
+¿Qué perro legendario es de tipo Fuego?
 ¿Qué habilidad es capaz de hacer salir el sol?
 ¿Qué habilidad es capaz de hacer salir el sol?
 Si un Pokémon con la habilidad Absorbe Fuego recibe un movimiento de tipo Fuego...
 Si un Pokémon con la habilidad Absorbe Fuego recibe un movimiento de tipo Fuego...
-¿Qué Pokémon no evoluciona mediante Piedra Fuego?
-¿Qué Pokémon no evoluciona mediante Piedra Fuego?
-¿Qué Pokémon recibe más daño por el tipo Fuego?
-¿Qué Pokémon recibe más daño por el tipo Fuego?
+¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
+¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
 ¿Qué movimiento causa más daño cuanta más PS tenga el usuario?
 ¿Qué movimiento causa más daño cuanta más PS tenga el usuario?
 ¿Qué movimiento es capaz de quemar bayas?
 ¿Qué movimiento es capaz de quemar bayas?
 ¿Qué movimiento reduce el Ataque Especial del usuario?
 ¿Qué movimiento reduce el Ataque Especial del usuario?
-Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
-Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
+¿Qué Pokémon no evoluciona mediante Piedra Fuego?
+¿Qué Pokémon no evoluciona mediante Piedra Fuego?
+¿Qué Pokémon recibe más daño por el tipo Fuego?
+¿Qué Pokémon recibe más daño por el tipo Fuego?
 <b>Blaine:</b> ¡Qué bien me lo he pasado viéndote sufrir con mis acertijos!
 <b>Blaine:</b> ¡Qué bien me lo he pasado viéndote sufrir con mis acertijos!
 ¡Pero bueno! ¡Si los has acertado todos! Eso se merece un premio extra al final del combate.
@@ -7058,6 +6992,8 @@ Tiene una tarea entre manos con la que podrías ayudarle. Te espera en la puerta
 ¡Recibes más Cápsulas más por no haber fallado ningún acertijo!
 <b>Blaine:</b> Si me lo permites, debemos volver al asunto del <b>Team Rocket</b> y el <b>Psicorradar</b>.
 <b>Blaine:</b> Si me lo permites, debemos volver al asunto del <b>Team Rocket</b> y el <b>Psicorradar</b>.
+Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
+Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
 ¿Qué Pokémon recibe menos daño de Fuego?
 ¿Qué Pokémon recibe menos daño de Fuego?
 ¿Cuál es el Pokémon Leyenda?
@@ -7066,26 +7002,20 @@ Tiene una tarea entre manos con la que podrías ayudarle. Te espera en la puerta
 ¿Qué Pokémon tiene un Puño Fuego más potente?
 ¿Cuál de estos movimientos no se beneficia de la presencia del sol?
 ¿Cuál de estos movimientos no se beneficia de la presencia del sol?
-Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
-Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
 ¿Cuál de estos Pokémon es conocido como el Pokémon Escupefuego?
 ¿Cuál de estos Pokémon es conocido como el Pokémon Escupefuego?
 ¿Cómo afecta el tipo Hada al tipo Fuego?
 ¿Cómo afecta el tipo Hada al tipo Fuego?
 ¿Cuál de estos movimientos de tipo Fuego tiene más potencia?
 ¿Cuál de estos movimientos de tipo Fuego tiene más potencia?
+Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
+Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
+Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
+Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
 ¿Qué beneficio te otorga el movimiento Nitrocarga?
 ¿Qué beneficio te otorga el movimiento Nitrocarga?
 ¿Cómo se llama la baya que cura las quemaduras?
 ¿Cómo se llama la baya que cura las quemaduras?
-Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
-Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
-¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
-¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
-¿Cuántas debilidades tiene el tipo Fuego?
-¿Cuántas debilidades tiene el tipo Fuego?
-¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
-¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
 <b>Consejero:</b> ¡Hola, aspirante! Verás, en este gimnasio...
 <b>Consejero:</b> ¡Hola, aspirante! Verás, en este gimnasio...
 <b>Blaine:</b> ¡Primer acertijo, \PN!
@@ -7114,26 +7044,20 @@ Para llegar hasta el líder, tendrás que atravesar unas puertas que te plantear
 ¿Necesitas que cure a tus Pokémon?
 Perfecto, ¡mucha suerte en el gimnasio!
 Perfecto, ¡mucha suerte en el gimnasio!
-¿Qué inicial de tipo Fuego te encontrarías en Hoenn?
-¿Qué inicial de tipo Fuego te encontrarías en Hoenn?
-¿Qué Pokémon tiene mayor Velocidad?
-¿Qué Pokémon tiene mayor Velocidad?
+¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
+¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
+¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
+¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
+¿Cuántas debilidades tiene el tipo Fuego?
+¿Cuántas debilidades tiene el tipo Fuego?
 ¿Cuál de estos Pokémon tiene cola?
 ¿Cuál de estos Pokémon tiene cola?
 ¿Cuál de estos Pokémon aprende Danza Llama?
 ¿Cuál de estos Pokémon aprende Danza Llama?
-Articuno
-Articuno
-Zapdos
-Zapdos
-Moltres
-Moltres
-Suicune
-Suicune
-Entei
-Entei
-Raikou
-Raikou
+¿Qué inicial de tipo Fuego te encontrarías en Hoenn?
+¿Qué inicial de tipo Fuego te encontrarías en Hoenn?
+¿Qué Pokémon tiene mayor Velocidad?
+¿Qué Pokémon tiene mayor Velocidad?
 Camerupt
 Camerupt
 Houndoom
@@ -7152,12 +7076,18 @@ Simiheat
 Simiheat
 Simisear
 Simisear
-Blaine
-Blaine
-Caine
-Caine
-Maine
-Maine
+Articuno
+Articuno
+Zapdos
+Zapdos
+Moltres
+Moltres
+Suicune
+Suicune
+Entei
+Entei
+Raikou
+Raikou
 Amanecer
 Amanecer
 Sequía
@@ -7170,6 +7100,18 @@ Aumenta Velocidad
 Aumenta Velocidad
 Aumenta su ofensiva
 Aumenta su ofensiva
+Blaine
+Blaine
+Caine
+Caine
+Maine
+Maine
+Sofoco
+Sofoco
+Estallido
+Estallido
+Calcinación
+Calcinación
 Growlithe
 Growlithe
 Pansear
@@ -7182,12 +7124,6 @@ Parasect
 Parasect
 Dewgong
 Dewgong
-Sofoco
-Sofoco
-Estallido
-Estallido
-Calcinación
-Calcinación
 Coalossal
 Coalossal
 Gyarados
@@ -7236,18 +7172,6 @@ Baya Safre
 Baya Safre
 Baya Zreza
 Baya Zreza
-Lilligant
-Lilligant
-Marowak
-Marowak
-Muk
-Muk
-2
-2
-3
-3
-4
-4
 ¿El tipo Fuego?
 ¿El tipo Fuego?
 ¿El tipo Bicho?
@@ -7258,6 +7182,24 @@ Sí
 Yes
 No
 No
+Lilligant
+Lilligant
+Marowak
+Marowak
+Muk
+Muk
+2
+2
+3
+3
+4
+4
+Torkoal
+Torkoal
+Quilava
+Quilava
+Volcarona
+Volcarona
 Chimchar
 Chimchar
 Torchic
@@ -7268,12 +7210,6 @@ Typhlosion
 Typhlosion
 Son iguales
 Son iguales
-Torkoal
-Torkoal
-Quilava
-Quilava
-Volcarona
-Volcarona
 #-------------------------------
 [Map132]
 ¡Saludos, Aspirante!
@@ -7305,7 +7241,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 Aquí solo hay basura.
@@ -7569,7 +7505,7 @@ Pues mira, tal vez esto te venga bien.
 ¡Espero que demuestres la superioridad del tipo Lucha allá donde vayas!
 ¡Espero que demuestres la superioridad del tipo Lucha allá donde vayas!
 La líder <b>Sabrina</b> tiene muy mala fama entre todos los Aspirantes.
-La líder <b>Sabrina</b> tiene muy mala fama entre todos los Aspirantes. 
+La líder <b>Sabrina</b> tiene muy mala fama entre todos los Aspirantes.
 A pesar de no ser la líder de mayor nivel, se la considera una de las más complicadas por las estrategias que utiliza.
 A pesar de no ser la líder de mayor nivel, se la considera una de las más complicadas por las estrategias que utiliza.
 La ciudad se ha vuelto insegura últimamente entre el <b>Team Rocket</b>, los Motoristas y maleantes de otra índole.
@@ -7816,26 +7752,10 @@ Una semana después...
 ¡Estamos siempre a tu disposición!
 Como quieras.
 Como quieras.
-¡Hola, soy <b>Don Prodigio</b>!
-¡Hola, soy <b>Don Prodigio</b>!
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-¿Qué te parece?
-¿Qué te parece?
-¿No? Pues te pierdes Pokémon maravillosos...
-¿No? Pues te pierdes Pokémon maravillosos...
-No tengo más Pokémon que ofrecerte por ahora.
-No tengo más Pokémon que ofrecerte por ahora.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
 Sí
 Yes
 No
 No
-Acepto
-Acepto
-No me interesa
-No me interesa
 #-------------------------------
 [Map146]
 ¡Estos Miltank dan leche como unos condenados! Creo firmemente que se podría solucionar el hambre en el mundo solo con estos Pokémon.
@@ -7923,7 +7843,7 @@ Por cierto, ¿sabías que al jefe del <b>Team Rocket</b>, <b>Giovanni</b>, se le
 Estoy buscando un Pinsir, ¿lo cambiarías por mi Scyther?
 Estoy buscando un Pinsir, ¿lo cambiarías por mi Scyther?
 ¡Cúidalo muy bien!
-¡Cúidalo muy bien! 
+¡Cúidalo muy bien!
 ¡Vaya! Veo que no tienes uno.
 ¡Vaya! Veo que no tienes uno.
 Si te haces con un Pinsir, ponlo en el primer lugar de tu equipo para que pueda verlo.
@@ -7992,22 +7912,6 @@ El movimiento Surf no solo tiene una gran potencia en combate, también se usa p
 El movimiento Surf no solo tiene una gran potencia en combate, también se usa para surcar los mares a lomos de tu Pokémon.
 Aunque para obtener esa funcionalidad, tendrás que ganarte la medalla de <b>Ciudad Azafrán</b>.
 Aunque para obtener esa funcionalidad, tendrás que ganarte la medalla de <b>Ciudad Azafrán</b>.
-¡Hola, soy <b>Don Prodigio</b>!
-¡Hola, soy <b>Don Prodigio</b>!
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-¿Qué te parece?
-¿Qué te parece?
-¿No? Pues te pierdes Pokémon maravillosos...
-¿No? Pues te pierdes Pokémon maravillosos...
-No tengo más Pokémon que ofrecerte por ahora.
-No tengo más Pokémon que ofrecerte por ahora.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
-Búscame en otros lugares del mundo para seguir haciendo intercambios.
-Acepto
-Acepto
-No me interesa
-No me interesa
 #-------------------------------
 [Map152]
 ¿Quieres usar el Equipo de Escalada?
@@ -8175,7 +8079,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 Parece mentira que hayan construido un Centro Pokémon en un lugar tan remoto como este. Así da gusto disfrutar de la sanidad pública.
@@ -8340,22 +8244,6 @@ Ya que no puedo ofrecerte un reto mayor en combate, déjame apoyarte con estos o
 \c[2]<b>Rojo:</b>\c[0] La <b>Liga Pokémon</b> se alza imponente ante nosotros, como una cima impracticable rodeada de hielo...
 <b>Norte:</b> Ciudad Añil\n<b>Sur:</b> Monte Plateado
 <b>Norte:</b> Ciudad Añil\n<b>Sur:</b> Monte Plateado
-¡Hola, soy <b>Don Prodigio</b>! ¡Brrr!
-¡Hola, soy <b>Don Prodigio</b>! ¡Brrr!
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar.
-¿Qué te parece?
-¿Qué te parece?
-¿No? Pues te pierdes Pokémon maravillosos...
-¿No? Pues te pierdes Pokémon maravillosos...
-No tengo más Pokémon que ofrecerte por ahora.
-No tengo más Pokémon que ofrecerte por ahora.
-Búscame en otros lugares del mundo para seguir haciendo intercambios. ¡Brrr!
-Búscame en otros lugares del mundo para seguir haciendo intercambios. ¡Brrr!
-Acepto
-Acepto
-No me interesa
-No me interesa
 #-------------------------------
 [Map167]
 Liga Pokémon
@@ -8373,7 +8261,7 @@ Yo era un Aspirante, como tú, pero perdí contra la líder de gimnasio <b>Sabri
 Aún así, he venido para ver los combates de la <b>Liga Pokémon</b>. ¡Tal vez saque motivación para volver a intentarlo el año que viene!
 Aún así, he venido para ver los combates de la <b>Liga Pokémon</b>. ¡Tal vez saque motivación para volver a intentarlo el año que viene!
 El <b>Hostal Añil</b> está a rebosar de viajeros de todas partes.
-El <b>Hostal Añil</b> está a rebosar de viajeros de todas partes. 
+El <b>Hostal Añil</b> está a rebosar de viajeros de todas partes.
 Parece que hay mucha expectación, como un presentimiento de que estamos a punto de presenciar unos combates que pasarán a la historia.
 Parece que hay mucha expectación, como un presentimiento de que estamos a punto de presenciar unos combates que pasarán a la historia.
 La <b>Liga Pokémon</b> va a celebrarse dentro de poco, ¡qué ganas tengo de ver a los 4 miembros del <b>Alto Mando</b> en acción!
@@ -8465,7 +8353,7 @@ Pero ahora necesitamos que te centres. ¡Necesitamos tu fuerza para vencer al <b
 No podremos lograrlo sin ti, eres una pieza fundamental.
 No podremos lograrlo sin ti, eres una pieza fundamental.
 \c[1]<b>\v[12]:</b>\c[0] Supongo que por una vez no pasará nada.
-\c[1]<b>\v[12]:</b>\c[0] Supongo que por una vez no pasará nada. 
+\c[1]<b>\v[12]:</b>\c[0] Supongo que por una vez no pasará nada.
 Podríamos combatir juntos, <b>Hoja</b>.
 Podríamos combatir juntos, <b>Hoja</b>.
 \c[2]<b>Rojo:</b>\c[0] ¡No tienes que demostrarle nada a nadie! ¿Te enteras de una vez?
@@ -8797,7 +8685,7 @@ No esperabas tener que combatir contra tantos enemigos juntos, ¿verdad? ¡Tú t
 <b>Reclutas Rocket:</b> ¿Un... un Dragonite? Esto solo puede significar una cosa...
 <b>Reclutas Rocket:</b> ¿Un... un Dragonite? Esto solo puede significar una cosa...
 <b>Reclutas Rocket:</b> ¡Es <b>Lance</b>! ¡El domadragones invencible!
-<b>Reclutas Rocket:</b> ¡Es <b>Lance</b>! ¡El domadragones invencible! 
+<b>Reclutas Rocket:</b> ¡Es <b>Lance</b>! ¡El domadragones invencible!
 ¡El entrenador más fuerte del mundo!
 ¡El entrenador más fuerte del mundo!
 <b>Lance:</b> ¡Uf, puf! Reconozco que habéis sabido mantenerme ocupado con vuestras tonterías.
@@ -8869,7 +8757,7 @@ La seda de mi Ariados es prácticamente irrompible.
 \c[6]<b>Giovanni:</b>\c[0] ¿Cómo te llamas, hijo?
 \c[6]<b>Giovanni:</b>\c[0] ¿Cómo te llamas, hijo?
 <b>Recluta Rocket:</b> ¡Mi nombre es <b>Protón</b>!
-<b>Recluta Rocket:</b> ¡Mi nombre es <b>Protón</b>! 
+<b>Recluta Rocket:</b> ¡Mi nombre es <b>Protón</b>!
 Trabajo para la causa del <b>Team Rocket</b> con toda la convicción de mi corazón desde hace tiempo.
 Trabajo para la causa del <b>Team Rocket</b> con toda la convicción de mi corazón desde hace tiempo.
 \c[6]<b>Giovanni:</b>\c[0] De acuerdo, <b>Protón</b>, has hecho un gran trabajo.
@@ -8921,7 +8809,7 @@ En estos momentos, <b>Rojo</b> está ayudando a contenerlos junto al señor <b>L
 \c[6]<b>Giovanni:</b>\c[0] ¡Vaya! ¡Qué gran crecimiento personal por tu parte, segundón!
 \c[6]<b>Giovanni:</b>\c[0] ¡Vaya! ¡Qué gran crecimiento personal por tu parte, segundón!
 ¿Y qué pasa con todo eso de derrotarme sin ayuda? ¡Así no podrás demostrar que eres el más fuerte!
-¿Y qué pasa con todo eso de derrotarme sin ayuda? ¡Así no podrás demostrar que eres el más fuerte! 
+¿Y qué pasa con todo eso de derrotarme sin ayuda? ¡Así no podrás demostrar que eres el más fuerte!
 ¡No mientras yo siga existiendo!
 ¡No mientras yo siga existiendo!
 \c[1]<b>\v[12]:</b>\c[0] ¡Cállate, maleante!
@@ -8983,13 +8871,13 @@ Es inútil procesarme. Tengo a gran parte de la justicia comprada, además de ot
 \c[6]<b>Giovanni:</b>\c[0] Si de verdad queréis deshaceros de mí, ¡acabad conmigo aquí y ahora!
 \c[6]<b>Giovanni:</b>\c[0] Si de verdad queréis deshaceros de mí, ¡acabad conmigo aquí y ahora!
 De lo contrario, no tardaré en escapar.
-De lo contrario, no tardaré en escapar. 
+De lo contrario, no tardaré en escapar.
 Y aunque mis días frente al <b>Team Rocket</b> han terminado, entregaré mis días al ostracismo y a la meditación.
 Y aunque mis días frente al <b>Team Rocket</b> han terminado, entregaré mis días al ostracismo y a la meditación.
 <b>Lance:</b> No me calientes más la cabeza, anda. Llevo un día muy ajetreado.
 <b>Lance:</b> No me calientes más la cabeza, anda. Llevo un día muy ajetreado.
 Ya veremos si te escapas o no, pero aquí las cosas van a hacerse de manera legal y ordenada.
-Ya veremos si te escapas o no, pero aquí las cosas van a hacerse de manera legal y ordenada. 
+Ya veremos si te escapas o no, pero aquí las cosas van a hacerse de manera legal y ordenada.
 ¡Acompáñame!
 ¡Acompáñame!
 \c[3]<b>Hoja:</b>\c[0] Siento no haberos echado una mano con este combate.
@@ -9051,7 +8939,7 @@ Aún así... nunca me he atrevido a acercarme demasiado al <b>Monte Plateado</b>
 Estoy buscando un Forretress, ¿lo cambiarías por mi Shuckle?
 Estoy buscando un Forretress, ¿lo cambiarías por mi Shuckle?
 ¡Cúidalo muy bien!
-¡Cúidalo muy bien! 
+¡Cúidalo muy bien!
 ¡Vaya! Veo que no tienes uno.
 ¡Vaya! Veo que no tienes uno.
 Si te haces con un Forretress, ponlo en el primer lugar de tu equipo para que pueda verlo.
@@ -9129,7 +9017,7 @@ Menos mal que alguien anónimo se ha encargado de ellos.
 Estoy buscando un Lanturn, ¿lo cambiarías por mi Piplup?
 Estoy buscando un Lanturn, ¿lo cambiarías por mi Piplup?
 ¡Cúidalo muy bien!
-¡Cúidalo muy bien! 
+¡Cúidalo muy bien!
 ¡Vaya! Veo que no tienes uno.
 ¡Vaya! Veo que no tienes uno.
 Si te haces con un Lanturn, ponlo en el primer lugar de tu equipo para que pueda verlo.
@@ -9198,16 +9086,16 @@ No
 No
 #-------------------------------
 [Map181]
+¿Quieres hacer repicar la campana?
+¿Quieres hacer repicar la campana?
+¡La <b>Campana Dorada</b> ha empezado a repicar sola!
+¡La <b>Campana Dorada</b> ha empezado a repicar sola!
+¡Un Pokémon pájaro ha acudido al tañido de la campana!
+¡Un Pokémon pájaro ha acudido al tañido de la campana!
+¡La <b>Campana Plateada</b> ha empezado a repicar sola!
+¡La <b>Campana Plateada</b> ha empezado a repicar sola!
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
-¿Quieres hacer repicar la campana?
-¿Quieres hacer repicar la campana?
-¡La <b>Campana Dorada</b> ha empezado a repicar sola!
-¡La <b>Campana Dorada</b> ha empezado a repicar sola!
-¡Un Pokémon pájaro ha acudido al tañido de la campana!
-¡Un Pokémon pájaro ha acudido al tañido de la campana!
-¡La <b>Campana Plateada</b> ha empezado a repicar sola!
-¡La <b>Campana Plateada</b> ha empezado a repicar sola!
 Sí
 Yes
 No
@@ -9255,7 +9143,7 @@ Tal gallardía debe premiarse con la más valiosa medalla que existe, ¡la <b>Me
 <b>Urano:</b> En fin, ¿ya sabes a dónde dirigir tus pasos? Portar las 8 medallas te permite atravesar la <b>Ruta 20</b> y tomar el camino hacia el <b>Monte Plateado</b>. Si logras superarlo, te hallarás en la <b>Liga Pokémon</b>.
 <b>Urano:</b> En fin, ¿ya sabes a dónde dirigir tus pasos? Portar las 8 medallas te permite atravesar la <b>Ruta 20</b> y tomar el camino hacia el <b>Monte Plateado</b>. Si logras superarlo, te hallarás en la <b>Liga Pokémon</b>.
 Es un laborioso camino que todo Aspirante a <b>Campeón</b> debe superar antes del desafío final.
-Es un laborioso camino que todo Aspirante a <b>Campeón</b> debe superar antes del desafío final. 
+Es un laborioso camino que todo Aspirante a <b>Campeón</b> debe superar antes del desafío final.
 En cuanto a mí, no podría gozar de mayor privilegio que cincelar el término de mi carrera como entrenador Pokémon con este combate que acabamos de librar.
 En cuanto a mí, no podría gozar de mayor privilegio que cincelar el término de mi carrera como entrenador Pokémon con este combate que acabamos de librar.
 Me retiraré y dedicaré el tiempo que me queda a mi familia y a la meditación.
@@ -9298,14 +9186,14 @@ No
 [Map183]
 Los pescadores vuelven cada día con las redes más vacías, ¿es porque las Aves Guardianas nos han dado la espalda?
 Los pescadores vuelven cada día con las redes más vacías, ¿es porque las Aves Guardianas nos han dado la espalda?
-<b>Este:</b> Ruta 26
-<b>Este:</b> Ruta 26
 ¿Eres el <b>Campeón</b>? Nos avisaron de que llegarías hoy a <b>Isla Prisma</b>.
 ¿Eres el <b>Campeón</b>? Nos avisaron de que llegarías hoy a <b>Isla Prisma</b>.
 Nuestra gobernadora te está esperando para comentarte nuestra situación. ¡Ojalá puedas ayudarnos!
 Nuestra gobernadora te está esperando para comentarte nuestra situación. ¡Ojalá puedas ayudarnos!
 ¿Eres la <b>Campeona</b>? Nos avisaron de que llegarías hoy a <b>Isla Prisma</b>.
 ¿Eres la <b>Campeona</b>? Nos avisaron de que llegarías hoy a <b>Isla Prisma</b>.
+<b>Este:</b> Ruta 26
+<b>Este:</b> Ruta 26
 Por aquí tenemos Pokémon muy raros y variados. Aunque para mí lo exótico es lo que tenéis en vuestras tierras.
 Por aquí tenemos Pokémon muy raros y variados. Aunque para mí lo exótico es lo que tenéis en vuestras tierras.
 Oye, ¿no habrás visto algún Clefable en uno de tus viajes? No quiero irme al otro barrio sin presenciar uno.
@@ -9314,10 +9202,12 @@ Oye, ¿no habrás visto algún Clefable en uno de tus viajes? No quiero irme al 
 ¡Anda! ¡Pero si es un Clefable!
 Déjame recompensarte tu buena voluntad como es debido.
 Déjame recompensarte tu buena voluntad como es debido.
+<b>Villa Ámbar,</b> remanso dorado de paz
+<b>Villa Ámbar,</b> remanso dorado de paz
 <b>Bill:</b> ¿Hueles eso? ¡Es el aire fresco y misterioso de nuevas tierras por explorar!
 <b>Bill:</b> ¿Hueles eso? ¡Es el aire fresco y misterioso de nuevas tierras por explorar!
 La <b>Isla Prisma</b> presenta una variedad absurda de Pokémon. La mayoría de ellos son especies que nunca verás en <b>Kanto</b>.
-La <b>Isla Prisma</b> presenta una variedad absurda de Pokémon. La mayoría de ellos son especies que nunca verás en <b>Kanto</b>. 
+La <b>Isla Prisma</b> presenta una variedad absurda de Pokémon. La mayoría de ellos son especies que nunca verás en <b>Kanto</b>.
 <b>Bill:</b> ¡Pero la pokémanía puede esperar, mi querido \PN! Ahora es el momento de reunirse con la gobernadora de la isla.
 <b>Bill:</b> ¡Pero la pokémanía puede esperar, mi querido \PN! Ahora es el momento de reunirse con la gobernadora de la isla.
 Me dijo que andaría por una de las casas de esta villa. Dado su pequeño tamaño, no debería tener mucha pérdida.
@@ -9328,8 +9218,6 @@ Me dijo que andaría por una de las casas de esta villa. Dado su pequeño tamañ
 <b>Bill:</b> ¡La pokémanía puede esperar, mi querido \PN! Ahora es el momento de reunirse con la gobernadora de la isla.
 <b>Bill:</b> ¡La pokémanía puede esperar, mi querida \PN! Ahora es el momento de reunirse con la gobernadora de la isla.
 <b>Bill:</b> ¡La pokémanía puede esperar, mi querida \PN! Ahora es el momento de reunirse con la gobernadora de la isla.
-<b>Villa Ámbar,</b> remanso dorado de paz
-<b>Villa Ámbar,</b> remanso dorado de paz
 ¿Turistas del continente? ¿En nuestras islas? ¡Vaya, entonces es verdad que han abierto las fronteras!
 ¿Turistas del continente? ¿En nuestras islas? ¡Vaya, entonces es verdad que han abierto las fronteras!
 Trata de respetar este lugar como si fuera tu propia casa... aunque claro, ¡a saber cómo tratas a tu casa!
@@ -9407,7 +9295,7 @@ Zapdos es capaz de traer vientos de lluvia con sus carreras, es un Pokémon que 
 ¿Quieres atraer al Pájaro Legendario de este altar? Imposible, ya no acuden a la llamada de nadie... salvo si llevas algo contigo.
 ¿Quieres atraer al Pájaro Legendario de este altar? Imposible, ya no acuden a la llamada de nadie... salvo si llevas algo contigo.
 Tienes que conseguir una <b>Ofrenda Prismática</b>. Son raras, pero alguna encontrarás por la isla, digo yo.
-Tienes que conseguir una <b>Ofrenda Prismática</b>. Son raras, pero alguna encontrarás por la isla, digo yo. 
+Tienes que conseguir una <b>Ofrenda Prismática</b>. Son raras, pero alguna encontrarás por la isla, digo yo.
 Cuando la tengas, ofrécela al altar.
 Cuando la tengas, ofrécela al altar.
 Es un <b>Altar de Ave Guardiana</b>.
@@ -9471,7 +9359,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 Los lugareños han tenido que aceptar la construcción de un Centro Pokémon a regañadientes.
@@ -9529,11 +9417,11 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 ¡<i>Oh my God</i>! Las personas y las costumbres de este <i>place</i> son sin duda <i>very captivating</i>.
-¡<i>Oh my God</i>! Las personas y las costumbres de este <i>place</i> son sin duda <i>very captivating</i>. 
+¡<i>Oh my God</i>! Las personas y las costumbres de este <i>place</i> son sin duda <i>very captivating</i>.
 Yo provengo de una región llamada <b>Céfira</b>. Si algún día la visitas, estaremos <i>very pleased</i> de acogerte.
 Yo provengo de una región llamada <b>Céfira</b>. Si algún día la visitas, estaremos <i>very pleased</i> de acogerte.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
@@ -9718,12 +9606,12 @@ El <b>Bosque Arcoiris</b> no queda muy lejos de aquí, tienes que tomar el camin
 El <b>Bosque Arcoiris</b> no queda muy lejos de aquí, tienes que tomar el camino de la izquierda.
 Ese bosque es nuestro patrimonio más valioso. Por favor, no alteres demasiado la armonía de la naturaleza con tu presencia.
 Ese bosque es nuestro patrimonio más valioso. Por favor, no alteres demasiado la armonía de la naturaleza con tu presencia.
-Una cosa te voy a decir: dos escopetas tengo.
-Una cosa te voy a decir: dos escopetas tengo.
 Hoy me he topado con un tipejo que se ha puesto a hablarme en otro idioma, ¡qué falta de educación y qué descaro!
 Hoy me he topado con un tipejo que se ha puesto a hablarme en otro idioma, ¡qué falta de educación y qué descaro!
 Empiezan así y acaban quitándonos el trabajo.
 Empiezan así y acaban quitándonos el trabajo.
+Una cosa te voy a decir: dos escopetas tengo.
+Una cosa te voy a decir: dos escopetas tengo.
 #-------------------------------
 [Map193]
 ¡Hola, Aspirante! ¿Qué necesitas?
@@ -9761,7 +9649,7 @@ Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
 Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health. 
+Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 En el <b>Cabo Magenta</b> se puede pescar al raro Lapras.
@@ -9910,34 +9798,34 @@ No
 No
 #-------------------------------
 [Map198]
-Es un <b>Altar de Ave Guardiana</b>.
-Es un <b>Altar de Ave Guardiana</b>.
-¿Quieres usar una <b>Ofrenda Prismática</b> para convocar al Pájaro Legendario?
-¿Quieres usar una <b>Ofrenda Prismática</b> para convocar al Pájaro Legendario?
-¡AAAARTIIIIIIIIC!
-¡AAAARTIIIIIIIIC!
-¡El Pokémon legendario Articuno se lanza a por ti!
-¡El Pokémon legendario Articuno se lanza a por ti!
-¡El Pokémon Legendario ha huido, asustado! Pero ha soltado una pluma tras de sí.
-¡El Pokémon Legendario ha huido, asustado! Pero ha soltado una pluma tras de sí.
-<b>Lorelei:</b> ¡Un espectáculo precioso, \PN! Ver a ese Articuno en acción ha sido un privilegio que siempre atesoraré.
-<b>Lorelei:</b> ¡Un espectáculo precioso, \PN! Ver a ese Articuno en acción ha sido un privilegio que siempre atesoraré.
-Estás ayudando a la emperatriz <b>Prisma</b>, ¿no? La verdad es que la situación que está atravesando no es nada sencilla.
-Estás ayudando a la emperatriz <b>Prisma</b>, ¿no? La verdad es que la situación que está atravesando no es nada sencilla.
-¿Sabías que los habitantes de la isla están divididos entre los que quieren seguir con las viejas costumbres y los que quieren abrirse al mundo y modernizarse? Y esta segunda facción está ganando cada día más adeptos.
-¿Sabías que los habitantes de la isla están divididos entre los que quieren seguir con las viejas costumbres y los que quieren abrirse al mundo y modernizarse? Y esta segunda facción está ganando cada día más adeptos.
-Muchos incluso están empezando a cuestionar el papel de la propia emperatriz, que desde hace un tiempo solo ejerce funciones simbólicas.
-Muchos incluso están empezando a cuestionar el papel de la propia emperatriz, que desde hace un tiempo solo ejerce funciones simbólicas.
-Por eso digo lo de que no lo tiene nada fácil.
-Por eso digo lo de que no lo tiene nada fácil.
-<b>Lorelei:</b> ¡Y me voy ya! Incluso las maestras del tipo Hielo pasamos frío, ¿sabes?
-<b>Lorelei:</b> ¡Y me voy ya! Incluso las maestras del tipo Hielo pasamos frío, ¿sabes?
-Pero nada ocurre.
-Pero nada ocurre.
-Ya has convocado a Articuno.
-Ya has convocado a Articuno.
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
+Es un <b>Altar de Ave Guardiana</b>.
+Es un <b>Altar de Ave Guardiana</b>.
+¿Quieres usar una <b>Ofrenda Prismática</b> para convocar al Pájaro Legendario?
+¿Quieres usar una <b>Ofrenda Prismática</b> para convocar al Pájaro Legendario?
+¡AAAARTIIIIIIIIC!
+¡AAAARTIIIIIIIIC!
+¡El Pokémon legendario Articuno se lanza a por ti!
+¡El Pokémon legendario Articuno se lanza a por ti!
+¡El Pokémon Legendario ha huido, asustado! Pero ha soltado una pluma tras de sí.
+¡El Pokémon Legendario ha huido, asustado! Pero ha soltado una pluma tras de sí.
+<b>Lorelei:</b> ¡Un espectáculo precioso, \PN! Ver a ese Articuno en acción ha sido un privilegio que siempre atesoraré.
+<b>Lorelei:</b> ¡Un espectáculo precioso, \PN! Ver a ese Articuno en acción ha sido un privilegio que siempre atesoraré.
+Estás ayudando a la emperatriz <b>Prisma</b>, ¿no? La verdad es que la situación que está atravesando no es nada sencilla.
+Estás ayudando a la emperatriz <b>Prisma</b>, ¿no? La verdad es que la situación que está atravesando no es nada sencilla.
+¿Sabías que los habitantes de la isla están divididos entre los que quieren seguir con las viejas costumbres y los que quieren abrirse al mundo y modernizarse? Y esta segunda facción está ganando cada día más adeptos.
+¿Sabías que los habitantes de la isla están divididos entre los que quieren seguir con las viejas costumbres y los que quieren abrirse al mundo y modernizarse? Y esta segunda facción está ganando cada día más adeptos.
+Muchos incluso están empezando a cuestionar el papel de la propia emperatriz, que desde hace un tiempo solo ejerce funciones simbólicas.
+Muchos incluso están empezando a cuestionar el papel de la propia emperatriz, que desde hace un tiempo solo ejerce funciones simbólicas.
+Por eso digo lo de que no lo tiene nada fácil.
+Por eso digo lo de que no lo tiene nada fácil.
+<b>Lorelei:</b> ¡Y me voy ya! Incluso las maestras del tipo Hielo pasamos frío, ¿sabes?
+<b>Lorelei:</b> ¡Y me voy ya! Incluso las maestras del tipo Hielo pasamos frío, ¿sabes?
+Pero nada ocurre.
+Pero nada ocurre.
+Ya has convocado a Articuno.
+Ya has convocado a Articuno.
 <b>Lorelei:</b> ¡Oooh! ¡Qué sorpresa encontrarme contigo, \PN!
 <b>Lorelei:</b> ¡Oooh! ¡Qué sorpresa encontrarme contigo, \PN!
 Dime, ¿también estás buscando el Altar de Articuno? Pues tengo una noticia buena y otra mala.
@@ -9980,6 +9868,8 @@ Si la Isla Prisma tiene que desaparecer... nosotros desapareceremos con ella. ¡
 Si la Isla Prisma tiene que desaparecer... nosotros desapareceremos con ella. ¡Hicimos un juramento!
 La señora Prisma nos pidió que montáramos guardia y tratáramos de frenar tu avance.
 La señora Prisma nos pidió que montáramos guardia y tratáramos de frenar tu avance.
+¡Seré fiel a mis principios hasta el final! Algún día, las generaciones venideras recordarán mi aplomo.
+¡Seré fiel a mis principios hasta el final! Algún día, las generaciones venideras recordarán mi aplomo.
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
 En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
@@ -9994,14 +9884,12 @@ The <b>Alpha Nest</b> is empty...
 ¿Quieres usar un <b>Cristal Prisma</b> para atraer a un Pokémon?
 ¡Un Pokémon ha entrado en el <b>Nido Alfa</b>!
 ¡Un Pokémon ha entrado en el <b>Nido Alfa</b>!
-¡Seré fiel a mis principios hasta el final! Algún día, las generaciones venideras recordarán mi aplomo.
-¡Seré fiel a mis principios hasta el final! Algún día, las generaciones venideras recordarán mi aplomo.
 ¡Vas a comprobar de primera mano el poder de la Isla Prisma!
 ¡Vas a comprobar de primera mano el poder de la Isla Prisma!
 El Bosque Arcoiris no es un simple bosque, ¡es un lugar sagrado! ¡Procura no mancharlo con tu presencia!
 El Bosque Arcoiris no es un simple bosque, ¡es un lugar sagrado! ¡Procura no mancharlo con tu presencia!
 Tu maestría no tiene parangón y algún día podrías aceptar discípulos, ¿lo has pensado alguna vez?
-Tu maestría no tiene parangón y algún día podrías aceptar discípulos, ¿lo has pensado alguna vez? 
+Tu maestría no tiene parangón y algún día podrías aceptar discípulos, ¿lo has pensado alguna vez?
 Sí
 Yes
 No
@@ -10091,9 +9979,9 @@ Y cuando me enteré de que era una simple muchacha joven que podía ser engañad
 El mundo moderno es una enfermedad que devora todo lo que toca.
 El mundo moderno es una enfermedad que devora todo lo que toca.
 Los ciudadanos de esta isla quieren abrir las fronteras y dejarse corromper por todas esas ideas que campan más allá del mar. ¡Pero no puedo permitirlo!
-Los ciudadanos de esta isla quieren abrir las fronteras y dejarse corromper por todas esas ideas que campan más allá del mar.  ¡Pero no puedo permitirlo! 
+Los ciudadanos de esta isla quieren abrir las fronteras y dejarse corromper por todas esas ideas que campan más allá del mar.  ¡Pero no puedo permitirlo!
 ¡Tengo que imponer la pureza aunque sea con puño de hierro!
-¡Tengo que imponer la pureza aunque sea con puño de hierro! 
+¡Tengo que imponer la pureza aunque sea con puño de hierro!
 ¡El linaje <b>Prisma</b> renacerá más fuerte que nunca y se expandirá por todo el Mundo Pokémon!
 ¡El linaje <b>Prisma</b> renacerá más fuerte que nunca y se expandirá por todo el Mundo Pokémon!
 \c[2]<b>Prisma:</b>\c[0] Y ahora el último paso es hacer que desaparezcas. Siento muchísimo que tengas que cumplir un papel tan ingrato en esta historia, siendo tan joven...
@@ -10473,7 +10361,7 @@ Velocidad
 \c[3]<b>Hoja:</b>\c[0] En mi caso no, profesor.
 \c[3]<b>Hoja:</b>\c[0] En mi caso no, profesor.
 Tengo pensado coger un tren hacia <b>Johto</b> en unos días.
-Tengo pensado coger un tren hacia <b>Johto</b> en unos días. 
+Tengo pensado coger un tren hacia <b>Johto</b> en unos días.
 La próxima vez que nos veamos, lo haré con 8 medallas más en el bolsillo.
 La próxima vez que nos veamos, lo haré con 8 medallas más en el bolsillo.
 \c[2]<b>Rojo:</b>\c[0] En mi caso no, profesor.
@@ -10532,14 +10420,6 @@ Algún día nos vengaremos. Por ahora puedes quedarte con esto, para que nos dej
 Algún día nos vengaremos. Por ahora puedes quedarte con esto, para que nos dejes en paz un rato.
 Algún día nos vengaremos. ¡La historia del <b>Team Rocket</b> no termina aquí!
 Algún día nos vengaremos. ¡La historia del <b>Team Rocket</b> no termina aquí!
-¡Hola, soy <b>Don Prodigio Infinito</b>!
-¡Hola, soy <b>Don Prodigio Infinito</b>!
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar, ¡y nunca me cansaré de hacerlo!
-Puedo cambiarte a uno de tus Pokémon por otro de valor similar, ¡y nunca me cansaré de hacerlo!
-¿Qué te parece?
-¿Qué te parece?
-¿No? Pues te pierdes Pokémon maravillosos...
-¿No? Pues te pierdes Pokémon maravillosos...
 Tus Pokémon parecen muy fuertes, ¿no te interesaría venderlos al mejor postor?
 Tus Pokémon parecen muy fuertes, ¿no te interesaría venderlos al mejor postor?
 ¿Sabías que esta es la base más antigua del Team Rocket? Es muy anterior a Giovanni, incluso.
@@ -10552,7 +10432,3 @@ Pronto nos refundaremos bajo el liderazgo de un nuevo jefe mucho más temible qu
 ¿Cómo que el Team Rocket se ha disuelto? ¡Mentiras y más mentiras!
 ¿Entonces es verdad que el Team Rocket se ha disuelto? Tendré que buscarme otro trabajo...
 ¿Entonces es verdad que el Team Rocket se ha disuelto? Tendré que buscarme otro trabajo...
-Acepto
-Acepto
-No me interesa
-No me interesa

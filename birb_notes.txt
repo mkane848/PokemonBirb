@@ -17,6 +17,10 @@
     - More translations
     - Encounter UI Plugin added, effectively PokeRadar
 
+05/30/2024
+    - Removed Trade Expert
+    - More translations
+
 
 
 TODO:
