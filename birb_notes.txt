@@ -13,6 +13,10 @@
         - Test that Randomizer works as it did previously
     - Translate text in Player's House
 
+05/29/2024
+    - More translations
+    - Encounter UI Plugin added, effectively PokeRadar
+
 
 
 TODO:
@@ -29,4 +33,4 @@ TODO:
 - Trainer names/classes still in Spanish during battle
 - Check game script for "Rojo"/"Hoja"
 - PokeVial
-- PokeRadar
+- PokeRadar? (shiny chaining)

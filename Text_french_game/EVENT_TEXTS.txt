@@ -93,9 +93,9 @@ No
 Aquí solo hay basura.
 No, Kato, there's only trash in here.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 ¡Espera, \PN!
 Wait, \PN!
 <b>Prof. Oak:</b> ¿Pero a dónde vas, insensato? ¿No sabes lo peligroso que es meterse en la hierba alta sin tener Pokémon?
@@ -933,13 +933,13 @@ I'm taking a statement from this man. <b>Team Rocket</b> broke into his house an
 ¿Que te gustaría saber más? ¡Esto es trabajo de la policía! Tú deberías estar consiguiendo medallas.
 What would you like to know more about? This is police work! You should be getting badges.
 ¿Has estado en la <b>Cueva Celeste</b>? Seguramente no, porque la entrada está cerrada.
-Have you been to the <b>Celestial Cave</b>? Probably not, since the entrance is closed.
+Have you been to the <b>Cerulean Cave</b>? Probably not, since the entrance is closed.
 Los Pokémon de esa cueva son <b>peligrosísimos</b>. ¡Hasta un líder de gimnasio estaría en problemas ahí dentro!
 The Pokémon in that cave are <b>very dangerous</b>. Even a Gym Leader would be in trouble in there!
 ¡Esos malnacidos del <b>Team Rocket</b>...! Se metieron en mi casa durante una persecución policial y me la dejaron llena de destrozos.
 Those <b>Team Rocket</b> bastards...! They broke into my house during a police chase and left it in shambles.
 Mmm... mi Pokémon nota la presencia de un campo psíquico enorme en la <b>Cueva Celeste</b>.
-Hmm... my Pokémon noticed the presence of a huge psychic field in the <b>Celestial Cave</b>.
+Hmm... my Pokémon noticed the presence of a huge psychic field in the <b>Cerulean Cave</b>.
 ¿Qué lo estará causando?
 What could be causing it?
 Un pequeño arbusto bloquea el paso. Tal vez se podría cortar con algo...
@@ -1243,7 +1243,7 @@ Algún niño se ha dejado esto tirado por ahí, ¿a ti te sirve de algo?
 Uff... ¿qué movimiento toca hacer contra este Pokémon?
 Uff... ¿qué movimiento toca hacer contra este Pokémon?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -1285,13 +1285,13 @@ Iba a atravesar el Túnel Roca para llegar a Pueblo Lavanda, pero...
 ¡Se ve que tienes talento! Ánimo y sigue así. Seguro que llegas fácilmente a <b>Pueblo Lavanda</b>.
 ¡Se ve que tienes talento! Ánimo y sigue así. Seguro que llegas fácilmente a <b>Pueblo Lavanda</b>.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map023]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
 En concreto, sientes la presencia de un Pokémon Roca muy poderoso.
@@ -1411,7 +1411,7 @@ Por lo visto, fue invadida por un Pokémon eléctrico muy destructivo que decidi
 Los Pokémon pueden llegar a ser criaturas terroríficas. Hay que amarlos, ¡pero también tenerles cierto respeto!
 Los Pokémon pueden llegar a ser criaturas terroríficas. Hay que amarlos, ¡pero también tenerles cierto respeto!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -1421,7 +1421,7 @@ No
 No me caen nada bien los que son más fuertes que yo. ¡Déjame en paz!
 No me caen nada bien los que son más fuertes que yo. ¡Déjame en paz!
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 Uf, uf... Hacía mucho tiempo que no venía de excursión a la montaña. ¡Qué cansada estoy!
 Uf, uf... Hacía mucho tiempo que no venía de excursión a la montaña. ¡Qué cansada estoy!
 ¡Estos Pokémon de montaña son tan toscos! Ojalá hubiera uno con algún motivo más cuco.
@@ -1433,7 +1433,7 @@ Quería hacer turismo por <b>Pueblo Lavanda</b>, ya que he llegado hasta aquí..
 Creo que me quedaré un rato más por la montaña.
 Creo que me quedaré un rato más por la montaña.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -1509,7 +1509,7 @@ Torre Pokémon
 Cuando un Pokémon muere, lo llevan a la <b>Torre Pokémon</b> para enterrarlo.
 Cuando un Pokémon muere, lo llevan a la <b>Torre Pokémon</b> para enterrarlo.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2051,17 +2051,17 @@ Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Estoy buscando un Metapod, ¿lo cambiarías por mi Swinub? ¡Lo atrapé en <b>Johto</b>!
 I'm looking for a Metapod, would you trade it for my Swinub? I caught him in <b>Johto</b>!
 ¡Bien, veo que tienes un Metapod! ¡Hagamos el intercambio!
@@ -2403,21 +2403,21 @@ Necesito que alguien lleves el <b>Ámbar Viejo</b> al laboratorio de <b>Isla Can
 ¡Qué suerte! Nunca pensé que vería huesos de Pokémon de tipo Dragón.
 ¡Qué suerte! Nunca pensé que vería huesos de Pokémon de tipo Dragón.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map041]
 Parece que estás al límite de tus fuerzas, ¿quieres descansar un rato?
-Parece que estás al límite de tus fuerzas, ¿quieres descansar un rato?
+It seems like you're at the end of your rope, do you want to rest for a while?
 Ahora tenéis mejor cara, ¡a por todas!
-Ahora tenéis mejor cara, ¡a por todas!
+You look better now, go for it!
 ¡No le exijas demasiado a tus Pokémon! Hasta ellos tienen su límite.
-¡No le exijas demasiado a tus Pokémon! Hasta ellos tienen su límite.
+Don't demand too much from your Pokémon! Even they have their limit.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2465,7 +2465,7 @@ Los Entrenadores de este Gimnasio usan Pokémon de tipo Roca. Estos tienen mayor
 Tómate en serio el combate contra <b>Brock</b>, ¿eh? Es un tipo duro y no se anda con tonterías.
 Tómate en serio el combate contra <b>Brock</b>, ¿eh? Es un tipo duro y no se anda con tonterías.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2493,25 +2493,25 @@ Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
 Al parecer, <b>Bill</b> tiene una colección de Pokémon muy raros.
-Al parecer, <b>Bill</b> tiene una colección de Pokémon muy raros.
+Apparently <b>Bill</b> has a collection of very rare Pokémon.
 Creo que sueña con hacerse con todos algún día. Y cuando digo todos, es todos. ¡A escala planetaria!
-Creo que sueña con hacerse con todos algún día. Y cuando digo todos, es todos. ¡A escala planetaria!
+I think he dreams of catching them all one day. And when I say all, it means all. On a planetary scale!
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 ¿A ti te suenan los Caramelosraros? He visto a entrenadores jóvenes obsesionados con eso.
-¿A ti te suenan los Caramelosraros? He visto a entrenadores jóvenes obsesionados con eso.
+Are you familiar with Rare Candies? I've seen young trainers obsessed with them.
 ¿Es algún tipo de droga que se ha puesto de moda en vuestra generación?
-¿Es algún tipo de droga que se ha puesto de moda en vuestra generación?
+Is it some type of drug that has become fashionable with the youth?
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Recordar movimiento
 Recordar movimiento
 Niveles de los líderes
@@ -2519,7 +2519,7 @@ Niveles de los líderes
 Nada
 Nada
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2527,47 +2527,47 @@ No
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Si ves a una chica muy fuerte al final de la ruta, es mi hija mayor. ¡Lleva todo el día entrenando con sus Pokémon!
-Si ves a una chica muy fuerte al final de la ruta, es mi hija mayor. ¡Lleva todo el día entrenando con sus Pokémon!
+If you see a very strong girl at the end of the road, she's my eldest daughter. She's been training with her Pokémon all day!
 #-------------------------------
 [Map045]
 Cuando era pequeña me perdí en <b>Cueva Celeste</b>, ¡fue una de las experiencias más aterradoras de mi vida!
-Cuando era pequeña me perdí en <b>Cueva Celeste</b>, ¡fue una de las experiencias más aterradoras de mi vida!
+When I was little I got lost in <b>Cerulean Cave</b>, it was one of the most terrifying experiences of my life!
 Soy un Montañero, pero adoro a los Pokémon de tipo Hada... ¡no siempre los estereotipos se cumplen!
-Soy un Montañero, pero adoro a los Pokémon de tipo Hada... ¡no siempre los estereotipos se cumplen!
+I'm a Mountaineer, but I love Fairy-type Pokémon... stereotypes don't always hold true!
 ¡Es que mira qué mono es mi Clefairy! Ojalá tuviéramos más Pokémon Hada en <b>Kanto</b>.
-¡Es que mira qué mono es mi Clefairy! Ojalá tuviéramos más Pokémon Hada en <b>Kanto</b>.
+Look how cute my Clefairy is! I wish we had more Fairy Pokémon in <b>Kanto</b>.
 Las medallas no solo son un símbolo de valía en combates Pokémon, ¡también demuestran coraje y trabajo duro!
-Las medallas no solo son un símbolo de valía en combates Pokémon, ¡también demuestran coraje y trabajo duro!
+Badges are not only a symbol of worth in Pokémon battles, they also show courage and hard work!
 Ven a verme cuando tengas 5 medallas, sabré recompensar tu esfuerzo.
-Ven a verme cuando tengas 5 medallas, sabré recompensar tu esfuerzo.
+Come see me when you have 5 badges, I'll know how to reward your effort.
 Veo que has conseguido 5 medallas, ¡a eso le llamo yo esfuerzo por querer mejorar!
-Veo que has conseguido 5 medallas, ¡a eso le llamo yo esfuerzo por querer mejorar!
+I see that you've earned 5 badges, that's what I call effort!
 Puedes quedarte con esto, para que te ayude a conseguir las medallas que te faltan.
-Puedes quedarte con esto, para que te ayude a conseguir las medallas que te faltan.
+You can keep this, it'll help you with the remaining Gyms.
 Ahora mismo estoy de descanso, pero normalmente entreno duramente para poder combatir contra el maestro <b>Bruno</b> algún día.
-Ahora mismo estoy de descanso, pero normalmente entreno duramente para poder combatir contra el maestro <b>Bruno</b> algún día.
+I'm on break right now, but I usually train hard so I can fight Master <b>Bruno</b> one day.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Me gustaría que mi Pokémon viera más mundo, pero le ha tocado una entrenadora demasiado casera...
-Me gustaría que mi Pokémon viera más mundo, pero le ha tocado una entrenadora demasiado casera...
+I'd like my Pokémon to see more of the world, but it got a very homely trainer...
 ¡Te prometo que el año que viene haremos un viaje, Oddish!
-¡Te prometo que el año que viene haremos un viaje, Oddish!
+I promise we'll take a trip next year, Oddish!
 Si pensabas que <b>Brock</b> era un líder complicado... ¡es que no has visto a <b>Misty</b>!
-Si pensabas que <b>Brock</b> era un líder complicado... ¡es que no has visto a <b>Misty</b>!
+If you thought <b>Brock</b> was a tough leader... you haven't seen <b>Misty</b>!
 La tía te lanza unos movimientos acuáticos demoledores, ¡pero es que además tiene a un Pokémon de tipo Psíquico para rematarte!
-La tía te lanza unos movimientos acuáticos demoledores, ¡pero es que además tiene a un Pokémon de tipo Psíquico para rematarte!
+That girl throws some devastating Water moves at you, but she also has a Psychic-type Pokémon to finish you off!
 ¿Pero cómo osas allanar así mi propiedad privad...? Mira, déjalo.
-¿Pero cómo osas allanar así mi propiedad privad...? Mira, déjalo.
+How dare you raid my private property like that...? Look, leave it.
 Supongo que hay cosas que uno tiene que aceptar en la vida, como que entren en tu casa sin llamar.
-Supongo que hay cosas que uno tiene que aceptar en la vida, como que entren en tu casa sin llamar.
+I guess there are things you have to accept in life, like someone breaking into your house without knocking.
 ¡Pero la próxima vez límpiate los zapatos antes de entrar!
-¡Pero la próxima vez límpiate los zapatos antes de entrar!
+But next time clean your shoes before entering!
 ¿Vienes de atravesar el <b>Mt. Moon</b>? En ese caso, no te vendrá mal tomar un poco de aire.
-¿Vienes de atravesar el <b>Mt. Moon</b>? En ese caso, no te vendrá mal tomar un poco de aire.
+Are you coming from <b>Mt. Moon</b>? In that case, it won't hurt to get some air.
 ¿A dónde te llevará el viento? Es un misterio.
-¿A dónde te llevará el viento? Es un misterio.
+Where will the wind take you? It's a mystery.
 Pase lo que pase, no te separes nunca de tus Pokémon.
-Pase lo que pase, no te separes nunca de tus Pokémon.
+No matter what happens, never be separated from your Pokémon.
 #-------------------------------
 [Map046]
 Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
@@ -2595,9 +2595,9 @@ Bien, tómate tu tiempo.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2635,9 +2635,9 @@ Bien, tómate tu tiempo.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2665,17 +2665,17 @@ Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Si ves que las Pokéball se te empiezan a quedar cortas para capturar Pokémon, deberías pasarte a las Superball.
 Si ves que las Pokéball se te empiezan a quedar cortas para capturar Pokémon, deberías pasarte a las Superball.
 Son bastante más efectivas, aunque no infalibles.
@@ -2691,7 +2691,7 @@ Niveles de los líderes
 Nada
 Nada
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2739,7 +2739,7 @@ Bien, aquí tienes a tu Pokemon de vuelta.
 ¿Quieres al otro también?
 ¿Quieres al otro también?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2783,7 +2783,7 @@ Y si ven que esos Pokémon no les sirven, se deshacen de ellos. ¡Me ponen enfer
 Mi Pidgey va a enviarle una carta a un pariente de <b>Ciudad Azafrán</b>. Debería estar de vuelta antes de la noche.
 Mi Pidgey va a enviarle una carta a un pariente de <b>Ciudad Azafrán</b>. Debería estar de vuelta antes de la noche.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2813,17 +2813,17 @@ Come back if you need anything!
 Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
 Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Pensaba que atravesar el <b>Mt. Moon</b> era duro pero, ¡el <b>Túnel Roca</b> es mucho peor!
 Pensaba que atravesar el <b>Mt. Moon</b> era duro pero, ¡el <b>Túnel Roca</b> es mucho peor!
 Tal vez me haga Pescador, esos nunca se mueven del mismo sitio.
@@ -2835,7 +2835,7 @@ Niveles de los líderes
 Nada
 Nada
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2869,17 +2869,17 @@ Pertenezco a un gremio de Exorcistas. Nos han llamado para solucionar un problem
 Estáis en buenas manos, te lo garantizo.
 Estáis en buenas manos, te lo garantizo.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Recordar movimiento
 Recordar movimiento
 Niveles de los líderes
@@ -2887,7 +2887,7 @@ Niveles de los líderes
 Nada
 Nada
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -2907,7 +2907,7 @@ Si tienes un Graveler, ponlo en el primer lugar de tu equipo para que pueda verl
 ¡Vaya, qué lástima! Tendré que entrenar un Geodude para conseguir a Graveler, con la pereza que me da.
 ¡Vaya, qué lástima! Tendré que entrenar un Geodude para conseguir a Graveler, con la pereza que me da.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -3021,65 +3021,65 @@ Perfecto, ¡mucha suerte en el gimnasio!
 Voy a darte una pista sobre los interruptores. Una vez que hayas localizado el primero, tienes que activar el segundo justo después. ¡Y te diré más: están uno junto al otro!
 Voy a darte una pista sobre los interruptores. Una vez que hayas localizado el primero, tienes que activar el segundo justo después. ¡Y te diré más: están uno junto al otro!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map057]
 ¿Has visto con qué gracia me desplazo por el agua? ¡Es casi como si fuera mi hábitat natural!
-¿Has visto con qué gracia me desplazo por el agua? ¡Es casi como si fuera mi hábitat natural!
+Have you seen how gracefully I move through the water? It's almost like it's my natural habitat!
 He llenado la piscina con mis lágimas, así que ahora el agua es algo más salada.
-He llenado la piscina con mis lágimas, así que ahora el agua es algo más salada.
+I've filled the pool with my tears, so now the water is a little saltier.
 <b>Misty:</b> ¡Anda, la aguafiestas!
-<b>Misty:</b> ¡Anda, la aguafiestas!
+<b>Misty:</b> Come on, party pooper!
 <b>Misty:</b> ¡Anda, el aguafiestas!
-<b>Misty:</b> ¡Anda, el aguafiestas!
+<b>Misty:</b> Come on, party pooper!
 ¡Al final te has atrevido a venir!
-¡Al final te has atrevido a venir!
+You finally dared to show your face!
 Que sepas que mis Pokémon de tipo Agua son imbatibles cuando luchan en su medio natural.
-Que sepas que mis Pokémon de tipo Agua son imbatibles cuando luchan en su medio natural.
+Just know that my Water-type Pokémon are unbeatable when fighting in their natural environment.
 Puede que ganaras a <b>Brock</b>, que es más tonto que una piedra.
-Puede que ganaras a <b>Brock</b>, que es más tonto que una piedra.
+Maybe you beat <b>Brock</b>, who's dumber than a rock.
 ¡Pero yo estoy en otro nivel completamente distinto!
-¡Pero yo estoy en otro nivel completamente distinto!
+But I'm on a whole other level!
 ¡Prepárate para cabalgar esta ola!
-¡Prepárate para cabalgar esta ola!
+Get ready to ride this wave!
 <b>Misty:</b> ¡Anda! ¡Pues parece que al final no eras moco de pavo!
-<b>Misty:</b> ¡Anda! ¡Pues parece que al final no eras moco de pavo!
+<b>Misty:</b> Oh come on! Well, it seems you weren't a small fry after all!
 Supongo que tendré que entregarte mi medalla, la <b>Medalla Cascada</b>...
-Supongo que tendré que entregarte mi medalla, la <b>Medalla Cascada</b>...
+I guess I'll have to give you my badge, the <b>Cascade Badge</b>...
 <b>Misty:</b> También te daré una MT, acéptala como disculpa por haber sido borde contigo.
-<b>Misty:</b> También te daré una MT, acéptala como disculpa por haber sido borde contigo.
+<b>Misty:</b> I'll also give you a TM, accept it as my apology for being rude to you.
 <b>Misty:</b> Oye, por cierto... ¿has estado en casa de <b>Bill</b>?
-<b>Misty:</b> Oye, por cierto... ¿has estado en casa de <b>Bill</b>?
+<b>Misty:</b> Hey, by the way... have you been to <b>Bill's</b>'s house?
 Es un Pokémaniaco y bicho raro, seguro que os entendéis. Vive en la <b>Ruta 24</b>.
-Es un Pokémaniaco y bicho raro, seguro que os entendéis. Vive en la <b>Ruta 24</b>.
+He's a Pokémaniac and a weirdo, I'm sure you understand each other. He lives on <b>Route 24</b>.
 Yo intenté hacerme su amiga para que me regalase su Vaporeon, ¡pero es que es más raro que un Growlithe verde!
-Yo intenté hacerme su amiga para que me regalase su Vaporeon, ¡pero es que es más raro que un Growlithe verde!
+I tried to befriend her so she could give me her Vaporeon, but it's rarer than a green Growlithe!
 Soy demasiado buena para ti, <b>Misty</b> puede esperar.
-Soy demasiado buena para ti, <b>Misty</b> puede esperar.
+I'm too good for you, <b>Misty</b> can wait.
 Una amable señora fue la que propuso todo este reto del puente. Dijo que estaba buscando a jóvenes entrenadores fuertes y valientes.
-Una amable señora fue la que propuso todo este reto del puente. Dijo que estaba buscando a jóvenes entrenadores fuertes y valientes.
+A kind lady was the one who proposed this whole bridge challenge. She said that she was looking for strong and brave young coaches.
 La líder no se encuentra en el gimnasio, debería ir a buscarla antes de continuar...
-La líder no se encuentra en el gimnasio, debería ir a buscarla antes de continuar...
+The leader's not in the gym, I should go look for her before continuing...
 ¡De cabeza al combate! Mi Pokémon va a dejar a los tuyos calados hasta los huesos.
-¡De cabeza al combate! Mi Pokémon va a dejar a los tuyos calados hasta los huesos.
+Let's battle! My Pokémon are going to leave yours soaked to the bone.
 Decidí tirarme a la piscina y darlo todo en este combate, pero ha ido como ha ido...
-Decidí tirarme a la piscina y darlo todo en este combate, pero ha ido como ha ido...
+I decided to jump into the pool and give it my all in this fight, but it went the way it did...
 ¡Hola, aspirante! Este gimnasio se especializa en Pokémon de tipo Agua.
-¡Hola, aspirante! Este gimnasio se especializa en Pokémon de tipo Agua.
+Yo! Champ in making! Yo! Champ in making!
 Si quieres tener ventaja, deberías llevar Pokémon de tipo Planta o de tipo Eléctrico.
-Si quieres tener ventaja, deberías llevar Pokémon de tipo Planta o de tipo Eléctrico.
+If you want to have an advantage, you should bring Grass-type or Electric-type Pokémon.
 Toma esto, podría venirte bien.
-Toma esto, podría venirte bien.
+Take this, it might come in handy.
 ¡Buena suerte en tu segundo reto de gimnasio!
-¡Buena suerte en tu segundo reto de gimnasio!
+Good luck on your second gym challenge!
 ¿Necesitas que cure a tus Pokémon?
-¿Necesitas que cure a tus Pokémon?
+Do you need me to heal your Pokémon?
 Perfecto, ¡mucha suerte en el gimnasio!
-Perfecto, ¡mucha suerte en el gimnasio!
+Perfect, good luck in the gym!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -3159,7 +3159,7 @@ Aún recuerdo cuando todavía se cocinaban Colas Slowpoke. Yo era solo un niño,
 Dicen que ha embarcado un científico muy prestigioso, ¡colaboró con el <b>Profesor Oak</b> durante años!
 Dicen que ha embarcado un científico muy prestigioso, ¡colaboró con el <b>Profesor Oak</b> durante años!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -3311,211 +3311,211 @@ No me interesa
 #-------------------------------
 [Map060]
 Aquí hay bicis de muchos lugares del mundo, pero no le preguntes al dueño de la tienda por las características de cada una.
-Aquí hay bicis de muchos lugares del mundo, pero no le preguntes al dueño de la tienda por las características de cada una.
+There are bikes here from all over the world, but don't ask the store owner about the characteristics of each one.
 Cuando empieza a hablar de bicis, no para...
-Cuando empieza a hablar de bicis, no para...
+When he starts talking about bikes, he doesn't stop...
 ¿Has visto mi colección de bicis? Impresionante, ¿eh?
-¿Has visto mi colección de bicis? Impresionante, ¿eh?
+Have you seen my bike collection? Impressive, huh?
 ¡Pues no están a la venta! En realidad esto es una tienda de comida 24 horas, pero también me gusta fardar de mis bicis.
-¡Pues no están a la venta! En realidad esto es una tienda de comida 24 horas, pero también me gusta fardar de mis bicis.
+Well, they're not for sale! This is actually a 24-hour food store, but I also like to show off my bikes.
 ¿Tienes un Bono Bici? Pues vaya...
-¿Tienes un Bono Bici? Pues vaya...
+Do you have a Bike Voucher? Well wow...
 Se supone que mis bicis no están a la venta, pero parece un bono auténtico y legal.
-Se supone que mis bicis no están a la venta, pero parece un bono auténtico y legal.
+The bikes aren't supposed to be for sale, but it looks like a legal Voucher.
 ¡Está bien! ¡Toma tu bici antes de que me arrepienta!
-¡Está bien! ¡Toma tu bici antes de que me arrepienta!
+Alright! Take your bike before I regret it!
 Con esa bici fardarás por toda la región. ¡Que digo, por todo el mundo!
-Con esa bici fardarás por toda la región. ¡Que digo, por todo el mundo!
+With that bike you'll show off all over the region. What am I saying, all over the world!
 Por algo era de mi preciada colección.
-Por algo era de mi preciada colección.
+There's a reason it was from my precious collection.
 Ir en bici está bien, aunque nada se compara a ir a lomos de tu Pokémon.
-Ir en bici está bien, aunque nada se compara a ir a lomos de tu Pokémon.
+Riding a bike is fine, although nothing compares to riding your Pokémon.
 #-------------------------------
 [Map061]
 Estoy buscando un Ninetales, ¿lo cambiarías por mi Charmander?
-Estoy buscando un Ninetales, ¿lo cambiarías por mi Charmander?
+I'm looking for a Ninetales, would you trade it for my Charmander?
 ¡Cúidalo muy bien!
-¡Cúidalo muy bien! 
+Take good care of him!
 ¡Vaya! Veo que no tienes uno.
-¡Vaya! Veo que no tienes uno.
+Oh! I see you don't have one.
 Si te haces con un Ninetales, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Ninetales, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get a Ninetales, put it at the top of your team so it can see it.
 Bueno, otra vez será.
-Bueno, otra vez será.
+Okay, maybe next time.
 Ya era hora de deshacerme de ese Charmander, es un Pokémon tremendamente sobrevalorado.
-Ya era hora de deshacerme de ese Charmander, es un Pokémon tremendamente sobrevalorado.
+It was time to get rid of that Charmander, it's a tremendously overrated Pokémon.
 Estoy buscando un Starmie, ¿lo cambiarías por mi Squirtle?
-Estoy buscando un Starmie, ¿lo cambiarías por mi Squirtle?
+I'm looking for a Starmie, would you trade it for my Squirtle?
 Si te haces con un Starmie, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Starmie, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get a Starmie, put it at the top of your team so it can see it.
 ¿Qué tal está Squirtle? ¡Espero que te obedezca bien!
-¿Qué tal está Squirtle? ¡Espero que te obedezca bien!
+How's Squirtle? I hope he serves you well!
 Dicen que el tipo Dragón es el más raro de todos.
-Dicen que el tipo Dragón es el más raro de todos. 
+They say that the Dragon type is the rarest of all.
 De hecho, creo que en <b>Kanto</b> solo existe un Pokémon de ese tipo. ¡Y lo tienen en un safari!
-De hecho, creo que en <b>Kanto</b> solo existe un Pokémon de ese tipo. ¡Y lo tienen en un safari!
+In fact, I think there's only one Pokémon of that type in <b>Kanto</b>. And they have it in the safari!
 Intercambiar Pokémon puede parecer cruel a veces, pero los Pokémon parecen estar diseñados para cogerle cariño rápido a su nuevo entrenador.
-Intercambiar Pokémon puede parecer cruel a veces, pero los Pokémon parecen estar diseñados para cogerle cariño rápido a su nuevo entrenador.
+Trading Pokémon may seem cruel at times, but Pokémon seem like they quickly grow on their new trainer.
 ¡Son criaturas maravillosas!
-¡Son criaturas maravillosas!
+They're wonderful creatures!
 ¡Pilla asiento y relájate! Estamos a tu servicio.
-¡Pilla asiento y relájate! Estamos a tu servicio.
+Grab a seat and relax! We are at your service.
 Estoy buscando un Vileplume. ¿lo cambiarías por mi Bulbasaur?
-Estoy buscando un Vileplume. ¿lo cambiarías por mi Bulbasaur?
+I'm looking for a Vileplume. Would you trade it for my Bulbasaur?
 Si te haces con un Vileplume, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Vileplume, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get a Vileplume, put it at the top of your team so it can see it.
 ¡Me encanta intercambiar Pokémon en esta cafetería!
-¡Me encanta intercambiar Pokémon en esta cafetería!
+I love trading Pokémon at this cafe!
 Es agradable que se mantengan las viejas costumbres.
-Es agradable que se mantengan las viejas costumbres.
+It's nice to see the old ways stick around.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map062]
 <b>Bill:</b> Oye, ¿te has topado con un Pokémon llamado Eevee? Es mi favorito.
-<b>Bill:</b> Oye, ¿te has topado con un Pokémon llamado Eevee? Es mi favorito.
+<b>Bill:</b> Hey, have you come across a Pokémon called Eevee? It is my favorite.
 Se trata de un Pokémon especial que tiene múltiples evoluciones.
-Se trata de un Pokémon especial que tiene múltiples evoluciones.
+It's a special Pokémon that has multiple evolutions.
 Incluso una de tipo Volador bastante desconocida y que estoy seguro de que es muy poderosa.
-Incluso una de tipo Volador bastante desconocida y que estoy seguro de que es muy poderosa.
+Even a Flying type that not much is known about, but I'm sure it's very powerful.
 <b>Bill:</b> ¡Qué bien que al final pudieseis detener a <b>Giovanni</b> y ese Pokémon llamado <b>Mewtwo</b>!
-<b>Bill:</b> ¡Qué bien que al final pudieseis detener a <b>Giovanni</b> y ese Pokémon llamado <b>Mewtwo</b>!
+<b>Bill:</b> It's great that you were able to stop <b>Giovanni</b> and that Pokémon called <b>Mewtwo</b> in the end!
 Por cierto, ¿te has topado con un Pokémon llamado Eevee? Es mi favorito.
-Por cierto, ¿te has topado con un Pokémon llamado Eevee? Es mi favorito.
+By the way, have you come across a Pokémon called Eevee? It is my favorite.
 <b>Prof. Oak:</b> El <b>Mundo Pokémon</b> está en buenas manos con vosotros defendiéndolo.
-<b>Prof. Oak:</b> El <b>Mundo Pokémon</b> está en buenas manos con vosotros defendiéndolo.
+<b>Prof. Oak:</b> The <b>Pokémon World</b> is in good hands with you defending it.
 <b>Bill</b> y yo nos quedaremos aquí, controlando la situación.
-<b>Bill</b> y yo nos quedaremos aquí, controlando la situación.
+<b>Bill</b> and I'll stay here, monitoring the situation.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 \c[1]<b>\v[12]:</b>\c[0] Vaya, \PN. Me sorprende que hayas tenido tiempo de reunirte con la plebe.
-\c[1]<b>\v[12]:</b>\c[0] Vaya, \PN. Me sorprende que hayas tenido tiempo de reunirte con la plebe.
+\c[1]<b>\v[12]:</b>\c[0] Wow, \PN. I'm surprised you had time to meet with the plebs.
 ¿No tienes ninguna megacorporación que salvar?
-¿No tienes ninguna megacorporación que salvar?
+Don't you have any megacorporations to save?
 \c[3]<b>Hoja:</b>\c[0] Arceus bendito, \v[12], ¿quieres aparcar esa actitud por una vez?
-\c[3]<b>Hoja:</b>\c[0] Arceus bendito, \v[12], ¿quieres aparcar esa actitud por una vez?
+\c[3]<b>Leaf:</b>\c[0] Holy Arceus, \v[12], do you want to put that attitude aside for once?
 \c[2]<b>Rojo:</b>\c[0] Arceus bendito, \v[12], ¿quieres aparcar esa actitud por una vez?
-\c[2]<b>Rojo:</b>\c[0] Arceus bendito, \v[12], ¿quieres aparcar esa actitud por una vez?
+\c[2]<b>Red:</b>\c[0] Holy Arceus, \v[12], do you want to put that attitude aside for once?
 <b>Bill:</b> Es raro que el <b>Profesor Oak</b> se retrase, suele ser muy puntual.
-<b>Bill:</b> Es raro que el <b>Profesor Oak</b> se retrase, suele ser muy puntual.
+<b>Bill:</b> It's rare for <b>Professor Oak</b> to be late, he's usually very punctual.
 \c[1]<b>\v[12]:</b>\c[0] ¿Has invitado también a mi abuelo?
-\c[1]<b>\v[12]:</b>\c[0] ¿Has invitado también a mi abuelo?
+\c[1]<b>\v[12]:</b>\c[0] You also invited my grandfather?
 <b>Prof. Oak:</b> ¡Perdona, amigo <b>Bill</b>! Tenía muchas llamadas urgentes que contestar.
-<b>Prof. Oak:</b> ¡Perdona, amigo <b>Bill</b>! Tenía muchas llamadas urgentes que contestar.
+<b>Prof. Oak:</b> Sorry,<b>Bill</b>! I had many urgent calls to answer.
 Sin duda está ocurriendo algo de extrema gravedad.
-Sin duda está ocurriendo algo de extrema gravedad.
+Without a doubt something extremely serious is happening.
 <b>Prof. Oak:</b> ¡Cuánto tiempo, jóvenes! Parece que haya pasado una eternidad desde que salisteis de <b>Pueblo Paleta</b> con mis <b>Pokédex</b>.
-<b>Prof. Oak:</b> ¡Cuánto tiempo, jóvenes! Parece que haya pasado una eternidad desde que salisteis de <b>Pueblo Paleta</b> con mis <b>Pokédex</b>.
+<b>Prof. Oak:</b> Time flies, kids! It seems like an eternity since you left <b>Pallet Town</b> with my <b>Pokédex</b>.
 He de decir que me siento henchido de orgullo ante vuestro progreso. ¡Mirad cuánto habéis madurado, tanto vosotros como vuestros Pokémon!
-He de decir que me siento henchido de orgullo ante vuestro progreso. ¡Mirad cuánto habéis madurado, tanto vosotros como vuestros Pokémon!
+I must say that I'm filled with pride at your progress. Look at how much you and your Pokémon have matured!
 \c[1]<b>\v[12]:</b>\c[0] Supongo que algunos más que otros...
-\c[1]<b>\v[12]:</b>\c[0] Supongo que algunos más que otros...
+\c[1]<b>\v[12]:</b>\c[0] I guess some more than others...
 <b>Bill:</b> Bien. Ahora que estamos todos, os pondré al corriente de la situación.
-<b>Bill:</b> Bien. Ahora que estamos todos, os pondré al corriente de la situación.
+<b>Bill:</b> Good. Now that we're all here, I'll update you on the situation.
 Recapitulemos desde el principio: hace unos años, el <b>Team Rocket</b> financió la creación de un Pokémon artificial utilizando los restos fosilizados del Pokémon Ancestral <b>Mew</b>.
-Recapitulemos desde el principio: hace unos años, el <b>Team Rocket</b> financió la creación de un Pokémon artificial utilizando los restos fosilizados del Pokémon Ancestral <b>Mew</b>.
+Let's recap from the beginning: a few years ago, <b>Team Rocket</b> funded the creation of an artificial Pokémon using the fossilized remains of the Ancestral Pokémon <b>Mew</b>.
 Este Pokémon artificial fue llamado <b>Mewtwo</b>, una criatura con unos poderes psíquicos por encima de cualquier medición.
-Este Pokémon artificial fue llamado <b>Mewtwo</b>, una criatura con unos poderes psíquicos por encima de cualquier medición.
+This artificial Pokémon was called <b>Mewtwo</b>, a creature with psychic powers beyond measure.
 Pero <b>Mewtwo</b> se descontroló y destruyó el laboratorio en el que había nacido para posteriormente huir y ocultarse.
-Pero <b>Mewtwo</b> se descontroló y destruyó el laboratorio en el que había nacido para posteriormente huir y ocultarse.
+But <b>Mewtwo</b> got out of control and destroyed the laboratory in which he was born and later fled and hid.
 Desde entonces, el <b>Team Rocket</b> con <b>Giovanni</b> al frente lo han estado buscando sin descanso por toda la región.
-Desde entonces, el <b>Team Rocket</b> con <b>Giovanni</b> al frente lo han estado buscando sin descanso por toda la región.
+Since then, <b>Team Rocket</b> led by <b>Giovanni</b> have been tirelessly searching for him throughout the region.
 <b>Prof. Oak:</b> Y, según las últimas llamadas que he recibido, <b>Giovanni</b> se ha hecho con dos artefactos.
-<b>Prof. Oak:</b> Y, según las últimas llamadas que he recibido, <b>Giovanni</b> se ha hecho con dos artefactos.
+<b>Prof. Oak:</b> And, according to the latest calls I've received, <b>Giovanni</b> has obtained two important devices.
 Un <b>Radar Psíquico</b> que le permitiría rastrear a <b>Mewtwo</b> con rapidez.
-Un <b>Radar Psíquico</b> que le permitiría rastrear a <b>Mewtwo</b> con rapidez.
+A <b>Psychic Radar</b> that would allow him to track <b>Mewtwo</b> quickly.
 Y una <b>Máster Ball</b>, con la cual podría capturarlo de forma ineludible.
-Y una <b>Máster Ball</b>, con la cual podría capturarlo de forma ineludible.
+And a <b>Master Ball</b>, with which he could guaranteed its capture.
 \c[3]<b>Hoja:</b>\c[0] ¿No hay nada que esté en nuestra mano para evitar las ambiciones de <b>Giovanni</b>? Ese hombre parece ser el mismo demonio, no quiero imaginar lo que haría con un poder así.
-\c[3]<b>Hoja:</b>\c[0] ¿No hay nada que esté en nuestra mano para evitar las ambiciones de <b>Giovanni</b>? Ese hombre parece ser el mismo demonio, no quiero imaginar lo que haría con un poder así.
+\c[3]<b>Leaf:</b>\c[0] Isn't there something we can do to stop <b>Giovanni</b>'s plans? That man seems like the devil himself, I don't want to imagine what he would do with power like that.
 \c[2]<b>Rojo:</b>\c[0] ¿No hay nada que esté en nuestra mano para evitar las ambiciones de <b>Giovanni</b>? Ese hombre parece ser el mismo demonio, no quiero imaginar lo que haría con un poder así.
-\c[2]<b>Rojo:</b>\c[0] ¿No hay nada que esté en nuestra mano para evitar las ambiciones de <b>Giovanni</b>? Ese hombre parece ser el mismo demonio, no quiero imaginar lo que haría con un poder así.
+\c[2]<b>Red:</b>\c[0] Isn't there something we can do to stop <b>Giovanni</b>'s plans? That man seems like the devil himself, I don't want to imagine what he would do with power like that.
 <b>Bill:</b> Creo que sí. Tenemos margen de maniobra.
-<b>Bill:</b> Creo que sí. Tenemos margen de maniobra.
+<b>Bill:</b> I think so. We have time to counter-attack.
 No sé si conocéis la <b>Cueva Celeste</b>, llevo meses investigándola y es el principal motivo por el que me instalé en esta zona.
-No sé si conocéis la <b>Cueva Celeste</b>, llevo meses investigándola y es el principal motivo por el que me instalé en esta zona.
+I don't know if you know the <b>Cerulean Cave</b>, but I've been researching it for months and it's the main reason why I settled in this area.
 <b>Prof. Oak:</b> ¡Sí! Es esa cueva en las montañas de <b>Ciudad Celeste</b> que presenta unos Pokémon de lo más variopintos, ¿no?
-<b>Prof. Oak:</b> ¡Sí! Es esa cueva en las montañas de <b>Ciudad Celeste</b> que presenta unos Pokémon de lo más variopintos, ¿no?
+<b>Prof. Oak:</b> Yes! It's that cave in the mountains of <b>Cerulean City</b> that features some of the most diverse Pokémon, right?
 Hice algunas expediciones como fotógrafo de investigación, en mi juventud.
-Hice algunas expediciones como fotógrafo de investigación, en mi juventud.
+I did some expeditions there as a research photographer, in my youth.
 <b>Bill:</b> Genial, pues resulta que han aparecido unos extraños campos psíquicos en esa cueva.
-<b>Bill:</b> Genial, pues resulta que han aparecido unos extraños campos psíquicos en esa cueva.
+<b>Bill:</b> Great, it turns out that some strange psychic fields have appeared in that cave.
 Y no solo eso, sino que sus Pokémon, aparte de variopintos, ahora son muy agresivos y peligrosos.
-Y no solo eso, sino que sus Pokémon, aparte de variopintos, ahora son muy agresivos y peligrosos.
+And not only that, but the Pokémon inside, apart from being diverse, are now very aggressive and dangerous.
 <b>Prof. Oak:</b> ¡Vaya! Eso sí que es inusual.
-<b>Prof. Oak:</b> ¡Vaya! Eso sí que es inusual.
+<b>Prof. Oak:</b> Wow! Now that's unusual.
 Y crees que <b>Mewtwo</b> se ha alojado en las profundidades de la <b>Cueva Celeste</b>, ¿verdad? Y por eso la aparición de los campos psíquicos.
-Y crees que <b>Mewtwo</b> se ha alojado en las profundidades de la <b>Cueva Celeste</b>, ¿verdad? Y por eso la aparición de los campos psíquicos.
+And you think <b>Mewtwo</b> has taken up residence in the depths of <b>Cerulean Cave</b>, right? And that's why the psychic field appeared.
 Solo tenemos que ser más rápidos que el <b>Team Rocket</b> y dar antes con él.
-Solo tenemos que ser más rápidos que el <b>Team Rocket</b> y dar antes con él.
+We just have to be faster than <b>Team Rocket</b> and find it sooner.
 <b>Prof. Oak:</b> ¡Pues tenéis trabajo que hacer, muchachos!
-<b>Prof. Oak:</b> ¡Pues tenéis trabajo que hacer, muchachos!
+<b>Prof. Oak:</b> Well you've got work to do, everyone!
 \c[1]<b>\v[12]:</b>\c[0] ¡Oye! Llamadme exquisito pero, ¿esto no debería ser misión para el <b>Alto Mando</b>, que para eso les pagan con el dinero de nuestros impuestos?
-\c[1]<b>\v[12]:</b>\c[0] ¡Oye! Llamadme exquisito pero, ¿esto no debería ser misión para el <b>Alto Mando</b>, que para eso les pagan con el dinero de nuestros impuestos?
+\c[1]<b>\v[12]:</b>\c[0] Hey! Call me crazy, but shouldn't this be a mission for the <b>Elite Four</b>, which is what our tax money pays for?
 <b>Prof. Oak:</b> Tienes razón, pero he contactado con sus 4 miembros y todos están ocupados sofocando ataques del <b>Team Rocket</b> en distintos puntos clave de la región.
-<b>Prof. Oak:</b> Tienes razón, pero he contactado con sus 4 miembros y todos están ocupados sofocando ataques del <b>Team Rocket</b> en distintos puntos clave de la región.
+<b>Prof. Oak:</b> You're right, but I've already contacted them and they're all busy quelling <b>Team Rocket</b> attacks in different key points in the region.
 Posiblemente, todo forma parte de una meticulosa operación de <b>Giovanni</b> para mantenerlos distraídos.
-Posiblemente, todo forma parte de una meticulosa operación de <b>Giovanni</b> para mantenerlos distraídos.
+It's very possible that it's all part of a meticulous operation by <b>Giovanni</b> to keep them distracted.
 \c[1]<b>\v[12]:</b>\c[0] ¡Mmm! Pues en ese caso enviad solo a \PN.
-\c[1]<b>\v[12]:</b>\c[0] ¡Mmm! Pues en ese caso enviad solo a \PN.
+\c[1]<b>\v[12]:</b>\c[0] Hm! Well, in that case, only send \PN.
 ¡Seguro que no nos necesita para nada!
-¡Seguro que no nos necesita para nada!
+Surely he doesn't need us at all!
 \c[3]<b>Hoja:</b>\c[0] ¡Ni caso a las tonterías de su nieto, profesor!
-\c[3]<b>Hoja:</b>\c[0] ¡Ni caso a las tonterías de su nieto, profesor!
+\c[3]<b>Leaf:</b>\c[0] Don't pay attention to your grandson's nonsense, professor!
 Iremos los tres y haremos un gran trabajo en equipo. ¡No le defraudaremos!
-Iremos los tres y haremos un gran trabajo en equipo. ¡No le defraudaremos!
+The three of us will go and work together. We won't let you down!
 \c[2]<b>Rojo:</b>\c[0] ¡Ni caso a las tonterías de su nieto, profesor!
-\c[2]<b>Rojo:</b>\c[0] ¡Ni caso a las tonterías de su nieto, profesor!
+\c[2]<b>Rojo:</b>\c[0] Don't pay attention to your grandson's nonsense, professor!
 <b>Prof. Oak:</b> ¡Sé que no lo haréis! El <b>Mundo Pokémon</b> está en buenas manos con vosotros defendiéndolo.
-<b>Prof. Oak:</b> ¡Sé que no lo haréis! El <b>Mundo Pokémon</b> está en buenas manos con vosotros defendiéndolo.
+<b>Prof. Oak:</b> I know you won't! The <b>Pokémon World</b> is in good hands with you defending it.
 <b>Bill:</b> La entrada a la <b>Cueva Celeste</b> está algo escondida.
-<b>Bill:</b> La entrada a la <b>Cueva Celeste</b> está algo escondida.
+<b>Bill:</b> The entrance to <b>Cerulean Cave</b> is somewhat hidden.
 Buscad el río desde <b>Ciudad Celeste</b> o desde la <b>Ruta 24</b> y navegad sus aguas hasta encontrar la entrada en la montaña.
-Buscad el río desde <b>Ciudad Celeste</b> o desde la <b>Ruta 24</b> y navegad sus aguas hasta encontrar la entrada en la montaña.
+Look for the river from <b>Cerulean City</b> or from <b>Route 24</b> and navigate its waters until you find the entrance in the mountain.
 ¡Buena suerte, entrenadores!
-¡Buena suerte, entrenadores!
+Good luck, trainers!
 <b>Bill:</b> La entrada a la <b>Cueva Celeste</b> está algo escondida. Buscad el río desde <b>Ciudad Celeste</b> o desde la <b>Ruta 24</b> y navegad sus aguas.
-<b>Bill:</b> La entrada a la <b>Cueva Celeste</b> está algo escondida. Buscad el río desde <b>Ciudad Celeste</b> o desde la <b>Ruta 24</b> y navegad sus aguas.
+<b>Bill:</b> The entrance to <b>Cerulean Cave</b> is somewhat hidden. Look for the river from <b>Cerulean City</b> or from <b>Route 24</b> and navigate its waters.
 <b>???:</b> ¡No, espera! ¡Por favor, no te asustes de mí!
-<b>???:</b> ¡No, espera! ¡Por favor, no te asustes de mí!
+<b>???:</b> No, wait! Please don't be scared of me!
 Soy... ¡soy <b>Bill</b>, el famoso <b>Pokémaniaco</b>!
-Soy... ¡soy <b>Bill</b>, el famoso <b>Pokémaniaco</b>! 
+I'm... I'm <b>Bill</b>, the famous <b>Pokémaniac</b>!
 Seguro que alguna vez has visto mi cara en alguna revista. ¿No me reconoces?
-Seguro que alguna vez has visto mi cara en alguna revista. ¿No me reconoces?
+Surely you've seen my face in a magazine. Don't you recognize me?
 <b>Bill:</b> ¡Vale, reconozco que estoy un poco cambiado!
-<b>Bill:</b> ¡Vale, reconozco que estoy un poco cambiado!
+<b>Bill:</b> Okay, I admit I'm a little different!
 Estaba intentando mezclar mi ADN con el de un Pokémon y, bueno, el experimento ha salido regular.
-Estaba intentando mezclar mi ADN con el de un Pokémon y, bueno, el experimento ha salido regular.
+I was trying to mix my DNA with that of a Pokémon and, well, the experiment turned out...okay.
 <b>Bill:</b> Si quiero volver a ser persona, necesito activar la máquina de nuevo.
-<b>Bill:</b> Si quiero volver a ser persona, necesito activar la máquina de nuevo.
+<b>Bill:</b> If I want to be a person again, I need to activate the machine again.
 Pero como ahora mismo no tengo pulgares oponibles, llevo un buen rato así.
-Pero como ahora mismo no tengo pulgares oponibles, llevo un buen rato así.
+But since I don't have opposable thumbs right now, I've been like this for a while.
 <b>Bill:</b> Échame una mano, ¿quieres? Yo entraré en la máquina y lo único que tienes que hacer es activarla desde ese ordenador que hay sobre el escritorio.
-<b>Bill:</b> Échame una mano, ¿quieres? Yo entraré en la máquina y lo único que tienes que hacer es activarla desde ese ordenador que hay sobre el escritorio.
+<b>Bill:</b> Give me a hand, will you? I'll go into the machine and all you have to do is activate it from that computer on the desk.
 Hay una interfaz que parece estar relacionada con las máquinas del laboratorio.
-Hay una interfaz que parece estar relacionada con las máquinas del laboratorio.
+There's an interface that seems to be related to the machines in the laboratory.
 Mejor no tocar nada.
-Mejor no tocar nada.
+Better not touch anything.
 ¿Quieres activarlas?
-¿Quieres activarlas?
+Do you want to activate them?
 <b>Bill:</b> ¡Por fin! ¡Qué bien sienta ser bípedo otra vez!
-<b>Bill:</b> ¡Por fin! ¡Qué bien sienta ser bípedo otra vez!
+<b>Bill:</b> Finally! It feels good to be bipedal again!
 <b>Bill:</b> ¿Cómo puedo agradecerte esto?
-<b>Bill:</b> ¿Cómo puedo agradecerte esto?
+<b>Bill:</b> How can I thank you for this?
 <b>Bill:</b> ¡Ah, ya sé! Te daré esto.
-<b>Bill:</b> ¡Ah, ya sé! Te daré esto.
+<b>Bill:</b> Oh, I know! I'll give you this.
 <b>Bill:</b> Es un ticket para embarcar en el <b>S.S. Anne</b>, un crucero de lujo que sale de <b>Ciudad Carmín</b>.
-<b>Bill:</b> Es un ticket para embarcar en el <b>S.S. Anne</b>, un crucero de lujo que sale de <b>Ciudad Carmín</b>.
+<b>Bill:</b> It's a ticket to board the <b>S.S. Anne</b>, a luxury cruise ship leaving from <b>Vermilion City</b>.
 Me invitaron para hablar en una ponencia pero... ¡puff! ¡No aguanto esos sitios tan de alta clase!
-Me invitaron para hablar en una ponencia pero... ¡puff! ¡No aguanto esos sitios tan de alta clase!
+They invited me to speak at a presentation but... pshh! I can't stand such high class places!
 Prefiero seguir con mis Pokémon y mis investigaciones.
-Prefiero seguir con mis Pokémon y mis investigaciones.
+I prefer to continue with my Pokémon and my research.
 Pero a ti te puede venir bien coger ese barco. Conocer gente, hacer contactos, ¡ya sabes! Esa clase de cosas.
-Pero a ti te puede venir bien coger ese barco. Conocer gente, hacer contactos, ¡ya sabes! Esa clase de cosas.
+But it might be good for you to take that boat. Meet people, make connections, you know! That kind of thing.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -3569,7 +3569,7 @@ Le daré esta cinta a \v[2] como regalo.
 Bueno, ven a verme cuando lo necesites.
 Bueno, ven a verme cuando lo necesites.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -3771,9 +3771,9 @@ Bien, tómate tu tiempo.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -3873,7 +3873,7 @@ Bien, tómate tu tiempo.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Quiero ir a <b>Pueblo Lavanda</b>, ¡pero no hay manera!
@@ -3881,7 +3881,7 @@ Quiero ir a <b>Pueblo Lavanda</b>, ¡pero no hay manera!
 Un Pokémon enorme se ha puesto a dormir a pierna suelta en mitad del camino.
 Un Pokémon enorme se ha puesto a dormir a pierna suelta en mitad del camino.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -3915,45 +3915,45 @@ Me siento junto a la orilla y pienso en todos los barcos que vienen y van, y en 
 ¡Meeeeeeeew!
 ¡Meeeeeeeew!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map070]
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Oye, pareces tener buen ojo para los negocios. ¡Te propongo uno!
-Oye, pareces tener buen ojo para los negocios. ¡Te propongo uno!
+Hey, you seem to have a good eye for business. Take a look at this!
 Te vendo un Magikarp fresco por 500 pokécuartos, ¡toda una ganga!
-Te vendo un Magikarp fresco por 500 pokécuartos, ¡toda una ganga!
+I'll sell you a fresh Magikarp for 500 PokéDollars, quite a bargain!
 ¡Has hecho una buena compra! ¡Que te aproveche!
-¡Has hecho una buena compra! ¡Que te aproveche!
+You've made a good purchase! Enjoy!
 No tienes dinero suficiente.
-No tienes dinero suficiente.
+You don't have enough money.
 ¿En serio? Pues tenías cara de saber de negocios...
-¿En serio? Pues tenías cara de saber de negocios...
+Oh really? Well, you looked like you knew business...
 ¡Has hecho una buena compra con ese Magikarp! ¡Que te aproveche!
-¡Has hecho una buena compra con ese Magikarp! ¡Que te aproveche!
+You made a good purchase with that Magikarp! Enjoy!
 Antes de meterse en el <b>Mt. Moon</b>, hay que descansar bien.
-Antes de meterse en el <b>Mt. Moon</b>, hay que descansar bien.
+Make sure you're well rested before entering <b>Mt. Moon</b>.
 No solo los Pokémon salvajes son duros, ¡también habrá otros Montañeros como yo que querrán retarte a un combate!
-No solo los Pokémon salvajes son duros, ¡también habrá otros Montañeros como yo que querrán retarte a un combate!
+Not only are the wild Pokémon tough, but there will also be other Mountaineers like me who will want to challenge you to a battle!
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
-¿Qué Pokémon debería recordar un movimiento?
+Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
-Vale, ¡vuelve cuando lo necesites!
+Okay, come back when you need to!
 Eso es un huevo, pedazo de inútil.
 Eso es un huevo, pedazo de inútil.
 \bNo way, I don't want to go near a Shadow Pokémon..
@@ -3971,15 +3971,15 @@ Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
 Sí
-Sí
+Yes
 No
 No
 Vale
 Vale
 Recordar movimiento
-Recordar movimiento
+Remember move
 Niveles de los líderes
-Niveles de los líderes
+Leader Levels
 Nada
 Nada
 #-------------------------------
@@ -4031,7 +4031,7 @@ The <b>Alpha Nest</b> is empty...
 ¡Nos hemos traído una guía de captura y todo! Saldremos de aquí con Pokémon nuevos y valiosos.
 ¡Nos hemos traído una guía de captura y todo! Saldremos de aquí con Pokémon nuevos y valiosos.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -4051,7 +4051,7 @@ Bien, tómate tu tiempo.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
 Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
 Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos quite la sed.
@@ -4069,7 +4069,7 @@ Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -4085,7 +4085,7 @@ Bien, tómate tu tiempo.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
 Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
 Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos quite la sed.
@@ -4103,7 +4103,7 @@ Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -4181,7 +4181,7 @@ Por ejemplo, el Casino lo financió él.
 ¿Qué pasa? ¿Es que no sabes que en esta ciudad mandamos nosotros? ¡No nos busques las cosquillas!
 ¿Qué pasa? ¿Es que no sabes que en esta ciudad mandamos nosotros? ¡No nos busques las cosquillas!
 Sí
-Sí
+Yes
 Emm...
 Emm...
 #-------------------------------
@@ -4211,17 +4211,17 @@ Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Puedo predecir lo que te aguarda el destino por solo 100 pokécuartos. ¿Qué me dices? ¿Aceptas?
 Puedo predecir lo que te aguarda el destino por solo 100 pokécuartos. ¿Qué me dices? ¿Aceptas?
 Humm... Ya veo, ya veo...
@@ -4267,7 +4267,7 @@ Niveles de los líderes
 Nada
 Nada
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -4357,7 +4357,7 @@ Nada
 P0
 P0
 Sí
-Sí
+Yes
 No
 No
 Acepto
@@ -4457,7 +4457,7 @@ La verdad es que ya me daba hasta lástima que nadie viniera a por él.
 Yo tengo que seguir estudiando. ¿Sabías que en este juego puedes encontrar más de 100 MTs?
 Yo tengo que seguir estudiando. ¿Sabías que en este juego puedes encontrar más de 100 MTs?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -4517,7 +4517,7 @@ Estar tan rodeada de preciosas flores le alivia a una el espíritu, pero tambié
 En nuestro gimnasio solo luchamos con Pokémon de tipo Planta. ¡Y también hacemos arreglos florales con ellos!
 En nuestro gimnasio solo luchamos con Pokémon de tipo Planta. ¡Y también hacemos arreglos florales con ellos!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -4675,7 +4675,7 @@ Buscaré una Piedra Agua por mí misma. Seguro que acabo pescando una.
 #-------------------------------
 [Map087]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 ¡Largo! Esto es el territorio de la <b>Banda de Motoristas de Kanto</b>.
 ¡Largo! Esto es el territorio de la <b>Banda de Motoristas de Kanto</b>.
 <b>Oeste:</b> Camino de Bicis\n<b>Este:</b> Ciudad Azulona
@@ -4765,7 +4765,7 @@ Cuerpo y mente en equilibrio, ¡nuestra sincronización en combate es perfecta!
 Cuando tienes un compañero de batalla con el que te compenetras, avanzas mucho más rápido que entrenando solo.
 Cuando tienes un compañero de batalla con el que te compenetras, avanzas mucho más rápido que entrenando solo.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -4777,7 +4777,7 @@ Bien, tómate tu tiempo.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Una banda de moteros ha invadido el <b>Camino de Bicis</b> que, como su nombre indica, es solo para bicis.
 Una banda de moteros ha invadido el <b>Camino de Bicis</b> que, como su nombre indica, es solo para bicis.
 ¿Es que nadie va a hacer nada al respecto?
@@ -4791,7 +4791,7 @@ El jefe de los motoristas ha abandonado el <b>Camino de Bicis</b>, además de pa
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -4949,7 +4949,7 @@ Es cierto eso que dicen de que el aire puro de campo te da una salud de hierro.
 ¡Tus Pokémon también merecen una salud de hierro!
 ¡Tus Pokémon también merecen una salud de hierro!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -4985,7 +4985,7 @@ The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
 The <b>Alpha Nest</b> is empty...
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5119,13 +5119,13 @@ Dicen que se ha avistado un Gyarados de color rojo en la región vecina.
 Estoy seguro de que los encargados de la <b>Zona Safari</b> intentarán comprarlo si resulta ser verdad.
 Estoy seguro de que los encargados de la <b>Zona Safari</b> intentarán comprarlo si resulta ser verdad.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map095]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 <b>PISTA DE ENTRENADOR:</b> Algunos Pokémon tienen formas regionales que les agregan tipos muy útiles. ¡No olvides visitar la <b>Tienda Exótica</b> de <b>Ciudad Fucsia</b> para comprobarlo!
 <b>PISTA DE ENTRENADOR:</b> Algunos Pokémon tienen formas regionales que les agregan tipos muy útiles. ¡No olvides visitar la <b>Tienda Exótica</b> de <b>Ciudad Fucsia</b> para comprobarlo!
 ¡Me gusta comprobar siempre la hierba alta de todas las rutas para ver si encuentro un Pokémon pájaro nuevo!
@@ -5141,7 +5141,7 @@ He ido al Camino de Bicis pero los Motoristas se han burlado de mis Pokémon bic
 No tengo nada que demostrar. Los Pokémon bicho son fuertes, nadie puede decirme lo contrario.
 No tengo nada que demostrar. Los Pokémon bicho son fuertes, nadie puede decirme lo contrario.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5155,7 +5155,7 @@ Bien, tómate tu tiempo.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Hace mucho que el <b>Camino de Bicis</b> fue invadido por una banda de motoristas. Alguien debería darles una lección.
@@ -5163,7 +5163,7 @@ Hace mucho que el <b>Camino de Bicis</b> fue invadido por una banda de motorista
 Vuelve a respirarse tranquilidad en el <b>Camino de Bicis</b>, ¡esperemos que dure!
 Vuelve a respirarse tranquilidad en el <b>Camino de Bicis</b>, ¡esperemos que dure!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5203,9 +5203,9 @@ Bien, tómate tu tiempo.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5467,7 +5467,7 @@ Se trata de un prototipo único en el mundo, ya que aún no la estamos comercial
 Algunos hemos podido refugiarnos en este piso, pero la mayoría de nuestros compañeros se han quedado abajo a merced del <b>Team Rocket</b>.
 Algunos hemos podido refugiarnos en este piso, pero la mayoría de nuestros compañeros se han quedado abajo a merced del <b>Team Rocket</b>.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5585,7 +5585,7 @@ Los proyectos científicos del Team Rocket son los más ambiciosos que he visto 
 Planta 1
 Planta 1
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5693,7 +5693,7 @@ Estoy seguro de que si me dieras el tiempo suficiente, conseguiría sacar los pu
 Continuaré con mi día con total normalidad, como si no hubiera pasado nada...
 Continuaré con mi día con total normalidad, como si no hubiera pasado nada...
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5707,7 +5707,7 @@ Selecciona el modo de dificultad.
 Elige la dificultad del Nuzlocke.
 Elige la dificultad del Nuzlocke.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5723,7 +5723,7 @@ Selecciona el modo de juego.
 ¿Quieres activar este modo aún así?
 ¿Quieres activar este modo aún así?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5765,7 +5765,7 @@ Si quieres llegar hasta <b>Isla Canela</b> tendrás que cruzarlas. Otra opción 
 Me gustaría ganar un triatlón alguna vez, por eso practico corriendo y nadando. Solo me faltaría atreverme a coger la bici...
 Me gustaría ganar un triatlón alguna vez, por eso practico corriendo y nadando. Solo me faltaría atreverme a coger la bici...
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5797,23 +5797,23 @@ Si tuviera una Supercaña, sería capaz de pescar al mismísimo Lugia de las pro
 A veces sueño con convertirme en sirena y ser la princesa del fondo del mar.
 A veces sueño con convertirme en sirena y ser la princesa del fondo del mar.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map107]
 He visto a unos maleantes vestidos de negro entrando en el <b>Mt. Moon</b>, ¿qué tramarán?
-He visto a unos maleantes vestidos de negro entrando en el <b>Mt. Moon</b>, ¿qué tramarán?
+I saw some thugs dressed in black entering <b>Mt. Moon</b>, what are they up to?
 <b>Norte:</b> Mt. Moon\n<b>Oeste:</b> Ciudad Plateada
-<b>Norte:</b> Mt. Moon\n<b>Oeste:</b> Ciudad Plateada
+<b>North:</b> Mt. Moon\n<b>West:</b> Pewter City
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 Mt. Moon
 Mt. Moon
 ¡Ten cuidado si vas al <b>Mt. Moon</b>! Incluso los entrenadores más veteranos tienen problemas al atravesarlo.
-¡Ten cuidado si vas al <b>Mt. Moon</b>! Incluso los entrenadores más veteranos tienen problemas al atravesarlo.
+Be careful if you go to <b>Mt. Moon</b>! Even veteran trainers have trouble getting through it.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5897,13 +5897,13 @@ Yo estaré en <b>Pueblo Paleta</b> para lo que necesitéis, ¿de acuerdo?
 ¡Ánimo con vuestra recta final hacia la <b>Liga Pokémon</b>!
 ¡Ánimo con vuestra recta final hacia la <b>Liga Pokémon</b>!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map110]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
 En concreto, sientes la presencia de un Pokémon Acero muy poderoso.
@@ -5941,7 +5941,7 @@ La semana que viene tenemos un torneo de carreras con la banda de motoristas de 
 Motores rugen al cielo. Gasolina, sangre y fuego.
 Motores rugen al cielo. Gasolina, sangre y fuego.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -5995,7 +5995,7 @@ Las rocas que lanzas a los Pokémon están homolagadas para no causar heridas.
 No tienen picos, ni textura rugosa, ni son demasiado densas...
 No tienen picos, ni textura rugosa, ni son demasiado densas...
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -6027,7 +6027,7 @@ The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
 The <b>Alpha Nest</b> is empty...
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -6049,7 +6049,7 @@ Si encuentras a nuestro Científico Solitario en el Safari, recibirás una recom
 Mansión Pokémon
 Mansión Pokémon
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
 En concreto, sientes la presencia de un Pokémon Fuego muy poderoso.
@@ -6217,7 +6217,7 @@ Si por lo que sea quieres entrar a fisgonear, tendrás que convencer al líder d
 ¿No? Vaya, se trata de una historia interesante.
 ¿No? Vaya, se trata de una historia interesante.
 Sí
-Sí
+Yes
 No
 No
 Acepto
@@ -6287,7 +6287,7 @@ La derrota nunca te quita dignidad si sabes afrontarla con buena actitud, ¡es u
 ¿Quieres quedarte con Hitmonchan?
 ¿Quieres quedarte con Hitmonchan?
 Sí
-Sí
+Yes
 No
 No
 Infórmame
@@ -6339,7 +6339,7 @@ Estoy buscando un Bellossom. ¿lo cambiarías por mi Chikorita?
 Si te haces con un Bellossom, ponlo en el primer lugar de tu equipo para que pueda verlo.
 Si te haces con un Bellossom, ponlo en el primer lugar de tu equipo para que pueda verlo.
 Bueno, otra vez será.
-Bueno, otra vez será.
+Okay, maybe next time.
 ¿No te parece increíble recibir un Pokémon de intercambio y que este te ame incondicionalmente sin tener que hacer nada?
 ¿No te parece increíble recibir un Pokémon de intercambio y que este te ame incondicionalmente sin tener que hacer nada?
 ¿Has conseguido megaevolucionar a tus Pokémon? Muy pocos son capaces de ello.
@@ -6407,7 +6407,7 @@ Va
 No
 No
 Sí
-Sí
+Yes
 #-------------------------------
 [Map119]
 ¡Aaahh! ¿Eres un fantasma de los que murieron en el incendio?
@@ -6419,7 +6419,7 @@ Parece un interruptor, ¿quieres pulsarlo?
 ¿Y quién no?
 ¿Y quién no?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -6443,7 +6443,7 @@ Sin embargo, hemos encontrado muestras de su ADN en unas tablas antiguas.
 Llevaremos este ADN al laboratorio de inmediato para hacer pruebas.
 Llevaremos este ADN al laboratorio de inmediato para hacer pruebas.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -6467,7 +6467,7 @@ Parece un interruptor, ¿quieres pulsarlo?
 Escapé de la justicia hace poco y creo que este es el sitio perfecto para que no me encuentren nunca.
 Escapé de la justicia hace poco y creo que este es el sitio perfecto para que no me encuentren nunca.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -6523,7 +6523,7 @@ Parece un interruptor, ¿quieres pulsarlo?
 ¿Y quién no?
 ¿Y quién no?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -6531,17 +6531,17 @@ No
 No sé qué le echan a esta taza que siempre me sabe muy empalagosa, como si estuviera llena de azúcar.
 No sé qué le echan a esta taza que siempre me sabe muy empalagosa, como si estuviera llena de azúcar.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -6569,7 +6569,7 @@ Come back if you need anything!
 Normalmente la gente que para en <b>Pueblo Marengo</b> es solo para hacer un alto en el camino.
 Normalmente la gente que para en <b>Pueblo Marengo</b> es solo para hacer un alto en el camino.
 Sí
-Sí
+Yes
 No
 No
 Recordar movimiento
@@ -6581,9 +6581,9 @@ Nada
 #-------------------------------
 [Map124]
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 ¿Has oído hablar de las 3 Aves Guardianas?
 ¿Has oído hablar de las 3 Aves Guardianas?
 Se cuenta que la región de <b>Kanto</b> fue fundada por 3 clanes: uno representaba el Valor, otro la Sabiduría y el tercero el Instinto.
@@ -6603,13 +6603,13 @@ Entonces los tres Clanes se disolvieron, y nunca se ha vuelto a ver un conflicto
 Ya veo, estás al día con los mitos y leyendas.
 Ya veo, estás al día con los mitos y leyendas.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -6639,7 +6639,7 @@ Tal vez si probara con un Pokémon de tipo Acero...
 No
 No
 Sí
-Sí
+Yes
 Recordar movimiento
 Recordar movimiento
 Niveles de los líderes
@@ -6775,7 +6775,7 @@ Koga desciende de una gran familia de ninjas. ¡Hablamos de siglos de tradición
 Puede que yo no descienda de un linaje importante como el Maestro Koga, ¡pero eso no significa que no pueda lograr grandes hazañas que sean recordadas!
 Puede que yo no descienda de un linaje importante como el Maestro Koga, ¡pero eso no significa que no pueda lograr grandes hazañas que sean recordadas!
 Sí
-Sí
+Yes
 No
 No
 Su elegancia
@@ -6799,9 +6799,9 @@ Su punto débil
 #-------------------------------
 [Map126]
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 El otro día estaba discutiendo con mi primo de <b>Johto</b>, ¿tú sabrías decirme cuál de estos 3 Pokémon no es nativo de esa región?
 El otro día estaba discutiendo con mi primo de <b>Johto</b>, ¿tú sabrías decirme cuál de estos 3 Pokémon no es nativo de esa región?
 ¿Lo crees de verdad? Él afirma haber visto a ese Pokémon por <b>Johto</b>...
@@ -6813,13 +6813,13 @@ Toma esto por las molestias.
 Aunque existan cientos o miles de Pokémon por todo el mundo, todos provendrán del mismo origen, ¿no?
 Aunque existan cientos o miles de Pokémon por todo el mundo, todos provendrán del mismo origen, ¿no?
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -6853,7 +6853,7 @@ Spoink
 Skarmory
 Skarmory
 Sí
-Sí
+Yes
 No
 No
 Recordar movimiento
@@ -6925,27 +6925,27 @@ Toma esto, lo necesitarás.
 Perfecto, ¡mucha suerte en el gimnasio!
 Perfecto, ¡mucha suerte en el gimnasio!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map129]
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 ¡Qué tragedia más grande, la de la <b>Mansión Pokémon</b>!
 ¡Qué tragedia más grande, la de la <b>Mansión Pokémon</b>!
 Aún recuerdo cuando de niña me acercaba para conocer Pokémon raros. Eran incluso más exóticos que los de la <b>Zona Safari</b>..
 Aún recuerdo cuando de niña me acercaba para conocer Pokémon raros. Eran incluso más exóticos que los de la <b>Zona Safari</b>..
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -6975,7 +6975,7 @@ Cuentan que su líder, <b>Giovanni</b>, fue derrotado por un misterioso vagabund
 Cuentan que su líder, <b>Giovanni</b>, fue derrotado por una misteriosa vagabunda harapienta que pasaba por ahí.
 Cuentan que su líder, <b>Giovanni</b>, fue derrotado por una misteriosa vagabunda harapienta que pasaba por ahí.
 Sí
-Sí
+Yes
 No
 No
 Recordar movimiento
@@ -7255,7 +7255,7 @@ Muk
 ¿Vaporeon?
 ¿Vaporeon?
 Sí
-Sí
+Yes
 No
 No
 Chimchar
@@ -7301,13 +7301,13 @@ A un Aspirante le entró un ataque de pánico hace un par de años.
 Tuve que usar a mi querido Abra para que pudiese viajar a casa y que sus padres le dieran ánimos.
 Tuve que usar a mi querido Abra para que pudiese viajar a casa y que sus padres le dieran ánimos.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 \rRandy: Hi, \PN!
@@ -7321,9 +7321,9 @@ No, Kato, there's only trash here.
 \rRandy: Oh, okay then.
 \rRandy: Oh, okay then.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Si yo, que no voy a combatir, estoy nervioso, ¿cómo deben de sentirse los Aspirantes?
 Si yo, que no voy a combatir, estoy nervioso, ¿cómo deben de sentirse los Aspirantes?
 Los 4 <b>Altos Mandos</b> te pondrán a prueba, uno por uno.
@@ -7331,7 +7331,7 @@ Los 4 <b>Altos Mandos</b> te pondrán a prueba, uno por uno.
 Te curarán entre combate y combate, eso sí. Tiene que ser justo para el Aspirante.
 Te curarán entre combate y combate, eso sí. Tiene que ser justo para el Aspirante.
 Sí
-Sí
+Yes
 No
 No
 Toggle Randomizer
@@ -7349,7 +7349,7 @@ Dicen que en lo más profundo de esta cueva habita un Pokémon muy raro. Tan rar
 #-------------------------------
 [Map134]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 ¡Has obtenido una <b>Mejora del Pokévial</b>!
 ¡Has obtenido una <b>Mejora del Pokévial</b>!
 ¡Los usos del <b>Pokévial</b> han aumentado en 1!
@@ -7363,7 +7363,7 @@ He bajado para ver si me encontraba con el Pokémon legendario, ¡pero hace much
 El legendario Articuno es realmente precioso, ¡lo vi en un libro! No descansaré hasta haberlo visto con mis propios ojos.
 El legendario Articuno es realmente precioso, ¡lo vi en un libro! No descansaré hasta haberlo visto con mis propios ojos.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -7375,7 +7375,7 @@ Bien, tómate tu tiempo.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 \c[3]<b>Hoja:</b>\c[0] Uf, puf... menuda rutita más larga, ¿no, \PN? Casi me pierdo por el camino.
 \c[3]<b>Hoja:</b>\c[0] Uf, puf... menuda rutita más larga, ¿no, \PN? Casi me pierdo por el camino.
 ¿Sabes? Las estadísticas dicen que es en este punto donde los Aspirantes empiezan a rendirse porque los líderes de gimnasio se vuelven mucho más complicados.
@@ -7413,7 +7413,7 @@ Es una ciudad con muchas cosas por visitar, así que voy a tomarme un descanso p
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -7489,7 +7489,7 @@ El líder de gimnasio utiliza el envenenamiento como estrategia, pero...
 ¿Sabías que los Pokémon de tipo Veneno no pueden ser envenenados? Parece algo obvio, pero a menudo las cosas obvias se nos escapan.
 ¿Sabías que los Pokémon de tipo Veneno no pueden ser envenenados? Parece algo obvio, pero a menudo las cosas obvias se nos escapan.
 Sí
-Sí
+Yes
 No
 No
 Baya Meloc
@@ -7727,7 +7727,7 @@ No, Kato, there's only trash here.
 ¡Guau! Nunca pensé que mi Marowak podría ser aún más alucinante. ¡Ahora tiene el tipo Fuego!
 ¡Guau! Nunca pensé que mi Marowak podría ser aún más alucinante. ¡Ahora tiene el tipo Fuego!
 Sí
-Sí
+Yes
 No
 No
 ¿Qué Pokémon transformas?
@@ -7829,7 +7829,7 @@ No tengo más Pokémon que ofrecerte por ahora.
 Búscame en otros lugares del mundo para seguir haciendo intercambios.
 Búscame en otros lugares del mundo para seguir haciendo intercambios.
 Sí
-Sí
+Yes
 No
 No
 Acepto
@@ -7885,7 +7885,7 @@ Vale, ¡pásate cuando quieras!
 Bien, ¡espero que hayas tenido unas buenas capturas!
 Bien, ¡espero que hayas tenido unas buenas capturas!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -7929,7 +7929,7 @@ Estoy buscando un Pinsir, ¿lo cambiarías por mi Scyther?
 Si te haces con un Pinsir, ponlo en el primer lugar de tu equipo para que pueda verlo.
 Si te haces con un Pinsir, ponlo en el primer lugar de tu equipo para que pueda verlo.
 Bueno, otra vez será.
-Bueno, otra vez será.
+Okay, maybe next time.
 ¿Lo sabías? Si tu Scyther sube de nivel con el movimiento Golpe Roca aprendido, evolucionará a una forma totalmente distinta de Scizor.
 ¿Lo sabías? Si tu Scyther sube de nivel con el movimiento Golpe Roca aprendido, evolucionará a una forma totalmente distinta de Scizor.
 Estoy buscando un Persian, ¿lo cambiarías por mi Stantler?
@@ -7979,7 +7979,7 @@ Kleavor surgió como una adaptación de Scyther para ayudar a los leñadores de 
 ¿No es impresionante? Los Pokémon son capaces de cambiar completamente solo para apoyarnos.
 ¿No es impresionante? Los Pokémon son capaces de cambiar completamente solo para apoyarnos.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -8011,15 +8011,15 @@ No me interesa
 #-------------------------------
 [Map152]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map154]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 ¡Alto! ¡Tu ascenso por la Calle Victoria terminará antes de que tan siquiera empiece!
 ¡Alto! ¡Tu ascenso por la Calle Victoria terminará antes de que tan siquiera empiece!
 ¡Suerte en el Monte Plateado! Me temo que la vas a necesitar...
@@ -8039,7 +8039,7 @@ Estoy haciendo los últimos preparativos para la Liga Pokémon, ¿me ayudas?
 ¿Qué debería hacer? ¿Continúo el ascenso hacia la Liga Pokémon? ¿O doy media vuelta?
 ¿Qué debería hacer? ¿Continúo el ascenso hacia la Liga Pokémon? ¿O doy media vuelta?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -8079,7 +8079,7 @@ The <b>Alpha Nest</b> is empty...
 ¡Los usos del <b>Pokévial</b> han aumentado en 1!
 ¡Los usos del <b>Pokévial</b> han aumentado en 1!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -8097,9 +8097,9 @@ Si quieres llegar hasta la Liga Pokémon, tendrás que atravesar el Monte Platea
 #-------------------------------
 [Map157]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -8139,7 +8139,7 @@ Monte Plateado
 <b>Oeste:</b> Monte Plateado\n<b>Este:</b> Ruta 21
 <b>Oeste:</b> Monte Plateado\n<b>Este:</b> Ruta 21
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -8171,19 +8171,19 @@ Come back if you need anything!
 Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
 Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Parece mentira que hayan construido un Centro Pokémon en un lugar tan remoto como este. Así da gusto disfrutar de la sanidad pública.
 Parece mentira que hayan construido un Centro Pokémon en un lugar tan remoto como este. Así da gusto disfrutar de la sanidad pública.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Recordar movimiento
 Recordar movimiento
 Niveles de los líderes
@@ -8191,13 +8191,13 @@ Niveles de los líderes
 Nada
 Nada
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map160]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 El Monte Plateado... el lugar más inhóspito de Kanto. ¿Podré completar su ascenso?
 El Monte Plateado... el lugar más inhóspito de Kanto. ¿Podré completar su ascenso?
 No importa si pierdo. Siempre puedo volver a intentarlo desde este mismo punto. Nunca es tarde para volver a intentarlo.
@@ -8207,13 +8207,13 @@ No importa si pierdo. Siempre puedo volver a intentarlo desde este mismo punto. 
 Pasó por aquí una persona con la misma determinación que tú, pero no pude preguntarle el nombre.
 Pasó por aquí una persona con la misma determinación que tú, pero no pude preguntarle el nombre.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map162]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 El tramo se complica a partir de aquí, ¡pero no tengo ninguna lección que darle a alguien que ha llegado tan lejos!
 El tramo se complica a partir de aquí, ¡pero no tengo ninguna lección que darle a alguien que ha llegado tan lejos!
 Mira todas esas medallas que llevas encima, ¡cada una cuenta una historia increíble! ¿Recuerdas todos tus combates contra los líderes?
@@ -8223,21 +8223,21 @@ Mira todas esas medallas que llevas encima, ¡cada una cuenta una historia incre
 Logré superar a todos los líderes. Nunca había perdido... vaya palo. Me voy a casa a entrenar más.
 Logré superar a todos los líderes. Nunca había perdido... vaya palo. Me voy a casa a entrenar más.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map163]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map164]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 He luchado tanto como he podido, pero el frío y el cansancio empiezan a hacer mella. Aún así, haré un último esfuerzo.
 He luchado tanto como he podido, pero el frío y el cansancio empiezan a hacer mella. Aún así, haré un último esfuerzo.
 Creo que la cima del Monte Plateado no anda muy lejos de aquí, pero cualquiera sube más arriba con lo bien que se está aquí...
@@ -8251,7 +8251,7 @@ Hay personas que no sienten amor por los Pokémon aunque sean fuertes. Y persona
 Busca otro camino para avanzar.
 Busca otro camino para avanzar.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -8277,7 +8277,7 @@ Pero esto no es un adiós para siempre, ¿eh? ¡Estoy seguro de que nos volverem
 ¿No? ¡Avísame si cambias de idea! Tengo muchas ganas de conocer a rivales fuertes.
 ¿No? ¡Avísame si cambias de idea! Tengo muchas ganas de conocer a rivales fuertes.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -8367,7 +8367,7 @@ Liga Pokémon
 Aún no se sabe quién será su sucesora, pero se está hablando mucho de una fuerte entrenadora de <b>Johto</b> especialista en el tipo Siniestro.
 Aún no se sabe quién será su sucesora, pero se está hablando mucho de una fuerte entrenadora de <b>Johto</b> especialista en el tipo Siniestro.
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 Yo era un Aspirante, como tú, pero perdí contra la líder de gimnasio <b>Sabrina</b>.
 Yo era un Aspirante, como tú, pero perdí contra la líder de gimnasio <b>Sabrina</b>.
 Aún así, he venido para ver los combates de la <b>Liga Pokémon</b>. ¡Tal vez saque motivación para volver a intentarlo el año que viene!
@@ -8403,7 +8403,7 @@ Por supuesto, no tiene nada que ver con que haya apostado por tu victoria, ¿eh?
 Mi ayuda no tiene nada que ver con que haya apostado por tu victoria, ¿eh? Es simplemente que tengo un corazón generoso.
 Mi ayuda no tiene nada que ver con que haya apostado por tu victoria, ¿eh? Es simplemente que tengo un corazón generoso.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -8481,7 +8481,7 @@ Podríamos combatir juntos, <b>Rojo</b>.
 \c[2]<b>Rojo:</b>\c[0] No, ahora es cuando empieza. ¡Os vamos a dar hasta en vuestro carnet de identidad del <b>Team Rocket</b>!
 \c[2]<b>Rojo:</b>\c[0] No, ahora es cuando empieza. ¡Os vamos a dar hasta en vuestro carnet de identidad del <b>Team Rocket</b>!
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 <b>Atlas:</b> ¡Nadie puede contra el <b>Team Rocket</b>! ¡Absolutamente nadie!
 <b>Atlas:</b> ¡Nadie puede contra el <b>Team Rocket</b>! ¡Absolutamente nadie!
 <b>Atenea:</b> ¡Estos niñatos se creen muy listos si piensan que pueden derrotarnos aunque luchen juntos!
@@ -8501,7 +8501,7 @@ Se supone que hemos venido los mejores reclutas del Team Rocket, ¿quién eres t
 Aunque yo no pueda vencerte, al menos te he cansado un poco. ¡Algún compañero te rematará!
 Aunque yo no pueda vencerte, al menos te he cansado un poco. ¡Algún compañero te rematará!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -8535,7 +8535,7 @@ Los ideales más verdaderos son los que acaban triunfando, ¡por eso creo ciegam
 Pues se ha quedado una buena tarde...
 Pues se ha quedado una buena tarde...
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 \c[5]<b>Surya:</b>\c[0] ¿No te parece que esta cueva es supermegachachipiruli? ¡Mira todos esos cristalitos que brillan!
 \c[5]<b>Surya:</b>\c[0] ¿No te parece que esta cueva es supermegachachipiruli? ¡Mira todos esos cristalitos que brillan!
 Pero no es momento para eso, ¡jijiji! ¡No puedo dejarte pasar!
@@ -8575,7 +8575,7 @@ No dejes que nadie te diga nunca lo que no puedes hacer. Ni siquiera el Team Roc
 ¿Quieres curar a tus Pokémon?
 ¿Quieres curar a tus Pokémon?
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -8595,7 +8595,7 @@ Ahora tenéis mejor cara, ¡a por todas!
 ¿Te llama la atención el estilo de nuestra casa? Es porque nosotras venimos del <b>Archi Prisma</b>, donde aún se vive de esta manera.
 ¿Te llama la atención el estilo de nuestra casa? Es porque nosotras venimos del <b>Archi Prisma</b>, donde aún se vive de esta manera.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9013,15 +9013,15 @@ Pero eso es historia para otro momento. Lo importante es que el <b>Mundo Pokémo
 Además, la <b>Liga Pokémon</b> no tardaría en celebrarse.
 Además, la <b>Liga Pokémon</b> no tardaría en celebrarse.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 ¡Ríndete ahora! ¡Prepárate para luchar! ¡O ambas!
 ¡Ríndete ahora! ¡Prepárate para luchar! ¡O ambas!
 ¡Ríndete o acabarás condenando al mundo entero! ¡Por favor!
 ¡Ríndete o acabarás condenando al mundo entero! ¡Por favor!
 Sí
-Sí
+Yes
 Eehh...
 Eehh...
 Wonderful!
@@ -9063,7 +9063,7 @@ Completar la Pokédex por uno mismo es demasiado complicado. A veces no queda m�
 Aunque, por otra parte, eso incentiva una sensación de compañerismo entre todos nosotros. Una cooperación necesaria.
 Aunque, por otra parte, eso incentiva una sensación de compañerismo entre todos nosotros. Una cooperación necesaria.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9117,7 +9117,7 @@ Será mejor ignorarlo por ahora.
 Los 3 Pokémon han salido corriendo.
 Los 3 Pokémon han salido corriendo.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9135,7 +9135,7 @@ Estoy buscando un Lanturn, ¿lo cambiarías por mi Piplup?
 Si te haces con un Lanturn, ponlo en el primer lugar de tu equipo para que pueda verlo.
 Si te haces con un Lanturn, ponlo en el primer lugar de tu equipo para que pueda verlo.
 Bueno, otra vez será.
-Bueno, otra vez será.
+Okay, maybe next time.
 El <b>Monte Plateado</b> alcanza una altura considerable, pero diría que el <b>Monte Corona</b> de mi región le gana por un poco.
 El <b>Monte Plateado</b> alcanza una altura considerable, pero diría que el <b>Monte Corona</b> de mi región le gana por un poco.
 Aquí solo hay basura.
@@ -9193,13 +9193,13 @@ Si te haces con un Magmortar, ponlo en el primer lugar de tu equipo para que pue
 ¿Sabías que <b>Lance</b> también proviene de ahí? Es miembro del Clan Dragón de <b>Ciudad Endrino</b>.
 ¿Sabías que <b>Lance</b> también proviene de ahí? Es miembro del Clan Dragón de <b>Ciudad Endrino</b>.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map181]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 ¿Quieres hacer repicar la campana?
 ¿Quieres hacer repicar la campana?
 ¡La <b>Campana Dorada</b> ha empezado a repicar sola!
@@ -9209,7 +9209,7 @@ No
 ¡La <b>Campana Plateada</b> ha empezado a repicar sola!
 ¡La <b>Campana Plateada</b> ha empezado a repicar sola!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9291,7 +9291,7 @@ Perfecto, ¡mucha suerte en el gimnasio!
 ¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
 ¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9393,13 +9393,13 @@ Si encuentras una <b>Ofrenda Prismática</b> por ahí, deberías entregarla a un
 Sus ubicaciones están un poco escondidas, pero llegar hasta ellas es parte del proceso.
 Sus ubicaciones están un poco escondidas, pero llegar hasta ellas es parte del proceso.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map186]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 Si sigues subiendo, llegarás al altar de Zapdos, ¿vienes a traerle alguna ofrenda?
 Si sigues subiendo, llegarás al altar de Zapdos, ¿vienes a traerle alguna ofrenda?
 Zapdos es capaz de traer vientos de lluvia con sus carreras, es un Pokémon que juega un papel fundamental en el ciclo de las cosechas.
@@ -9429,7 +9429,7 @@ Esta primavera tiene un verde distinto de lo habitual, ¿no estás de acuerdo?
 Llegará el día en el que el mundo vea una primavera que yo jamás conoceré.
 Llegará el día en el que el mundo vea una primavera que yo jamás conoceré.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9467,21 +9467,21 @@ Es también la zona más protegida de las islas.
 No era consciente de la variedad de Pokémon de nuestra región hasta que he visitado las islas, ¡tenemos que preservar este tesoro que tenemos!
 No era consciente de la variedad de Pokémon de nuestra región hasta que he visitado las islas, ¡tenemos que preservar este tesoro que tenemos!
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 Los lugareños han tenido que aceptar la construcción de un Centro Pokémon a regañadientes.
 Los lugareños han tenido que aceptar la construcción de un Centro Pokémon a regañadientes.
 Ellos usaban medicina tradicional, pero la tasa de mortalidad Pokémon empezaba a ser alarmantemente alta...
 Ellos usaban medicina tradicional, pero la tasa de mortalidad Pokémon empezaba a ser alarmantemente alta...
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Recordar movimiento
 Recordar movimiento
 Niveles de los líderes
@@ -9489,7 +9489,7 @@ Niveles de los líderes
 Nada
 Nada
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9525,21 +9525,21 @@ Ahora que están abriendo <b>Centros Pokémon</b> por toda la isla, tal vez el s
 Me encantaría ser la primera líder de gimnasio de tipo Lucha.
 Me encantaría ser la primera líder de gimnasio de tipo Lucha.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 ¡<i>Oh my God</i>! Las personas y las costumbres de este <i>place</i> son sin duda <i>very captivating</i>.
 ¡<i>Oh my God</i>! Las personas y las costumbres de este <i>place</i> son sin duda <i>very captivating</i>. 
 Yo provengo de una región llamada <b>Céfira</b>. Si algún día la visitas, estaremos <i>very pleased</i> de acogerte.
 Yo provengo de una región llamada <b>Céfira</b>. Si algún día la visitas, estaremos <i>very pleased</i> de acogerte.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Recordar movimiento
 Recordar movimiento
 Niveles de los líderes
@@ -9547,7 +9547,7 @@ Niveles de los líderes
 Nada
 Nada
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9593,13 +9593,13 @@ Tengo las piernas fuertes como un roble de tanto subir y bajar montañas. ¡No v
 Prueba a caminar, pero en serio, por estos senderos de montaña con un buen fardo de leña. ¡Por fuerza te pones en forma!
 Prueba a caminar, pero en serio, por estos senderos de montaña con un buen fardo de leña. ¡Por fuerza te pones en forma!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map190]
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 Es un <b>Altar de Ave Guardiana</b>.
 Es un <b>Altar de Ave Guardiana</b>.
 ¿Quieres usar una <b>Ofrenda Prismática</b> para convocar al Pájaro Legendario?
@@ -9633,7 +9633,7 @@ Ese ha sido un gesto muy bonito por tu parte. A mi Tectónix le encantaba la Lim
 Por favor, quédate con esto como agradecimiento.
 Por favor, quédate con esto como agradecimiento.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9757,21 +9757,21 @@ Hay una cueva fría como el hielo no muy lejos de esta villa.
 Dicen que <b>Lorelei</b>, la <b>Alto Mando</b>, ha ido ahí a entrenar.
 Dicen que <b>Lorelei</b>, la <b>Alto Mando</b>, ha ido ahí a entrenar.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
-Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
 Misión cumplida, ¡vuelve cuando lo necesites!
-Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health. 
 Estamos a tu servicio.
-Estamos a tu servicio.
+We hope to see you again!
 En el <b>Cabo Magenta</b> se puede pescar al raro Lapras.
 En el <b>Cabo Magenta</b> se puede pescar al raro Lapras.
 Los pocos Lapras que tenemos en <b>Kanto</b> son los que se extravían desde estas costas.
 Los pocos Lapras que tenemos en <b>Kanto</b> son los que se extravían desde estas costas.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Recordar movimiento
 Recordar movimiento
 Niveles de los líderes
@@ -9779,7 +9779,7 @@ Niveles de los líderes
 Nada
 Nada
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9789,7 +9789,7 @@ No
 Perdona, a veces puedo ser muy apasionada. ¿Pero qué son los combates Pokémon sin una pizca de pasión desenfrenada?
 Perdona, a veces puedo ser muy apasionada. ¿Pero qué son los combates Pokémon sin una pizca de pasión desenfrenada?
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 Vale... si adivino lo que vas a hacer, ¡me dejas ganar!
 Vale... si adivino lo que vas a hacer, ¡me dejas ganar!
 La verdad es que no sé predecir ni lo que cenaré esta noche, pero me estoy esforzando para despertar mis poderes psíquicos. Cualquiera puede lograrlo con empeño.
@@ -9817,7 +9817,7 @@ The <b>Alpha Nest</b> is empty...
 Tengo mis fallos como persona, ¿y qué? ¿Acaso tú no los tienes? ¡Hasta los Pokémon tienen fallos!
 Tengo mis fallos como persona, ¿y qué? ¿Acaso tú no los tienes? ¡Hasta los Pokémon tienen fallos!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9905,7 +9905,7 @@ Entonces, ¿quieres atrapar a todos los Pokémon? ¿A todos, toditos?
 ¡Pero si son más de mil!
 ¡Pero si son más de mil!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -9937,7 +9937,7 @@ Pero nada ocurre.
 Ya has convocado a Articuno.
 Ya has convocado a Articuno.
 ¿Quieres usar el Equipo de Escalada?
-¿Quieres usar el Equipo de Escalada?
+Do you want to use Climbing Equipment?
 <b>Lorelei:</b> ¡Oooh! ¡Qué sorpresa encontrarme contigo, \PN!
 <b>Lorelei:</b> ¡Oooh! ¡Qué sorpresa encontrarme contigo, \PN!
 Dime, ¿también estás buscando el Altar de Articuno? Pues tengo una noticia buena y otra mala.
@@ -9955,15 +9955,15 @@ Ah, que ya no hay muro.
 Perdona, es que el frío me ha nublado las gafas.
 Perdona, es que el frío me ha nublado las gafas.
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
 [Map199]
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
-Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
-Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+You can continue playing as normal, but remember that you have failed.
 Nuestra señora nos pidió que mermáramos tus fuerzas y eso haremos, ¿notas ya el cansancio en tus músculos?
 Nuestra señora nos pidió que mermáramos tus fuerzas y eso haremos, ¿notas ya el cansancio en tus músculos?
 Hemos hecho nuestra pequeña contribución para mermarte las fuerzas, ¡el resto es cosa de la emperatriz!
@@ -10003,7 +10003,7 @@ El Bosque Arcoiris no es un simple bosque, ¡es un lugar sagrado! ¡Procura no m
 Tu maestría no tiene parangón y algún día podrías aceptar discípulos, ¿lo has pensado alguna vez?
 Tu maestría no tiene parangón y algún día podrías aceptar discípulos, ¿lo has pensado alguna vez? 
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -10039,7 +10039,7 @@ Aún así, creo que tus esfuerzos merecen ser recompensados. Quédate con esto, 
 Será mejor que me ponga en camino. No te he preguntado tu nombre... bueno, ¡ya me lo dirás en otra ocasión!
 Será mejor que me ponga en camino. No te he preguntado tu nombre... bueno, ¡ya me lo dirás en otra ocasión!
 Sí
-Sí
+Yes
 No
 No
 #-------------------------------
@@ -10445,7 +10445,7 @@ Tras darle una buena tunda, pronunció unas extrañas palabras.
 ¡El <b>Alto Mando Bruno</b> tiene su renombre bien merecido! Nunca había visto a alguien partir rocas con sus manos desnudas con tanta facilidad.
 ¡El <b>Alto Mando Bruno</b> tiene su renombre bien merecido! Nunca había visto a alguien partir rocas con sus manos desnudas con tanta facilidad.
 Sí
-Sí
+Yes
 No
 No
 Infórmame
