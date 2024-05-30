@@ -1129,69 +1129,69 @@ No
 #-------------------------------
 [Map019]
 Paseo Marítimo de Ciudad Carmín
-Paseo Marítimo de Ciudad Carmín
+Maritime Promenade of Vermilion City
 En <b>Ciudad Carmín</b> los barcos vienen y van. Todos los días ves caras nuevas y exóticas de otras partes del mundo.
-En <b>Ciudad Carmín</b> los barcos vienen y van. Todos los días ves caras nuevas y exóticas de otras partes del mundo.
+In <b>Vermilion City</b> the ships come and go. Every day you see new and exotic faces from other parts of the world.
 El líder <b>Surge</b> ha embarcado en el crucero <b>S.S. Anne</b>. Quería tomarse unas merecidas vacaciones.
-El líder <b>Surge</b> ha embarcado en el crucero <b>S.S. Anne</b>. Quería tomarse unas merecidas vacaciones.
+Leader <b>Surge</b> has boarded the <b>S.S. Anne</b>. He wanted to take a well-deserved vacation.
 <b>Ciudad Carmín</b>, sus tonos rojizos evocan la puesta de sol.
-<b>Ciudad Carmín</b>, sus tonos rojizos evocan la puesta de sol.
+<b>Vermilion City</b>, its reddish tones evoke the sunset.
 ¿Vas a luchar contra <b>Surge</b>? Te aconsejo que intentes conseguir un buen Pokémon de tipo Tierra para maximizar tus posibilidades.
-¿Vas a luchar contra <b>Surge</b>? Te aconsejo que intentes conseguir un buen Pokémon de tipo Tierra para maximizar tus posibilidades.
+Are you going to fight <b>Surge</b>? You should try to get a good Ground-type Pokémon to maximize your chances.
 El líder <b>Surge</b> luchó en la guerra con una región lejana del otro lado del mar.
-El líder <b>Surge</b> luchó en la guerra con una región lejana del otro lado del mar.
+Leader <b>Surge</b> fought a war with a distant region across the sea.
 Siempre dice que los jóvenes deberíamos apreciar más estos tiempos de paz.
-Siempre dice que los jóvenes deberíamos apreciar más estos tiempos de paz.
+He always says that young people should appreciate these times of peace more.
 Club de Fans Pokémon
-Club de Fans Pokémon
+Pokémon Fan Club
 El <b>S.S. Anne</b> es un crucero que llega a <b>Ciudad Carmín</b> una vez al año, ¡y justo es hoy!
-El <b>S.S. Anne</b> es un crucero que llega a <b>Ciudad Carmín</b> una vez al año, ¡y justo es hoy!
+The <b>S.S. Anne</b> is a cruise ship that arrives in <b>Vermilion City</b> once a year, and that day is today!
 El <b>S.S. Anne</b> es un barco de alta categoría, una de las mejores obras de ingeniería naval que he presenciado.
-El <b>S.S. Anne</b> es un barco de alta categoría, una de las mejores obras de ingeniería naval que he presenciado.
+The <b>S.S. Anne</b> is a high-class ship, one of the finest pieces of naval engineering I've ever seen.
 ¿Has estado en el <b>Túnel Diglett</b>? Atraviesa decenas de kilómetros bajo el suelo.
-¿Has estado en el <b>Túnel Diglett</b>? Atraviesa decenas de kilómetros bajo el suelo.
+Have you been to the Diglett Tunnel? It traverses tens of kilometers underground.
 Por lo visto, los Diglett tienen galerías como esas por todo el mundo.
-Por lo visto, los Diglett tienen galerías como esas por todo el mundo.
+Apparently the Digletts have passages like that all over the world.
 Este es el muelle reservado para el <b>S.S. Anne</b>, el crucero más lujoso y exclusivo del mundo.
-Este es el muelle reservado para el <b>S.S. Anne</b>, el crucero más lujoso y exclusivo del mundo.
+This is the dock reserved for the <b>S.S. Anne</b>, the most luxurious and exclusive cruise ship in the world.
 No puedo dejarte pasar si no tienes un <b>Ticket Barco</b>.
-No puedo dejarte pasar si no tienes un <b>Ticket Barco</b>.
+I can't let you pass if you don't have a <b>Boat Ticket</b>.
 Veo que tienes un <b>Ticket Barco</b>. ¡Adelante, pasa!
-Veo que tienes un <b>Ticket Barco</b>. ¡Adelante, pasa!
+I see you have a <b>Boat Ticket</b>. Come in!
 El <b>S.S. Anne</b> te espera.
-El <b>S.S. Anne</b> te espera.
+The <b>S.S. Anne</b> awaits you.
 El <b>S.S. Anne</b> es el crucero más lujoso y exclusivo del mundo, ¡no hay otro igual!
-El <b>S.S. Anne</b> es el crucero más lujoso y exclusivo del mundo, ¡no hay otro igual!
+The <b>S.S. Anne</b> is the most luxurious and exclusive cruise ship in the world, it's one of a kind!
 El mar... ¿qué secretos por descubrir guardará todavía este vasto lienzo azul?
-El mar... ¿qué secretos por descubrir guardará todavía este vasto lienzo azul?
+The sea... what undiscovered secrets does this vast blue canvas still hold?
 Los reportes de delitos del <b>Team Rocket</b> se han disparado. Robos, extorsiones, vandalismo...
-Los reportes de delitos del <b>Team Rocket</b> se han disparado. Robos, extorsiones, vandalismo...
+Reports of <b>Team Rocket</b> crimes have skyrocketed. Robbery, extortion, vandalism...
 Sospecho que están maquinando un plan carastrófico y que buscan recursos para llevarlo a cabo.
-Sospecho que están maquinando un plan carastrófico y que buscan recursos para llevarlo a cabo.
+I suspect that they are plotting something expensive and that they need the resources to carry it out.
 ¿Tú eres más de Growlithe, el Pokémon perrito, o de Meowth, el Pokémon gatito?
-¿Tú eres más de Growlithe, el Pokémon perrito, o de Meowth, el Pokémon gatito?
+Are you more into Growlithe, the dog Pokémon, or Meowth, the cat Pokémon?
 Bueno, ¿para qué elegir si puedes tener los dos? Son Pokémon bastante comunes.
-Bueno, ¿para qué elegir si puedes tener los dos? Son Pokémon bastante comunes.
+Well, why choose when you can have both? They're quite common Pokémon.
 He comprado este terreno para iniciar mi gran proyecto urbanístico, el cual será el primer <b>Frente Batalla</b> de <b>Kanto</b>.
-He comprado este terreno para iniciar mi gran proyecto urbanístico, el cual será el primer <b>Frente Batalla</b> de <b>Kanto</b>.
+I've bought this land to start my great urban project, which will be the first <b>Battle Frontier</b> in <b>Kanto</b>.
 Si vuelves en algún momento indeterminado del futuro y cumples con una serie de condiciones aleatorias impredecibles, a lo mejor te lo encuentras construido.
-Si vuelves en algún momento indeterminado del futuro y cumples con una serie de condiciones aleatorias impredecibles, a lo mejor te lo encuentras construido.
+If you come back at some undetermined point in the future and meet a series of random, unpredictable conditions, you might find it built.
 En esta playa puedes encontrar una buena variedad de Pokémon de tipo Agua.
-En esta playa puedes encontrar una buena variedad de Pokémon de tipo Agua.
+You can find a good variety of Water-type Pokémon on this beach.
 Es la diferencia con otras playas más desoladas como la de <b>Ciudad Fucsia</b>, en la que solo encuentras Tentacool.
-Es la diferencia con otras playas más desoladas como la de <b>Ciudad Fucsia</b>, en la que solo encuentras Tentacool.
+It's different from other more desolate beaches like in <b>Fuchsia City</b>, where you only find Tentacool.
 Cuando termino de hacer deporte estoy tan pegajosa que parezco un Grimer.
-Cuando termino de hacer deporte estoy tan pegajosa que parezco un Grimer.
+When I finish exercising I'm so sweaty that I look like a Grimer.
 Por cierto, ¿sabías que los Grimer se originan a partir del lodo depositado en el fondo del mar?
-Por cierto, ¿sabías que los Grimer se originan a partir del lodo depositado en el fondo del mar?
+By the way, did you know that Grimer originate from mud deposited at the bottom of the sea?
 ¡Vaya! He pescado un objeto interesante, ¿lo quieres?
-¡Vaya! He pescado un objeto interesante, ¿lo quieres?
+Oh! I caught an interesting object, do you want it?
 Parece algún tipo de recuerdo, ¿a quién pertenecería?
-Parece algún tipo de recuerdo, ¿a quién pertenecería?
+It seems like some kind of souvenir, who would it belong to?
 Tal vez algún día pesque un billete de lotería premiado.
-Tal vez algún día pesque un billete de lotería premiado.
+Maybe one day I'll catch a winning lottery ticket.
 Aunque ahora mismo estoy más cerca de pescar un resfriado. ¡Achís!
-Aunque ahora mismo estoy más cerca de pescar un resfriado. ¡Achís!
+Although right now I'm closer to catching a cold. Achoo!
 #-------------------------------
 [Map020]
 He entrenado a mis Pokémon con esmero. Deberían de estar listos para el combate, espero.
@@ -2571,29 +2571,29 @@ No matter what happens, never be separated from your Pokémon.
 #-------------------------------
 [Map046]
 Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
-Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
+The Guards at the entrance to <b>Saffron City</b> have gone on strike. We will not move until our working conditions improve!
 Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos quite la sed.
-Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos quite la sed.
+And our main demand is very clear: we want a good snack that quenches our thirst.
 ...
 ...
 ¡Uy! ¿Esa es la infusión de la líder <b>Sachiko</b>? ¡Por favor, dame un trago!
-¡Uy! ¿Esa es la infusión de la líder <b>Sachiko</b>? ¡Por favor, dame un trago!
+Oh! Is that Leader <b>Sachiko</b>'s tea? Please give me a drink!
 Glu, glu, glu...
-Glu, glu, glu...
+Glug, glug, glug...
 ¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones!
-¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones! 
+Aaaah! My throat feels much clearer and my spirits are through the roof. Leader <b>Sachiko</b> prepares the best tea!
 Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
-Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
+We'll clear your way to <b>Saffron City</b>, of course!
 ¿Quieres ir a <b>Ciudad Azafrán</b>? Yo lo dejaría para cuando tengas por lo menos 5 medallas, ya que su líder de gimnasio es de las más fuertes de la región.
-¿Quieres ir a <b>Ciudad Azafrán</b>? Yo lo dejaría para cuando tengas por lo menos 5 medallas, ya que su líder de gimnasio es de las más fuertes de la región.
+Do you want to go to <b>Saffron City</b>? I'd wait until you have at least 5 badges, their gym leader is one of the strongest in the region.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
-¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
+Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
-Bien, tómate tu tiempo.
+Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
+You and your Pokemon are reenergized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Sí
@@ -2605,35 +2605,35 @@ No
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 ¿Estás usando el Recordador de Movimientos del Centro Pokémon?
-¿Estás usando el Recordador de Movimientos del Centro Pokémon?
+Are you using the Pokémon Center Move Relearner?
 Cuando tus Pokemon evolucionan es posible que puedan recordar nuevos movimientos que antes no podían.
-Cuando tus Pokemon evolucionan es posible que puedan recordar nuevos movimientos que antes no podían.
+When your Pokemon evolve they may be able to remember new moves that they couldn't before.
 ¡Así que haz una visita de tanto en tanto!
-¡Así que haz una visita de tanto en tanto!
+So pay a visit every now and then!
 Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
-Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
+The Guards at the entrance to <b>Saffron City</b> have gone on strike. We will not move until our working conditions improve!
 Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos quite la sed.
-Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos quite la sed.
+And our main demand is very clear: we want a good snack that quenches our thirst.
 ...
 ...
 ¡Uy! ¿Esa es la infusión de la líder <b>Sachiko</b>? ¡Por favor, dame un trago!
-¡Uy! ¿Esa es la infusión de la líder <b>Sachiko</b>? ¡Por favor, dame un trago!
+Oh! Is that Leader <b>Sachiko</b>'s tea? Please give me a drink!
 Glu, glu, glu...
-Glu, glu, glu...
+Glug, glug, glug...
 ¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones!
-¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones! 
+Aaaah! My throat feels much clearer and my spirits are through the roof. Leader <b>Sachiko</b> prepares the best tea!
 Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
-Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
+We'll clear your way to <b>Saffron City</b>, of course!
 ¡A veces me gustaría ser como un Pidgeot y poder surcar el cielo!
-¡A veces me gustaría ser como un Pidgeot y poder surcar el cielo!
+Sometimes I wish I were like a Pidgeot and could fly through the sky!
 ¿Por qué la evolución nos hizo tan diferentes a humanos y a Pokémon?
-¿Por qué la evolución nos hizo tan diferentes a humanos y a Pokémon?
+Why did evolution make us humans and Pokémon so different?
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
-¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
+Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
-Bien, tómate tu tiempo.
+Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
+You and your Pokemon are reenergized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Sí
@@ -2697,47 +2697,47 @@ No
 #-------------------------------
 [Map049]
 ¿Sabías que si llevas a un Pokemon con la habilidad Cuerpo Llama o Escudo Magma en el equipo, los huevos tardarán la mitad en abrirse?
-¿Sabías que si llevas a un Pokemon con la habilidad Cuerpo Llama o Escudo Magma en el equipo, los huevos tardarán la mitad en abrirse?
+Did you know that if you have a Pokemon with the Flame Body or Magma Shield ability on your team, the eggs will take half as long to hatch?
 Yo por eso no me despego de mi Slugma, aunque en verano no veas cómo sudo.
-Yo por eso no me despego de mi Slugma, aunque en verano no veas cómo sudo.
+That's why I don't let go of my Slugma, even if it makes me sweat in the summer.
 Una vez vi a un Machamp poner huevos. Fue una experiencia bastante perturbadora.
-Una vez vi a un Machamp poner huevos. Fue una experiencia bastante perturbadora.
+I once saw a Machamp lay eggs. It was quite a disturbing experience.
 ¡Ah, estás aquí! Mi marido te está buscando.
-¡Ah, estás aquí! Mi marido te está buscando.
+Ah, you're here! My husband is looking for you.
 Soy la encargada de la Guardería, ¿quieres dejar algún Pokemon con nosotros?
-Soy la encargada de la Guardería, ¿quieres dejar algún Pokemon con nosotros?
+I'm in charge of the Daycare, do you want to leave any Pokemon with us?
 No puedes quedarte sin Pokemon.
-No puedes quedarte sin Pokemon.
+You can't run out of Pokemon.
 ¿Cuál quieres dejar?
-¿Cuál quieres dejar?
+Which one do you want to leave?
 Bien, vuelve cuando lo necesites.
-Bien, vuelve cuando lo necesites.
+Okay, come back when you need to.
 Genial, cuidaremos bien de \v[3], vuelve más tarde.
-Genial, cuidaremos bien de \v[3], vuelve más tarde.
+Great, we'll take good care of \v[3], come back later.
 Podemos encargarnos de otro Pokemon, ¿te gustaría dejar alguno más?
-Podemos encargarnos de otro Pokemon, ¿te gustaría dejar alguno más?
+We can take care of another Pokemon, would you like to leave one more?
 ¿Cuál quieres dejarnos?
-¿Cuál quieres dejarnos?
+Which one do you want to leave with us?
 ¡Ah, eres tú! Tu Pokemon está en buenas manos.
-¡Ah, eres tú! Tu Pokemon está en buenas manos.
+Oh, it's you! Your Pokemon is in good hands.
 Además, \v[3] ha subido \v[4] niveles.
-Además, \v[3] ha subido \v[4] niveles.
+Additionally, \v[3] has gone up \v[4] levels.
 ¿Quieres a tu Pokemon de vuelta?
-¿Quieres a tu Pokemon de vuelta?
+Do you want your Pokemon back?
 Tu equipo está lleno.
-Tu equipo está lleno.
+Your team is full.
 ¿Cuál quieres de vuelta?
-¿Cuál quieres de vuelta?
+Which one do you want back?
 Si quieres a \v[3] de vuelta, tendrás que pagar $\v[4].
-Si quieres a \v[3] de vuelta, tendrás que pagar $\v[4].
+If you want \v[3] back, you'll have to pay $\v[4].
 No tienes suficiente dinero.
-No tienes suficiente dinero.
+You don't have enough money.
 Bien, aquí tienes a tu Pokemon de vuelta.
-Bien, aquí tienes a tu Pokemon de vuelta.
+Okay, here's your Pokemon.
 \PN saca \v[3] de la Guardería.
-\PN saca \v[3] de la Guardería.
+\PN took \v[3] from the Daycare.
 ¿Quieres al otro también?
-¿Quieres al otro también?
+Do you want the other one too?
 Sí
 Yes
 No
@@ -3765,11 +3765,11 @@ Creo que es muy raro conseguir algo así. Extremadamente raro, de hecho.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
-¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
+Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
-Bien, tómate tu tiempo.
+Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
+You and your Pokemon are reenergized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Sí
@@ -3867,11 +3867,11 @@ No, Kato, there's only trash here.
 ¿A ti también te cuesta horrores pensar en los motes de tus Pokémon? Yo me tiro horas y horas pensando.
 ¿A ti también te cuesta horrores pensar en los motes de tus Pokémon? Yo me tiro horas y horas pensando.
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
-¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
+Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
-Bien, tómate tu tiempo.
+Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
+You and your Pokemon are reenergized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Aquí solo hay basura.
@@ -4045,11 +4045,11 @@ El <b>Team Rocket</b> tiene tentáculos por todas partes: empresas, institucione
 ¡Su líder tiene que ser alguien con mucha influencia! O mucho dinero. O ambas.
 ¡Su líder tiene que ser alguien con mucha influencia! O mucho dinero. O ambas.
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
-¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
+Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
-Bien, tómate tu tiempo.
+Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
+You and your Pokemon are reenergized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
@@ -4079,11 +4079,11 @@ No
 Aunque yo personalmente prefiero la tranquilidad de <b>Ciudad Celeste</b>, ¡espero mudarme allí algún día!
 Aunque yo personalmente prefiero la tranquilidad de <b>Ciudad Celeste</b>, ¡espero mudarme allí algún día!
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
-¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
+Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
-Bien, tómate tu tiempo.
+Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
+You and your Pokemon are reenergized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
@@ -4771,11 +4771,11 @@ No
 #-------------------------------
 [Map088]
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
-¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
+Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
-Bien, tómate tu tiempo.
+Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
+You and your Pokemon are reenergized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Una banda de moteros ha invadido el <b>Camino de Bicis</b> que, como su nombre indica, es solo para bicis.
@@ -5149,11 +5149,11 @@ No
 ¿No tienes una bici? En <b>Ciudad Celeste</b> hay una tienda, aunque son bastante caras.
 ¿No tienes una bici? En <b>Ciudad Celeste</b> hay una tienda, aunque son bastante caras.
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
-¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
+Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
-Bien, tómate tu tiempo.
+Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
+You and your Pokemon are reenergized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Aquí solo hay basura.
@@ -5197,11 +5197,11 @@ Las playas de <b>Ciudad Fucsia</b> están llenas de Tentacool. Y aún así hay b
 No olvides hidratarte bien, sobre todo si vas a viajar grandes distancias con tus Pokémon.
 No olvides hidratarte bien, sobre todo si vas a viajar grandes distancias con tus Pokémon.
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
-¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
+Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
-Bien, tómate tu tiempo.
+Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
+You and your Pokemon are reenergized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Sí
@@ -5833,69 +5833,69 @@ La paciencia también es la clave para ganar en un combate Pokémon, ¡no te pre
 #-------------------------------
 [Map109]
 Acabo de bajar del Mt. Moon y estoy reventado... trátame con dulzura, ¿vale?
-Acabo de bajar del Mt. Moon y estoy reventado... trátame con dulzura, ¿vale?
+I just came down from <b>Mt. Moon</b> and I'm exhausted... be nice to me, okay?
 Está claro que algunos tipos como yo nunca deberían salir de la cueva. Mejor me vuelvo al Mt. Moon.
-Está claro que algunos tipos como yo nunca deberían salir de la cueva. Mejor me vuelvo al Mt. Moon.
+It's clear that guys like me should never leave the cave. I better go back to <b>Mt. Moon</b>.
 <b>Misty:</b> ¡Oye! ¿Tú quién eres?
-<b>Misty:</b> ¡Oye! ¿Tú quién eres?
+<b>Misty:</b> Hey! Who are you?
 <b>Chica:</b> Se está haciendo tarde, debería volver a mi casa.
-<b>Chica:</b> Se está haciendo tarde, debería volver a mi casa.
+<b>Girl:</b> It's getting late, I should go back to my house.
 <b>Chica:</b> ¡Ha sido muy guay ver los Pokémon del agua contigo, <b>Misty</b>!
-<b>Chica:</b> ¡Ha sido muy guay ver los Pokémon del agua contigo, <b>Misty</b>!
+<b>Girl:</b> It was really cool seeing Water Pokémon with you, <b>Misty</b>!
 <b>Misty:</b> ¡Vaya! ¡La has puesto nerviosa, con lo tímida que es ella!
-<b>Misty:</b> ¡Vaya! ¡La has puesto nerviosa, con lo tímida que es ella!
+<b>Misty:</b> Wow! You've made her nervous, she's so shy!
 <b>Misty:</b> ¿Sabes cómo llamo yo a la gente como tú? ¡Cotillas!
-<b>Misty:</b> ¿Sabes cómo llamo yo a la gente como tú? ¡Cotillas!
+<b>Misty:</b> Do you know what I call people like you? Gossips!
 ...
 ...
 ¿Has venido para retarme? ¡Pues qué remedio! Al fin y al cabo eres <b>Aspirante</b>...
-¿Has venido para retarme? ¡Pues qué remedio! Al fin y al cabo eres <b>Aspirante</b>...
+Have you come to challenge me? Well, what a relief! After all, you are a <b>Chaser</b>...
 Te he visto luchar en el puente desde aquí y me has impresionado... ¡voy a hacerlo lo mejor que pueda!
-Te he visto luchar en el puente desde aquí y me has impresionado... ¡voy a hacerlo lo mejor que pueda!
+I saw your battles on the bridge from here and you've impressed me... I'm going to do my best!
 Si tu Pokémon sufre confusión, lo mejor es que lo cambies por otro. Es la mejor táctica.
-Si tu Pokémon sufre confusión, lo mejor es que lo cambies por otro. Es la mejor táctica.
+If your Pokémon suffers from confusion, it's best to swap them out. It's the best tactic.
 <b>Candela:</b> ¡Aah, qué susto! Pensaba que aquí no me encontraría nadie.
-<b>Candela:</b> ¡Aah, qué susto! Pensaba que aquí no me encontraría nadie.
+<b>Candela:</b> Ah, you startled me! I thought no one would find me here.
 Verás, yo vengo de <b>Hoenn</b>. Mi abuelo me pidió que viajase a <b>Kanto</b> para entrenar, y así poder heredar su gimnasio cuando regrese.
-Verás, yo vengo de <b>Hoenn</b>. Mi abuelo me pidió que viajase a <b>Kanto</b> para entrenar, y así poder heredar su gimnasio cuando regrese.
+You see, I come from <b>Hoenn</b>. My grandfather asked me to travel to <b>Kanto</b> to train so I could inherit his gym when he returns.
 Pero, ¡uff! Me da mucho lache que me vean entrenar...
-Pero, ¡uff! Me da mucho lache que me vean entrenar...
+But, phew! It makes me very sad that they see me train...
 Oye, ya que estás aquí... ¿por qué no combates conmigo para ayudarme con la sesión de hoy?
-Oye, ya que estás aquí... ¿por qué no combates conmigo para ayudarme con la sesión de hoy?
+Hey, since you're here... why don't you battle me to help me with today's session?
 ¡Venga, ya has ganado! ¿Eso es lo que querías?
-¡Venga, ya has ganado! ¿Eso es lo que querías?
+Come on, you've won! Is that what you wanted?
 ¡Quédate con esto y déjame seguir con el entrenamiento, que tengo mucho trabajo por delante!
-¡Quédate con esto y déjame seguir con el entrenamiento, que tengo mucho trabajo por delante!
+Keep this and let me get on with the training, I have a lot of work ahead of me!
 ¡Entonces pírate! ¡Solo me estás estorbando!
-¡Entonces pírate! ¡Solo me estás estorbando!
+Then get lost! You're just getting in my way!
 <b>Candela:</b> ¿No tienes a más líderes de gimnasio a los que desafiar? He visto que esa tal <b>Misty</b> andaba por aquí cerca.
-<b>Candela:</b> ¿No tienes a más líderes de gimnasio a los que desafiar? He visto que esa tal <b>Misty</b> andaba por aquí cerca.
+<b>Candela:</b> Don't you have any more Gym Leaders to challenge? I saw that that <b>Misty</b> was around here.
 Sea como sea, ¡deja de estorbarme, que tengo mucho trabajo por delante!
-Sea como sea, ¡deja de estorbarme, que tengo mucho trabajo por delante!
+Whatever the case, stop getting in my way, I have a lot of work ahead of me!
 Es hora de que te enfrentes a un desafío a la altura, ¿no? ¡Pues lo tienes delante de tus narices!
-Es hora de que te enfrentes a un desafío a la altura, ¿no? ¡Pues lo tienes delante de tus narices!
+It's time for you to face a worthy challenge, right? Well, it's right under your nose!
 ¿Vas a ver a <b>Bill</b>? Se le considera la mayor eminencia Pokémon de esta región, solo por detrás del <b>Prof. Oak</b>.
-¿Vas a ver a <b>Bill</b>? Se le considera la mayor eminencia Pokémon de esta región, solo por detrás del <b>Prof. Oak</b>.
+Are you going to see <b>Bill</b>? He's considered the greatest Pokémon eminence of this region, only behind <b>Prof. Oak</b>.
 Un pequeño arbusto bloquea el paso. Tal vez se podría cortar con algo...
 A small bush blocks the way. Maybe it could be cut with something...
 ¡El <b>Talador</b> corta el arbusto como si fuera mantequilla!
 The <b>Axe</b> cuts the bush like it's butter!
 <b>Prof. Oak:</b> \PN, quería darte un regalo antes de volver al laboratorio de <b>Pueblo Paleta</b>.
-<b>Prof. Oak:</b> \PN, quería darte un regalo antes de volver al laboratorio de <b>Pueblo Paleta</b>.
+<b>Prof. Oak:</b> \PN, I wanted to give you a gift before we return to my laboratory in <b>Pallet Town</b>.
 Se lo he entregado también a los otros dos, consideradlo un reconocimiento por vuestros méritos como entrenadores Pokémon.
-Se lo he entregado también a los otros dos, consideradlo un reconocimiento por vuestros méritos como entrenadores Pokémon.
+I've also given it to the other two - consider it recognition for your merits as Pokémon trainers.
 <b>Prof. Oak:</b> Con el <b>Equipo de Escalada</b>, podrás adentrarte en los parajes más inhóspitos de la región.
-<b>Prof. Oak:</b> Con el <b>Equipo de Escalada</b>, podrás adentrarte en los parajes más inhóspitos de la región.
+<b>Prof. Oak:</b> With the <b>Climbing Equipment</b>, you can delve into the most inhospitable places in the region.
 ¡Incluso puede que encuentres Pokémon muy, pero que muy especiales si sabes dónde buscar!
-¡Incluso puede que encuentres Pokémon muy, pero que muy especiales si sabes dónde buscar!
+You might even find very, very special Pokémon if you know where to look!
 Evidentemente, sé que te las podrás apañar sin el menor reparo.
-Evidentemente, sé que te las podrás apañar sin el menor reparo.
+Obviously, I know that you can manage without the slightest qualms.
 <b>Prof. Oak:</b> Tu último gimnasio se encuentra en <b>Ciudad Verde</b>, ha reabierto sus puertas.
-<b>Prof. Oak:</b> Tu último gimnasio se encuentra en <b>Ciudad Verde</b>, ha reabierto sus puertas.
+<b>Prof. Oak:</b> Your last gym is located in <b>Vermilion City</b>. It has reopened its doors.
 Yo estaré en <b>Pueblo Paleta</b> para lo que necesitéis, ¿de acuerdo?
-Yo estaré en <b>Pueblo Paleta</b> para lo que necesitéis, ¿de acuerdo?
+I'll be in <b>Pallet Town</b> for whatever you need, okay?
 ¡Ánimo con vuestra recta final hacia la <b>Liga Pokémon</b>!
-¡Ánimo con vuestra recta final hacia la <b>Liga Pokémon</b>!
+Good luck with your final stretch towards the <b>Pokémon League</b>!
 Sí
 Yes
 No
@@ -7369,11 +7369,11 @@ No
 #-------------------------------
 [Map137]
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
-¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
+Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
-Bien, tómate tu tiempo.
+Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
+You and your Pokemon are reenergized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 \c[3]<b>Hoja:</b>\c[0] Uf, puf... menuda rutita más larga, ¿no, \PN? Casi me pierdo por el camino.
