@@ -13,81 +13,81 @@ Camper
 Leader
 Leader
 Chico
-Chico
+Picnicker
 Chica
-Chica
+Picnicker
 Cerebrito
-Cerebrito
+Super Nerd
 Montañero
-Montañero
+Hiker
 Recluta Rocket
 Rocket Recruit
 Comandante Rocket
-Comandante Rocket
+Rocket Commander
 Nadador
-Nadador
+Swimmer
 Elite Rocket
 Elite Rocket
 Nadadora
-Nadadora
+Swimmer
 Fotógrafa
-Fotógrafa
+Photographer
 Campistas
-Campistas
+Campers
 Brujita
-Brujita
+Hex Maniac
 Caballero
-Caballero
+Gentleman
 Dama
-Dama
+Lass
 Marinero
-Marinero
+Sailor
 Mecánico
-Mecánico
+Engineer
 Mecánica
-Mecánica
+Engineer
 Pescadora
-Pescadora
+Fisher
 Exorcista
-Exorcista
+Channeler
 Motorista
-Motorista
+Biker
 Damisela
-Damisela
+Lady
 Motoristas
-Motoristas
+Bikers
 Jefe Rocket
-Jefe Rocket
+Rocket Boss
 Cuerpo y Mente
-Cuerpo y Mente
+Brains & Brawn
 Maestra
-Maestra
+Pokémon Master
 Ornitólogo
-Ornitólogo
+Bird Keeper
 Ninja
 Ninja
 Leaders
 Leaders
 Karateka
-Karateka
+Black Belt
 Medium
 Medium
 Científico
-Científico
+Scientist
 Pescador
-Pescador
+Fisherman
 Ladrón
-Ladrón
+Thief
 Científica
-Científica
+Scientist
 Veterano
-Veterano
+Veteran
 Veterana
-Veterana
+Veteran
 Aspirante
-Aspirante
+Challenger
 Maestro Pokémon
-Maestro Pokémon
+Pokémon Master
 Elite Four
 Elite Four
 Champion
@@ -103,6 +103,6 @@ Prism Guardian
 Prism Guardians
 Prism Guardians
 Pokémaniaco
-Pokémaniaco
+Pokémaniac
 Legendary Hunter
 Legendary Hunter

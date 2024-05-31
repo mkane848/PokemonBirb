@@ -87,7 +87,7 @@ Richi
 Nerea
 Nerea
 Chio y Genaro
-Chio y Genaro
+Chio and Genaro
 Edu
 Edu
 Eva
@@ -177,7 +177,7 @@ Urano
 Geno
 Geno
 Tito y Lin
-Tito y Lin
+Tito and Lin
 Les
 Les
 Andrea
@@ -201,9 +201,9 @@ Lisa
 Erika
 Erika
 Mark y Mike
-Mark y Mike
+Mark and Mike
 Alex y Jan
-Alex y Jan
+Alex and Jan
 Nova
 Nova
 Wexter
@@ -255,7 +255,7 @@ Celia
 Ernesto
 Ernesto
 Sandro & Anita
-Sandro & Anita
+Sandro and Anita
 Eleanor
 Eleanor
 Chidi
@@ -273,7 +273,7 @@ Maika
 Anaís
 Anaís
 Koga y Sachiko
-Koga y Sachiko
+Koga and Sachiko
 Valentino
 Valentino
 Marino
@@ -475,7 +475,7 @@ Marcial
 Plubio
 Plubio
 Vito y Leti
-Vito y Leti
+Vito and Leti
 Ivarn
 Ivarn
 Noel
@@ -531,13 +531,13 @@ Frolo
 Cecilia
 Cecilia
 Zaiko y Akkarin
-Zaiko y Akkarin
+Zaiko and Akkarin
 Skyflyer y Hellfire
-Skyflyer y Hellfire
+Skyflyer and Hellfire
 Ranni y Rykard
-Ranni y Rykard
+Ranni and Rykard
 Loretta y Blaidd
-Loretta y Blaidd
+Loretta and Blaidd
 Máximo
 Máximo
 Cintia

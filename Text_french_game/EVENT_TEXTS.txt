@@ -1179,53 +1179,53 @@ Although right now I'm closer to catching a cold. Achoo!
 #-------------------------------
 [Map020]
 He entrenado a mis Pokémon con esmero. Deberían de estar listos para el combate, espero.
-He entrenado a mis Pokémon con esmero. Deberían de estar listos para el combate, espero.
+I've trained my Pokémon carefully. They should be ready for combat, I hope.
 ¡Voy a buscarme algún Pokémon más fuerte! En combate no quiero tentar a la suerte.
-¡Voy a buscarme algún Pokémon más fuerte! En combate no quiero tentar a la suerte.
+I'm going to find some stronger Pokémon! I don't want to tempt fate in battles.
 <b>Alana:</b> ¡Jejeje! ¡Qué monos son los niños jugando a ser entrenadores Pokémon!
-<b>Alana:</b> ¡Jejeje! ¡Qué monos son los niños jugando a ser entrenadores Pokémon!
+<b>Alana:</b> Hehehe! The children pretending to be Pokémon trainers are so cute!
 Me pregunto cuántos de ellos se animarán a conseguir medallitas el día de mañana.
-Me pregunto cuántos de ellos se animarán a conseguir medallitas el día de mañana.
+I wonder how many of them will be inspired to get badges tomorrow.
 Tú no pareces ser demasiado novel, precisamente. ¿Te apetece un combatito aquí y ahora?
-Tú no pareces ser demasiado novel, precisamente. ¿Te apetece un combatito aquí y ahora?
+You don't seem like a newbie. Do you fancy a little battle right now?
 ¡Guau! ¡Mis pájaros se han estampado contra el suelo!
-¡Guau! ¡Mis pájaros se han estampado contra el suelo!
+Wow! My birds have been grounded!
 Creo que mereces un premio generoso por haberlo hecho tan requetebién.
-Creo que mereces un premio generoso por haberlo hecho tan requetebién.
+I think you deserve a generous reward for doing so well.
 ¿No? ¡Pues a ver si te animas! Que a mí me han entrado ganas de combatir.
-¿No? ¡Pues a ver si te animas! Que a mí me han entrado ganas de combatir.
+No? Well, let's see if you're up for it! That made me want to battle.
 <b>Alana:</b> Si algún día tus pasos te conducen a <b>Hoenn</b>, estaría encantada de ofrecerte una revancha con mi equipo Pokémon real.
-<b>Alana:</b> Si algún día tus pasos te conducen a <b>Hoenn</b>, estaría encantada de ofrecerte una revancha con mi equipo Pokémon real.
+<b>Alana:</b> If one day your travels lead you to <b>Hoenn</b>, I'd be happy to offer you a rematch with my real Pokémon team.
 Aunque de momento prefiero tomarme un pequeño descanso, ¡me has dejado sin fuerzas!
-Aunque de momento prefiero tomarme un pequeño descanso, ¡me has dejado sin fuerzas!
+Although I need to take a little break for now, you've left me exhausted!
 ¿Qué horóscopo eres? ¡Yo soy Krabby con ascendiente en Jynx!
-¿Qué horóscopo eres? ¡Yo soy Krabby con ascendiente en Jynx!
+What's your sign? I'm Krabby with a Jinx rising!
 Prefiero pensar que los combates dependen de la posición de las estrellas, porque si no me vengo abajo...
-Prefiero pensar que los combates dependen de la posición de las estrellas, porque si no me vengo abajo...
+I prefer to think that the fights depend on the position of the stars, because if I don't I'll collapse...
 <b>Oeste:</b> Ciudad Carmín\n<b>Este:</b> Ruta 9
-<b>Oeste:</b> Ciudad Carmín\n<b>Este:</b> Ruta 9
+<b>West:</b> Vermilion City\n<b>East:</b> Route 9
 Algún día seré líder de gimnasio de <b>Ciudad Carmín</b>, ¡y ganaré un buen sueldo!
-Algún día seré líder de gimnasio de <b>Ciudad Carmín</b>, ¡y ganaré un buen sueldo!
+Someday I'll be the Gym Leader of <b>Vermilion City</b>, and I'll earn a good salary!
 ¿No crees que este parque desprende mucha energía mística?
-¿No crees que este parque desprende mucha energía mística?
+Don't you think this park gives off a lot of mystical energy?
 Todas las personas desprenden un tipo de energía singular, ¡no hay dos iguales! Conocer la energía de uno mismo es vital para el desarrollo personal.
-Todas las personas desprenden un tipo de energía singular, ¡no hay dos iguales! Conocer la energía de uno mismo es vital para el desarrollo personal.
+All people give off a unique type of energy, no two are alike! Knowing one's own energy is vital for personal development.
 ¿Has entrado en el <b>Túnel Diglett</b>? Si te ataca un Diglett salvaje, no podrás huir de él...
-¿Has entrado en el <b>Túnel Diglett</b>? Si te ataca un Diglett salvaje, no podrás huir de él...
+Have you entered the <b>Diglett Tunnel</b>? If a wild Diglett attacks you, you won't be able to escape from it...
 No se puede hacer trampa con pokémon. ¡Que quede bien claro!
-No se puede hacer trampa con pokémon. ¡Que quede bien claro!
+You can't cheat with Pokémon. Let it be very clear!
 ¿Estaría justificado hacer trampas para ayudar a un ser querido? Es una pregunta que me quita el sueño.
-¿Estaría justificado hacer trampas para ayudar a un ser querido? Es una pregunta que me quita el sueño.
+Would cheating be justified to help a loved one? It's a question that keeps me up at night.
 ¡No me distraigas! Estoy a punto de ganar...
-¡No me distraigas! Estoy a punto de ganar...
+Don't distract me! I'm about to win...
 Túnel Diglett
-Túnel Diglett
+Diglett Tunnel
 Algún niño se ha dejado esto tirado por ahí, ¿a ti te sirve de algo?
-Algún niño se ha dejado esto tirado por ahí, ¿a ti te sirve de algo?
+Some child left this lying around, is it of any use to you?
 ¡Procura no dejar cosas por ahí tiradas! Que aquí viven Pokémon...
-¡Procura no dejar cosas por ahí tiradas! Que aquí viven Pokémon...
+Try not to leave things lying around! Pokémon live here...
 Uff... ¿qué movimiento toca hacer contra este Pokémon?
-Uff... ¿qué movimiento toca hacer contra este Pokémon?
+Ugh... what move should we use against this Pokémon?
 Sí
 Yes
 No
@@ -1233,41 +1233,41 @@ No
 #-------------------------------
 [Map022]
 Ja, ja, ja. ¡Venga, ven a por mí!
-Ja, ja, ja. ¡Venga, ven a por mí!
+Ha ha ha. Come on, come get me!
 ¡Ja, ja, ja! Los montañeros siempre nos reímos porque el aire fresco nos llena de alegría.
-¡Ja, ja, ja! Los montañeros siempre nos reímos porque el aire fresco nos llena de alegría.
+Ha ha ha! We mountaineers always laugh because the fresh air fills us with joy.
 Con el aburimiento que tengo, ¡menos da una piedra! Combatamos.
-Con el aburimiento que tengo, ¡menos da una piedra!  Combatamos.
+With the boredom I have, it doesn't matter a stone! Let's fight.
 ¡Hay que ser valiente para enfrentarse a un Montañero como yo y mantener la sangre fría!
-¡Hay que ser valiente para enfrentarse a un Montañero como yo y mantener la sangre fría!
+You have to be brave to face a Hiker like me and keep your cool!
 <b>Oeste:</b> Ciudad Celeste\n<b>Este:</b> Túnel Roca
-<b>Oeste:</b> Ciudad Celeste\n<b>Este:</b> Túnel Roca
+<b>West:</b> Cerulean City\n<b>East:</b> Rock Tunnel
 Tu equipo parece bastante fuerte... ¿pero está preparado para soportar mis envites poderosos?
-Tu equipo parece bastante fuerte... ¿pero está preparado para soportar mis envites poderosos?
+Your team seems pretty strong...but is it prepared to withstand my powerful attacks?
 No eres consciente de lo fuertes que pueden volverse tus Pokémon todavía, ¡sigue adelante!
-No eres consciente de lo fuertes que pueden volverse tus Pokémon todavía, ¡sigue adelante!
+You're not aware of how strong your Pokémon can become yet, keep going!
 ¿Tienes ya un equipo completo de 6 Pokémon? ¡Pues en guardia!
-¿Tienes ya un equipo completo de 6 Pokémon? ¡Pues en guardia!
+Do you already have a full team of six Pokémon? Perfect, be prepared!
 El túnel que hay más adelante es realmente duro. Si quieres afrontarlo bien, asegúrate de llevar unas cuantas provisiones contigo.
-El túnel que hay más adelante es realmente duro. Si quieres afrontarlo bien, asegúrate de llevar unas cuantas provisiones contigo.
+The tunnel ahead is really tough. If you want to be ready for it, make sure you bring a few supplies with you.
 Vine aquí de acampada con mi Sandshrew con el objetivo de someternos a un superentrenamiento, ¡y vamos muy bien!
-Vine aquí de acampada con mi Sandshrew con el objetivo de someternos a un superentrenamiento, ¡y vamos muy bien!
+I came here camping with my Sandshrew with the aim of undergoing super training, and we're doing very well!
 Nos hemos propuesto conseguir 100 victorias seguidas.
-Nos hemos propuesto conseguir 100 victorias seguidas.
+We've set out to achieve 100 consecutive wins.
 ¿Quieres retarnos? Somos increíblemente fuertes.
-¿Quieres retarnos? Somos increíblemente fuertes.
+Do you want to challenge us? We're incredibly strong.
 Nunca pensé que alguien conseguiría derrotarnos a mí y a mi Sandshrew, ¡eres muy fuerte!
-Nunca pensé que alguien conseguiría derrotarnos a mí y a mi Sandshrew, ¡eres muy fuerte!
+I never thought that someone would manage to defeat me and my Sandshrew, you're very strong!
 De momento puedes quedarte con esto, como premio por tu victoria.
-De momento puedes quedarte con esto, como premio por tu victoria.
+You can keep this as a reward for your victory.
 ¡Ven a verme más adelante! Pienso descubrir el método de entrenamiento más eficiente.
-¡Ven a verme más adelante! Pienso descubrir el método de entrenamiento más eficiente.
+Come see me later! I plan to discover the most efficient training method.
 Seguiré entrenando, entonces.
-Seguiré entrenando, entonces.
+I'll continue training, then.
 Iba a atravesar el Túnel Roca para llegar a Pueblo Lavanda, pero...
-Iba a atravesar el Túnel Roca para llegar a Pueblo Lavanda, pero...
+I was going to go through the Rock Tunnel to get to <b>Lavender Town</b>, but...
 ¡Se ve que tienes talento! Ánimo y sigue así. Seguro que llegas fácilmente a <b>Pueblo Lavanda</b>.
-¡Se ve que tienes talento! Ánimo y sigue así. Seguro que llegas fácilmente a <b>Pueblo Lavanda</b>.
+It looks like you have talent! Cheer up and keep it up. You're sure to easily get to <b>Lavender Town</b>.
 Sí
 Yes
 No
@@ -2731,41 +2731,41 @@ No
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Estoy emprendiendo con un pequeño negocio de MTs. Las importo de regiones más baratas y las revendo a mayor precio.
-Estoy emprendiendo con un pequeño negocio de MTs. Las importo de regiones más baratas y las revendo a mayor precio.
+I'm starting a small TM business. I import them from cheaper regions and resell them at a higher price.
 Tengo una bastante buena, ¿me la comparías por 2000 pokécuartos? No la encontrarás más barata.
-Tengo una bastante buena, ¿me la comparías por 2000 pokécuartos? No la encontrarás más barata.
+I have a pretty good one, would you buy it for me for 2000 PokéDollars? You won't find it cheaper anywhere else.
 ¡Menos mal! Esto me dará para ir tirando.
-¡Menos mal! Esto me dará para ir tirando.
+Thank goodness! This will keep me going.
 No tienes suficiente dinero.
-No tienes suficiente dinero.
+You don't have enough money.
 ¡Pues allá tú! Algún día tendré un imperio de MTs...
-¡Pues allá tú! Algún día tendré un imperio de MTs...
+Well, there you go! Someday I'll have an empire of TMs...
 Algún día tendré el mayor imperio de compraventa de MTs del mundo.
-Algún día tendré el mayor imperio de compraventa de MTs del mundo.
+One day I'll have the largest MT trading empire in the world.
 Todo empieza aquí, en mi casa.
-Todo empieza aquí, en mi casa.
+It all starts here, in my house.
 ¡Ojalá poder embarcar en el <b>S.S. Anne</b> todos los años y hacer amigos por todo el mundo!
-¡Ojalá poder embarcar en el <b>S.S. Anne</b> todos los años y hacer amigos por todo el mundo!
+I wish I could board the <b>S.S. Anne</b> every year and make friends all over the world!
 Creo que los Pokémon son buenos de forma natural, pero se pueden volver malos si los utiliza un entrenador malvado.
-Creo que los Pokémon son buenos de forma natural, pero se pueden volver malos si los utiliza un entrenador malvado.
+I think Pokémon are naturally good, but they can turn bad if used by an evil trainer.
 Estoy buscando un Spearow, ¿lo cambiarías por mi Farfetch'd? ¡Se trata de un Pokémon bastante raro!
-Estoy buscando un Spearow, ¿lo cambiarías por mi Farfetch'd? ¡Se trata de un Pokémon bastante raro!
+I'm looking for a Spearow, would you trade it for my Farfetch'd? This is a pretty rare Pokémon!
 ¡Bien, veo que tienes un Caterpie! ¡Hagamos el intercambio!
-¡Bien, veo que tienes un Caterpie! ¡Hagamos el intercambio!
+Well, I see you have a Caterpie! Let's make the exchange!
 ¡No te arrepentirás de este intercambio! Farfetch'd es bastante fuerte.
-¡No te arrepentirás de este intercambio! Farfetch'd es bastante fuerte.
+You won't regret this exchange! Farfetch'd is pretty strong.
 Si tienes un Spearow, ponlo en el primer lugar de tu equipo para que pueda verlo bien.
-Si tienes un Spearow, ponlo en el primer lugar de tu equipo para que pueda verlo bien.
+If you have a Spearow, put it at the top of your team so I can see it.
 ¡Vaya, qué lástima! Con lo que me gusta a mí Spearow.
-¡Vaya, qué lástima! Con lo que me gusta a mí Spearow.
+Wow, what a shame! I really like Spearow.
 ¿Has intentado meter varios golpes críticos seguidos con Farfetch'd? Tal vez ocurra algo interesante si lo haces...
-¿Has intentado meter varios golpes críticos seguidos con Farfetch'd? Tal vez ocurra algo interesante si lo haces...
+Have you tried to score several critical hits in a row with Farfetch'd? Maybe something interesting will happen if you do...
 Hay gente perversa que se dedica a robar Pokémon para venderlos a un alto precio, como el <b>Team Rocket</b>.
-Hay gente perversa que se dedica a robar Pokémon para venderlos a un alto precio, como el <b>Team Rocket</b>.
+There are evil people who are dedicated to stealing Pokémon to sell them at a high price, like <b>Team Rocket</b>.
 Y si ven que esos Pokémon no les sirven, se deshacen de ellos. ¡Me ponen enfermo los muy...!
-Y si ven que esos Pokémon no les sirven, se deshacen de ellos. ¡Me ponen enfermo los muy...!
+And if they see that those Pokémon are of no use to them, they get rid of them. They make me sick!
 Mi Pidgey va a enviarle una carta a un pariente de <b>Ciudad Azafrán</b>. Debería estar de vuelta antes de la noche.
-Mi Pidgey va a enviarle una carta a un pariente de <b>Ciudad Azafrán</b>. Debería estar de vuelta antes de la noche.
+My Pidgey is going to send a letter to a relative in <b>Saffron City</b>. He should be back before nighttime.
 Sí
 Yes
 No
@@ -3069,79 +3069,79 @@ No
 #-------------------------------
 [Map058]
 \c[1]<b>\v[12]:</b>\c[0] ¿Tú también, \PN?
-\c[1]<b>\v[12]:</b>\c[0] ¿Tú también, \PN?
+\c[1]<b>\v[12]:</b>\c[0] You too, \PN?
 ¿Cómo es que los tres hemos acabado en el <b>S.S. Anne</b>?
-¿Cómo es que los tres hemos acabado en el <b>S.S. Anne</b>?
+How did the three of us end up on the <b>S.S. Anne</b>?
 ¡Menuda casualidad!
-¡Menuda casualidad!
+What a coincidence!
 \c[3]<b>Hoja:</b>\c[0] Yo gané un <b>Ticket Barco</b> en una tómbola de <b>Ciudad Celeste</b>. La verdad es que tuve mucha suerte.
-\c[3]<b>Hoja:</b>\c[0] Yo gané un <b>Ticket Barco</b> en una tómbola de <b>Ciudad Celeste</b>. La verdad es que tuve mucha suerte.
+\c[3]<b>Leaf:</b>\c[0] I won a <b>Boat Ticket</b> in a raffle in <b>Cerulean City</b>. I got very lucky.
 ¿Y tú, \c[1]<b>\v[12]</b>\c[0]? No pareces la clase de persona que participa en sorteos.
-¿Y tú, \c[1]<b>\v[12]</b>\c[0]? No pareces la clase de persona que participa en sorteos.
+How about you, \c[1]<b>\v[12]</b>\c[0]? You don't seem like the kind of person who participates in giveaways.
 \c[2]<b>Rojo:</b>\c[0] Yo gané un <b>Ticket Barco</b> en una tómbola de <b>Ciudad Celeste</b>. La verdad es que tuve mucha suerte.
-\c[2]<b>Rojo:</b>\c[0] Yo gané un <b>Ticket Barco</b> en una tómbola de <b>Ciudad Celeste</b>. La verdad es que tuve mucha suerte.
+\c[2]<b>Red:</b>\c[0] I won a <b>Boat Ticket</b> in a raffle in <b>Cerulean City</b>. I got very lucky.
 \c[1]<b>\v[12]:</b>\c[0] ¿Yo? Yo simplemente he comprado un ticket.
-\c[1]<b>\v[12]:</b>\c[0] ¿Yo? Yo simplemente he comprado un ticket.
+\c[1]<b>\v[12]:</b>\c[0] Me? I simply bought a ticket.
 La familia <b>Oak</b> tiene dinero, ¿sabéis? Que mi abuelo es famoso y todo eso.
-La familia <b>Oak</b> tiene dinero, ¿sabéis? Que mi abuelo es famoso y todo eso.
+The <b>Oak</b> family has money, you know? My grandfather's famous and all that.
 <b>Recluta Rocket:</b> ¡Bonjour! Je ne se pass donde se ubique mon camaroteur.
-<b>Recluta Rocket:</b> ¡Bonjour! Je ne se pass donde se ubique mon camaroteur.
+<b>Rocket Recruit:</b> Bonjour! I don't know where my cabin is located.
 \c[3]<b>Hoja:</b>\c[0] ¿E-ese tío no era del <b>Team Rocket</b>?
-\c[3]<b>Hoja:</b>\c[0] ¿E-ese tío no era del <b>Team Rocket</b>?
+\c[3]<b>Leaf:</b>\c[0] W-wasn't that guy from <b>Team Rocket</b>?
 ¿Están aquí? ¡Ma-madre mía! ¡Van a poner una bomba en el barco!
-¿Están aquí? ¡Ma-madre mía! ¡Van a poner una bomba en el barco!
+They're here? My-my god! They're going to put a bomb on the ship!
 \c[2]<b>Rojo:</b>\c[0] ¿E-ese tío no era del <b>Team Rocket</b>?
-\c[2]<b>Rojo:</b>\c[0] ¿E-ese tío no era del <b>Team Rocket</b>?
+\c[2]<b>Red:</b>\c[0] W-wasn't that guy from <b>Team Rocket</b>?
 \c[1]<b>\v[12]:</b>\c[0] El <b>Team Rocket</b>, ¿eh? ¡Por fin me los cruzo!
-\c[1]<b>\v[12]:</b>\c[0] El <b>Team Rocket</b>, ¿eh? ¡Por fin me los cruzo!
+\c[1]<b>\v[12]:</b>\c[0] <b>Team Rocket</b>, huh? I finally get to meet them!
 ¡Voy a derrotarles y a enseñarles quién manda aquí!
-¡Voy a derrotarles y a enseñarles quién manda aquí!
+I'm going to defeat them and show them who's boss!
 \c[3]<b>Hoja:</b>\c[0] ¡Ay, no! ¿Por qué tenemos tan mala suerte?
-\c[3]<b>Hoja:</b>\c[0] ¡Ay, no! ¿Por qué tenemos tan mala suerte?
+\c[3]<b>Leaf:</b>\c[0] Oh no! Why are we so unlucky?
 \c[2]<b>Rojo:</b>\c[0] ¡Ay, no! ¿Por qué tenemos tan mala suerte?
-\c[2]<b>Rojo:</b>\c[0] ¡Ay, no! ¿Por qué tenemos tan mala suerte?
+\c[2]<b>Red:</b>\c[0] Oh no! Why are we so unlucky?
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Tu camarote está en este pasillo. Lo hemos dispuesto todo para que puedas descansar cuando quieras.
-Tu camarote está en este pasillo. Lo hemos dispuesto todo para que puedas descansar cuando quieras.
+Your cabin is in this hallway. We have arranged everything so that you can rest whenever you want.
 No solo tenemos que alimentar a los pasajeros, sino también al personal. ¡Y te aseguro que los marineros fornidos necesitan muchas calorías!
-No solo tenemos que alimentar a los pasajeros, sino también al personal. ¡Y te aseguro que los marineros fornidos necesitan muchas calorías!
+We not only have to feed the passengers, but also the staff. And I assure you, beefy sailors need a lot of calories!
 El nombre del barco, <b>Anne</b>, fue escogido en honor a la hija mayor del capitán del barco. ¿Lo sabías?
-El nombre del barco, <b>Anne</b>, fue escogido en honor a la hija mayor del capitán del barco. ¿Lo sabías?
+Did you know? The name of the ship, <b>Anne</b>, was chosen in honor of the eldest daughter of the ship's captain.
 ¡Oyes, qué impertinencia! ¿Cómo te atreves a entrar aqui?
-¡Oyes, qué impertinencia! ¿Cómo te atreves a entrar aqui?
+Hey, how impertinence! How dare you come in here?
 Me gustaría que me dejaras a solas con mis pensamientos, ¡haz el favor de irte!
-Me gustaría que me dejaras a solas con mis pensamientos, ¡haz el favor de irte!
+I'd like you to leave me alone with my thoughts, please go!
 Los Pokémon nos ayudan a cocinar y a mantener la cocina limpia. Menos mal que no exigen un sueldo...
-Los Pokémon nos ayudan a cocinar y a mantener la cocina limpia. Menos mal que no exigen un sueldo...
+Pokémon help us cook and keep the kitchen clean. Thank goodness they don't require a salary...
 Si las ventanas no estuvieran tan altas, podría ver el paisaje. ¡O tal vez yo debería crecer un poco!
-Si las ventanas no estuvieran tan altas, podría ver el paisaje. ¡O tal vez yo debería crecer un poco!
+If the windows weren't so high, I could see the landscape. Or maybe I should grow up a little!
 ¡He capturado Pokémon por todo el mundo! ¡Mira!
-¡He capturado Pokémon por todo el mundo! ¡Mira!
+I've caught Pokémon from all over the world! Look!
 Para saber, o viajar o leer. Y si puedes hacer ambas cosas, mucho mejor.
-Para saber, o viajar o leer. Y si puedes hacer ambas cosas, mucho mejor.
+To know, or travel or read. And if you can do both, even better.
 Algunos de los pasajeros tienen un paladar muy selecto, por eso tenemos que hacerles un menú personalizado.
-Algunos de los pasajeros tienen un paladar muy selecto, por eso tenemos que hacerles un menú personalizado.
+Some of the passengers have a very specific palate, that's why we have to make them a personalized menu.
 Se espera que tendremos buen tiempo y un mar tranquilo en los siguientes días. Este viaje será muy agradable.
-Se espera que tendremos buen tiempo y un mar tranquilo en los siguientes días. Este viaje será muy agradable.
+We anticipate good weather and calm seas in the coming days. This trip will be very pleasant.
 No te he visto en la fiesta de inauguración del crucero, ¿dónde estabas?
-No te he visto en la fiesta de inauguración del crucero, ¿dónde estabas?
+I didn't see you at the cruise opening party, where were you?
 ¿Estarás en la fiesta de esta noche? ¡De aquí puede surgir una gran amistad!
-¿Estarás en la fiesta de esta noche? ¡De aquí puede surgir una gran amistad!
+Will you be at the party tonight? A great friendship can emerge from this!
 ¡Uff! ¡Estamos muy atareados! Este año queremos deslumbrar de verdad con todos los platos.
-¡Uff! ¡Estamos muy atareados! Este año queremos deslumbrar de verdad con todos los platos.
+Phew! We're very busy! This year we want to really dazzle everyone with all of the dishes.
 ¿Te gustaría echarte un rato a descansar? Tus Pokémon lo agradecerían.
-¿Te gustaría echarte un rato a descansar? Tus Pokémon lo agradecerían.
+Would you like to rest for a while? Your Pokémon would appreciate it.
 Ahora tenéis mejor cara, ¡a por todas!
-Ahora tenéis mejor cara, ¡a por todas!
+You're looking much better now, you're ready to go!
 ¡No le exijas demasiado a tus Pokémon! Hasta ellos tienen su límite.
-¡No le exijas demasiado a tus Pokémon! Hasta ellos tienen su límite.
+Don't demand too much from your Pokémon! Even they have their limit.
 La variedad gastronómico del barco se ha reducido desde que <b>Kanto</b> se pasó 100% al veganismo.
-La variedad gastronómico del barco se ha reducido desde que <b>Kanto</b> se pasó 100% al veganismo.
+The ship's gastronomic variety has been reduced since <b>Kanto</b> went 100% vegan.
 Aún recuerdo cuando todavía se cocinaban Colas Slowpoke. Yo era solo un niño, pero recuerdo que eran una delicia.
-Aún recuerdo cuando todavía se cocinaban Colas Slowpoke. Yo era solo un niño, pero recuerdo que eran una delicia.
+I still remember when they still cooked Slowpoke Tails. I was just a kid, but I remember they were delicious.
 Dicen que ha embarcado un científico muy prestigioso, ¡colaboró con el <b>Profesor Oak</b> durante años!
-Dicen que ha embarcado un científico muy prestigioso, ¡colaboró con el <b>Profesor Oak</b> durante años!
+They say that a very prestigious scientist has boarded, he collaborated with <b>Professor Oak</b> for years!
 Sí
 Yes
 No
@@ -5801,7 +5801,7 @@ It's clear that guys like me should never leave the cave. I better go back to <b
 ...
 ...
 ¿Has venido para retarme? ¡Pues qué remedio! Al fin y al cabo eres <b>Aspirante</b>...
-Have you come to challenge me? Well, what a relief! After all, you are a <b>Chaser</b>...
+Have came to battle me? Well, what a relief! You're a <b>Challenger</b>...
 Te he visto luchar en el puente desde aquí y me has impresionado... ¡voy a hacerlo lo mejor que pueda!
 I saw your battles on the bridge from here and you've impressed me... I'm going to do my best!
 Si tu Pokémon sufre confusión, lo mejor es que lo cambies por otro. Es la mejor táctica.
@@ -5843,7 +5843,7 @@ You might even find very, very special Pokémon if you know where to look!
 Evidentemente, sé que te las podrás apañar sin el menor reparo.
 Obviously, I know that you can manage without the slightest qualms.
 <b>Prof. Oak:</b> Tu último gimnasio se encuentra en <b>Ciudad Verde</b>, ha reabierto sus puertas.
-<b>Prof. Oak:</b> Your last gym is located in <b>Vermilion City</b>. It has reopened its doors.
+<b>Prof. Oak:</b> Your last gym is located in <b>Viridian City</b>. It has reopened its doors.
 Yo estaré en <b>Pueblo Paleta</b> para lo que necesitéis, ¿de acuerdo?
 I'll be in <b>Pallet Town</b> for whatever you need, okay?
 ¡Ánimo con vuestra recta final hacia la <b>Liga Pokémon</b>!

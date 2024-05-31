@@ -20,21 +20,26 @@
 05/30/2024
     - Removed Trade Expert
     - More translations
+    - Translate trainer types and some names
+    - Confirm weather effects work
 
 
 
 TODO:
 - Remove NPCs and Events we won't be using
     - Alpha Hives?
-    - Trade Experts?
-    - Old Move Relearners?
 
 - Put Randy in every Pkmn Center
 - Fix TMs, randomizer is grabbing gen9 (i.e. I found TM60 and 073 Drain Punch)
 - Replace EBDX Boss Battle (only used for Mewtwo fight) with something else
 - Verify all battlebacks are properly set with OG battle system and assets
 - Check if Mega-ing Pokemon still works (oops)
-- Trainer names/classes still in Spanish during battle
-- Check game script for "Rojo"/"Hoja"
 - PokeVial
 - PokeRadar? (shiny chaining)
+- Rival Name appears as "Blue" in battle
+- Enemy Pokemon name cut off on "Sandy Shocks"
+- Add graphical indicator of current game speed
+- Keyboard entry plug-in
+- Check if animation plays properly when gym badge received
+- Mega works, but you have to press Z and no animation plays?
+- Double check sprites aren't using any old EBDX stuff, i.e. check Mewtwo's back sprite vs gen 9 pack
