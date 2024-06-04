@@ -485,7 +485,7 @@ Do not go yet! I am the strongest Bug Catcher in the forest and I am going to pr
 ¿Nunca has pensado en ser Cazabichos? Se te daría bien, aunque imagino que tienes otros planes...
 Have you never thought about being a Bug Catcher? You'd be good at it, although I imagine you have other plans...
 Es el Pikachu del chico de <b>Ciudad Plateada</b>.
-It's the Pikachu of the boy from <b>Pewter City</b>.
+It's the boy from <b>Pewter City</b>'s Pikachu.
 Tras una larga sesión de terapia, \PN convenció a Pikachu para que volviera con su entrenador.
 After a long therapy session, \PN convinced Pikachu to return to his trainer.
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
@@ -1277,123 +1277,123 @@ No
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
+It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
 En concreto, sientes la presencia de un Pokémon Roca muy poderoso.
-En concreto, sientes la presencia de un Pokémon Roca muy poderoso.
+You feel the presence of a very powerful Rock Pokémon.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
 The <b>Alpha Nest</b> is empty...
 <b>???:</b> Oye, tú. Disculpa.
-<b>???:</b> Oye, tú. Disculpa.
+<b>???:</b> Hey, excuse me...
 <b>???:</b> No habrás visto por aquí a alguno de esos infelices del <b>Team Rocket</b>, ¿verdad?
-<b>???:</b> No habrás visto por aquí a alguno de esos infelices del <b>Team Rocket</b>, ¿verdad?
+<b>???:</b> You haven't seen any of those unfortunate people from <b>Team Rocket</b> around here, have you?
 Mi Lapras y yo les estamos dando caza.
-Mi Lapras y yo les estamos dando caza.
+My Lapras and I are hunting them.
 <b>Lapras:</b> ¡Laaaaaaap!
 <b>Lapras:</b> ¡Laaaaaaap!
 <b>???:</b> ¡Parece que a mi Lapras le gustas!
-<b>???:</b> ¡Parece que a mi Lapras le gustas!
+<b>???:</b> My Lapras seems to like you!
 Suele tener buen ojo para la gente con potencial.
-Suele tener buen ojo para la gente con potencial.
+He usually has a good eye for people with potential.
 <b>???:</b> En fin, ten mucho cuidado. Dicen que han visto al <b>Team Rocket</b> por las cercanías de <b>Pueblo Lavanda</b>.
-<b>???:</b> En fin, ten mucho cuidado. Dicen que han visto al <b>Team Rocket</b> por las cercanías de <b>Pueblo Lavanda</b>.
+<b>???:</b> Anyway, be very careful. I hear <b>Team Rocket</b> has been seen near <b>Lavender Town</b>.
 Túnel Roca
-Túnel Roca
+Rock Tunnel
 \c[3]<b>Hoja:</b>\c[0] ...
-\c[3]<b>Hoja:</b>\c[0] ...
+\c[3]<b>Leaf:</b>\c[0] ...
 \c[3]<b>Hoja:</b>\c[0] Ah... hola, \PN.
-\c[3]<b>Hoja:</b>\c[0] Ah... hola, \PN.
+\c[3]<b>Leaf:</b>\c[0] Oh... hey, \PN.
 He llegado hasta aquí, pero la verdad es que no sé si quiero continuar.
-He llegado hasta aquí, pero la verdad es que no sé si quiero continuar.
+I've come this far, but the truth is...I don't know if I want to continue.
 No fui capaz de ayudaros contra el <b>Team Rocket</b>.
-No fui capaz de ayudaros contra el <b>Team Rocket</b>.
+I wasn't able to help you against <b>Team Rocket</b>.
 \c[3]<b>Hoja:</b>\c[0] ¿De qué sirve tener Pokémon cuando la persona que los entrena no sabe sacarles partido?
-\c[3]<b>Hoja:</b>\c[0] ¿De qué sirve tener Pokémon cuando la persona que los entrena no sabe sacarles partido?
+\c[3]<b>Leaf:</b>\c[0] What's the point of having Pokémon when their trainer doesn't know how to use them?
 ¡El <b>Prof. Oak</b> desperdició a un Pokémon valioso entregándomelo a mí!
-¡El <b>Prof. Oak</b> desperdició a un Pokémon valioso entregándomelo a mí!
+<b>Prof. Oak</b> wasted a valuable Pokémon by giving it to me!
 \c[3]<b>Hoja:</b>\c[0] Porfa, \PN, ¿podríamos tener un último combate amistoso? Creo que se lo debo a mi equipo.
-\c[3]<b>Hoja:</b>\c[0] Porfa, \PN, ¿podríamos tener un último combate amistoso? Creo que se lo debo a mi equipo.
+\c[3]<b>Leaf:</b>\c[0] Please, \PN, could we have one last friendly battle? I think I owe it to my team.
 Necesito saber de lo que soy capaz, sin presiones. Y en base al resultado, tomar una decisión.
-Necesito saber de lo que soy capaz, sin presiones. Y en base al resultado, tomar una decisión.
+I need to know what I am capable of without any pressure. The outcome will help me make my decision.
 \c[3]<b>Hoja:</b>\c[0] Pues hasta aquí llegué, \PN.
-\c[3]<b>Hoja:</b>\c[0] Pues hasta aquí llegué, \PN.
+\c[3]<b>Leaf:</b>\c[0] Well, that's where I'm at, \PN.
 Creo que no merezco seguir adelante.
-Creo que no merezco seguir adelante.
+I don't think I deserve to move on.
 \c[3]<b>Hoja:</b>\c[0] Cuando el <b>Prof. Oak</b> me envió un correo informándome de que iba a pasar a formar parte de su alumnado...
-\c[3]<b>Hoja:</b>\c[0] Cuando el <b>Prof. Oak</b> me envió un correo informándome de que iba a pasar a formar parte de su alumnado...
+\c[3]<b>Leaf:</b>\c[0] When <b>Prof. Oak</b> emailed me to invite me to his research project...
 Era demasiado bonito para ser real.
-Era demasiado bonito para ser real.
+It seemed too good to be true.
 Supongo que tendré que volver a <b>Ciudad Verde</b> con la cabeza tan alta como pueda. No puedo llegar más lejos que esto.
-Supongo que tendré que volver a <b>Ciudad Verde</b> con la cabeza tan alta como pueda. No puedo llegar más lejos que esto.
-<b>Lorelei:</b> No te rindas todavía. El final de tu camino no es este.
-<b>Lorelei:</b> No te rindas todavía. El final de tu camino no es este.
+I guess I'll just have to return to <b>Viridian City</b> with my head as high as I can. I can't go any further than this.
+<b>???:</b> No te rindas todavía. El final de tu camino no es este.
+<b>???:</b> Don't give up yet. Your journey doesn't end here.
 \c[3]<b>Hoja:</b>\c[0] ¡No... no me lo puedo creer! ¿Estoy soñando?
-\c[3]<b>Hoja:</b>\c[0] ¡No... no me lo puedo creer! ¿Estoy soñando?
+\c[3]<b>Leaf:</b>\c[0] No...I can't believe it! Am I dreaming?
 ¡Es... es...!
-¡Es... es...!
+It's...it's...
 \c[3]<b>Hoja:</b>\c[0] ¡Es <b>Lorelei</b>, una de las cuatro <b>Altos Mandos</b>!
-\c[3]<b>Hoja:</b>\c[0] ¡Es <b>Lorelei</b>, una de las cuatro <b>Altos Mandos</b>!
+\c[3]<b>Leaf:</b>\c[0] It's <b>Lorelei</b>, one of the <b>Elite Four</b>!
 ¡Una de los entrenadores más fuertes de toda la región!
-¡Una de los entrenadores más fuertes de toda la región!
+One of the strongest trainers in the entire region!
 <b>Lorelei:</b> Bueno, se podría decir que sí.
-<b>Lorelei:</b> Bueno, se podría decir que sí.
+<b>Lorelei:</b> Well, you could say that.
 Pero hace años no era muy distinta a vosotros. Una joven insegura y que no siempre hacía las cosas bien.
-Pero hace años no era muy distinta a vosotros. Una joven insegura y que no siempre hacía las cosas bien.
+But years ago I wasn't so different from you. An insecure kid that didn't always get it right.
 <b>Lorelei:</b> Sé que suena a topicazo, pero tener miedo es la sensación más normal del mundo.
-<b>Lorelei:</b> Sé que suena a topicazo, pero tener miedo es la sensación más normal del mundo.
+<b>Lorelei:</b> I know it sounds cliché, but being afraid is the most normal feeling in the world.
 Es el cómo reaccionamos a ese miedo lo que marca la diferencia.
-Es el cómo reaccionamos a ese miedo lo que marca la diferencia.
+It is how we react to that fear that makes the difference.
 \c[3]<b>Hoja:</b>\c[0] Pero... señora <b>Lorelei</b>... no todos podemos estar destinados a convertirnos en grandes entrenadores, ¿verdad?
-\c[3]<b>Hoja:</b>\c[0] Pero... señora <b>Lorelei</b>... no todos podemos estar destinados a convertirnos en grandes entrenadores, ¿verdad?
+\c[3]<b>Leaf:</b>\c[0] But...Mrs. <b>Lorelei</b>...we can't all be destined to become great trainers, right?
 La vida no puede ser así de bonita.
-La vida no puede ser así de bonita.
+Life can't be that kind.
 <b>Lorelei:</b> A ver, pero aquí la pregunta es, ¿te gusta ser Entrenadora Pokémon?
-<b>Lorelei:</b> A ver, pero aquí la pregunta es, ¿te gusta ser Entrenadora Pokémon?
+<b>Lorelei:</b> Let's see...I'll answer your question with a question. Do you like being a Pokémon Trainer?
 \c[3]<b>Hoja:</b>\c[0] Sí... ¡adoro a los Pokémon! Lo que estoy viviendo... ¡para mí es un sueño hecho realidad!
-\c[3]<b>Hoja:</b>\c[0] Sí... ¡adoro a los Pokémon! Lo que estoy viviendo... ¡para mí es un sueño hecho realidad!
+\c[3]<b>Leaf:</b>\c[0] Yes...I love Pokémon! What I'm experiencing...it's dream come true!
 <b>Lorelei:</b> ¡Pues no hay más que hablar! ¡Sigue tu camino Pokémon, a ver a dónde te lleva!
-<b>Lorelei:</b> ¡Pues no hay más que hablar! ¡Sigue tu camino Pokémon, a ver a dónde te lleva!
+<b>Lorelei:</b> Then there's nothing more to say! Follow your Pokémon path, see where it takes you!
 \c[3]<b>Hoja:</b>\c[0] ¡A-así lo haré, señora <b>Lorelei</b>! ¡Muchas gracias por sus palabras!
-\c[3]<b>Hoja:</b>\c[0] ¡A-así lo haré, señora <b>Lorelei</b>! ¡Muchas gracias por sus palabras!
+\c[3]<b>Leaf:</b>\c[0] I-I will, Mrs. <b>Lorelei</b>! Thank you so much for your kind words!
 <b>Lorelei:</b> ¡De nada! Y tened cuidado con el <b>Túnel Roca</b>.
-<b>Lorelei:</b> ¡De nada! Y tened cuidado con el <b>Túnel Roca</b>.
+<b>Lorelei:</b> You're welcome! And be careful in the <b>Rock Tunnel</b>.
 Es una travesía bastante peligrosa.
-Es una travesía bastante peligrosa.
+It's quite a dangerous journey.
 \c[2]<b>Rojo:</b>\c[0] ...
-\c[2]<b>Rojo:</b>\c[0] ...
+\c[2]<b>Red:</b>\c[0] ...
 \c[2]<b>Rojo:</b>\c[0] Ah... hola, \PN.
-\c[2]<b>Rojo:</b>\c[0] Ah... hola, \PN.
+\c[2]<b>Red:</b>\c[0] Oh...hey, \PN.
 \c[2]<b>Rojo:</b>\c[0] ¿De qué sirve tener Pokémon cuando la persona que los entrena no sabe sacarles partido?
-\c[2]<b>Rojo:</b>\c[0] ¿De qué sirve tener Pokémon cuando la persona que los entrena no sabe sacarles partido?
+\c[2]<b>Red:</b>\c[0] What's the point of having Pokémon when their trainer doesn't know how to use them?
 \c[2]<b>Rojo:</b>\c[0] Porfa, \PN, ¿podríamos tener un último combate amistoso? Creo que se lo debo a mi equipo.
-\c[2]<b>Rojo:</b>\c[0] Porfa, \PN, ¿podríamos tener un último combate amistoso? Creo que se lo debo a mi equipo.
+\c[2]<b>Red:</b>\c[0] Please, \PN, could we have one last friendly battle? I think I owe it to my team.
 \c[2]<b>Rojo:</b>\c[0] Pues hasta aquí llegué, \PN.
-\c[2]<b>Rojo:</b>\c[0] Pues hasta aquí llegué, \PN.
+\c[2]<b>Red:</b>\c[0] Well, that's where I'm at, \PN.
 \c[2]<b>Rojo:</b>\c[0] Cuando el <b>Prof. Oak</b> me envió un correo informándome de que iba a pasar a formar parte de su alumnado...
-\c[2]<b>Rojo:</b>\c[0] Cuando el <b>Prof. Oak</b> me envió un correo informándome de que iba a pasar a formar parte de su alumnado...
+\c[2]<b>Red:</b>\c[0] When <b>Prof. Oak</b> emailed me to invite me to his research project...
 \c[2]<b>Rojo:</b>\c[0] ¡No... no me lo puedo creer! ¿Estoy soñando?
-\c[2]<b>Rojo:</b>\c[0] ¡No... no me lo puedo creer! ¿Estoy soñando?
+\c[2]<b>Red:</b>\c[0] No...I can't believe it! Am I dreaming?
 \c[2]<b>Rojo:</b>\c[0] ¡Es <b>Lorelei</b>, una de las cuatro <b>Altos Mandos</b>!
-\c[2]<b>Rojo:</b>\c[0] ¡Es <b>Lorelei</b>, una de las cuatro <b>Altos Mandos</b>!
+\c[2]<b>Red:</b>\c[0] It's <b>Lorelei</b>, one of the <b>Elite Four</b>!
 \c[2]<b>Rojo:</b>\c[0] Pero... señora <b>Lorelei</b>... no todos podemos estar destinados a convertirnos en grandes entrenadores, ¿verdad?
-\c[2]<b>Rojo:</b>\c[0] Pero... señora <b>Lorelei</b>... no todos podemos estar destinados a convertirnos en grandes entrenadores, ¿verdad?
+\c[2]<b>Red:</b>\c[0] But...Mrs. <b>Lorelei</b>...we can't all be destined to become great trainers, right?
 \c[2]<b>Rojo:</b>\c[0] Sí... ¡adoro a los Pokémon! Lo que estoy viviendo... ¡para mí es un sueño hecho realidad!
-\c[2]<b>Rojo:</b>\c[0] Sí... ¡adoro a los Pokémon! Lo que estoy viviendo... ¡para mí es un sueño hecho realidad!
+\c[2]<b>Red:</b>\c[0] Yes...I love Pokémon! What I'm experiencing...it's dream come true!
 \c[2]<b>Rojo:</b>\c[0] ¡A-así lo haré, señora <b>Lorelei</b>! ¡Muchas gracias por sus palabras!
-\c[2]<b>Rojo:</b>\c[0] ¡A-así lo haré, señora <b>Lorelei</b>! ¡Muchas gracias por sus palabras!
+\c[2]<b>Red:</b>\c[0] I-I will, Mrs. <b>Lorelei</b>! Thank you so much for your kind words!
 Central Energía
-Central Energía
+Power Plant
 En concreto, sientes la presencia de un Pokémon Eléctrico muy poderoso.
-En concreto, sientes la presencia de un Pokémon Eléctrico muy poderoso.
+You feel the presence of a very powerful Electric Pokémon.
 ¿Sabías que hay una <b>Central Eléctrica</b> abandonada por aquí cerca?
-¿Sabías que hay una <b>Central Eléctrica</b> abandonada por aquí cerca?
+Did you know that there's an abandoned <b>Power Plant</b> nearby?
 Por lo visto, fue invadida por un Pokémon eléctrico muy destructivo que decidió instalarse ahí.
-Por lo visto, fue invadida por un Pokémon eléctrico muy destructivo que decidió instalarse ahí.
+Apparently, it was invaded by a very destructive Electric Pokémon that decided to settle down there.
 Los Pokémon pueden llegar a ser criaturas terroríficas. Hay que amarlos, ¡pero también tenerles cierto respeto!
-Los Pokémon pueden llegar a ser criaturas terroríficas. Hay que amarlos, ¡pero también tenerles cierto respeto!
+Pokémon can be terrifying creatures. You have to love them, but also have a certain amount of respect for them!
 Sí
 Yes
 No
@@ -1401,21 +1401,21 @@ No
 #-------------------------------
 [Map024]
 ¡Eh, hola! ¿Quieres ver mi Pokémon?
-¡Eh, hola! ¿Quieres ver mi Pokémon?
+Oh, hello! Do you want to see my Pokémon?
 No me caen nada bien los que son más fuertes que yo. ¡Déjame en paz!
-No me caen nada bien los que son más fuertes que yo. ¡Déjame en paz!
+I don't like people who are stronger than me. Leave me alone!
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 Uf, uf... Hacía mucho tiempo que no venía de excursión a la montaña. ¡Qué cansada estoy!
-Uf, uf... Hacía mucho tiempo que no venía de excursión a la montaña. ¡Qué cansada estoy!
+Huff, huff...It's been a long time since I've been on a trip through the mountains. I'm so tired!
 ¡Estos Pokémon de montaña son tan toscos! Ojalá hubiera uno con algún motivo más cuco.
-¡Estos Pokémon de montaña son tan toscos! Ojalá hubiera uno con algún motivo más cuco.
+These mountain Pokémon are so rough! I wish there were some cute ones.
 Túnel Roca
-Túnel Roca
+Rock Tunnel
 Quería hacer turismo por <b>Pueblo Lavanda</b>, ya que he llegado hasta aquí... ¡pero es un lugar realmente deprimente!
-Quería hacer turismo por <b>Pueblo Lavanda</b>, ya que he llegado hasta aquí... ¡pero es un lugar realmente deprimente!
+I wanted to go sightseeing around <b>Lavender Town</b> since I've come this far...but it's a really depressing place!
 Creo que me quedaré un rato más por la montaña.
-Creo que me quedaré un rato más por la montaña.
+I think I'll stay in the mountains a little longer.
 Sí
 Yes
 No
@@ -1423,75 +1423,75 @@ No
 #-------------------------------
 [Map025]
 LLevo tantos años de ermitaño que cada vez me interesa menos la gente.
-LLevo tantos años de ermitaño que cada vez me interesa menos la gente.
+I've been a hermit for so many years that I'm becoming less and less interested in people.
 ¡Tienes madera para esto! ¿No te interesaría unirte a los Montañeros? Es una vida solitaria, pero muy bonita a su manera.
-¡Tienes madera para esto! ¿No te interesaría unirte a los Montañeros? Es una vida solitaria, pero muy bonita a su manera.
+You're cut out for this! Would you be interested in joining the Hikers? It's a solitary life, but very beautiful in its own way.
 Salida a la <b>Ruta 10</b>
-Salida a la <b>Ruta 10</b>
+Exit to <b>Route 10</b>
 ¡El <b>Iluminador</b> alumbra el camino!
-¡El <b>Iluminador</b> alumbra el camino!
+The <b>Illuminator</b> lights the way!
 Me considero un Montañero Veterano y... ¡voy a hacerte llorar!
-Me considero un Montañero Veterano y... ¡voy a hacerte llorar!
+I consider myself a Veteran Hiker and...I'm going to make you cry!
 Por si no lo sabías, en la montaña suele haber Pokémon de tipo Roca. Te he abrumado con este dato, ¿eh?
-Por si no lo sabías, en la montaña suele haber Pokémon de tipo Roca. Te he abrumado con este dato, ¿eh?
+In case you didn't know, there are usually Rock-type Pokémon in the mountains. I've overwhelmed you with this information, huh?
 Salida a <b>Pueblo Lavanda</b>
-Salida a <b>Pueblo Lavanda</b>
+Exit to <b>Lavender Town</b>
 Combate Pokémon a la de... ¡YA! ¡Saca tus Pokéball!
-Combate Pokémon a la de... ¡YA! ¡Saca tus Pokéball!
+Pokémon Battle like... NOW! Get out your Pokéballs!
 Este túnel solía estar demasiado oscuro... ¿no habrá alguna forma de ir más iluminado?
-Este túnel solía estar demasiado oscuro... ¿no habrá alguna forma de ir más iluminado?
+This tunnel is too dark... isn't there a way to make it brighter?
 #-------------------------------
 [Map026]
 ¿Tienes una Pokédex? ¡Yo también quiero una!
-¿Tienes una Pokédex? ¡Yo también quiero una!
+Do you have a Pokédex? I want one too!
 Cuando completes tu Pokédex, me la das, ¿vale?
-Cuando completes tu Pokédex, me la das, ¿vale?
+When you complete your Pokédex, give it to me, okay?
 ¿Te digo un truco para no perderse en la montaña? Basta con ir dejando un rastro de ramitas para marcar el camino.
-¿Te digo un truco para no perderse en la montaña? Basta con ir dejando un rastro de ramitas para marcar el camino.
+Can I tell you a trick to avoid getting lost in the mountains? You can leave a trail of twigs to mark your path.
 ¡Se ve que tienes un estilo de combate bien definido! Te será útil para atravesar un paraje tan hostil como este.
-¡Se ve que tienes un estilo de combate bien definido!  Te será útil para atravesar un paraje tan hostil como este.
+It seems that you're comfortable in combat! That's important for crossing an area as hostile as this.
 Hola, ¿has visto por aquí a un Pokémon llamado Cubone?
-Hola, ¿has visto por aquí a un Pokémon llamado Cubone?
+Hello, have you seen a Pokémon called Cubone around here?
 Vine al <b>Túnel Roca</b> en busca de Cubone, pero por ahora no he tenido demasiada suerte.
-Vine al <b>Túnel Roca</b> en busca de Cubone, pero por ahora no he tenido demasiada suerte.
+I came to the <b>Rock Tunnel</b> looking for Cubone, but so far I haven't had much luck.
 Hmmm... Sí. Estoy prácticamente seguro... de que no tengo ni idea de dónde estoy.
-Hmmm... Sí. Estoy prácticamente seguro... de que no tengo ni idea de dónde estoy.
+Hmmm...Yeah. I'm pretty sure...I have no idea where I am.
 Ese Pokémon que se ha quedado dormido en la Ruta 12 me ha obligado a desviarme.
-Ese Pokémon que se ha quedado dormido en la Ruta 12 me ha obligado a desviarme.
+That Pokémon that fell asleep on Route 12 forced me to take a detour.
 #-------------------------------
 [Map027]
 Aquí no tenemos Gimnasio Pokémon, afortunadamente.
-Aquí no tenemos Gimnasio Pokémon, afortunadamente.
+We don't have a Pokémon Gym here, thankfully.
 Somos un pueblo tranquilo, no queremos entrenadores Pokémon yendo y viniendo.
-Somos un pueblo tranquilo, no queremos entrenadores Pokémon yendo y viniendo.
+We're a quiet town, we don't want Pokémon trainers coming and going.
 A muchos les parece siniestro el olor a incienso, pero a mí me relaja un montón.
-A muchos les parece siniestro el olor a incienso, pero a mí me relaja un montón.
+Some people find the smell of incense ominous, but it relaxes me a lot.
 <b>Pueblo Lavanda</b>, el noble pueblo espiritual.
-<b>Pueblo Lavanda</b>, el noble pueblo espiritual.
+<b>Lavender Town</b>, the noble spiritual town.
 El <b>Sr. Fuji</b> acoge a todos los Pokémon huérfanos en su refugio.
-El <b>Sr. Fuji</b> acoge a todos los Pokémon huérfanos en su refugio.
+<b>Mr. Fuji</b> takes in all the orphaned Pokémon in his shelter.
 Hace años fue un gran científico que daba charlas por todas partes, pero cambió a un modo de vida más sencillo y humilde.
-Hace años fue un gran científico que daba charlas por todas partes, pero cambió a un modo de vida más sencillo y humilde.
+Years ago he was a great scientist who gave talks everywhere, but he changed to a simpler and more humble way of life.
 Refugio Fuji
-Refugio Fuji
+Lavender Volunteer Pokémon House
 Dime, ¿crees en los fantasmas?
-Dime, ¿crees en los fantasmas?
+Tell me, do you believe in ghosts?
 ¿En serio? ¿Y no te da miedo?
-¿En serio? ¿Y no te da miedo?
+Oh really? You aren't afraid?
 ¡Pues claro, porque no son reales!
-¡Pues claro, porque no son reales!
+Of course, because they're not real!
 Por ejemplo, esa mano blanca que tienes sobre el hombro no es real.
-Por ejemplo, esa mano blanca que tienes sobre el hombro no es real.
+I must be imagining that white hand on your shoulder...
 Si entras en la <b>Torre Pokémon</b>, ten educación y no armes mucho jaleo.
-Si entras en la <b>Torre Pokémon</b>, ten educación y no armes mucho jaleo.
+If you enter the <b>Pokémon Tower</b>, be polite and don't make a big fuss.
 Los que hay dentro quieren tranquilidad, tanto las personas como los Pokémon que allí descansan.
-Los que hay dentro quieren tranquilidad, tanto las personas como los Pokémon que allí descansan.
+Those inside want tranquility, both the people and the Pokémon that rest there.
 Torre Pokémon
-Torre Pokémon
+Pokémon Tower
 <b>Pueblo Lavanda</b> es famoso por sus tumbas Pokémon.
-<b>Pueblo Lavanda</b> es famoso por sus tumbas Pokémon.
+<b>Lavender Town</b> is famous for its Pokémon graves.
 Cuando un Pokémon muere, lo llevan a la <b>Torre Pokémon</b> para enterrarlo.
-Cuando un Pokémon muere, lo llevan a la <b>Torre Pokémon</b> para enterrarlo.
+When a Pokémon dies, they take it to the <b>Pokémon Tower</b> to bury it.
 Sí
 Yes
 No
@@ -3991,7 +3991,7 @@ Segun leí en "El Poké de las cosas", Jigglypuff evoluciona al verse expuesto a
 En concreto, sientes la presencia de un Pokémon Fantasma muy poderoso.
 En concreto, sientes la presencia de un Pokémon Fantasma muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -4645,7 +4645,7 @@ Camino de Bicis
 En concreto, sientes la presencia de un Pokémon Veneno muy poderoso.
 En concreto, sientes la presencia de un Pokémon Veneno muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -4931,7 +4931,7 @@ Apreté demasiado el acelerador y me estrellé, ¡ojalá ser tan prudente en la 
 En concreto, sientes la presencia de un Pokémon Volador muy poderoso.
 En concreto, sientes la presencia de un Pokémon Volador muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -5691,7 +5691,7 @@ Islas Espuma
 En concreto, sientes la presencia de un Pokémon Hielo muy poderoso.
 En concreto, sientes la presencia de un Pokémon Hielo muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -5731,7 +5731,7 @@ Oye, solo quería que vieras mi bañador, ¿por qué has combatido conmigo? ¡Me
 En concreto, sientes la presencia de un Pokémon Agua muy poderoso.
 En concreto, sientes la presencia de un Pokémon Agua muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -5861,7 +5861,7 @@ Do you want to use Climbing Equipment?
 En concreto, sientes la presencia de un Pokémon Acero muy poderoso.
 En concreto, sientes la presencia de un Pokémon Acero muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -5933,7 +5933,7 @@ Por hoy me quedaré aquí, pero mañana pienso investigar a fondo el resto de zo
 En concreto, sientes la presencia de un Pokémon Normal muy poderoso.
 En concreto, sientes la presencia de un Pokémon Normal muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -5973,7 +5973,7 @@ Ugh... ¿tengo que meterme en la marisma para capturar Pokémon? Tal vez esto no
 En concreto, sientes la presencia de un Pokémon Planta muy poderoso.
 En concreto, sientes la presencia de un Pokémon Planta muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -6007,7 +6007,7 @@ Do you want to use Climbing Equipment?
 En concreto, sientes la presencia de un Pokémon Fuego muy poderoso.
 En concreto, sientes la presencia de un Pokémon Fuego muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -7973,7 +7973,7 @@ Cataratas Tohjo
 En concreto, sientes la presencia de un Pokémon Lucha muy poderoso.
 En concreto, sientes la presencia de un Pokémon Lucha muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -8033,7 +8033,7 @@ No
 En concreto, sientes la presencia de un Pokémon Dragón muy poderoso.
 En concreto, sientes la presencia de un Pokémon Dragón muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -9447,7 +9447,7 @@ No
 En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
 En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -9691,7 +9691,7 @@ Cada entrenador tiene su propio estilo de combate y es su misión descubrirlo y 
 En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
 En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
@@ -9875,7 +9875,7 @@ La señora Prisma nos pidió que montáramos guardia y tratáramos de frenar tu 
 En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
 En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
 ¿Quieres hacerlo salir?
-¿Quieres hacerlo salir?
+Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
 The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
