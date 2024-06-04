@@ -36,7 +36,6 @@ TODO:
 - Fix TMs, randomizer is grabbing gen9 (i.e. I found TM60 and 073 Drain Punch)
 - Replace EBDX Boss Battle (only used for Mewtwo fight) with something else
 - Verify all battlebacks are properly set with OG battle system and assets
-- Check if Mega-ing Pokemon still works (oops)
 - PokeVial
 - PokeRadar? (shiny chaining)
 - Rival Name appears as "Blue" in battle
@@ -47,3 +46,5 @@ TODO:
 - Mega works, but you have to press Z and no animation plays?
 - Double check sprites aren't using any old EBDX stuff, i.e. check Mewtwo's back sprite vs gen 9 pack
 - Re-implement "Illuminator" item
+- Check Map 43 for whoever is handling Move Remember-ing
+- Can we re-implement level caps?
