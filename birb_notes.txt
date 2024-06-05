@@ -48,3 +48,4 @@ TODO:
 - Re-implement "Illuminator" item
 - Check Map 43 for whoever is handling Move Remember-ing
 - Can we re-implement level caps?
+- Text box shake effect (/sh)

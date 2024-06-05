@@ -2577,7 +2577,7 @@ Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
 Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-You and your Pokemon are reenergized, come back whenever you'd like!
+You and your Pokemon are re-energized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Sí
@@ -2617,7 +2617,7 @@ Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
 Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-You and your Pokemon are reenergized, come back whenever you'd like!
+You and your Pokemon are re-energized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Sí
@@ -3641,95 +3641,95 @@ I feel anemic and weak...
 #-------------------------------
 [Map065]
 <b>Sr. Fuji:</b> ¿Has... has venido a rescatarme?
-<b>Sr. Fuji:</b> ¿Has... has venido a rescatarme?
+<b>Mr. Fuji:</b> Have you...have you come to rescue me?
 Vine a la <b>Torre Pokémon</b> para dejar unas flores como todas las mañanas cuando el <b>Team Rocket</b> me secuestró.
-Vine a la <b>Torre Pokémon</b> para dejar unas flores como todas las mañanas cuando el <b>Team Rocket</b> me secuestró.
+I came to the <b>Pokémon Tower</b> to leave some flowers like I do every morning when <b>Team Rocket</b> kidnapped me.
 Me tienen aquí retenido y además están causando un daño irreparable a los Pokémon.
-Me tienen aquí retenido y además están causando un daño irreparable a los Pokémon.
+They're holding me here and causing irreparable harm to the Pokémon.
 ¡Por favor, tenemos que echarlos como sea!
-¡Por favor, tenemos que echarlos como sea!
+Please, we have to kick them out no matter what!
 <b>???:</b> *Ejem*
-<b>???:</b> *Ejem*
+<b>???:</b> *Ahem*
 <b>???:</b> Qué lugar tan solemne. Se estremece uno rodeado de tantos sepulcros Pokémon.
-<b>???:</b> Qué lugar tan solemne. Se estremece uno rodeado de tantos sepulcros Pokémon.
+<b>???:</b> What a solemn place. One shudders surrounded by so many Pokémon tombs.
 <b>???:</b> Hola, mozalbete. Te encuentras ante el temible <b>Comandante Urano</b>.
-<b>???:</b> Hola, mozalbete. Te encuentras ante el temible <b>Comandante Urano</b>.
+<b>???:</b> Hello, young man. You find yourself before the fearsome <b>Commander Urano</b>.
 <b>???:</b> Hola, mozalbeta. Te encuentras ante el temible <b>Comandante Urano</b>.
-<b>???:</b> Hola, mozalbeta. Te encuentras ante el temible <b>Comandante Urano</b>.
+<b>???:</b> Hello, young lady. You find yourself before the fearsome <b>Commander Urano</b>.
 Soy el miembro más veterano del <b>Team Rocket</b>. Tuve el honor de estar presente en su fundación, más espero no ver nunca su caída.
-Soy el miembro más veterano del <b>Team Rocket</b>. Tuve el honor de estar presente en su fundación, más espero no ver nunca su caída.
+I'm the oldest member of <b>Team Rocket</b>. I had the honor of being present at its founding, and I hope to never see its fall.
 <b>Urano:</b> Este es mi carnet de socio. Soy el miembro nº001.
-<b>Urano:</b> Este es mi carnet de socio. Soy el miembro nº001.
+<b>Urano:</b> This is my membership card. I am member #001.
 <b>Urano:</b> Bien, hechas las presentaciones...
-<b>Urano:</b> Bien, hechas las presentaciones...
+<b>Urano:</b> Well, introductions aside...
 \sh¿TE PUEDES LARGAR DE AQUÍ? ¡AHORA!
-\sh¿TE PUEDES LARGAR DE AQUÍ? ¡AHORA!
+\sh¿TE \sh CAN YOU GET OUT OF HERE? NOW!
 ¡Tenemos cuentas pendientes con el <b>Sr. Fuji</b>!
-¡Tenemos cuentas pendientes con el <b>Sr. Fuji</b>!
+We have unfinished business with <b>Mr. Fuji</b>!
 Con tesón y perseverancia, lograremos someterlo a la voluntad del <b>Team Rocket</b>.
-Con tesón y perseverancia, lograremos someterlo a la voluntad del <b>Team Rocket</b>.
+Through our tenacity and perseverance, <b>Team Rocket</b> will subjugate him.
 <b>Sr. Fuji:</b> Es por el <b>PROYECTO M</b>, ¿verdad?
-<b>Sr. Fuji:</b> Es por el <b>PROYECTO M</b>, ¿verdad?
+<b>Mr. Fuji:</b> It's because of <b>PROJECT M</b>, right?
 Siento deciros que no puedo ayudaros. Ahora solo soy un Cuidador Pokémon.
-Siento deciros que no puedo ayudaros. Ahora solo soy un Cuidador Pokémon.
+I'm sorry to tell you that I can't help you. Now I'm just a Pokémon Caretaker.
 <b>Urano:</b> Mire, <b>Sr. Fuji</b>, yo esos detalles los desconozco.
-<b>Urano:</b> Mire, <b>Sr. Fuji</b>, yo esos detalles los desconozco.
+<b>Urano:</b> Look, <b>Mr. Fuji</b>, I don't know or care about those details.
 Prefiero que el zagal de <b>Giovanni</b> se ocupe de toda la parte intelectual del trabajo.
-Prefiero que el zagal de <b>Giovanni</b> se ocupe de toda la parte intelectual del trabajo.
+I prefer to let <b>Giovanni</b> take care of the intellectual part of the work.
 Yo solo sigo órdenes y defiendo la honorabilidad del <b>Team Rocket</b> allá donde vaya.
-Yo solo sigo órdenes y defiendo la honorabilidad del <b>Team Rocket</b> allá donde vaya.
+I just follow orders and defend <b>Team Rocket</b>'s honor wherever I go.
 <b>Urano:</b> ¿Y tú? No te apartas, ¿no?
-<b>Urano:</b> ¿Y tú? No te apartas, ¿no?
+<b>Urano:</b> And you? You don't run away, do you?
 ¿Y crees que puedes derrotar a alguien que lleva más de 70 años bregando en contiendas Pokémon?
-¿Y crees que puedes derrotar a alguien que lleva más de 70 años bregando en contiendas Pokémon?
+Do you really think you can defeat someone who's been fighting Pokémon battles for over 70 years?
 ¡Pues coge tus Pokéball y comprobémoslo!
-¡Pues coge tus Pokéball y comprobémoslo!
+Well, grab your Pokéballs and let's find out!
 <b>Urano:</b> Muy bien, ¡los espíritus Pokémon serán testigos de nuestro duelo!
-<b>Urano:</b> Muy bien, ¡los espíritus Pokémon serán testigos de nuestro duelo!
+<b>Urano:</b> Very well, the Pokémon spirits will witness our duel!
 \sh¡KIAAAAAAAAAHHHH!
-\sh¡KIAAAAAAAAAHHHH!
+\shHIYAAAAAAAAAAAAA!
 <b>Urano:</b> Aunque en tu corazón lata el orgullo de un guerrero, tus aspiraciones son fútiles.
-<b>Urano:</b> Aunque en tu corazón lata el orgullo de un guerrero, tus aspiraciones son fútiles.
+<b>Urano:</b> Although your heart beats with the pride of a warrior, your aspirations are futile.
 <b>Urano:</b> Aunque en tu corazón lata el orgullo de una guerrera, tus aspiraciones son fútiles.
-<b>Urano:</b> Aunque en tu corazón lata el orgullo de una guerrera, tus aspiraciones son fútiles.
+<b>Urano:</b> Although your heart beats with the pride of a warrior, your aspirations are futile.
 <b>Urano:</b> Tenemos a más compañeros del <b>Team Rocket</b> esperando fuera. Vendrán cuantos sean necesarios para alcanzar la victoria.
-<b>Urano:</b> Tenemos a más compañeros del <b>Team Rocket</b> esperando fuera. Vendrán cuantos sean necesarios para alcanzar la victoria.
+<b>Urano:</b> We have more members of <b>Team Rocket</b> waiting outside. As many as necessary will come to achieve victory.
 <b>???:</b> ¡De eso nada!
-<b>???:</b> ¡De eso nada!
+<b>???:</b> As if!
 \c[1]<b>\v[12]:</b>\c[0] \PN, ¿ya has vencido al viejales este?
-\c[1]<b>\v[12]:</b>\c[0] \PN, ¿ya has vencido al viejales este?
+\c[1]<b>\v[12]:</b>\c[0] \PN, have you already defeated this old guy?
 ¡Nosotros nos hemos encargado del resto de <b>Reclutas Rocket</b>!
-¡Nosotros nos hemos encargado del resto de <b>Reclutas Rocket</b>!
+We've taken care of the rest of the <b>Rocket Recruits</b>!
 \c[1]<b>\v[12]:</b>\c[0] ¡Si hasta \c[3]<b>Hoja</b>\c[0] ha derrotado a dos ella sola! Tendrías que haberlo visto.
-\c[1]<b>\v[12]:</b>\c[0] ¡Si hasta \c[3]<b>Hoja</b>\c[0] ha derrotado a dos ella sola! Tendrías que haberlo visto.
+\c[1]<b>\v[12]:</b>\c[0] Even \c[3]<b>Leaf</b>\c[0] beat two by herself! You should have seen it.
 \c[3]<b>Hoja:</b>\c[0] No ha tenido mucho mérito, eran bastante tontos.
-\c[3]<b>Hoja:</b>\c[0] No ha tenido mucho mérito, eran bastante tontos.
+\c[3]<b>Leaf:</b>\c[0] It's not that big of a deal, they were pretty stupid.
 <b>Urano:</b> ¡Ah! ¡El arrojo de la juventud! ¡Que distinto sería todo si tuviera 40 años menos!
-<b>Urano:</b> ¡Ah! ¡El arrojo de la juventud! ¡Que distinto sería todo si tuviera 40 años menos!
+<b>Urano:</b> Ah! The boldness of youth! Things would be different if I were 40 years younger!
 ¡Habéis ganado esta batalla pero no la guerra! ¡El <b>Team Rocket</b> se retira por ahora!
-¡Habéis ganado esta batalla pero no la guerra! ¡El <b>Team Rocket</b> se retira por ahora!
+You've won this battle, but not the war! <b>Team Rocket</b>'s blasting off for now!
 <b>Sr. Fuji:</b> Os doy las gracias por haber librado a la <b>Torre Pokémon</b> de la presencia del <b>Team Rocket</b>.
-<b>Sr. Fuji:</b> Os doy las gracias por haber librado a la <b>Torre Pokémon</b> de la presencia del <b>Team Rocket</b>.
+<b>Mr. Fuji:</b> Thank you for freeing <b>Pokémon Tower</b> from the clutches of <b>Team Rocket</b>.
 <b>Sr. Fuji:</b> Y en cuanto a ti, \PN, has hecho algo muy bonito al ayudar a ese Marowak a encontrar la paz.
-<b>Sr. Fuji:</b> Y en cuanto a ti, \PN, has hecho algo muy bonito al ayudar a ese Marowak a encontrar la paz.
+<b>Mr. Fuji:</b> And as for you, \PN, you've done a very kind thing by helping that Marowak find peace.
 <b>Sr. Fuji:</b> Por favor, acompañadme a mi casa. Quiero contaros algunas cosas.
-<b>Sr. Fuji:</b> Por favor, acompañadme a mi casa. Quiero contaros algunas cosas.
+<b>Mr. Fuji:</b> Please accompany me home. I want to tell you some things.
 \c[1]<b>\v[12]:</b>\c[0] ¡Si hasta \c[2]<b>Rojo</b>\c[0] ha derrotado a dos él solo! Tendrías que haberlo visto.
-\c[1]<b>\v[12]:</b>\c[0] ¡Si hasta \c[2]<b>Rojo</b>\c[0] ha derrotado a dos él solo! Tendrías que haberlo visto.
+\c[1]<b>\v[12]:</b>\c[0] Even \c[3]<b>Red</b>\c[0] beat two by himself! You should have seen it.
 \c[2]<b>Rojo:</b>\c[0] No ha tenido mucho mérito, eran bastante tontos.
-\c[2]<b>Rojo:</b>\c[0] No ha tenido mucho mérito, eran bastante tontos.
+\c[2]<b>Red:</b>\c[0] It's not that big of a deal, they were pretty stupid.
 ¡Deberías guardar más respeto en este sitio en lugar de corretear tanto!
-¡Deberías guardar más respeto en este sitio en lugar de corretear tanto!
+You should be more respectul in this place instead of running around so much!
 El Señor Fuji se está resistiendo, ¡pero le haremos hablar!
-El Señor Fuji se está resistiendo, ¡pero le haremos hablar!
+<b>Mr. Fuji</b> is resisting, but we'll make him talk!
 #-------------------------------
 [Map066]
 Me he pasado toda la mañana echando fotos por el bosque, ¡realmente los Pokémon de tipo Bicho tienen una belleza especial que pocos saben apreciar!
-Me he pasado toda la mañana echando fotos por el bosque, ¡realmente los Pokémon de tipo Bicho tienen una belleza especial que pocos saben apreciar!
+I've spent the whole morning taking photos in the forest. Bug-type Pokémon really have a special beauty that few know how to appreciate!
 ¡No me lo puedo creer! ¡He atrapado a un Kakuna de otro color!
-¡No me lo puedo creer! ¡He atrapado a un Kakuna de otro color!
+I can't believe it! I caught a Kakuna of a different color!
 Creo que es muy raro conseguir algo así. Extremadamente raro, de hecho.
-Creo que es muy raro conseguir algo así. Extremadamente raro, de hecho.
+I think it's very rare to get something like that. Extremely rare, in fact.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
@@ -3737,7 +3737,7 @@ Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
 Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-You and your Pokemon are reenergized, come back whenever you'd like!
+You and your Pokemon are re-energized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Sí
@@ -3747,107 +3747,107 @@ No
 #-------------------------------
 [Map067]
 <b>Sr. Fuji:</b> Bueno, jóvenes...
-<b>Sr. Fuji:</b> Bueno, jóvenes...
+<b>Mr. Fuji:</b> Well, kids...
 Habéis hecho un gran esfuerzo combatiendo a esos malvados y creo que merecéis saber lo que está pasando.
-Habéis hecho un gran esfuerzo combatiendo a esos malvados y creo que merecéis saber lo que está pasando.
+You've put great effort into fighting those evil people, and I think you deserve to know what's happening.
 <b>Sr. Fuji:</b> ¿Habéis oído hablar alguna vez de \c[5]Mew\c[0], el Pokémon Ancestro?
-<b>Sr. Fuji:</b> ¿Habéis oído hablar alguna vez de \c[5]Mew\c[0], el Pokémon Ancestro?
+<b>Mr. Fuji:</b> Have you ever heard of \c[5]Mew\c[0], the Ancestor Pokémon?
 \c[1]<b>\v[12]:</b>\c[0] Sí... por supuesto que lo sé...
-\c[1]<b>\v[12]:</b>\c[0] Sí... por supuesto que lo sé...
+\c[1]<b>\v[12]:</b>\c[0] Yes...of course I know...
 ¡Pero mejor que contesten los demás!
-¡Pero mejor que contesten los demás!
+But I'll let the others answer!
 \c[3]<b>Hoja:</b>\c[0] Yo he leído sobre eso en una revista científica.
-\c[3]<b>Hoja:</b>\c[0] Yo he leído sobre eso en una revista científica.
+\c[3]<b>Leaf:</b>\c[0] I've read about it in a scientific journal.
 \c[3]<b>Hoja:</b>\c[0] \c[5]Mew\c[0] es un Pokémon extinto y se le considera el Ancestro de todos los Pokémon.
-\c[3]<b>Hoja:</b>\c[0] \c[5]Mew\c[0] es un Pokémon extinto y se le considera el Ancestro de todos los Pokémon.
+\c[3]<b>Leaf:</b>\c[0] \c[5]Mew\c[0] is an extinct Pokémon, and is considered the Ancestor of all Pokémon.
 Hace unos años fue noticia ya que encontraron ADN suyo en unas antiguas ruinas, ¿verdad?
-Hace unos años fue noticia ya que encontraron ADN suyo en unas antiguas ruinas, ¿verdad?
+It was in the news a few years ago because they found its DNA in some ancient ruins, right?
 \c[2]<b>Rojo:</b>\c[0] Yo he leído sobre eso en una revista científica.
-\c[2]<b>Rojo:</b>\c[0] Yo he leído sobre eso en una revista científica.
+\c[2]<b>Red:</b>\c[0] I've read about it in a scientific journal.
 \c[2]<b>Rojo:</b>\c[0] \c[5]Mew\c[0] es un Pokémon extinto y se le considera el Ancestro de todos los Pokémon.
-\c[2]<b>Rojo:</b>\c[0] \c[5]Mew\c[0] es un Pokémon extinto y se le considera el Ancestro de todos los Pokémon.
+\c[2]<b>Red:</b>\c[0] \c[5]Mew\c[0] is an extinct Pokémon, and is considered the Ancestor of all Pokémon.
 <b>Sr. Fuji:</b> Correcto. Y yo formaba parte de la expedición que encontró ese ADN.
-<b>Sr. Fuji:</b> Correcto. Y yo formaba parte de la expedición que encontró ese ADN.
+<b>Mr. Fuji:</b> Correct. And I was part of the expedition that found that DNA.
 <b>Sr. Fuji:</b> Así es. Hace años, fui Investigador Pokémon.
-<b>Sr. Fuji:</b> Así es. Hace años, fui Investigador Pokémon.
+<b>Mr. Fuji:</b> Years ago, I was a Pokémon Researcher.
 <b>Sr. Fuji:</b> Pero lo peor vino después de que encontrásemos el ADN de \c[5]Mew\c[0].
-<b>Sr. Fuji:</b> Pero lo peor vino después de que encontrásemos el ADN de \c[5]Mew\c[0].
+<b>Mr. Fuji:</b> But the trouble started after we found \c[5]Mew\c[0]'s DNA.
 Aparecieron distintas organizaciones, entre ellas el <b>Team Rocket</b> y <b>Silph S.A</b>... y nos entregaron grandes sumas de dinero.
-Aparecieron distintas organizaciones, entre ellas el <b>Team Rocket</b> y <b>Silph S.A</b>... y nos entregaron grandes sumas de dinero.
+Different organizations appeared, including <b>Team Rocket</b> and <b>Silph Co.</b>...and gave us large sums of money.
 <b>Sr. Fuji:</b> Nos pidieron que creásemos un Pokémon Artificial a partir del ADN de \c[5]<b>Mew</b>\c[0]. Un Pokémon que fuese el más fuerte de todos.
-<b>Sr. Fuji:</b> Nos pidieron que creásemos un Pokémon Artificial a partir del ADN de \c[5]<b>Mew</b>\c[0]. Un Pokémon que fuese el más fuerte de todos.
+<b>Mr. Fuji:</b> We were asked to create an Artificial Pokémon from the DNA of \c[5]<b>Mew</b>\c[0]. A Pokémon that would be the strongest.
 <b>Sr. Fuji:</b> Y lo logramos.
-<b>Sr. Fuji:</b> Y lo logramos.
+<b>Mr. Fuji:</b> And we succeeded.
 <b>Sr. Fuji:</b> Logramos crear una criatura de un poder incomparable.
-<b>Sr. Fuji:</b> Logramos crear una criatura de un poder incomparable.
+<b>Mr. Fuji:</b> We managed to create a creature of incomparable power.
 Nu-nunca había visto nada igual.
-Nu-nunca había visto nada igual.
+I've never seen anything like it.
 Pero escapó de nuestro control. El Pokémon era demasiado fuerte como para someterse al mandato de los seres humanos.
-Pero escapó de nuestro control. El Pokémon era demasiado fuerte como para someterse al mandato de los seres humanos.
+But it went out of control. The Pokémon was too strong to submit to the will of humans.
 Destruyó el laboratorio en el que había sido concebido y escapó para esconderse en algún lugar remoto.
-Destruyó el laboratorio en el que había sido concebido y escapó para esconderse en algún lugar remoto.
+He destroyed the laboratory that he had been conceived in, and escaped to hide somewhere remote.
 El <b>Team Rocket</b>, con <b>Giovanni</b> a la cabeza, lo está buscando desesperadamente.
-El <b>Team Rocket</b>, con <b>Giovanni</b> a la cabeza, lo está buscando desesperadamente.
+<b>Team Rocket</b>, with <b>Giovanni</b> at the helm, is desperately searching for him.
 \c[1]<b>\v[12]:</b>\c[0] Espera... ¿está diciendo que el Pokémon más fuerte del mundo anda por ahí suelto?
-\c[1]<b>\v[12]:</b>\c[0] Espera... ¿está diciendo que el Pokémon más fuerte del mundo anda por ahí suelto?
+\c[1]<b>\v[12]:</b>\c[0] Wait...are you saying that the strongest Pokémon in the world is out there somewhere?
 ¡Tiene que ser mío!
-¡Tiene que ser mío!
+It has to be mine!
 \c[3]<b>Hoja:</b>\c[0] ¿Es que no has escuchado nada?
-\c[3]<b>Hoja:</b>\c[0] ¿Es que no has escuchado nada?
+\c[3]<b>Leaf:</b>\c[0] Weren't you listening?
 ¡Se trata de un Pokémon peligroso y de un poder incontrolable!
-¡Se trata de un Pokémon peligroso y de un poder incontrolable!
+This is a dangerous Pokémon with uncontrollable power!
 \c[2]<b>Rojo:</b>\c[0] ¿Es que no has escuchado nada?
-\c[2]<b>Rojo:</b>\c[0] ¿Es que no has escuchado nada?
+\c[2]<b>Red:</b>\c[0] Weren't you listening?
 \c[1]<b>\v[12]:</b>\c[0] Ya... ¡pero eso es porque no se ha encontrado con el entrenador adecuado!
-\c[1]<b>\v[12]:</b>\c[0] Ya... ¡pero eso es porque no se ha encontrado con el entrenador adecuado!
+\c[1]<b>\v[12]:</b>\c[0] Yeah...but that's only because he hasn't met the right trainer!
 Además, ¿prefieres que lo encuentre antes el <b>Team Rocket</b>?
-Además, ¿prefieres que lo encuentre antes el <b>Team Rocket</b>?
+Or would you rather have <b>Team Rocket</b> find it first?
 <b>Sr. Fuji:</b> Os cuento todo esto porque parece que vuestro camino no deja de cruzarse con el del <b>Team Rocket</b>.
-<b>Sr. Fuji:</b> Os cuento todo esto porque parece que vuestro camino no deja de cruzarse con el del <b>Team Rocket</b>.
+<b>Mr. Fuji:</b> I'm telling all of you this because it seems that your paths keep crossing with <b>Team Rocket</b>.
 Aunque si me aceptáis un consejo, haced lo que el <b>Prof. Oak</b> os pidió y llenad esas <b>Pokédex</b>.
-Aunque si me aceptáis un consejo, haced lo que el <b>Prof. Oak</b> os pidió y llenad esas <b>Pokédex</b>.
+Although if you want my advice, do what <b>Prof. Oak</b> asked you to do and fill out your <b>Pokédex</b>.
 No sé de cuánta utilidad os será esto, pero quizá os venga bien para lograr ese objetivo.
-No sé de cuánta utilidad os será esto, pero quizá os venga bien para lograr ese objetivo.
+I don't know how useful this will be to you, but maybe it'll help you achieve that goal.
 <b>Sr. Fuji:</b> Ciertos Pokémon se despertarán al escuchar el sonido de la <b>Pokéflauta</b>.
-<b>Sr. Fuji:</b> Ciertos Pokémon se despertarán al escuchar el sonido de la <b>Pokéflauta</b>.
+<b>Mr. Fuji:</b> Certain Pokémon will wake up when they hear the sound of the <b>Pokéflute</b>.
 Usadla si necesitáis abrirle los ojos a alguno que os bloquee el paso.
-Usadla si necesitáis abrirle los ojos a alguno que os bloquee el paso.
+Use it if there's someone asleep and blocking your way.
 Una vez el <b>Sr. Fuji</b> me contó que la razón por la cual abrió este refugio fue para redimirse de un daño que hizo a los Pokémon en el pasado.
-Una vez el <b>Sr. Fuji</b> me contó que la razón por la cual abrió este refugio fue para redimirse de un daño que hizo a los Pokémon en el pasado.
+<b>Mr. Fuji </b> once told me that the reason he opened this shelter was to redeem himself for a harm he did to Pokémon in the past.
 ¿A qué se referiría? No me imagino al <b>Sr. Fuji</b> haciendo daño a nadie.
-¿A qué se referiría? No me imagino al <b>Sr. Fuji</b> haciendo daño a nadie.
+What are you talking about? I can't imagine <b>Mr. Fuji</b> harming anyone.
 Nunca entenderé cómo alguien es capaz de abandonar a su Pokémon. ¡Es algo tan antinatural!
-Nunca entenderé cómo alguien es capaz de abandonar a su Pokémon. ¡Es algo tan antinatural!
+I'll never understand how someone could abandon their Pokémon. It makes no sense!
 Se supone que el vínculo entre un Pokémon y su entrenador es muy profundo, incluso sagrado para algunas culturas.
-Se supone que el vínculo entre un Pokémon y su entrenador es muy profundo, incluso sagrado para algunas culturas.
+The bond between a Pokémon and its trainer is supposed to be very deep, even sacred to some cultures.
 \c[1]<b>\v[12]:</b>\c[0] ¿Por qué querría el <b>Team Rocket</b> secuestrar a un simple Cuidador Pokémon?
-\c[1]<b>\v[12]:</b>\c[0] ¿Por qué querría el <b>Team Rocket</b> secuestrar a un simple Cuidador Pokémon?
+\c[1]<b>\v[12]:</b>\c[0] Why would <b>Team Rocket</b> kidnap a simple Pokémon Caretaker?
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 \c[3]<b>Hoja:</b>\c[0] En este momento, es mejor escuchar al <b>Sr. Fuji</b> mientras guardamos silencio.
-\c[3]<b>Hoja:</b>\c[0] En este momento, es mejor escuchar al <b>Sr. Fuji</b> mientras guardamos silencio.
+\c[3]<b>Leaf:</b>\c[0] Right now, we should be quiet and listen to <b>Mr. Fuji</b>.
 ...
 ...
 \c[2]<b>Rojo:</b>\c[0] En este momento, es mejor escuchar al <b>Sr. Fuji</b> mientras guardamos silencio.
-\c[2]<b>Rojo:</b>\c[0] En este momento, es mejor escuchar al <b>Sr. Fuji</b> mientras guardamos silencio.
+\c[2]<b>Red:</b>\c[0] Right now, we should be quiet and listen to <b>Mr. Fuji</b>.
 #-------------------------------
 [Map068]
 ¿A ti también te cuesta horrores pensar en los motes de tus Pokémon? Yo me tiro horas y horas pensando.
-¿A ti también te cuesta horrores pensar en los motes de tus Pokémon? Yo me tiro horas y horas pensando.
+Do you also have a hard time picking your Pokémon's nicknames? I spend hours and hours thinking.
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
 Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
 Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-You and your Pokemon are reenergized, come back whenever you'd like!
+You and your Pokemon are re-energized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Quiero ir a <b>Pueblo Lavanda</b>, ¡pero no hay manera!
-Quiero ir a <b>Pueblo Lavanda</b>, ¡pero no hay manera!
+I want to go to <b>Lavender Town</b>, but there's no way through!
 Un Pokémon enorme se ha puesto a dormir a pierna suelta en mitad del camino.
-Un Pokémon enorme se ha puesto a dormir a pierna suelta en mitad del camino.
+A huge Pokémon's fast asleep in the middle of the road.
 Sí
 Yes
 No
@@ -3855,33 +3855,33 @@ No
 #-------------------------------
 [Map069]
 Te preguntarás qué hace un camión en mitad de una islita sin ningún propósito en concreto y ni siquiera una forma física lógica de haber llegado hasta aquí en primera instancia.
-Te preguntarás qué hace un camión en mitad de una islita sin ningún propósito en concreto y ni siquiera una forma física lógica de haber llegado hasta aquí en primera instancia.
+You wonder what a truck is doing in the middle of a small island with no specific purpose and not even a logical physical way of having gotten here in the first place.
 ¡Pero eso no es lo importante! Resulta que se me ha colado un Pokémon muy raro en la parte trasera del camión.
-¡Pero eso no es lo importante! Resulta que se me ha colado un Pokémon muy raro en la parte trasera del camión.
+But that's not important! It turns out that a very rare Pokémon has snuck into the back of the truck.
 Trataría de espantarlo yo mismo, pero tengo miedo de que me muerda y me infecte con alguna enfermedad extraña.
-Trataría de espantarlo yo mismo, pero tengo miedo de que me muerda y me infecte con alguna enfermedad extraña.
+I'd try to scare it away myself, but I'm afraid it'll bite me and infect me with some strange disease.
 También podrías hacerlo tú, ¿pero y si mueres por mi culpa? Tendría que cargar con ese peso toda mi vida...
-También podrías hacerlo tú, ¿pero y si mueres por mi culpa? Tendría que cargar con ese peso toda mi vida...
+You could do it too, but what if you die because of me? I'd have to carry that guilt for the rest of my life...
 ¡Ya lo tengo! Sé cómo puedes demostrarme que puedes hacer frente a cualquier Pokémon salvaje.
-¡Ya lo tengo! Sé cómo puedes demostrarme que puedes hacer frente a cualquier Pokémon salvaje.
+I've got it! I know how you can show me that you can take on any wild Pokémon.
 ¿Has visto algún <b>Nido Alfa</b> durante tu viaje por la región? Son escondites en los cuales se ocultan Pokémon muy fuertes.
-¿Has visto algún <b>Nido Alfa</b> durante tu viaje por la región? Son escondites en los cuales se ocultan Pokémon muy fuertes.
+Have you seen any <b>Alpha Nest</b>s during your trip through the region? They're hiding places in which very strong Pokémon live.
 Pues bien, si logras <b>superar los 18 Nidos Alfa de la región de Kanto</b>, te daré las llaves para que abras la parte trasera del camión.
-Pues bien, si logras <b>superar los 18 Nidos Alfa de la región de Kanto</b>, te daré las llaves para que abras la parte trasera del camión.
+Well, if you manage to <b>overcome the 18 Alpha Nests in the Kanto region</b>, I'll give you the keys to open the back of the truck.
 ...
 ...
 ¡Anda, pero si lo has conseguido! En ese caso no veo ningún problema en confiarte mis llaves.
-¡Anda, pero si lo has conseguido! En ese caso no veo ningún problema en confiarte mis llaves.
+Wow, you've done it! In that case I don't see any problem giving you the keys.
 Ahora podrás abrir la parte trasera del camión y ayudarme a espantar a ese extraño Pokémon salvaje. ¡Ve con cuidado!
-Ahora podrás abrir la parte trasera del camión y ayudarme a espantar a ese extraño Pokémon salvaje. ¡Ve con cuidado!
+Now you can open the back of the truck and help me scare away that strange wild Pokémon. Be careful!
 ¿Has espantado al Pokémon? ¡Te doy las gracias! Aunque seguiré un rato más por aquí, tomando el fresco.
-¿Has espantado al Pokémon? ¡Te doy las gracias! Aunque seguiré un rato más por aquí, tomando el fresco.
+Have you scared away the Pokémon? Thank you! I'll stay here for a while longer and take in the fresh air.
 Me siento junto a la orilla y pienso en todos los barcos que vienen y van, y en todas las personas que viajan dentro que yo jamás conoceré...
-Me siento junto a la orilla y pienso en todos los barcos que vienen y van, y en todas las personas que viajan dentro que yo jamás conoceré...
+I sit by the shore and think of all the ships that come and go, and of all the people on board that I'll never meet...
 ¿Quieres abrir el camión?
-¿Quieres abrir el camión?
+Do you want to open the truck?
 ¡Meeeeeeeew!
-¡Meeeeeeeew!
+Meeeeeeeew!
 Sí
 Yes
 No
@@ -3943,7 +3943,7 @@ Yes
 No
 No
 Vale
-Vale
+Okay
 Recordar movimiento
 Remember move
 Niveles de los líderes
@@ -3953,7 +3953,7 @@ Nothing
 #-------------------------------
 [Map071]
 Subterráneo
-Subterráneo
+Underground
 Un pequeño arbusto bloquea el paso. Tal vez se podría cortar con algo...
 A small bush blocks the way. Maybe it could be cut with something...
 ¡El <b>Talador</b> corta el arbusto como si fuera mantequilla!
@@ -3961,35 +3961,35 @@ The <b>Axe</b> cuts the bush like it's butter!
 Cuuuub...
 Cuuuub...
 Parece que sabes mucho sobre Pokémon, pero ¿qué tal se te da la ciencia?
-Parece que sabes mucho sobre Pokémon, pero ¿qué tal se te da la ciencia?
+You seem to know a lot about Pokémon, but how good are you at science?
 Está claro que se me da mejor hincar los codos que luchar junto a mis Pokémon codo con codo.
-Está claro que se me da mejor hincar los codos que luchar junto a mis Pokémon codo con codo.
+It's clear that I'm better at bending my elbows than fighting alongside my Pokémon.
 <b>Oeste:</b> Ciudad Azafrán\n<b>Este:</b> Pueblo Lavanda
-<b>Oeste:</b> Ciudad Azafrán\n<b>Este:</b> Pueblo Lavanda
+<b>West:</b> Saffron City\n<b>East:</b> Lavender Town
 ¿Quieres venir al cementerio con nosotros? A lo mejor vemos un fantasma.
-¿Quieres venir al cementerio con nosotros? A lo mejor vemos un fantasma.
+Do you want to come to the cemetery with us? Maybe we see a ghost.
 Mi estrategia era asustarte para disminuir tu concentración... ¡pero no ha funcionado para nada!
-Mi estrategia era asustarte para disminuir tu concentración... ¡pero no ha funcionado para nada!
+My strategy was to scare you to reduce your concentration...but it didn't work at all!
 ¡Eh, tú! Apártate si no quieres que te pase por encima.
-¡Eh, tú! Apártate si no quieres que te pase por encima.
+Hey you! Get out of the way if you don't want him to walk over you.
 Tampoco te pongas en plan tonto por haber ganado, ¿eh? Estaba más concentrado en la moto que en el combate.
-Tampoco te pongas en plan tonto por haber ganado, ¿eh? Estaba más concentrado en la moto que en el combate.
+Don't let winning go to your head, got it? He was more focused on the bike than the fight.
 Estamos capturando un montón de Pokémon. ¡No nos incordies!
-Estamos capturando un montón de Pokémon. ¡No nos incordies!
+We're catching a lot of Pokémon. Don't bother us!
 Según la guía turística, en esta ruta aparece un Pokémon de tipo Fuego bastante raro. A ver si podemos hacernos con él...
-Según la guía turística, en esta ruta aparece un Pokémon de tipo Fuego bastante raro. A ver si podemos hacernos con él...
+According to the tour guide, a fairly rare Fire-type Pokémon appears on this route. Let's see if we can get catch it...
 ¿Vas a entrar al Subterráneo? ¡Pues paga el peaje! ¡Ja!
-¿Vas a entrar al Subterráneo? ¡Pues paga el peaje! ¡Ja!
+Are you going through the Underground? Well, pay the toll! Ha!
 ¡Vaaale! Intentaremos no molestar a nadie a partir de ahora.
-¡Vaaale! Intentaremos no molestar a nadie a partir de ahora.
+Fiiiiine! We'll try not to bother anyone from now on.
 ¿Qué Pokémon es mono, redondo y recuerda a un muñeco de peluche?
-¿Qué Pokémon es mono, redondo y recuerda a un muñeco de peluche?
+Which Pokémon is cute, round, and reminiscent of a stuffed animal?
 Segun leí en "El Poké de las cosas", Jigglypuff evoluciona al verse expuesto a una Piedra Lunar. ¿Será verdad?
-Segun leí en "El Poké de las cosas", Jigglypuff evoluciona al verse expuesto a una Piedra Lunar. ¿Será verdad?
+I read in "The Poké of Things", Jigglypuff evolves when exposed to a Moon Stone. Is it true?
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
+It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
 En concreto, sientes la presencia de un Pokémon Fantasma muy poderoso.
-En concreto, sientes la presencia de un Pokémon Fantasma muy poderoso.
+You feel the presence of a very powerful Ghost Pokémon.
 ¿Quieres hacerlo salir?
 Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
@@ -3997,7 +3997,7 @@ The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
 The <b>Alpha Nest</b> is empty...
 ¡Nos hemos traído una guía de captura y todo! Saldremos de aquí con Pokémon nuevos y valiosos.
-¡Nos hemos traído una guía de captura y todo! Saldremos de aquí con Pokémon nuevos y valiosos.
+We brought a capture guide and everything! We'll leave here with new and valuable Pokémon.
 Sí
 Yes
 No
@@ -4005,35 +4005,35 @@ No
 #-------------------------------
 [Map072]
 Subterráneo
-Subterráneo
+Underground
 #-------------------------------
 [Map073]
 El <b>Team Rocket</b> tiene tentáculos por todas partes: empresas, instituciones, órganos del gobierno...
-El <b>Team Rocket</b> tiene tentáculos por todas partes: empresas, instituciones, órganos del gobierno...
+<b>Team Rocket</b> has their hands in everything: companies, institutions, government agencies...
 ¡Su líder tiene que ser alguien con mucha influencia! O mucho dinero. O ambas.
-¡Su líder tiene que ser alguien con mucha influencia! O mucho dinero. O ambas.
+Their leader has to be someone with a lot of influence! Or a lot of money. Or both.
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
 Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
 Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-You and your Pokemon are reenergized, come back whenever you'd like!
+You and your Pokemon are re-energized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
-Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
+The Guards at the entrance to <b>Saffron City</b> have gone on strike. We will not move until our working conditions improve!
 Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos quite la sed.
-Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos quite la sed.
+And our main demand is very clear: we want a good snack that quenches our thirst.
 ...
 ...
 ¡Uy! ¿Esa es la infusión de la líder <b>Sachiko</b>? ¡Por favor, dame un trago!
-¡Uy! ¿Esa es la infusión de la líder <b>Sachiko</b>? ¡Por favor, dame un trago!
+Oh! Is that Leader <b>Sachiko</b>'s tea? Please give me a drink!
 Glu, glu, glu...
-Glu, glu, glu...
+Glug, glug, glug...
 ¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones!
-¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones!
+Aaaah! My throat feels much clearer and my spirits are through the roof. Leader <b>Sachiko</b> prepares the best tea!
 Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
-Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
+We'll clear your way to <b>Saffron City</b>, of course!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Sí
@@ -4051,23 +4051,23 @@ Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
 Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-You and your Pokemon are reenergized, come back whenever you'd like!
+You and your Pokemon are re-energized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
-Las Guardas de la entrada a <b>Ciudad Azafrán</b> nos hemos puesto en huelga. ¡No nos moveremos hasta que mejoren nuestras condiciones laborales!
+The Guards at the entrance to <b>Saffron City</b> have gone on strike. We will not move until our working conditions improve!
 Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos quite la sed.
-Y nuestra principal demanda es muy clara: queremos un buen refrigerio que nos quite la sed.
+And our main demand is very clear: we want a good snack that quenches our thirst.
 ...
 ...
 ¡Uy! ¿Esa es la infusión de la líder <b>Sachiko</b>? ¡Por favor, dame un trago!
-¡Uy! ¿Esa es la infusión de la líder <b>Sachiko</b>? ¡Por favor, dame un trago!
+Oh! Is that Leader <b>Sachiko</b>'s tea? Please give me a drink!
 Glu, glu, glu...
-Glu, glu, glu...
+Glug, glug, glug...
 ¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones!
-¡Aaaah! Siento mi garganta mucho más despejada y mi ánimo por las nubes. ¡La líder <b>Sachiko</b> prepara las mejores infusiones!
+Aaaah! My throat feels much clearer and my spirits are through the roof. Leader <b>Sachiko</b> prepares the best tea!
 Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
-Te despejaremos el paso hacia <b>Ciudad Azafrán</b>, ¡por supuesto que sí!
+We'll clear your way to <b>Saffron City</b>, of course!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Sí
@@ -4727,7 +4727,7 @@ Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
 Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-You and your Pokemon are reenergized, come back whenever you'd like!
+You and your Pokemon are re-energized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Una banda de moteros ha invadido el <b>Camino de Bicis</b> que, como su nombre indica, es solo para bicis.
@@ -5105,7 +5105,7 @@ Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
 Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-You and your Pokemon are reenergized, come back whenever you'd like!
+You and your Pokemon are re-energized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Aquí solo hay basura.
@@ -5153,7 +5153,7 @@ Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
 Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-You and your Pokemon are reenergized, come back whenever you'd like!
+You and your Pokemon are re-energized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 Sí
@@ -7309,7 +7309,7 @@ Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
 Good, take your time.
 Tus Pokemon y tú estáis cargados de energía, ¡volved cuando queráis!
-You and your Pokemon are reenergized, come back whenever you'd like!
+You and your Pokemon are re-energized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 \c[3]<b>Hoja:</b>\c[0] Uf, puf... menuda rutita más larga, ¿no, \PN? Casi me pierdo por el camino.
