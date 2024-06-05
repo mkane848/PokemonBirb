@@ -1328,8 +1328,8 @@ Era demasiado bonito para ser real.
 It seemed too good to be true.
 Supongo que tendré que volver a <b>Ciudad Verde</b> con la cabeza tan alta como pueda. No puedo llegar más lejos que esto.
 I guess I'll just have to return to <b>Viridian City</b> with my head as high as I can. I can't go any further than this.
-<b>???:</b> No te rindas todavía. El final de tu camino no es este.
-<b>???:</b> Don't give up yet. Your journey doesn't end here.
+<b>Lorelei:</b> No te rindas todavía. El final de tu camino no es este.
+<b>Lorelei:</b> No te rindas todavía. El final de tu camino no es este.
 \c[3]<b>Hoja:</b>\c[0] ¡No... no me lo puedo creer! ¿Estoy soñando?
 \c[3]<b>Leaf:</b>\c[0] No...I can't believe it! Am I dreaming?
 ¡Es... es...!
@@ -1820,6 +1820,16 @@ No puedo creer que el famoso <b>Prof. Oak</b> se haya fijado en nuestra hija par
 I can't believe that the famous <b>Prof. Oak</b> has recognized our daughter and given her a Pokémon.
 #-------------------------------
 [Map031]
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -1860,6 +1870,12 @@ Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompa
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
 You can continue playing as normal, but remember that you have failed.
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 Recordar movimiento
 Remember moves
 Niveles de los líderes
@@ -2008,10 +2024,6 @@ Be careful on <b>Victory Road</b>, each trainer will do their best to try to sto
 Trust yourself and your Pokémon! It's the only way you can get ahead.
 #-------------------------------
 [Map036]
-¡No me lo puedo creer! ¡Han visto al <b>Team Rocket</b> dirigirse al <b>Mt. Moon</b>!
-I can't believe it! You've seen <b>Team Rocket</b> heading to <b>Mt. Moon</b>!
-Llevaban un tiempo muy tranquilitos, espero que no vuelvan a hacer ninguna fechoría...
-They've been very calm for a while, I hope they don't do anything wrong again...
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -2034,6 +2046,20 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
+¡No me lo puedo creer! ¡Han visto al <b>Team Rocket</b> dirigirse al <b>Mt. Moon</b>!
+I can't believe it! You've seen <b>Team Rocket</b> heading to <b>Mt. Moon</b>!
+Llevaban un tiempo muy tranquilitos, espero que no vuelvan a hacer ninguna fechoría...
+They've been very calm for a while, I hope they don't do anything wrong again...
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
@@ -2061,6 +2087,12 @@ Remember moves
 Niveles de los líderes
 Level Caps
 Nada
+Nothing
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
 Nothing
 Sí
 Yes
@@ -2476,6 +2508,16 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 Al parecer, <b>Bill</b> tiene una colección de Pokémon muy raros.
 Apparently <b>Bill</b> has a collection of very rare Pokémon.
 Creo que sueña con hacerse con todos algún día. Y cuando digo todos, es todos. ¡A escala planetaria!
@@ -2501,6 +2543,12 @@ Remember moves
 Niveles de los líderes
 Level Caps
 Nada
+Nothing
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
 Nothing
 Sí
 Yes
@@ -2626,6 +2674,14 @@ No
 No
 #-------------------------------
 [Map048]
+Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
+Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
+Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health.
+Estamos a tu servicio.
+We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -2648,14 +2704,16 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
-Esto llevará un rato.
-Okay, I'll take your Pokémon for a few seconds.
-Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health.
-Estamos a tu servicio.
-We hope to see you again!
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
@@ -2668,16 +2726,22 @@ Dos Pokémon de la misma especie pueden ser muy distintos dependiendo de factore
 Two Pokémon of the same species can be very different depending on genetic factors or how they've been trained.
 Como decimos en mi gremio: nunca pescarás dos Magikarp iguales.
 As we say in my guild: you'll never catch two Magikarp alike.
+Sí
+Yes
+No
+No
 Recordar movimiento
 Remember moves
 Niveles de los líderes
 Level Caps
 Nada
 Nothing
-Sí
-Yes
-No
-No
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 #-------------------------------
 [Map049]
 ¿Sabías que si llevas a un Pokemon con la habilidad Cuerpo Llama o Escudo Magma en el equipo, los huevos tardarán la mitad en abrirse?
@@ -2772,6 +2836,8 @@ No
 No
 #-------------------------------
 [Map051]
+Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
+Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -2794,8 +2860,16 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
-Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
-Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
@@ -2817,6 +2891,12 @@ Remember moves
 Niveles de los líderes
 Level Caps
 Nada
+Nothing
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
 Nothing
 Sí
 Yes
@@ -2846,6 +2926,16 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 He leído que los cráneos que los Cubone llevan en la cabeza pueden llegar a venderse por un precio desorbitado.
 He leído que los cráneos que los Cubone llevan en la cabeza pueden llegar a venderse por un precio desorbitado.
 Pertenezco a un gremio de Exorcistas. Nos han llamado para solucionar un problema de malos espíritus en la <b>Torre Pokémon</b>.
@@ -2869,6 +2959,12 @@ Remember moves
 Niveles de los líderes
 Level Caps
 Nada
+Nothing
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
 Nothing
 Sí
 Yes
@@ -3916,6 +4012,16 @@ Antes de meterse en el <b>Mt. Moon</b>, hay que descansar bien.
 Make sure you're well rested before entering <b>Mt. Moon</b>.
 No solo los Pokémon salvajes son duros, ¡también habrá otros Montañeros como yo que querrán retarte a un combate!
 Not only are the wild Pokémon tough, but there will also be other Mountaineers like me who will want to challenge you to a battle!
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -3944,6 +4050,12 @@ No
 No
 Vale
 Okay
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 Recordar movimiento
 Remember move
 Niveles de los líderes
@@ -4154,8 +4266,6 @@ Emm...
 Emm...
 #-------------------------------
 [Map077]
-¿Ves a esa Exorcista? Dicen que puede ver el futuro, aunque yo creo que se trata de una simple estafa...
-¿Ves a esa Exorcista? Dicen que puede ver el futuro, aunque yo creo que se trata de una simple estafa...
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -4178,6 +4288,8 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
+¿Ves a esa Exorcista? Dicen que puede ver el futuro, aunque yo creo que se trata de una simple estafa...
+¿Ves a esa Exorcista? Dicen que puede ver el futuro, aunque yo creo que se trata de una simple estafa...
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
@@ -4186,6 +4298,16 @@ Misión cumplida, ¡vuelve cuando lo necesites!
 Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
@@ -4238,6 +4360,12 @@ Sí
 Yes
 No
 No
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 #-------------------------------
 [Map078]
 ¡Te doy la bienvenida al Centro Comercial de <b>Ciudad Azulona</b>! Estamos a tu entera disposición.
@@ -6466,6 +6594,16 @@ No
 [Map123]
 No sé qué le echan a esta taza que siempre me sabe muy empalagosa, como si estuviera llena de azúcar.
 No sé qué le echan a esta taza que siempre me sabe muy empalagosa, como si estuviera llena de azúcar.
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
@@ -6504,6 +6642,12 @@ Come back if you need anything!
 ¿Has podido ver las granjas de Miltank? Ojalá puedas sacar un rato libre.
 Normalmente la gente que para en <b>Pueblo Marengo</b> es solo para hacer un alto en el camino.
 Normalmente la gente que para en <b>Pueblo Marengo</b> es solo para hacer un alto en el camino.
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 Sí
 Yes
 No
@@ -6520,6 +6664,16 @@ Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompa
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
 You can continue playing as normal, but remember that you have failed.
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 ¿Has oído hablar de las 3 Aves Guardianas?
 ¿Has oído hablar de las 3 Aves Guardianas?
 Se cuenta que la región de <b>Kanto</b> fue fundada por 3 clanes: uno representaba el Valor, otro la Sabiduría y el tercero el Instinto.
@@ -6572,6 +6726,12 @@ He intentado desafiar al líder de gimnasio de <b>Ciudad Fucsia</b>, pero sus t�
 He intentado desafiar al líder de gimnasio de <b>Ciudad Fucsia</b>, pero sus técnicas venenosas y ágiles han acabado con mi equipo Pokémon sin esfuerzo alguno.
 Tal vez si probara con un Pokémon de tipo Acero...
 Tal vez si probara con un Pokémon de tipo Acero...
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 No
 No
 Sí
@@ -6738,6 +6898,16 @@ Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompa
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
 You can continue playing as normal, but remember that you have failed.
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 El otro día estaba discutiendo con mi primo de <b>Johto</b>, ¿tú sabrías decirme cuál de estos 3 Pokémon no es nativo de esa región?
 El otro día estaba discutiendo con mi primo de <b>Johto</b>, ¿tú sabrías decirme cuál de estos 3 Pokémon no es nativo de esa región?
 ¿Lo crees de verdad? Él afirma haber visto a ese Pokémon por <b>Johto</b>...
@@ -6782,6 +6952,12 @@ No todas las aventuras tienen por qué producirse en cuevas y montañas...
 No todas las aventuras tienen por qué producirse en cuevas y montañas...
 Aunque entre tú y yo, si algún día consigues entrar en la <b>Cueva Celeste</b>... ¡eso sí que sería una aventura!
 Aunque entre tú y yo, si algún día consigues entrar en la <b>Cueva Celeste</b>... ¡eso sí que sería una aventura!
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 Slugma
 Slugma
 Spoink
@@ -6870,6 +7046,16 @@ Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompa
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
 You can continue playing as normal, but remember that you have failed.
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 ¡Qué tragedia más grande, la de la <b>Mansión Pokémon</b>!
 ¡Qué tragedia más grande, la de la <b>Mansión Pokémon</b>!
 Aún recuerdo cuando de niña me acercaba para conocer Pokémon raros. Eran incluso más exóticos que los de la <b>Zona Safari</b>..
@@ -6910,6 +7096,12 @@ Cuentan que su líder, <b>Giovanni</b>, fue derrotado por un misterioso vagabund
 Cuentan que su líder, <b>Giovanni</b>, fue derrotado por un misterioso vagabundo harapiento que pasaba por ahí.
 Cuentan que su líder, <b>Giovanni</b>, fue derrotado por una misteriosa vagabunda harapienta que pasaba por ahí.
 Cuentan que su líder, <b>Giovanni</b>, fue derrotado por una misteriosa vagabunda harapienta que pasaba por ahí.
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 Sí
 Yes
 No
@@ -7246,20 +7438,20 @@ Estamos a tu servicio.
 We hope to see you again!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
-\rRandy: Hi, \PN!
-\rRandy: Hi, \PN!
-\rRandy: What would you like me to do?
-\rRandy: What would you like me to do?
-\rRandy: The randomizer is now...on or off. Check the console!
-\rRandy: The randomizer is now...on or off. Check the console!
-\rRandy: Every day I'm shufflin'
-\rRandy: Every day I'm shufflin'
-\rRandy: Oh, okay then.
-\rRandy: Oh, okay then.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
 You can continue playing as normal, but remember that you have failed.
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 Si yo, que no voy a combatir, estoy nervioso, ¿cómo deben de sentirse los Aspirantes?
 Si yo, que no voy a combatir, estoy nervioso, ¿cómo deben de sentirse los Aspirantes?
 Los 4 <b>Altos Mandos</b> te pondrán a prueba, uno por uno.
@@ -8048,6 +8240,10 @@ No
 No
 #-------------------------------
 [Map159]
+¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
+¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
+Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
+Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -8070,10 +8266,6 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
-¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
-¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
-Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
-Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
@@ -8082,6 +8274,16 @@ Misión cumplida, ¡vuelve cuando lo necesites!
 Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 Parece mentira que hayan construido un Centro Pokémon en un lugar tan remoto como este. Así da gusto disfrutar de la sanidad pública.
 Parece mentira que hayan construido un Centro Pokémon en un lugar tan remoto como este. Así da gusto disfrutar de la sanidad pública.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
@@ -8098,6 +8300,12 @@ Sí
 Yes
 No
 No
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 #-------------------------------
 [Map160]
 ¿Quieres usar el Equipo de Escalada?
@@ -9362,6 +9570,16 @@ Misión cumplida, ¡vuelve cuando lo necesites!
 Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 Los lugareños han tenido que aceptar la construcción de un Centro Pokémon a regañadientes.
 Los lugareños han tenido que aceptar la construcción de un Centro Pokémon a regañadientes.
 Ellos usaban medicina tradicional, pero la tasa de mortalidad Pokémon empezaba a ser alarmantemente alta...
@@ -9380,6 +9598,12 @@ Sí
 Yes
 No
 No
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 #-------------------------------
 [Map188]
 ¡Hola, Aspirante! ¿Qué necesitas?
@@ -9420,6 +9644,16 @@ Misión cumplida, ¡vuelve cuando lo necesites!
 Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 ¡<i>Oh my God</i>! Las personas y las costumbres de este <i>place</i> son sin duda <i>very captivating</i>.
 ¡<i>Oh my God</i>! Las personas y las costumbres de este <i>place</i> son sin duda <i>very captivating</i>.
 Yo provengo de una región llamada <b>Céfira</b>. Si algún día la visitas, estaremos <i>very pleased</i> de acogerte.
@@ -9438,6 +9672,12 @@ Sí
 Yes
 No
 No
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 #-------------------------------
 [Map189]
 <b>Norte:</b> Villa Azabache,\n<b>Sur:</b> Islote Recuerdo
@@ -9652,6 +9892,16 @@ Misión cumplida, ¡vuelve cuando lo necesites!
 Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 En el <b>Cabo Magenta</b> se puede pescar al raro Lapras.
 En el <b>Cabo Magenta</b> se puede pescar al raro Lapras.
 Los pocos Lapras que tenemos en <b>Kanto</b> son los que se extravían desde estas costas.
@@ -9670,6 +9920,12 @@ Sí
 Yes
 No
 No
+Toggle Randomizer
+Toggle Randomizer
+Re-Randomize
+Re-Randomize
+Nothing
+Nothing
 #-------------------------------
 [Map194]
 ¡Defenderé el linaje de Prisma hasta las últimas consecuencias! ¡Escucha mi rugido de guerra! ¡Aaaaah!

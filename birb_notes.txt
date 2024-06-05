@@ -2,7 +2,7 @@
     - Fix Intro
 
 03/19/2024
-    - Updated randomizer function to clear the movelist of a Trainer's randomized Pokemon to address the replaced Pkmn's moveset not changing
+    - Updated randomizer function to clear the movelist of a Trainer's randomized Pokémon to address the replaced Pkmn's moveset not changing
         TODO: Make sure all definitions that need to be wiped like held item, ability, etc. are accounted for
 
 03/20/2024
@@ -15,7 +15,7 @@
 
 05/29/2024
     - More translations
-    - Encounter UI Plugin added, effectively PokeRadar
+    - Encounter UI Plugin added, effectively PokéRadar
 
 05/30/2024
     - Removed Trade Expert
@@ -26,20 +26,23 @@
 06/04/2024
     - More translations
 
-
+06/06/2024
+    - More translations
+    - Update Randy NPC to use standalone Randomizer
+    - Add Randy to all Pokémon Centers
 
 TODO:
 - Remove NPCs and Events we won't be using
     - Alpha Hives?
 
-- Put Randy in every Pkmn Center
+
 - Fix TMs, randomizer is grabbing gen9 (i.e. I found TM60 and 073 Drain Punch)
 - Replace EBDX Boss Battle (only used for Mewtwo fight) with something else
 - Verify all battlebacks are properly set with OG battle system and assets
-- PokeVial
-- PokeRadar? (shiny chaining)
+- PokéVial
+- PokéRadar? (shiny chaining)
 - Rival Name appears as "Blue" in battle
-- Enemy Pokemon name cut off on "Sandy Shocks"
+- Enemy Pokémon name cut off on "Sandy Shocks"
 - Add graphical indicator of current game speed
 - Keyboard entry plug-in
 - Check if animation plays properly when gym badge received
