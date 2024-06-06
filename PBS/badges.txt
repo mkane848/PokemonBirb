@@ -1,0 +1,74 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[BOULDERBADGE]
+Name = Boulder Badge
+Type = ROCK
+LeaderName = Brock
+LeaderSprite = LEADER_Brock
+Location = Pewter City
+AcePokemon = ONIX
+Order = 0
+#-------------------------------
+[CASCADEBADGE]
+Name = Cascade Badge
+Type = WATER
+LeaderName = Misty
+LeaderSprite = LEADER_Misty
+Location = Cerulean City
+AcePokemon = STARMIE
+Order = 0
+#-------------------------------
+[THUNDERBADGE]
+Name = Thunder Badge
+Type = ELECTRIC
+LeaderName = Lt. Surge
+LeaderSprite = LEADER_Surge
+Location = Vermilion City
+AcePokemon = RAICHU
+Order = 0
+#-------------------------------
+[RAINBOWBADGE]
+Name = Rainbow Badge
+Type = GRASS
+LeaderName = Erika
+LeaderSprite = LEADER_Erika
+Location = Celadon City
+AcePokemon = VILEPLUME
+Order = 0
+#-------------------------------
+[SOULBADGE]
+Name = Soul Badge
+Type = POISON
+LeaderName = Koga
+LeaderSprite = LEADER_Koga
+Location = Fuchsia City
+AcePokemon = WEEZING
+Order = 0
+#-------------------------------
+[MARSHBADGE]
+Name = Marsh Badge
+Type = PSYCHIC
+LeaderName = Sabrina
+LeaderSprite = LEADER_Sabrina
+Location = Saffron City
+AcePokemon = ALAKAZAM
+Order = 0
+#-------------------------------
+[VOLCANOBADGE]
+Name = Volcano Badge
+Type = FIRE
+LeaderName = Blaine
+LeaderSprite = LEADER_Blaine
+Location = Cinnabar Island
+AcePokemon = ARCANINE
+Order = 0
+#-------------------------------
+[EARTHBADGE]
+Name = Earth Badge
+Type = GROUND
+LeaderName = Giovanni
+LeaderSprite = LEADER_Giovanni
+Location = Viridian City
+AcePokemon = RHYHORN
+Order = 0
+#-------------------------------
