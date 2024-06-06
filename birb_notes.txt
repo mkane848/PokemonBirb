@@ -26,16 +26,20 @@
 06/04/2024
     - More translations
 
-06/06/2024
+06/05/2024
     - More translations
     - Update Randy NPC to use standalone Randomizer
     - Add Randy to all Pokémon Centers
 
+06/06/2024
+    - More translations
+    - Verified Illuminator event & trigger are properly in game
+    - Update Gen 9 Resource Pack to v3.2.6
+
+
 TODO:
 - Remove NPCs and Events we won't be using
-    - Alpha Hives?
-
-
+    - Alpha Hives? Then how do we give key for Mew?
 - Fix TMs, randomizer is grabbing gen9 (i.e. I found TM60 and 073 Drain Punch)
 - Replace EBDX Boss Battle (only used for Mewtwo fight) with something else
 - Verify all battlebacks are properly set with OG battle system and assets
@@ -48,7 +52,6 @@ TODO:
 - Check if animation plays properly when gym badge received
 - Mega works, but you have to press Z and no animation plays?
 - Double check sprites aren't using any old EBDX stuff, i.e. check Mewtwo's back sprite vs gen 9 pack
-- Re-implement "Illuminator" item
 - Check Map 43 for whoever is handling Move Remember-ing
 - Can we re-implement level caps?
 - Text box shake effect (/sh)

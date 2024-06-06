@@ -2255,7 +2255,7 @@ Los del <b>Team Rocket</b> se pasan con mucha frecuencia por aquí, ¿qué trama
 Las tragaperras son un mero juego de azar. Si consigo usarlo a mi favor...
 Slot machines are a mere game of chance. If I can use it to my advantage...
 ¡Te doy la bienvenida al Casino Azulona!
-I welcome you to Celedon Casino!
+I welcome you to Celadon Casino!
 ¿Quieres comprar unas cuantas fichas?
 Do you want to buy a few chips?
 No tienes un Monedero.
@@ -4155,9 +4155,9 @@ No
 #-------------------------------
 [Map074]
 <b>Ciudad Azulona</b> y <b>Ciudad Azafrán</b> representan las mayores potencias económicas de <b>Kanto</b>.
-<b>Ciudad Azulona</b> y <b>Ciudad Azafrán</b> representan las mayores potencias económicas de <b>Kanto</b>.
+<b>Celadon City</b> and <b>Saffron City</b> are the greatest economic powers in <b>Kanto</b>.
 Aunque yo personalmente prefiero la tranquilidad de <b>Ciudad Celeste</b>, ¡espero mudarme allí algún día!
-Aunque yo personalmente prefiero la tranquilidad de <b>Ciudad Celeste</b>, ¡espero mudarme allí algún día!
+Although I personally prefer the tranquility of <b>Cerulean City</b>, I want to move there one day!
 ¿Quieres hacer un descanso para que tu equipo recupere toda su vitalidad?
 Do you want to take a break so that your team can regain its strength?
 Bien, tómate tu tiempo.
@@ -4193,77 +4193,77 @@ Cuuuub...
 #-------------------------------
 [Map076]
 <b>Ciudad Azulona</b> presume de estar bonita y cuidada, de hecho nuestro gimnasio es de tipo Planta.
-<b>Ciudad Azulona</b> presume de estar bonita y cuidada, de hecho nuestro gimnasio es de tipo Planta.
+<b>Celadon City</b> is known for being lush and beautiful, even our Gym features Grass-types.
 Pero creo que el Casino y sus alrededores manchan la imagen de la ciudad.
-Pero creo que el Casino y sus alrededores manchan la imagen de la ciudad.
+But I think the Casino and its surroundings tarnish the image of the city.
 ¿Qué pasa? ¿Algún problema? ¡Que soy del <b>Team Rocket</b>, cuidadito con cómo me miras!
-¿Qué pasa? ¿Algún problema? ¡Que soy del <b>Team Rocket</b>, cuidadito con cómo me miras!
+What's up? You got a problem? I'm from <b>Team Rocket</b>, be careful how you look at me!
 ¡Jijijijijujujuju! Llevo toda la tarde conectando con los astros.
-¡Jijijijijujujuju! Llevo toda la tarde conectando con los astros.
+Hee hee hee hee! I've spent the entire afternoon connecting with the stars.
 ¡Únete a mí!
-¡Únete a mí!
+Join me!
 ¡Jejejejejijijiji!
-¡Jejejejejijijiji!
+Hee hee hee hee!
 ¿Tú también sabes conectar con los espíritus? ¡Qué bien!
-¿Tú también sabes conectar con los espíritus? ¡Qué bien!
+Do you know how to connect with spirits, too? Excellent!
 No todos los días se conoce a una persona tan poco mundana.
-No todos los días se conoce a una persona tan poco mundana.
+It's not every day you get to meet such an unworldly person.
 Como premio, te daré esta visión mental del secreto del cementerio.
-Como premio, te daré esta visión mental del secreto del cementerio.
+As a reward, I'll give you this mental vision of the secret of the cemetery.
 Usa este conocimiento para expandir tus fronteras espirituales...
-Usa este conocimiento para expandir tus fronteras espirituales...
+Use this knowledge to expand your spiritual boundaries...
 Cuuuub...
 Cuuuub...
 (El Cubone parece estar señalando al <b>Casino Azulona</b>)
-(El Cubone parece estar señalando al <b>Casino Azulona</b>)
+(Cubone seems to be pointing to <b>Celadon Casino</b>)
 ¿Te has pasado por el Centro Comercial de <b>Ciudad Azulona</b>? ¡Tienen de todo!
-¿Te has pasado por el Centro Comercial de <b>Ciudad Azulona</b>? ¡Tienen de todo!
+Have you stopped by the <b>Celadon City</b> Shopping Center? They have everything!
 <b>Ciudad Azulona</b>, la ciudad de los sueños irisados.
-<b>Ciudad Azulona</b>, la ciudad de los sueños irisados.
+<b>Celadon City</b>, the city of Rainbow Dreams.
 ¡Jeje! Este gimnasio es genial.
-¡Jeje! Este gimnasio es genial.
+He he! This gym is great.
 La fachada está bien construida y la decoración es exquisita, ¡toda una obra de arte arquitectónica!
-La fachada está bien construida y la decoración es exquisita, ¡toda una obra de arte arquitectónica!
+The façade is well built and the decoration is exquisite, a true work of architectural art!
 Casino Azulona
-Casino Azulona
+Celadon Casino
 Edificio Azulona
-Edificio Azulona
+Celadon Condominiums
 Un pequeño arbusto bloquea el paso. Tal vez se podría cortar con algo...
 A small bush blocks the way. Maybe it could be cut with something...
 ¡El <b>Talador</b> corta el arbusto como si fuera mantequilla!
 The <b>Axe</b> cuts the bush like it's butter!
 ¡Ajá! ¡Mi Poliwhirl evolucionó a Poliwrath al darle una Piedra Agua!
-¡Ajá! ¡Mi Poliwhirl evolucionó a Poliwrath al darle una Piedra Agua!
+Aha! My Poliwhirl evolved into Poliwrath by giving it a Water Stone!
 Ahora sí que podré derrotar a cualquier rival que se me cruce.
-Ahora sí que podré derrotar a cualquier rival que se me cruce.
+Now I'll be able to defeat any rival that comes my way.
 Aquí sí tenemos un Gimnasio Pokémon, aunque está alejado del resto de edificios ya que a la líder <b>Erika</b> le gusta la tranquilidad.
-Aquí sí tenemos un Gimnasio Pokémon, aunque está alejado del resto de edificios ya que a la líder <b>Erika</b> le gusta la tranquilidad.
+We have a Pokémon Gym here, although it's far from the rest of the buildings since the leader <b>Erika</b> likes the quiet.
 ¡Uy, qué emoción! Hacía tiempo que no recibía visitas.
-¡Uy, qué emoción! Hacía tiempo que no recibía visitas.
+How exciting! It's been a long time since I've had guests.
 Toma esto como agradecimiento.
-Toma esto como agradecimiento.
+Take this as thanks.
 Vivir en una casa tan inaccesible con este lago delante no parece la mejor idea del mundo.
-Vivir en una casa tan inaccesible con este lago delante no parece la mejor idea del mundo.
+Living in such an inaccessible house with this lake in front of it doesn't seem like the best idea in the world.
 Pero es que el alquiler es tan barato...
-Pero es que el alquiler es tan barato...
+But the rent is so cheap...
 Se supone que solo se permite la entrada al Casino a personas adultas... ¡pero juraría que de vez en cuando han permitido la entrada a menores!
-Se supone que solo se permite la entrada al Casino a personas adultas... ¡pero juraría que de vez en cuando han permitido la entrada a menores!
+Only adults are supposed to be allowed in the Casino... but I could swear they've allowed minors in from time to time!
 Centro Comercial
-Centro Comercial
+Celadon Department Store
 ¡Has obtenido una <b>Mejora del Pokévial</b>!
-¡Has obtenido una <b>Mejora del Pokévial</b>!
+You've obtained a <b>Pokévial Upgrade</b>!
 ¡Los usos del <b>Pokévial</b> han aumentado en 1!
-¡Los usos del <b>Pokévial</b> han aumentado en 1!
+The <b>Pokévial</b>'s uses have increased by 1!
 La ciudad ha experimentado un crecimiento económico enorme desde que un empresario llamado <b>Giovanni</b> decidió invertir aquí.
-La ciudad ha experimentado un crecimiento económico enorme desde que un empresario llamado <b>Giovanni</b> decidió invertir aquí.
+The city has experienced enormous economic growth since a businessman named <b>Giovanni</b> decided to invest here.
 Por ejemplo, el Casino lo financió él.
-Por ejemplo, el Casino lo financió él.
+He financed the Casino, for example.
 ¿Qué pasa? ¿Es que no sabes que en esta ciudad mandamos nosotros? ¡No nos busques las cosquillas!
-¿Qué pasa? ¿Es que no sabes que en esta ciudad mandamos nosotros? ¡No nos busques las cosquillas!
+What's wrong? Don't you know that we rule this city? Don't mess with us!
 Sí
 Yes
 Emm...
-Emm...
+Umm...
 #-------------------------------
 [Map077]
 ¡Hola, Aspirante! ¿Qué necesitas?
@@ -4289,7 +4289,7 @@ All done, your Pokémon has remembered the move.
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
 ¿Ves a esa Exorcista? Dicen que puede ver el futuro, aunque yo creo que se trata de una simple estafa...
-¿Ves a esa Exorcista? Dicen que puede ver el futuro, aunque yo creo que se trata de una simple estafa...
+Do you see that Exorcist? They say she can see the future, but I think it's just a scam...
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
@@ -4313,43 +4313,43 @@ You have lost the Nuzlocke challenge, you have failed all the Pokémon that have
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
 You can continue playing as normal, but remember that you have failed.
 Puedo predecir lo que te aguarda el destino por solo 100 pokécuartos. ¿Qué me dices? ¿Aceptas?
-Puedo predecir lo que te aguarda el destino por solo 100 pokécuartos. ¿Qué me dices? ¿Aceptas?
+I can predict what fate awaits you for only 100 PokéDollars. What do you say? Do you accept?
 Humm... Ya veo, ya veo...
-Humm... Ya veo, ya veo...
+Hmm... I see, I see...
 El próximo Pokémon que captures se convertirá en un poderoso aliado.
-El próximo Pokémon que captures se convertirá en un poderoso aliado.
+The next Pokémon you capture will become a powerful ally.
 Ese Pokémon que tanto infravaloras, demostrará su fuerza llegado el momento.
-Ese Pokémon que tanto infravaloras, demostrará su fuerza llegado el momento.
+That Pokémon that you underestimate so much will demonstrate its strength when the time comes.
 La parálisis te traerá muchos problemas en el peor momento posible.
-La parálisis te traerá muchos problemas en el peor momento posible.
+Paralysis will bring you a lot of problems at the worst possible time.
 Hoy tendrás suerte dando golpes críticos, ¡ármate de valor y machaca a tus oponentes!
-Hoy tendrás suerte dando golpes críticos, ¡ármate de valor y machaca a tus oponentes!
+Today you will have luck landing critical hits, arm yourself with courage and crush your opponents!
 Tal vez el día en el que te cruces con un Pokémon varicolor esté más cerca de lo que piensas...
-Tal vez el día en el que te cruces con un Pokémon varicolor esté más cerca de lo que piensas...
+Maybe the day you come across a shiny Pokémon is closer than you think...
 El tipo Volador traerá mucho dolor en tu viaje, prepárate bien contra él.
-El tipo Volador traerá mucho dolor en tu viaje, prepárate bien contra él.
+Flying-types will bring a lot of pain on your journey, prepare well against it.
 Veo a un Pokémon de tipo Planta en tu futuro equipo, te traerá grandes victorias.
-Veo a un Pokémon de tipo Planta en tu futuro equipo, te traerá grandes victorias.
+I see a Grass-type Pokémon on your future team, it will bring you great victories.
 Vas a sufrir un golpe crítico muy doloroso en los próximos días.
-Vas a sufrir un golpe crítico muy doloroso en los próximos días.
+You're going to suffer a very painful critical hit in the coming days.
 Veo un Mismodestino en tu viaje, más pronto de lo que crees. Ten mucho cuidado.
-Veo un Mismodestino en tu viaje, más pronto de lo que crees. Ten mucho cuidado.
+I see a Destiny Bond in your future, sooner than you think. Be very careful.
 Un curioso Pokémon de tipo Bicho te sorprenderá, para bien o para mal.
-Un curioso Pokémon de tipo Bicho te sorprenderá, para bien o para mal.
+A curious Bug-type Pokémon will surprise you, for better or worse.
 Te veo en una tierra oscura y llena de misterio. Llevarás una gran angustia contigo, como si el destino del mundo pesara sobre tus hombros.
-Te veo en una tierra oscura y llena de misterio. Llevarás una gran angustia contigo, como si el destino del mundo pesara sobre tus hombros.
+I see you in a dark land full of mystery. You will carry great anguish with you, as if the fate of the world weighs on your shoulders.
 Un combate doble inesperado te pondrá en un buen apuro, no bajes la guardia.
-Un combate doble inesperado te pondrá en un buen apuro, no bajes la guardia.
+An unexpected double battle will put you in a real bind, don't let your guard down.
 De los Pokémon que llevas en tu equipo ahora mismo, solo tres de ellos seguirán contigo hasta el final.
-De los Pokémon que llevas en tu equipo ahora mismo, solo tres de ellos seguirán contigo hasta el final.
+Of the Pokémon you have on your team right now, only three will stay with you until the end.
 Llegado el momento, deberás sacrificar a uno de tus Pokémon más valiosos por un bien mayor.
-Llegado el momento, deberás sacrificar a uno de tus Pokémon más valiosos por un bien mayor.
+When the time comes, you must sacrifice one of your most valuable Pokémon for the greater good.
 Un movimiento hará retroceder a tu Pokémon tres veces seguidas, eso marcará una tragedia...
-Un movimiento hará retroceder a tu Pokémon tres veces seguidas, eso marcará una tragedia...
+One move will make your Pokémon retreat three times in a row, that will mark a tragedy...
 No tienes suficiente dinero.
-No tienes suficiente dinero.
+You don't have enough money.
 ¡Vuelve si necesitas una predicción!
-¡Vuelve si necesitas una predicción!
+Come back if you need a prediction!
 Recordar movimiento
 Remember moves
 Niveles de los líderes
@@ -4369,67 +4369,67 @@ Nothing
 #-------------------------------
 [Map078]
 ¡Te doy la bienvenida al Centro Comercial de <b>Ciudad Azulona</b>! Estamos a tu entera disposición.
-¡Te doy la bienvenida al Centro Comercial de <b>Ciudad Azulona</b>! Estamos a tu entera disposición.
+Welcome to the <b>Celadon Department Store</b>! We're at your service.
 ¡Una máquina expendedora!
-¡Una máquina expendedora!
+A vending machine!
 Me gusta alcanzar la cima de los sitios, aunque sea la de un Centro Comercial.
-Me gusta alcanzar la cima de los sitios, aunque sea la de un Centro Comercial.
+I like to reach the top of places, even if it's a department store.
 Me pregunto si venderán la MT Triataque, se trata de mi movimiento favorito.
-Me pregunto si venderán la MT Triataque, se trata de mi movimiento favorito.
+I wonder if they sell the TM for Tri Attack, it's my favorite move.
 Se trata de un movimiento potente que puede causar estados alterados al azar.
-Se trata de un movimiento potente que puede causar estados alterados al azar.
+It's a powerful move that can cause random status ailments.
 Dicen que van a poner a la venta un tipo de ball más eficaz incluso que la Ultraball, ¡es impresionante!
-Dicen que van a poner a la venta un tipo de ball más eficaz incluso que la Ultraball, ¡es impresionante!
+I hear there's a type of Pokéball coming out that's even more effective than an Ultra Ball. That's impressive!
 No he venido a comprar nada, es que me gusta pasear por aquí y cruzarme de vez en cuando con mis amigas.
-No he venido a comprar nada, es que me gusta pasear por aquí y cruzarme de vez en cuando con mis amigas.
+I haven't come to buy anything, I just like to walk around and run into my friends from time to time.
 Mi hermana es entrenadora, ahí donde la ves. ¡Pero también es muy caprichosa!
-Mi hermana es entrenadora, ahí donde la ves. ¡Pero también es muy caprichosa!
+If you happen to run into her, my sister is a trainer. But she is also very impulsive!
 ¿A qué piso quieres ir?
-¿A qué piso quieres ir?
+What floor do you want to go to?
 ¿A qué planta debería ir primero? Tengo que comprar muchos complementos para mis queridos Pokémon.
-¿A qué planta debería ir primero? Tengo que comprar muchos complementos para mis queridos Pokémon.
+Which floor should I go to first? I have to buy a lot of accessories for my beloved Pokémon.
 ¿Has visto? ¡Han vuelto a subir el precio de los Repelentes!
-¿Has visto? ¡Han vuelto a subir el precio de los Repelentes!
+Have you seen it? They raised the price of Repels again!
 ¿Cuánto vale la seguridad de mis hijos? ¡Quiero poder pasear con ellos sin toparme con Pokemon salvajes!
-¿Cuánto vale la seguridad de mis hijos? ¡Quiero poder pasear con ellos sin toparme con Pokemon salvajes!
+How much is my children's safety worth? I want to be able to walk around with them without running into wild Pokemon!
 ¡Ah! Solo tienen medicinas para los Pokémon, yo necesito algo para curarme la espalda.
-¡Ah! Solo tienen medicinas para los Pokémon, yo necesito algo para curarme la espalda.
+Ah! They only have medicine for Pokémon, but I need something to heal my back.
 Lo entenderás cuando seas mayor.
-Lo entenderás cuando seas mayor.
+You'll understand when you're older.
 Qué sed tengo... ¡quiero una bebida de la máquina expendedora!
-Qué sed tengo... ¡quiero una bebida de la máquina expendedora!
+I'm so thirsty...I want a drink from the vending machine!
 ¿Agua fresca? ¿Te crees que tengo 5 años? ¡Dame algo mejor!
-¿Agua fresca? ¿Te crees que tengo 5 años? ¡Dame algo mejor!
+Fresh water? Do you think I'm 5 years old? Give me something better!
 ¡Mmmm! ¡Un Refresco! Te lo cambio por esta MT.
-¡Mmmm! ¡Un Refresco! Te lo cambio por esta MT.
+Mmm, Soda! I'll trade you for this TM.
 ¡Mmmm! ¡Una Limonada! Te la cambio por esta MT.
-¡Mmmm! ¡Una Limonada! Te la cambio por esta MT.
+Mmm, Lemonade! I'll trade you for this TM.
 ¡Me podría pasar el día dando vueltas por el Centro Comercial! Creo que es mi afición favorita.
-¡Me podría pasar el día dando vueltas por el Centro Comercial! Creo que es mi afición favorita.
+I could spend all day walking around the Mall! I think it's my favorite hobby.
 ¿Tienes un Hypno? ¿Te gustaría cambiarlo por mi Girafarig?
-¿Tienes un Hypno? ¿Te gustaría cambiarlo por mi Girafarig?
+Do you have a Hypno? Would you like to trade it for my Girafarig?
 ¡Qué guay! ¡Pues a intercambiar se ha dicho!
-¡Qué guay! ¡Pues a intercambiar se ha dicho!
+Awesome! Let's trade!
 ¡Espero que trabes una gran amistad con Girafarig! Es un Pokémon muy noble.
-¡Espero que trabes una gran amistad con Girafarig! Es un Pokémon muy noble.
+I hope you and Girafarig become great friends! It's a very noble Pokémon.
 Si tienes un Hypno, ponlo en el primer lugar de tu equipo para que pueda verlo bien.
-Si tienes un Hypno, ponlo en el primer lugar de tu equipo para que pueda verlo bien.
+If you have a Hypno, put it in the first place on your team so it can see it.
 ¡Vaya, qué mala suerte la mía!
-¡Vaya, qué mala suerte la mía!
+Awe, that's too bad!
 Existen unas piedras especiales que aumentan mucho el poder de ciertos Pokémon. Se llaman Megapiedras.
-Existen unas piedras especiales que aumentan mucho el poder de ciertos Pokémon. Se llaman Megapiedras.
+There are special stones that greatly increase the power of certain Pokémon. They're called Mega Stones.
 Lamentablemente, aquí no las venden.
-Lamentablemente, aquí no las venden.
+Unfortunately, they don't sell them here.
 Si vas a enfrentarte al gimnasio de la ciudad, te recomiendo personalmente que compres la MT Puño Fuego y se la enseñes a algún Pokémon.
-Si vas a enfrentarte al gimnasio de la ciudad, te recomiendo personalmente que compres la MT Puño Fuego y se la enseñes a algún Pokémon.
+If you're going to take on the city's Gym, I'd recommend that you buy the Fire Punch TM and teach it to some Pokémon.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 ¡En esta planta venden muchas MTs molonas! Ahora podré montar nuevas estrategias con mi equipo.
-¡En esta planta venden muchas MTs molonas! Ahora podré montar nuevas estrategias con mi equipo.
+They sell a lot of cool TMs here! Now I'll be able to set up new strategies with my team.
 Aquí venden unas cuantas piedras evolutivas, ¿debería comprar una para mi Eevee?
-Aquí venden unas cuantas piedras evolutivas, ¿debería comprar una para mi Eevee?
+They sell a few evolutionary stones here, should I buy one for my Eevee?
 ¿O debería esperar a ver si encuentro una piedra más rara para darle acceso a otra evolución?
-¿O debería esperar a ver si encuentro una piedra más rara para darle acceso a otra evolución?
+Or should I wait to see if I can find a rarer stone to give it for another evolution?
 P1
 P1
 P2
@@ -4447,31 +4447,31 @@ No
 #-------------------------------
 [Map079]
 ¡Qué rico está el curry! Aunque el mejor que he probado viene de una región llamada <b>Galar</b>.
-¡Qué rico está el curry! Aunque el mejor que he probado viene de una región llamada <b>Galar</b>.
+This curry is so delicious! Although the best one I've tried comes from the <b>Galar</b> region.
 Ahí cocinan un curry especial que encanta tanto a humanos como a Pokémon.
-Ahí cocinan un curry especial que encanta tanto a humanos como a Pokémon.
+They cook a special curry there that both humans and Pokémon love.
 ¡Uff! Tendré que quitarme el cinturón para poder llenar más la barriga.
-¡Uff! Tendré que quitarme el cinturón para poder llenar más la barriga.
+Phew! I'll have to take off my belt so I can fill my belly more.
 Toma, ¿me lo sujetas?
-Toma, ¿me lo sujetas?
+Here, will you hold it for me?
 Ahora sí... ¡a comer ramen toda la noche!
-Ahora sí... ¡a comer ramen toda la noche!
+Here we go...let's eat ramen all night!
 Los hay de muchos sabores, así que tengo para rato.
-Los hay de muchos sabores, así que tengo para rato.
+There are so many flavors, so I have a while.
 ¡Shhh! Escucha, ¿sabías que hay un sótano secreto en el Casino Azulona?
-¡Shhh! Escucha, ¿sabías que hay un sótano secreto en el Casino Azulona?
+Psst! Listen, did you know there's a secret basement at the Celadon Casino?
 Una vez vi a un hombre bajando por unas escaleras.
-Una vez vi a un hombre bajando por unas escaleras.
+I once saw a guy going down some stairs in the back.
 Ay, madre... ¡hoy he perdido mucho dinero jugando!
-Ay, madre... ¡hoy he perdido mucho dinero jugando!
+Oh, brother...I lost a lot of money playing today!
 Será mejor que empiece a controlarme un poco.
-Será mejor que empiece a controlarme un poco.
+I better start controlling myself a little.
 Te daré mi Monedero de Fichas, aunque espero que no seas tan ludópata como yo.
-Te daré mi Monedero de Fichas, aunque espero que no seas tan ludópata como yo.
+I'll give you my Coin Case, although I hope you're not as big a gambler as I am.
 ¿Has escuchado eso de los criptoPokémon? Son Pokémon que solo existen de manera virtual, pero que tienen un gran valor.
-¿Has escuchado eso de los criptoPokémon? Son Pokémon que solo existen de manera virtual, pero que tienen un gran valor.
+Have you heard that about Crypto Pokémon? They're Pokémon that only exist virtually, but have great value.
 Creo que empezaré a invertir en ellos.
-Creo que empezaré a invertir en ellos.
+I think I'll start investing in them.
 #-------------------------------
 [Map080]
 ¿Te gustan más los juegos que recrean aventuras ya existentes como este? ¿O prefieres uno que ofrezca una historia nueva y original?
@@ -7479,9 +7479,9 @@ Dicen que en lo más profundo de esta cueva habita un Pokémon muy raro. Tan rar
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 ¡Has obtenido una <b>Mejora del Pokévial</b>!
-¡Has obtenido una <b>Mejora del Pokévial</b>!
+You've obtained a <b>Pokévial Upgrade</b>!
 ¡Los usos del <b>Pokévial</b> han aumentado en 1!
-¡Los usos del <b>Pokévial</b> han aumentado en 1!
+The <b>Pokévial</b>'s uses have increased by 1!
 Contra el frío, ropa de abrigo y una infusión bien calentita.
 Contra el frío, ropa de abrigo y una infusión bien calentita.
 ¿No esperabas encontrarte a gente aquí abajo? ¡Pero si no hay nadie más aventurero y empecinado que un entrenador que quiere descubrir nuevos Pokémon!
@@ -8171,9 +8171,9 @@ The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
 The <b>Alpha Nest</b> is empty...
 ¡Has obtenido una <b>Mejora del Pokévial</b>!
-¡Has obtenido una <b>Mejora del Pokévial</b>!
+You've obtained a <b>Pokévial Upgrade</b>!
 ¡Los usos del <b>Pokévial</b> han aumentado en 1!
-¡Los usos del <b>Pokévial</b> han aumentado en 1!
+The <b>Pokévial</b>'s uses have increased by 1!
 Sí
 Yes
 No
