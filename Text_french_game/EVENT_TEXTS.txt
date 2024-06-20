@@ -1329,7 +1329,7 @@ It seemed too good to be true.
 Supongo que tendré que volver a <b>Ciudad Verde</b> con la cabeza tan alta como pueda. No puedo llegar más lejos que esto.
 I guess I'll just have to return to <b>Viridian City</b> with my head as high as I can. I can't go any further than this.
 <b>Lorelei:</b> No te rindas todavía. El final de tu camino no es este.
-<b>Lorelei:</b> No te rindas todavía. El final de tu camino no es este.
+<b>Lorelei:</b> Don't give up yet. This isn't where your journey ends.
 \c[3]<b>Hoja:</b>\c[0] ¡No... no me lo puedo creer! ¿Estoy soñando?
 \c[3]<b>Leaf:</b>\c[0] No...I can't believe it! Am I dreaming?
 ¡Es... es...!
@@ -2024,6 +2024,10 @@ Be careful on <b>Victory Road</b>, each trainer will do their best to try to sto
 Trust yourself and your Pokémon! It's the only way you can get ahead.
 #-------------------------------
 [Map036]
+¡No me lo puedo creer! ¡Han visto al <b>Team Rocket</b> dirigirse al <b>Mt. Moon</b>!
+I can't believe it! You've seen <b>Team Rocket</b> heading to <b>Mt. Moon</b>!
+Llevaban un tiempo muy tranquilitos, espero que no vuelvan a hacer ninguna fechoría...
+They've been very calm for a while, I hope they don't do anything wrong again...
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -2046,10 +2050,6 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
-¡No me lo puedo creer! ¡Han visto al <b>Team Rocket</b> dirigirse al <b>Mt. Moon</b>!
-I can't believe it! You've seen <b>Team Rocket</b> heading to <b>Mt. Moon</b>!
-Llevaban un tiempo muy tranquilitos, espero que no vuelvan a hacer ninguna fechoría...
-They've been very calm for a while, I hope they don't do anything wrong again...
 \rRandy: Hi, \PN!
 \rRandy: Hi, \PN!
 \rRandy: What would you like me to do?
@@ -2441,7 +2441,7 @@ No
 <b>Brock:</b> No todos los días llegan <b>Aspirantes</b> con tanto potencial, o por lo menos eso es lo que me has demostrado antes contra el <b>Team Rocket</b>.
 <b>Brock:</b> It's not every day that <b>Challengers</b> arrive with so much potential, or at least what you showed me before against <b>Team Rocket</b>.
 Pero, dime... ¿sabes lo que representan mis Pokémon de tipo Roca?
-But tell me...do you know what my Rock-type Pokémon represent?
+Tell me... do you know what my Rock-type Pokémon represent?
 Se tratan de Pokémon resistentes, estoicos, duraderos... ¡un tipo de Pokémon de los que intento aprender cada día!
 They're resistant, stoic, durable Pokémon...a type of Pokémon that I try to learn from every day!
 Voy a mostrarte en combate de lo que estoy hablando, ¡prepárate para tu primer combate contra un líder de gimnasio!
@@ -2674,14 +2674,6 @@ No
 No
 #-------------------------------
 [Map048]
-Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
-Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
-Esto llevará un rato.
-Okay, I'll take your Pokémon for a few seconds.
-Misión cumplida, ¡vuelve cuando lo necesites!
-Thank you for waiting. We've restored your Pokémon to full health.
-Estamos a tu servicio.
-We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -2704,6 +2696,14 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
+Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
+Esto llevará un rato.
+Okay, I'll take your Pokémon for a few seconds.
+Misión cumplida, ¡vuelve cuando lo necesites!
+Thank you for waiting. We've restored your Pokémon to full health.
+Estamos a tu servicio.
+We hope to see you again!
 \rRandy: Hi, \PN!
 \rRandy: Hi, \PN!
 \rRandy: What would you like me to do?
@@ -2726,16 +2726,16 @@ Dos Pokémon de la misma especie pueden ser muy distintos dependiendo de factore
 Two Pokémon of the same species can be very different depending on genetic factors or how they've been trained.
 Como decimos en mi gremio: nunca pescarás dos Magikarp iguales.
 As we say in my guild: you'll never catch two Magikarp alike.
-Sí
-Yes
-No
-No
 Recordar movimiento
 Remember moves
 Niveles de los líderes
 Level Caps
 Nada
 Nothing
+Sí
+Yes
+No
+No
 Toggle Randomizer
 Toggle Randomizer
 Re-Randomize
@@ -2836,8 +2836,6 @@ No
 No
 #-------------------------------
 [Map051]
-Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
-Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -2860,6 +2858,8 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
+Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
+Entrenar en una zona de alta montaña como esta es muy beneficioso para el sistema respiratorio.
 \rRandy: Hi, \PN!
 \rRandy: Hi, \PN!
 \rRandy: What would you like me to do?
@@ -3034,6 +3034,10 @@ Yo soy más científica, aunque a veces ves cosas en los Pokémon que desafían 
 I'm more scientific, although sometimes you see things in Pokémon that defy all logic.
 #-------------------------------
 [Map056]
+No soy muy fuerte físicamente, pero soy un manitas con todo lo eléctrico.
+I'm not very strong, but I'm a handyman with everything electrical.
+¡Vale, hablaré! Rebusca en los cubos de basura y encontrarás la manera de llegar a <b>Surge</b>.
+Okay, I'll talk! Search the trash cans and you'll find a way to <b>Surge</b>.
 En este cubo sólo hay basura.
 No, Kato, there's only trash here.
 ¡Has encontrado la segunda papelera y has pulsado su interruptor! La corriente eléctrica ha desaparecido.
@@ -3044,10 +3048,6 @@ You've found the first trash can and flipped its switch! The second trash can is
 No, Kato, there's only trash here.
 Los botones de las papeleras han cambiado de sitio.
 The buttons on the trash cans have moved.
-No soy muy fuerte físicamente, pero soy un manitas con todo lo eléctrico.
-I'm not very strong, but I'm a handyman with everything electrical.
-¡Vale, hablaré! Rebusca en los cubos de basura y encontrarás la manera de llegar a <b>Surge</b>.
-Okay, I'll talk! Search the trash cans and you'll find a way to <b>Surge</b>.
 ¡Una barrera eléctrica corta el paso!
 An electric barrier blocks the way!
 Dicen que cuando estaba en el ejército, el <b>Surge</b> era muy estricto con la tropa.
@@ -4266,6 +4266,8 @@ Emm...
 Umm...
 #-------------------------------
 [Map077]
+¿Ves a esa Exorcista? Dicen que puede ver el futuro, aunque yo creo que se trata de una simple estafa...
+Do you see that Exorcist? They say she can see the future, but I think it's just a scam...
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -4288,8 +4290,6 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
-¿Ves a esa Exorcista? Dicen que puede ver el futuro, aunque yo creo que se trata de una simple estafa...
-Do you see that Exorcist? They say she can see the future, but I think it's just a scam...
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
@@ -6816,16 +6816,18 @@ En ese caso, joven promesa, ¡sigue estudiando!
 ¿Has visto esos pergaminos del suelo? Tal vez te otorguen cierta sabiduría que te permita vencer al líder Koga...
 La verdad es que como aprendiz de ninja, tengo que leerme muchos textos ninja cada día. Es la parte más pesada de todas...
 La verdad es que como aprendiz de ninja, tengo que leerme muchos textos ninja cada día. Es la parte más pesada de todas...
-Credo del Ninja: "La clave de la victoria es analizar el punto débil"
-Credo del Ninja: "La clave de la victoria es analizar el punto débil"
 Estás bastante cerca, ¿pero seguro que quieres exponerte a las temibles maniobras venenosas de Koga?
 Estás bastante cerca, ¿pero seguro que quieres exponerte a las temibles maniobras venenosas de Koga?
 Nadie acostumbra a hablarme después de vencerme, así que no sé qué más decirte.
 Nadie acostumbra a hablarme después de vencerme, así que no sé qué más decirte.
+Credo del Ninja: "La clave de la victoria es analizar el punto débil"
+Credo del Ninja: "La clave de la victoria es analizar el punto débil"
 He entrenado muy duramente mis técnicas ninja, ¡es hora de ponerlas en práctica!
 He entrenado muy duramente mis técnicas ninja, ¡es hora de ponerlas en práctica!
 Seguiré entrenando para convertirme algún día en un Maestro Ninja, ¡como el líder Koga!
 Seguiré entrenando para convertirme algún día en un Maestro Ninja, ¡como el líder Koga!
+Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
+Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
 ¡Hola, joven promesa! ¿Vienes a desafiar al gimnasio de <b>Ciudad Fucsia</b>?
 ¡Hola, joven promesa! ¿Vienes a desafiar al gimnasio de <b>Ciudad Fucsia</b>?
 Bueno... pues hay un problema. ¿Sabes? Un pequeño impedimento.
@@ -6852,16 +6854,14 @@ Perfect, good luck in the gym!
 ¿Has vencido a los líderes? ¡Qué bien!
 Siento no haber sido de mucha ayuda en esta ocasión, pero el líder <b>Koga</b> tiene preferencia por los Aspirantes autorresolutivos.
 Siento no haber sido de mucha ayuda en esta ocasión, pero el líder <b>Koga</b> tiene preferencia por los Aspirantes autorresolutivos.
-Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
-Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
 ¿Has descubierto el secreto de los caminos invisibles? ¡Entonces no eres alguien cualquiera!
 ¿Has descubierto el secreto de los caminos invisibles? ¡Entonces no eres alguien cualquiera!
 A pesar de que somos expertos en tipo Veneno, el entrenamiento ninja nos hace tener un cuerpo sano en una mente sana.
 A pesar de que somos expertos en tipo Veneno, el entrenamiento ninja nos hace tener un cuerpo sano en una mente sana.
-Credo del Ninja: "Un ninja solo puede ser derrotado por otro ninja"
-Credo del Ninja: "Un ninja solo puede ser derrotado por otro ninja"
 Aún tienes por delante a tres obcecados líderes de gimnasio que no te lo pondrán nada fácil. Así que, ¡mucha suerte!
 Aún tienes por delante a tres obcecados líderes de gimnasio que no te lo pondrán nada fácil. Así que, ¡mucha suerte!
+Credo del Ninja: "Un ninja solo puede ser derrotado por otro ninja"
+Credo del Ninja: "Un ninja solo puede ser derrotado por otro ninja"
 La fuerza no es la clave para ganar, ¿Sabes? ¡Lo importante en un combate Pokémon es la estrategia!
 La fuerza no es la clave para ganar, ¿Sabes? ¡Lo importante en un combate Pokémon es la estrategia!
 Si algún día eres capaz de adaptarte a la perfección a cualquier estrategia, te habrás convertido en un Maestro Pokémon.
@@ -7116,14 +7116,12 @@ Nothing
 [Map131]
 ¡Resuelve el siguiente acertijo!
 ¡Resuelve el siguiente acertijo!
-¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
-¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
+¿Qué ave legendaria es de tipo Fuego?
+¿Qué ave legendaria es de tipo Fuego?
 ¿Es la respuesta correcta? ¡Pasa a la siguiente sala para averiguarlo!
 ¿Es la respuesta correcta? ¡Pasa a la siguiente sala para averiguarlo!
-¿Qué probabilidad de quemar tiene Llamarada?
-¿Qué probabilidad de quemar tiene Llamarada?
-¡Completa la palabra que falta! Simisage, Simipour y...
-¡Completa la palabra que falta! Simisage, Simipour y...
+¿Qué perro legendario es de tipo Fuego?
+¿Qué perro legendario es de tipo Fuego?
 Lamentablemente, tu respuesta era incorrecta.
 Lamentablemente, tu respuesta era incorrecta.
 Ahora sufrirás el poder de las quemaduras antes de enfrentarte a mi ayudante.
@@ -7134,26 +7132,30 @@ Ahora, ¡enfréntante a mi ayudante en un ardiente combate!
 Ahora, ¡enfréntante a mi ayudante en un ardiente combate!
 ¡Excelente combate! Puedes cruzar la siguiente puerta para un nuevo acertijo.
 ¡Excelente combate! Puedes cruzar la siguiente puerta para un nuevo acertijo.
-¿Qué ave legendaria es de tipo Fuego?
-¿Qué ave legendaria es de tipo Fuego?
-¿Qué perro legendario es de tipo Fuego?
-¿Qué perro legendario es de tipo Fuego?
+¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
+¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
+¿Qué probabilidad de quemar tiene Llamarada?
+¿Qué probabilidad de quemar tiene Llamarada?
+¡Completa la palabra que falta! Simisage, Simipour y...
+¡Completa la palabra que falta! Simisage, Simipour y...
+¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
+¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
 ¿Qué habilidad es capaz de hacer salir el sol?
 ¿Qué habilidad es capaz de hacer salir el sol?
 Si un Pokémon con la habilidad Absorbe Fuego recibe un movimiento de tipo Fuego...
 Si un Pokémon con la habilidad Absorbe Fuego recibe un movimiento de tipo Fuego...
-¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
-¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
+¿Qué Pokémon no evoluciona mediante Piedra Fuego?
+¿Qué Pokémon no evoluciona mediante Piedra Fuego?
+¿Qué Pokémon recibe más daño por el tipo Fuego?
+¿Qué Pokémon recibe más daño por el tipo Fuego?
 ¿Qué movimiento causa más daño cuanta más PS tenga el usuario?
 ¿Qué movimiento causa más daño cuanta más PS tenga el usuario?
 ¿Qué movimiento es capaz de quemar bayas?
 ¿Qué movimiento es capaz de quemar bayas?
 ¿Qué movimiento reduce el Ataque Especial del usuario?
 ¿Qué movimiento reduce el Ataque Especial del usuario?
-¿Qué Pokémon no evoluciona mediante Piedra Fuego?
-¿Qué Pokémon no evoluciona mediante Piedra Fuego?
-¿Qué Pokémon recibe más daño por el tipo Fuego?
-¿Qué Pokémon recibe más daño por el tipo Fuego?
+Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
+Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
 <b>Blaine:</b> ¡Qué bien me lo he pasado viéndote sufrir con mis acertijos!
 <b>Blaine:</b> ¡Qué bien me lo he pasado viéndote sufrir con mis acertijos!
 ¡Pero bueno! ¡Si los has acertado todos! Eso se merece un premio extra al final del combate.
@@ -7184,8 +7186,6 @@ Tiene una tarea entre manos con la que podrías ayudarle. Te espera en la puerta
 ¡Recibes más Cápsulas más por no haber fallado ningún acertijo!
 <b>Blaine:</b> Si me lo permites, debemos volver al asunto del <b>Team Rocket</b> y el <b>Psicorradar</b>.
 <b>Blaine:</b> Si me lo permites, debemos volver al asunto del <b>Team Rocket</b> y el <b>Psicorradar</b>.
-Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
-Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
 ¿Qué Pokémon recibe menos daño de Fuego?
 ¿Qué Pokémon recibe menos daño de Fuego?
 ¿Cuál es el Pokémon Leyenda?
@@ -7194,20 +7194,26 @@ Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
 ¿Qué Pokémon tiene un Puño Fuego más potente?
 ¿Cuál de estos movimientos no se beneficia de la presencia del sol?
 ¿Cuál de estos movimientos no se beneficia de la presencia del sol?
+Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
+Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
 ¿Cuál de estos Pokémon es conocido como el Pokémon Escupefuego?
 ¿Cuál de estos Pokémon es conocido como el Pokémon Escupefuego?
 ¿Cómo afecta el tipo Hada al tipo Fuego?
 ¿Cómo afecta el tipo Hada al tipo Fuego?
 ¿Cuál de estos movimientos de tipo Fuego tiene más potencia?
 ¿Cuál de estos movimientos de tipo Fuego tiene más potencia?
-Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
-Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
-Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
-Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
 ¿Qué beneficio te otorga el movimiento Nitrocarga?
 ¿Qué beneficio te otorga el movimiento Nitrocarga?
 ¿Cómo se llama la baya que cura las quemaduras?
 ¿Cómo se llama la baya que cura las quemaduras?
+Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
+Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
+¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
+¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
+¿Cuántas debilidades tiene el tipo Fuego?
+¿Cuántas debilidades tiene el tipo Fuego?
+¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
+¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
 <b>Consejero:</b> ¡Hola, aspirante! Verás, en este gimnasio...
 <b>Consejero:</b> ¡Hola, aspirante! Verás, en este gimnasio...
 <b>Blaine:</b> ¡Primer acertijo, \PN!
@@ -7236,20 +7242,26 @@ Para llegar hasta el líder, tendrás que atravesar unas puertas que te plantear
 Do you need me to heal your Pokémon?
 Perfecto, ¡mucha suerte en el gimnasio!
 Perfect, good luck in the gym!
-¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
-¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
-¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
-¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
-¿Cuántas debilidades tiene el tipo Fuego?
-¿Cuántas debilidades tiene el tipo Fuego?
-¿Cuál de estos Pokémon tiene cola?
-¿Cuál de estos Pokémon tiene cola?
-¿Cuál de estos Pokémon aprende Danza Llama?
-¿Cuál de estos Pokémon aprende Danza Llama?
 ¿Qué inicial de tipo Fuego te encontrarías en Hoenn?
 ¿Qué inicial de tipo Fuego te encontrarías en Hoenn?
 ¿Qué Pokémon tiene mayor Velocidad?
 ¿Qué Pokémon tiene mayor Velocidad?
+¿Cuál de estos Pokémon tiene cola?
+¿Cuál de estos Pokémon tiene cola?
+¿Cuál de estos Pokémon aprende Danza Llama?
+¿Cuál de estos Pokémon aprende Danza Llama?
+Articuno
+Articuno
+Zapdos
+Zapdos
+Moltres
+Moltres
+Suicune
+Suicune
+Entei
+Entei
+Raikou
+Raikou
 Camerupt
 Camerupt
 Houndoom
@@ -7268,18 +7280,12 @@ Simiheat
 Simiheat
 Simisear
 Simisear
-Articuno
-Articuno
-Zapdos
-Zapdos
-Moltres
-Moltres
-Suicune
-Suicune
-Entei
-Entei
-Raikou
-Raikou
+Blaine
+Blaine
+Caine
+Caine
+Maine
+Maine
 Amanecer
 Amanecer
 Sequía
@@ -7292,18 +7298,6 @@ Aumenta Velocidad
 Aumenta Velocidad
 Aumenta su ofensiva
 Aumenta su ofensiva
-Blaine
-Blaine
-Caine
-Caine
-Maine
-Maine
-Sofoco
-Sofoco
-Estallido
-Estallido
-Calcinación
-Calcinación
 Growlithe
 Growlithe
 Pansear
@@ -7316,6 +7310,12 @@ Parasect
 Parasect
 Dewgong
 Dewgong
+Sofoco
+Sofoco
+Estallido
+Estallido
+Calcinación
+Calcinación
 Coalossal
 Coalossal
 Gyarados
@@ -7364,6 +7364,18 @@ Baya Safre
 Baya Safre
 Baya Zreza
 Baya Zreza
+Lilligant
+Lilligant
+Marowak
+Marowak
+Muk
+Muk
+2
+2
+3
+3
+4
+4
 ¿El tipo Fuego?
 ¿El tipo Fuego?
 ¿El tipo Bicho?
@@ -7374,24 +7386,6 @@ Sí
 Yes
 No
 No
-Lilligant
-Lilligant
-Marowak
-Marowak
-Muk
-Muk
-2
-2
-3
-3
-4
-4
-Torkoal
-Torkoal
-Quilava
-Quilava
-Volcarona
-Volcarona
 Chimchar
 Chimchar
 Torchic
@@ -7402,6 +7396,12 @@ Typhlosion
 Typhlosion
 Son iguales
 Son iguales
+Torkoal
+Torkoal
+Quilava
+Quilava
+Volcarona
+Volcarona
 #-------------------------------
 [Map132]
 ¡Saludos, Aspirante!
@@ -7438,20 +7438,20 @@ Estamos a tu servicio.
 We hope to see you again!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
+\rRandy: Hi, \PN!
+\rRandy: Hi, \PN!
+\rRandy: What would you like me to do?
+\rRandy: What would you like me to do?
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: The randomizer is now...on or off. Check the console!
+\rRandy: Every day I'm shufflin'
+\rRandy: Every day I'm shufflin'
+\rRandy: Oh, okay then.
+\rRandy: Oh, okay then.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
 You can continue playing as normal, but remember that you have failed.
-\rRandy: Hi, \PN!
-\rRandy: Hi, \PN!
-\rRandy: What would you like me to do?
-\rRandy: What would you like me to do?
-\rRandy: The randomizer is now...on or off. Check the console!
-\rRandy: The randomizer is now...on or off. Check the console!
-\rRandy: Every day I'm shufflin'
-\rRandy: Every day I'm shufflin'
-\rRandy: Oh, okay then.
-\rRandy: Oh, okay then.
 Si yo, que no voy a combatir, estoy nervioso, ¿cómo deben de sentirse los Aspirantes?
 Si yo, que no voy a combatir, estoy nervioso, ¿cómo deben de sentirse los Aspirantes?
 Los 4 <b>Altos Mandos</b> te pondrán a prueba, uno por uno.
@@ -8240,10 +8240,6 @@ No
 No
 #-------------------------------
 [Map159]
-¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
-¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
-Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
-Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
 ¡Hola, Aspirante! ¿Qué necesitas?
 Hello, trainer! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
@@ -8266,6 +8262,10 @@ All done, your Pokémon has remembered the move.
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
+¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
+¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
+Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
+Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
@@ -9310,14 +9310,14 @@ No
 No
 #-------------------------------
 [Map182]
-Necesitas 2 llaves para abrir esta puerta.
-Necesitas 2 llaves para abrir esta puerta.
-¡Usas la <b>Llave Roja</b> y la <b>Llave Azul</b>!
-¡Usas la <b>Llave Roja</b> y la <b>Llave Azul</b>!
 ¿Te atreves a subestimar el poder del tipo Bicho? ¡Voy a desplegarlo ante ti como dos grandes alas de mariposa!
 ¿Te atreves a subestimar el poder del tipo Bicho? ¡Voy a desplegarlo ante ti como dos grandes alas de mariposa!
 Hasta el insecto más feo e insignificante puede convertirse en una preciosa mariposa. Lo mismo pasa con las personas. Estoy seguro de que lo mismo te pasará a ti.
 Hasta el insecto más feo e insignificante puede convertirse en una preciosa mariposa. Lo mismo pasa con las personas. Estoy seguro de que lo mismo te pasará a ti.
+Necesitas 2 llaves para abrir esta puerta.
+Necesitas 2 llaves para abrir esta puerta.
+¡Usas la <b>Llave Roja</b> y la <b>Llave Azul</b>!
+¡Usas la <b>Llave Roja</b> y la <b>Llave Azul</b>!
 Nuestro líder es un hombre de honor, ¡hasta ingresó en el Team Rocket porque la madre de Giovanni le pidió que aceptara a su hijo como pupilo!
 Nuestro líder es un hombre de honor, ¡hasta ingresó en el Team Rocket porque la madre de Giovanni le pidió que aceptara a su hijo como pupilo!
 En mis tiempos todo era más sencillo, se combatía con Hiperrayo y Terremoto. Ganaba el que golpease más fuerte.
@@ -9372,6 +9372,8 @@ No creo que lo necesites, ¡pero avísame si alguna vez necesitas consejos sobre
 No creo que lo necesites, ¡pero avísame si alguna vez necesitas consejos sobre capturar Pokémon! Soy todo un maestro.
 ¡Coges una <b>Llave Azul</b>!
 ¡Coges una <b>Llave Azul</b>!
+¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
+¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
 ¡Te doy la bienvenida a tu gimnasio final, Aspirante! Aquí entrenan los maestros del tipo Bicho.
 ¡Te doy la bienvenida a tu gimnasio final, Aspirante! Aquí entrenan los maestros del tipo Bicho.
 Por tanto, podría funcionarte llevar movimientos de tipo Fuego, Roca o Volador.
@@ -9384,8 +9386,6 @@ Toma esto, podría venirte bien.
 Do you need me to heal your Pokémon?
 Perfecto, ¡mucha suerte en el gimnasio!
 Perfect, good luck in the gym!
-¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
-¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
 Sí
 Yes
 No

@@ -39,10 +39,11 @@
 
 06/06/2024 after post
     - B/W Style Message Shake re-implemented
+    - Fix crash after being KO'd
 
 
 TODO:
-- Can we re-implement level caps?
+- Configure Level cap plugin
 
 
 - PokéVial

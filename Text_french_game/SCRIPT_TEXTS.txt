@@ -7586,3 +7586,31 @@ You are missing the graphic for this UI. Make sure the image is in your Graphics
 <ac><c2=43F022E8>{1}</c2></ac>
 Encounters
 Encounters
+Set Badges
+Set Badges
+Update PBS from module
+Update PBS from module
+The badges data was added to PBS/badges.txt.
+The badges data was added to PBS/badges.txt.
+Create PBS File(s)
+Create PBS File(s)
+The entry {1} is required in {2} section {3}.
+The entry {1} is required in {2} section {3}.
+BADGE INFO
+BADGE INFO
+Obtained At
+Obtained At
+Main Type
+Main Type
+Location
+Location
+Leader
+Leader
+ACE
+ACE
+POKEMON
+POKEMON
+{1} {2} {3}
+{1} {2} {3}
+Not Obtained
+Not Obtained
