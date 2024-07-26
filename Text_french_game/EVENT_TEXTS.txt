@@ -2440,8 +2440,8 @@ No
 [Map042]
 <b>Brock:</b> No todos los días llegan <b>Aspirantes</b> con tanto potencial, o por lo menos eso es lo que me has demostrado antes contra el <b>Team Rocket</b>.
 <b>Brock:</b> It's not every day that <b>Challengers</b> arrive with so much potential, or at least what you showed me before against <b>Team Rocket</b>.
-Pero, dime... ¿sabes lo que representan mis Pokémon de tipo Roca?
-Tell me... do you know what my Rock-type Pokémon represent?
+\Pero, dime... ¿sabes lo que representan mis Pokémon de tipo Roca?
+\Pero, dime... ¿sabes lo que representan mis Pokémon de tipo Roca?
 Se tratan de Pokémon resistentes, estoicos, duraderos... ¡un tipo de Pokémon de los que intento aprender cada día!
 They're resistant, stoic, durable Pokémon...a type of Pokémon that I try to learn from every day!
 Voy a mostrarte en combate de lo que estoy hablando, ¡prepárate para tu primer combate contra un líder de gimnasio!
@@ -6217,7 +6217,7 @@ Let me know when you're ready to go.
 <b>Bill:</b> ¿Todo listo para marcharnos?
 <b>Bill:</b> Ready to go?
 ¡Perfecto! Con mi barco, llegaremos a mi casa en un suspiro.
-Perfect! We'll reach my house in a flash with my boat. 
+Perfect! We'll reach my house in a flash with my boat.
 Muy bien, esperaré aquí hasta que me avises.
 Very well, I'll wait here until you're ready.
 El <b>Team Rocket</b> robó muchos fósiles Pokémon en el pasado para venderlos en el mercado negro. Los científicos del <b>Laboratorio Canela</b> tuvieron que recomprarlos a un precio mucho mayor para que no cayesen en manos equivocadas.

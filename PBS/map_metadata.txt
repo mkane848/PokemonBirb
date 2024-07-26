@@ -1268,8 +1268,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[168]   # Celestial Cave
-Name = Celestial Cave
+[168]   # Cerulean Cave
+Name = Cerulean Cave
 BattleBack =  cave2
 MapPosition = 0,6,11
 ShowArea = true
@@ -1278,8 +1278,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[169]   # Celestial Cave
-Name = Celestial Cave
+[169]   # Cerulean Cave
+Name = Cerulean Cave
 BattleBack = cave2
 MapPosition = 0,6,11
 TrainerVictoryBGM = VictoriaEntrenador
@@ -1287,8 +1287,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[170]   # Celestial Cave
-Name = Celestial Cave
+[170]   # Cerulean Cave
+Name = Cerulean Cave
 BattleBack = cave2
 MapPosition = 0,6,11
 TrainerVictoryBGM = VictoriaEntrenador
@@ -1313,8 +1313,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[174]   # Celestial Forest
-Name = Celestial Forest
+[174]   # Cerulean Forest
+Name = Cerulean Forest
 SnapEdges = true
 BattleBack = city_night
 Outdoor = true
