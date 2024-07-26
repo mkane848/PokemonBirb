@@ -6127,13 +6127,13 @@ Si encuentras a nuestro Científico Solitario en el Safari, recibirás una recom
 #-------------------------------
 [Map116]
 Mansión Pokémon
-Mansión Pokémon
+Pokémon Mansion
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
+It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
 En concreto, sientes la presencia de un Pokémon Fuego muy poderoso.
-En concreto, sientes la presencia de un Pokémon Fuego muy poderoso.
+Specifically, you feel the presence of a very powerful Fire Pokémon.
 ¿Quieres hacerlo salir?
 Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
@@ -6141,149 +6141,149 @@ The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
 The <b>Alpha Nest</b> is empty...
 El líder <b>Blaine</b> aceptó el cargo hace unos años, después de retirarse como <b>Profesor Pokémon</b>.
-El líder <b>Blaine</b> aceptó el cargo hace unos años, después de retirarse como <b>Profesor Pokémon</b>.
+Leader <b>Blaine</b> accepted the position a few years ago, after retiring as <b>Pokémon Professor</b>.
 En su tiempo trabajó en unos avances muy importantes en el ámbito de la <b>Clonación Pokémon</b>, si no estoy mal informada.
-En su tiempo trabajó en unos avances muy importantes en el ámbito de la <b>Clonación Pokémon</b>, si no estoy mal informada.
+In his time he worked on some very important advances in the field of <b>Pokémon Cloning</b>, if I'm not mistaken.
 La puerta está cerrada.
-La puerta está cerrada.
+The door is closed.
 <b>Isla Canela</b>, la ciudad del ardiente deseo
-<b>Isla Canela</b>, la ciudad del ardiente deseo
+<b>Cinnabar Island</b>, the Fiery Town of Burning Desire
 Las rocas volcánicas son supercuriosas, ¿en serio todo esto se ha formado a partir de la lava?
-Las rocas volcánicas son supercuriosas, ¿en serio todo esto se ha formado a partir de la lava?
+Volcanic rocks are so interesting, has all this seriously been formed from lava?
 De vez en cuando se pueden encontrar tesoros en las rocas, ¡tesoros que salen de las profundidades de la tierra!
-De vez en cuando se pueden encontrar tesoros en las rocas, ¡tesoros que salen de las profundidades de la tierra!
+From time to time treasures can be found in the rocks - treasures that come from the depths of the earth!
 <b>???:</b> ¿Andas en busca del líder de gimnasio de esta isla? ¡Pues has tenido suerte, lo tienes ante ti!
-<b>???:</b> ¿Andas en busca del líder de gimnasio de esta isla? ¡Pues has tenido suerte, lo tienes ante ti!
+<b>???:</b> Are you looking for the gym leader of this island? You've got good luck, he stands before you!
 Soy <b>Blaine</b>. Científico, experto del tipo Fuego y maestro de los acertijos.
-Soy <b>Blaine</b>. Científico, experto del tipo Fuego y maestro de los acertijos.
+I'm <b>Blaine</b>. Scientist, Fire-type expert, and master of riddles.
 <b>Blaine:</b> No obstante, lo más preciso sería decir que tu suerte ha sido a medias, ya que tenemos un contratiempo.
-<b>Blaine:</b> No obstante, lo más preciso sería decir que tu suerte ha sido a medias, ya que tenemos un contratiempo.
+<b>Blaine:</b> However, it'd be more accurate to say that your luck has been mixed, since we have a...setback.
 <b>Blaine:</b> Como puedes observar, este gran caserío ha vivido tiempos mejores. Antes solía ser un laboratorio dotado de una tecnología muy avanzada.
-<b>Blaine:</b> Como puedes observar, este gran caserío ha vivido tiempos mejores. Antes solía ser un laboratorio dotado de una tecnología muy avanzada.
+<b>Blaine:</b> As you can see, this great hamlet has seen better days. It used to be a laboratory equipped with very advanced technology.
 Pero un desafortunado incendio originado por un experimento fallido lo arrasó todo.
-Pero un desafortunado incendio originado por un experimento fallido lo arrasó todo.
+But an unfortunate fire caused by a failed experiment devastated everything.
 <b>Blaine:</b> El <b>Team Rocket</b> lleva varias noches merodeando por los alrededores, acechando la mansión.
-<b>Blaine:</b> El <b>Team Rocket</b> lleva varias noches merodeando por los alrededores, acechando la mansión.
+<b>Blaine:</b> <b>Team Rocket</b> has been lurking around the area for several nights, scoping out the mansion.
 Puede que simplemente pretendan colarse para robar objetos de valor, o puede que se trate de un motivo más profundo.
-Puede que simplemente pretendan colarse para robar objetos de valor, o puede que se trate de un motivo más profundo.
+They may simply be trying to sneak in to steal valuables, or there may be a deeper motive.
 <b>Blaine:</b> Este es el reto que te propongo si quieres enfrentarme a mí. Entra en la <b>Mansión Quemada</b> y resuelve el enigma, ¿qué está buscando el <b>Team Rocket</b> allí dentro?
-<b>Blaine:</b> Este es el reto que te propongo si quieres enfrentarme a mí. Entra en la <b>Mansión Quemada</b> y resuelve el enigma, ¿qué está buscando el <b>Team Rocket</b> allí dentro?
+<b>Blaine:</b> This is the challenge I propose to you if you want to face me. Enter the <b>Burnt Mansion</b> and solve this riddle: what is <b>Team Rocket</b> looking for in there?
 Si te estás haciendo con las medallas con tanto denuedo como se cuenta, te resultará una tarea sencilla.
-Si te estás haciendo con las medallas con tanto denuedo como se cuenta, te resultará una tarea sencilla.
+If you're collecting Gym Badges as hard as you can, it will be an easy task.
 <b>Blaine:</b> Esperaré pacientemente a que me traigas los resultados de tus pesquisas. ¡Buena suerte!
-<b>Blaine:</b> Esperaré pacientemente a que me traigas los resultados de tus pesquisas. ¡Buena suerte!
+<b>Blaine:</b> I'll wait patiently for you to bring me the results of your investigations. Good luck!
 Esperaré pacientemente a que me traigas los resultados de tus pesquisas. ¡Buena suerte!
-Esperaré pacientemente a que me traigas los resultados de tus pesquisas. ¡Buena suerte!
+I'll wait patiently for you to bring me the results of your investigations. Good luck!
 <b>Blaine:</b> Parece que has averiguado algo ahí dentro, ¡comparte tu conocimiento!
-<b>Blaine:</b> Parece que has averiguado algo ahí dentro, ¡comparte tu conocimiento!
+<b>Blaine:</b> Looks like you figured something out in there, share your findings!
 ...
 ...
 El <b>Team Rocket</b> ha encontrado un <b>Psicorradar</b>, ¿dices?
-El <b>Team Rocket</b> ha encontrado un <b>Psicorradar</b>, ¿dices?
+<b>Team Rocket</b> has found a <b>Psychic Radar</b>, you say?
 ¡Cáspita! Con lo delicados que son esos artilugios, no pensé que hubiera sobrevivido a las llamas del incendio.
-¡Cáspita! Con lo delicados que son esos artilugios, no pensé que hubiera sobrevivido a las llamas del incendio.
+Wow! Those contraptions are extremely delicate, I didn't think it would have survived the flames of the fire.
 Un <b>Psicorradar</b> sirve para el propósito de detectar Campos Psíquicos. Su gran alcance los hace muy notorios para rastrear poderosos Pokémon de tipo Psíquico.
-Un <b>Psicorradar</b> sirve para el propósito de detectar Campos Psíquicos. Su gran alcance los hace muy notorios para rastrear poderosos Pokémon de tipo Psíquico.
+A <b>Psychic Radar</b> serves the purpose of detecting Psychic Fields. Their long range makes them very notorious for tracking down powerful Psychic-type Pokémon.
 E imagino que el <b>Team Rocket</b> planea utilizarlo para encontrar a <b>Mewtwo</b>, el Pokémon artificial cuyos poderes psíquicos desencadenaron el incendio de la mansión.
-E imagino que el <b>Team Rocket</b> planea utilizarlo para encontrar a <b>Mewtwo</b>, el Pokémon artificial cuyos poderes psíquicos desencadenaron el incendio de la mansión.
+I imagine that <b>Team Rocket</b> plans to use it to find <b>Mewtwo</b>, the artificial Pokémon whose psychic powers started the mansion fire.
 <b>Blaine:</b> Bueno, pues ha quedado una buena tarde.
-<b>Blaine:</b> Bueno, pues ha quedado una buena tarde.
+<b>Blaine:</b> Well, it was a good afternoon.
 Hay mucho en lo que pensar, pero primero debo partir a mi gimnasio para ofrecerte ese combate que tanto anhelas.
-Hay mucho en lo que pensar, pero primero debo partir a mi gimnasio para ofrecerte ese combate que tanto anhelas.
+There's a lot to think about, but first I must leave for my Gym to offer you that fight you so long for.
 <b>Blaine:</b> Prepárate bien, ¿eh? Dicen que mis Pokémon de tipo Fuego no tienen rival, aunque yo considero que se me dan mejor los acertijos.
-<b>Blaine:</b> Prepárate bien, ¿eh? Dicen que mis Pokémon de tipo Fuego no tienen rival, aunque yo considero que se me dan mejor los acertijos.
+<b>Blaine:</b> Prepare well, okay? They say my Fire-type Pokémon are unrivaled, although I think I'm better at puzzles.
 ¿Has estado en las <b>Islas Espuma</b>? Son un sistema de cuevas submarinas que se encuentran cubiertas con hielo debido al poder de Articuno.
-¿Has estado en las <b>Islas Espuma</b>? Son un sistema de cuevas submarinas que se encuentran cubiertas con hielo debido al poder de Articuno.
+Have you been to <b>Seafoam Islands</b>? They're a system of underwater caves that are covered with ice due to the power of Articuno.
 Articuno es una de las tres aves guardianas de <b>Kanto</b>. Las otras dos son Zapdos y Moltres.
-Articuno es una de las tres aves guardianas de <b>Kanto</b>. Las otras dos son Zapdos y Moltres.
+Articuno is one of the three guardian birds of <b>Kanto</b>. The other two are Zapdos and Moltres.
 Ese último, Moltres, también podría andar por aquí cerca. Al fin y al cabo controla el fuego y, bueno, esto es una isla volcánica.
-Ese último, Moltres, también podría andar por aquí cerca. Al fin y al cabo controla el fuego y, bueno, esto es una isla volcánica.
+That last one, Moltres, could also be around here. After all, he controls fire and, well, this IS a volcanic island.
 <b>Bill:</b> ¡Cuánto tiempo, \PN! Ya veo que has progresado en tu carrera hacia la <b>Liga Pokémon</b>.
-<b>Bill:</b> ¡Cuánto tiempo, \PN! Ya veo que has progresado en tu carrera hacia la <b>Liga Pokémon</b>.
+<b>Bill:</b> Long time, \PN! I see that you've made good progress on your journey towards the <b>Pokémon League</b>.
 El <b>Profesor Oak</b> estará muy orgulloso de ti cuando te vea.
-El <b>Profesor Oak</b> estará muy orgulloso de ti cuando te vea.
+<b>Professor Oak</b> will be very proud of you when he sees you.
 <b>Bill:</b> El líder <b>Blaine</b> me ha puesto al corriente de la situación.
-<b>Bill:</b> El líder <b>Blaine</b> me ha puesto al corriente de la situación.
+<b>Bill:</b> Leader <b>Blaine</b> updated me on the situation.
 Todo apunta a que el <b>Team Rocket</b> pretende capturar a <b>Mewtwo</b>, el Pokémon artificial que fue creado en la <b>Mansión Quemada</b> pero que escapó hacia paradero desconocido.
-Todo apunta a que el <b>Team Rocket</b> pretende capturar a <b>Mewtwo</b>, el Pokémon artificial que fue creado en la <b>Mansión Quemada</b> pero que escapó hacia paradero desconocido.
+Everything indicates that <b>Team Rocket</b> intends to capture <b>Mewtwo</b>, the artificial Pokémon that was created in the <b>Burned Mansion</b> but escaped to an unknown location.
 Y me temo que <b>Giovanni</b> lo tiene casi todo listo para iniciar su gran plan.
-Y me temo que <b>Giovanni</b> lo tiene casi todo listo para iniciar su gran plan.
+And I'm afraid that <b>Giovanni</b> has almost everything ready to put his plan into motion.
 <b>Bill:</b> Tenemos que ir a mi casa de <b>Ciudad Celeste</b>, he avisado también a tus compañeros para reunirnos todos.
-<b>Bill:</b> Tenemos que ir a mi casa de <b>Ciudad Celeste</b>, he avisado también a tus compañeros para reunirnos todos.
+<b>Bill:</b> We have to go to my house in <b>Cerulean City</b>, I've also asked your colleagues to meet us.
 Allí os desarrollaré mi idea para frenar las ambiciones de <b>Giovanni</b>.
-Allí os desarrollaré mi idea para frenar las ambiciones de <b>Giovanni</b>.
+Once we get there, I'll work on an idea to stop Giovanni's ambitions.
 Avísame cuando lo tengas todo listo para partir.
-Avísame cuando lo tengas todo listo para partir.
+Let me know when you're ready to go.
 <b>Bill:</b> ¿Todo listo para marcharnos?
-<b>Bill:</b> ¿Todo listo para marcharnos?
+<b>Bill:</b> Ready to go?
 ¡Perfecto! Con mi barco, llegaremos a mi casa en un suspiro.
-¡Perfecto! Con mi barco, llegaremos a mi casa en un suspiro.
+Perfect! We'll reach my house in a flash with my boat. 
 Muy bien, esperaré aquí hasta que me avises.
-Muy bien, esperaré aquí hasta que me avises.
+Very well, I'll wait here until you're ready.
 El <b>Team Rocket</b> robó muchos fósiles Pokémon en el pasado para venderlos en el mercado negro. Los científicos del <b>Laboratorio Canela</b> tuvieron que recomprarlos a un precio mucho mayor para que no cayesen en manos equivocadas.
-El <b>Team Rocket</b> robó muchos fósiles Pokémon en el pasado para venderlos en el mercado negro. Los científicos del <b>Laboratorio Canela</b> tuvieron que recomprarlos a un precio mucho mayor para que no cayesen en manos equivocadas.
+<b>Team Rocket</b> stole many Pokémon fossils in the past to sell on the black market. The scientists at <b>Cinnabar Laboratory</b> had to buy them back at a much higher price so that they wouldn't fall into the wrong hands.
 Al fin y al cabo, esos fósiles contienen ADN de Pokémon prehistóricos muy fuertes, grandes depredadores del albor de los tiempos.
-Al fin y al cabo, esos fósiles contienen ADN de Pokémon prehistóricos muy fuertes, grandes depredadores del albor de los tiempos.
+After all, these fossils contain DNA from very strong prehistoric Pokémon, great predators from the dawn of time.
 Volcán Canela, ¡continúa con precaución!
-Volcán Canela, ¡continúa con precaución!
+Cinnabar Volcano, continue with caution!
 ¿Te gustaría ayudarme a desenterrar tesoros para nuestro beneficio? ¡Aquí hay muchos!
-¿Te gustaría ayudarme a desenterrar tesoros para nuestro beneficio? ¡Aquí hay muchos!
+Would you like to help me dig up treasures for our benefit? There are tons here!
 ¡Genial! Vamos a ver que oculta esta pared rocosa.
-¡Genial! Vamos a ver que oculta esta pared rocosa.
+Brilliant! Let's see what this rock wall hides.
 ¿No? Como quieras, seguiré yo solo.
-¿No? Como quieras, seguiré yo solo.
+No? As you wish, I'll continue alone.
 ¿No quieres desenterrar tesoros? Pues te pierdes cosas muy buenas que yacen ocultas en la tierra.
-¿No quieres desenterrar tesoros? Pues te pierdes cosas muy buenas que yacen ocultas en la tierra.
+Don't you want to dig up treasures? Well, you'll miss out on all the treasures that lie hidden in the earth.
 Lo malo de vivir en una isla es que para ver a cualquier familiar hay que coger un barco o volar en un Pokémon.
-Lo malo de vivir en una isla es que para ver a cualquier familiar hay que coger un barco o volar en un Pokémon.
+The bad thing about living on an island is that you have to take a boat or fly on a Pokémon to see your family.
 Los barcos son caros y en cuanto a volar... aún no me he encontrado con ningún Pokémon con alas por aquí.
-Los barcos son caros y en cuanto a volar... aún no me he encontrado con ningún Pokémon con alas por aquí.
+Ships are expensive and as for flying...I haven't encountered any Pokémon with wings around here yet.
 Laboratorio Canela
-Laboratorio Canela
+Cinnabar Laboratory
 Si sientes un pequeño temblor bajo tus pies, no te asustes.
-Si sientes un pequeño temblor bajo tus pies, no te asustes.
+If you feel a small tremor under your feet, don't panic.
 Piensa que <b>Isla Canela</b> sigue teniendo un poco de actividad volcánica, ¡pero nada que deba preocuparte!
-Piensa que <b>Isla Canela</b> sigue teniendo un poco de actividad volcánica, ¡pero nada que deba preocuparte!
+Keep in mind that <b>Cinnabar Island</b> still has a bit of volcanic activity, but nothing that should worry you!
 <b>Plubio:</b> ¡Oh, qué placer encontrarme con una persona de tan excepcional belleza!
-<b>Plubio:</b> ¡Oh, qué placer encontrarme con una persona de tan excepcional belleza!
+<b>Plubio:</b> Oh, what a pleasure to meet a person of such exceptional beauty!
 Aunque nada se compara a la tamaña belleza que oferta la región de <b>Kanto</b>. ¡Hice bien en seleccionarla como destino turístico!
-Aunque nada se compara a la tamaña belleza que oferta la región de <b>Kanto</b>. ¡Hice bien en seleccionarla como destino turístico!
+Although nothing compares to the sheer beauty that the <b>Kanto</b> region offers. I was right to pick it as a tourist destination!
 Tal belleza me inspira a combatir, aunque es mi deber advertirte que mi talento con los Pokémon acuáticos no conoce rival.
-Tal belleza me inspira a combatir, aunque es mi deber advertirte que mi talento con los Pokémon acuáticos no conoce rival.
+Such beauty inspires me to fight, although it's my duty to warn you that my talent with Water-type Pokémon is unrivaled.
 Si aún así te nace el valor de aceptar mi desafío... ¿qué me dices? ¿Me brindas un duelo singular?
-Si aún así te nace el valor de aceptar mi desafío... ¿qué me dices? ¿Me brindas un duelo singular?
+If you still have the courage to accept my challenge...what do you say? Can you offer me a unique battle?
 ¡Oooh! Pensaba que mis artes no tenían parangón, ¡pero he aquí alguien que no solo no las teme, sino que las supera!
-¡Oooh! Pensaba que mis artes no tenían parangón, ¡pero he aquí alguien que no solo no las teme, sino que las supera!
+Oooh! I thought my skills were unparalleled, but here's someone who not only doesn't fear them, but surpasses them!
 Dicha proeza no quedará sin contestar, ¡jamás olvidaré nuestro encuentro predestinado!
-Dicha proeza no quedará sin contestar, ¡jamás olvidaré nuestro encuentro predestinado!
+This feat will not go unanswered, I'll never forget our predestined meeting!
 También me gustaría obsequiarte con esto.
-También me gustaría obsequiarte con esto.
+I'd also like to give you this gift.
 ¡Oh, qué desgracia! Pero entiendo que no todo el mundo está preparado para encajar el arte de combate del gran <b>Plubio</b>.
-¡Oh, qué desgracia! Pero entiendo que no todo el mundo está preparado para encajar el arte de combate del gran <b>Plubio</b>.
+Oh, what a shame! But I understand that not everyone is prepared to accept the combat skills of the great <b>Plubio</b>.
 <b>Plubio:</b> Pensaba que mis artes no tenían parangón, ¡pero he aquí alguien que no solo no las teme, sino que las supera!
-<b>Plubio:</b> Pensaba que mis artes no tenían parangón, ¡pero he aquí alguien que no solo no las teme, sino que las supera!
+<b>Plubio:</b> I thought my skills were unparalleled, but here's someone who not only doesn't fear them, but surpasses them!
 ¿Quieres saber la historia de la <b>Mansión Pokémon</b>, también conocida como la <b>Mansión Quemada</b>?
-¿Quieres saber la historia de la <b>Mansión Pokémon</b>, también conocida como la <b>Mansión Quemada</b>?
+Do you want to know the history of the <b>Pokémon Mansion</b>, also known as the <b>Burnt Mansion</b>?
 La mansión fue construida hace 200 años por un noble extranjero para instalarse con sus hijos.
-La mansión fue construida hace 200 años por un noble extranjero para instalarse con sus hijos.
+The mansion was built 200 years ago by a foreign nobleman to settle with his children.
 Tenían una colección de Pokémon muy exótica y la gente visitaba la mansión para poder verlos, es por eso que se la llamó <b>Mansión Pokémon</b>.
-Tenían una colección de Pokémon muy exótica y la gente visitaba la mansión para poder verlos, es por eso que se la llamó <b>Mansión Pokémon</b>.
+They had a very exotic collection of Pokémon and people visited the mansion to see them, that's why it was called <b>Pokémon Mansion</b>.
 Lamentablemente los hijos de la familia murieron por enfermedad, así que el padre decidió volver a su región de origen y puso la mansión a la venta.
-Lamentablemente los hijos de la familia murieron por enfermedad, así que el padre decidió volver a su región de origen y puso la mansión a la venta.
+Unfortunately, the children of the family died due to illness, so the father decided to return to his home region and put the mansion up for sale.
 La mansión fue comprada por una compañía científica que instaló un laboratorio en su parte superior para poder llevar a cabo los experimentos más avanzados.
-La mansión fue comprada por una compañía científica que instaló un laboratorio en su parte superior para poder llevar a cabo los experimentos más avanzados.
+The mansion was bought by a scientific company that installed a laboratory on top to carry out the most advanced experiments.
 Saltamos ahora en el tiempo, a hace unos pocos años, cuando se produjo un enorme incendio en la mansión que acabó con la vida de la mayoría de los científicos.
-Saltamos ahora en el tiempo, a hace unos pocos años, cuando se produjo un enorme incendio en la mansión que acabó con la vida de la mayoría de los científicos.
+Fast forward to a few years ago, and there was a huge fire that broke out in the mansion that killed most of the scientists.
 Se cree que andaban metidos en un experimento muy peligroso que les salió mal, acabando en tragedia.
-Se cree que andaban metidos en un experimento muy peligroso que les salió mal, acabando en tragedia.
+It's believed that they were involved in a very dangerous experiment that went wrong, ending in tragedy.
 Lo más curioso del asunto es que algunas personas de la isla aseguran que en el momento del incendio vieron algo que salía volando de la mansión, perdiéndose en la lejanía...
-Lo más curioso del asunto es que algunas personas de la isla aseguran que en el momento del incendio vieron algo que salía volando de la mansión, perdiéndose en la lejanía...
+The most curious thing about the incident is that some people on the island claim that at the time of the fire they saw something flying out of the mansion, disappearing in the distance...
 Sea como sea, la mansión ha permanecido cerrada desde entonces, por los peligros que entraña su interior.
-Sea como sea, la mansión ha permanecido cerrada desde entonces, por los peligros que entraña su interior.
+Be that as it may, the mansion has remained closed since then due to the dangers posed inside.
 Si por lo que sea quieres entrar a fisgonear, tendrás que convencer al líder de gimnasio <b>Blaine</b>.
-Si por lo que sea quieres entrar a fisgonear, tendrás que convencer al líder de gimnasio <b>Blaine</b>.
+If for whatever reason you want to go in and snoop, you'll have to convince the Gym Leader <b>Blaine</b>.
 ¿No? Vaya, se trata de una historia interesante.
-¿No? Vaya, se trata de una historia interesante.
+No? Wow, this is an interesting story.
 Sí
 Yes
 No
@@ -6373,101 +6373,101 @@ Velocidad
 #-------------------------------
 [Map118]
 El tópico del científico introvertido se cumple muchas veces, o al menos se cumple en mi caso.
-El tópico del científico introvertido se cumple muchas veces, o al menos se cumple en mi caso.
+The cliché of the introverted scientist is often true, or at least it is in my case.
 Menos mal que tengo a mi Pokémon, al menos él no sabe hablar para decirme lo que piensa de mí.
-Menos mal que tengo a mi Pokémon, al menos él no sabe hablar para decirme lo que piensa de mí.
+Thank goodness I have my Pokémon, at least he doesn't know how to speak to tell me what he thinks of me.
 Se habla mucho sobre los Pokémon prehistóricos, pero alguien los tuvo que crear primero, ¿no?
-Se habla mucho sobre los Pokémon prehistóricos, pero alguien los tuvo que crear primero, ¿no?
+There's a lot of talk about prehistoric Pokémon, but someone had to create them first, right?
 Me cuesta creer que unos seres tan fascinantes surgieran sin intervención de una mente superior.
-Me cuesta creer que unos seres tan fascinantes surgieran sin intervención de una mente superior.
+I find it hard to believe that such fascinating beings emerged without the intervention of a higher mind.
 ¿Has visto a ese vendedor de las gafas? Se trata de un joven inventor que ha ideado unas mentas capaces de modificar el comportamiento de los Pokémon.
-¿Has visto a ese vendedor de las gafas? Se trata de un joven inventor que ha ideado unas mentas capaces de modificar el comportamiento de los Pokémon.
+Have you seen that salesman wearing glasses? He's a young inventor who created mints capable of modifying the behavior of Pokémon.
 ¿Quieres un regalito en el que he estado trabajando en los últimos meses? ¡Es toda una sorpresa!
-¿Quieres un regalito en el que he estado trabajando en los últimos meses? ¡Es toda una sorpresa!
+Do you want a little gift that I've been working on for the last few months? It's quite a surprise!
 ¿Qué te parece? ¡Metrónomo! ¿Cuál será su efecto?
-¿Qué te parece? ¡Metrónomo! ¿Cuál será su efecto?
+How about it? Metronome! What will its effect be?
 Pues es... una sorpresa.
-Pues es... una sorpresa.
+Well it's... a surprise.
 ¿No te gustan las sorpresas? Qué raro...
-¿No te gustan las sorpresas? Qué raro...
+Don't you like surprises? How odd...
 Tengo la teoría de que los Pokémon poseen un tipo de energía desconocida en su interior.
-Tengo la teoría de que los Pokémon poseen un tipo de energía desconocida en su interior.
+I have a theory that Pokémon have some type of unknown energy inside them.
 Si no, ¿cómo es posible que consigan hacer todos esos movimientos que parecen magia y que desafían todo lo que sabemos de la ciencia?
-Si no, ¿cómo es posible que consigan hacer todos esos movimientos que parecen magia y que desafían todo lo que sabemos de la ciencia?
+If not, how is it possible that they manage to make all of those movements that seem like magic and defy everything we know about science?
 Estoy buscando un Bellossom. ¿lo cambiarías por mi Chikorita?
-Estoy buscando un Bellossom. ¿lo cambiarías por mi Chikorita?
+I'm looking for a Bellossom. Would you trade it for my Chikorita?
 ¡Cúidalo muy bien!
-¡Cúidalo muy bien!
+Take good care of him!
 ¡Vaya! Veo que no tienes uno.
-¡Vaya! Veo que no tienes uno.
+Oh! I see you don't have one.
 Si te haces con un Bellossom, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Bellossom, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get a Bellossom, put it at the top of your team so I can see it.
 Bueno, otra vez será.
 Okay, maybe next time.
 ¿No te parece increíble recibir un Pokémon de intercambio y que este te ame incondicionalmente sin tener que hacer nada?
-¿No te parece increíble recibir un Pokémon de intercambio y que este te ame incondicionalmente sin tener que hacer nada?
+Isn't it great to get a Pokémon from a trade and have it love you unconditionally without having to do anything?
 ¿Has conseguido megaevolucionar a tus Pokémon? Muy pocos son capaces de ello.
-¿Has conseguido megaevolucionar a tus Pokémon? Muy pocos son capaces de ello.
+Have you managed to Mega Evolve your Pokémon? Very few are capable of doing so.
 No está claro quién inventó la técnica. Algunos historiadores hablan de antiguas tribus de más allá del mar, otros mencionan explosiones de energía que se libraron en una guerra del pasado.
-No está claro quién inventó la técnica. Algunos historiadores hablan de antiguas tribus de más allá del mar, otros mencionan explosiones de energía que se libraron en una guerra del pasado.
+It's not clear who invented the technique. Some historians speak of ancient tribes from beyond the sea, others mention energy explosions that took place in a war in the past.
 Estoy buscando un Rapidash, ¿lo cambiarías por mi Cyndaquil?
-Estoy buscando un Rapidash, ¿lo cambiarías por mi Cyndaquil?
+I'm looking into getting a Rapidash, would you swap it out for my Cyndaquil?
 Si te haces con un Rapidash, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Rapidash, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get a Rapidash, put it in the first spot on your team so I can see it.
 ¡Qué bonita es mi Rapidash! Aunque no sé si en una isla como esta tendrá espacio suficiente para correr.
-¡Qué bonita es mi Rapidash! Aunque no sé si en una isla como esta tendrá espacio suficiente para correr.
+My Rapidash is so pretty! I don't know if she'll have enough room to run on an island like this though.
 ¡Te doy la bienvenida al <b>Laboratorio Canela</b>! Aquí reunimos a los mayores talentos del mundo para la investigación Pokémon.
-¡Te doy la bienvenida al <b>Laboratorio Canela</b>! Aquí reunimos a los mayores talentos del mundo para la investigación Pokémon.
+Welcome to <b>Cinnabar Laboratory</b>! Here we gather the world's greatest minds for Pokémon research.
 ¡Hola! Tenemos una máquina increíble de identificación de ADN, con ella podemos revivir fósiles.
-¡Hola! Tenemos una máquina increíble de identificación de ADN, con ella podemos revivir fósiles.
+Hello! We have an amazing DNA identification machine, with it we can bring fossils back to life.
 Si tienes algún fósil, podremos convertirlo en un Pokemon prehistórico.
-Si tienes algún fósil, podremos convertirlo en un Pokemon prehistórico.
+If you have any fossils, we can turn them into prehistoric Pokemon.
 Veo que tienes una muestra de un Fósil Domo, veamos qué podemos hacer...
-Veo que tienes una muestra de un Fósil Domo, veamos qué podemos hacer...
+I see you have a sample of a Dome Fossil, let's see what we can do...
 ¡Listo! Hace años, estas máquinas tardaban un poco, pero ahora son casi instantáneas.
-¡Listo! Hace años, estas máquinas tardaban un poco, pero ahora son casi instantáneas.
+Done! Years ago, these machines took a while, but now they're almost instantaneous.
 Tu fósil se ha convertido en un Pokemon.
-Tu fósil se ha convertido en un Pokemon.
+Your fossil has become a Pokemon.
 ¡Cuida bien de él!
-¡Cuida bien de él!
+Take good care of them!
 Veo que tienes una muestra de un Fósil Hélix, veamos qué podemos hacer...
-Veo que tienes una muestra de un Fósil Hélix, veamos qué podemos hacer...
+I see you have a sample of a Helix Fossil, let's see what we can do...
 Veo que tienes una muestra de un Fósil Garra, veamos qué podemos hacer...
-Veo que tienes una muestra de un Fósil Garra, veamos qué podemos hacer...
+I see you have a sample of a Claw Fossil, let's see what we can do...
 Veo que tienes una muestra de un Fósil Raíz, veamos qué podemos hacer...
-Veo que tienes una muestra de un Fósil Raíz, veamos qué podemos hacer...
+I see you have a Root Fossil, let's see what we can do...
 Veo que tienes una muestra de Ámbar Viejo, veamos qué podemos hacer...
-Veo que tienes una muestra de Ámbar Viejo, veamos qué podemos hacer...
+I see you have a sample of Old Amber, let's see what we can do...
 Veo que tienes una muestra de un Fósil Cráneo, veamos qué podemos hacer...
-Veo que tienes una muestra de un Fósil Cráneo, veamos qué podemos hacer...
+I see you have a sample of a Skull Fossil, let's see what we can do...
 Veo que tienes una muestra de un Fósil Coraza, veamos qué podemos hacer...
-Veo que tienes una muestra de un Fósil Coraza, veamos qué podemos hacer...
+I see you have a sample of a Armor Fossil, let's see what we can do...
 Estoy buscando un Dewgong, ¿lo cambiarías por mi Totodile?
-Estoy buscando un Dewgong, ¿lo cambiarías por mi Totodile?
+I'm looking for a Dewgong, would you trade it for my Totodile?
 Si te haces con un Dewgong, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Dewgong, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get a Dewgong, put it in the first spot on your team so it can see it.
 ¿Te has metido en las profundidades de las <b>Islas Espuma</b>? Dicen que el frío ahí es tan intenso que te cala en los huesos.
-¿Te has metido en las profundidades de las <b>Islas Espuma</b>? Dicen que el frío ahí es tan intenso que te cala en los huesos.
+Have you ever been to the depths of <b>Seafoam Islands</b>? They say the cold there is so intense that it chills you to the bone.
 Con el auge de la clonación Pokémon, se abren muchas preguntas éticas que hay que tener en cuenta.
-Con el auge de la clonación Pokémon, se abren muchas preguntas éticas que hay que tener en cuenta.
+With the rise of Pokémon cloning, many ethical questions arise that must be taken into account.
 Por ejemplo, ¿qué pasaría si pudiésemos generar Pokémon perfectos a placer con una máquina? ¿Deberíamos tenerlos en la misma consideración que los Pokémon "naturales"?
-Por ejemplo, ¿qué pasaría si pudiésemos generar Pokémon perfectos a placer con una máquina? ¿Deberíamos tenerlos en la misma consideración que los Pokémon "naturales"?
+For example, what if we could generate perfect Pokémon at will with a machine? Should we hold them in the same regard as "natural" Pokémon?
 ¿Cómo serían los primeros Pokémon que habitaron este planeta?
-¿Cómo serían los primeros Pokémon que habitaron este planeta?
+What were the first Pokémon to inhabit this planet like?
 Según las últimas teorías, eran pequeñas formas de vida, y los tipos que más abundaban eran el Roca, el Bicho y el Agua.
-Según las últimas teorías, eran pequeñas formas de vida, y los tipos que más abundaban eran el Roca, el Bicho y el Agua.
+According to the latest theories, they were small life forms, and the most abundant types were Rock, Bug, and Water.
 Desde que descubrieron que Alakazam tiene un IQ de 3.000, están comenzando a usarlos como ingenieros informáticos.
-Desde que descubrieron que Alakazam tiene un IQ de 3.000, están comenzando a usarlos como ingenieros informáticos.
+Since they discovered that Alakazam has an IQ of 3,000, they're starting to use them as computer engineers.
 Espero que no me acaben reemplazando por uno de ellos...
-Espero que no me acaben reemplazando por uno de ellos...
+I hope I don't end up being replaced by one of them...
 A pesar de las fechorías del <b>Team Rocket</b>, han sido siempre unos grandes inversores de proyectos científicos.
-A pesar de las fechorías del <b>Team Rocket</b>, han sido siempre unos grandes inversores de proyectos científicos.
+Despite <b>Team Rocket</b>'s misdeeds, they've always been big investors in scientific projects.
 Este laboratorio no sería lo que es sin su dinero.
-Este laboratorio no sería lo que es sin su dinero.
+This lab wouldn't be what it is without their money.
 Es un tema que es mejor tratar de evitar, como puedes suponer.
-Es un tema que es mejor tratar de evitar, como puedes suponer.
+It's a topic best avoided, as you might guess.
 Va
-Va
+OK
 No
 No
 Sí
@@ -6475,13 +6475,13 @@ Yes
 #-------------------------------
 [Map119]
 ¡Aaahh! ¿Eres un fantasma de los que murieron en el incendio?
-¡Aaahh! ¿Eres un fantasma de los que murieron en el incendio?
+Aaahh! Are you a ghost of someone who died in the fire?
 El incendio acabó con muchas vidas, ¡la mayoría eran personas de ciencia! Menuda pérdida para la sociedad.
-El incendio acabó con muchas vidas, ¡la mayoría eran personas de ciencia! Menuda pérdida para la sociedad.
+The fire claimed many lives, most of them scientists! What a loss for society.
 Parece un interruptor, ¿quieres pulsarlo?
-Parece un interruptor, ¿quieres pulsarlo?
+It looks like a switch, do you want to press it?
 ¿Y quién no?
-¿Y quién no?
+Who wouldn't?
 Sí
 Yes
 No
@@ -6489,23 +6489,23 @@ No
 #-------------------------------
 [Map120]
 ¡Eh, tú! ¿Has venido a robar los objetos valiosos de la Mansión? ¡Pues me temo que llegas tarde!
-¡Eh, tú! ¿Has venido a robar los objetos valiosos de la Mansión? ¡Pues me temo que llegas tarde!
+Hey, you! Have you come to steal the Mansion's valuables? I'm afraid you're too late!
 Si encuentras un objeto que no parezca tener mucho valor, avísame, ¿vale? Soy experto en encontrarle el valor a las cosas.
-Si encuentras un objeto que no parezca tener mucho valor, avísame, ¿vale? Soy experto en encontrarle el valor a las cosas.
+If you find an item that doesn't seem to have much value, let me know, okay? I'm an expert at finding the true value of things.
 <b>Diario:</b> 5 de julio. Perú, Suramérica. Un nuevo tipo de Pokémon fue descubierto en el interior de la selva.
-<b>Diario:</b> 5 de julio. Perú, Suramérica. Un nuevo tipo de Pokémon fue descubierto en el interior de la selva.
+<b>Diary:</b> July 5. Peru, South America. A new type of Pokémon was discovered deep in the jungle.
 Se cree que podría tratarse del Pokémon Ancestral Mew, el primer Pokémon de todos en habitar nuestro mundo.
-Se cree que podría tratarse del Pokémon Ancestral Mew, el primer Pokémon de todos en habitar nuestro mundo.
+It's believed that it could be the Ancestral Pokémon Mew, the first Pokémon to inhabit our world.
 Parece un interruptor, ¿quieres pulsarlo?
-Parece un interruptor, ¿quieres pulsarlo?
+It looks like a switch, do you want to press it?
 ¿Y quién no?
-¿Y quién no?
+Who wouldn't?
 <b>Diario:</b> 11 de julio. El ejemplar de Mew que buscábamos, aparentemente lleva milenios muerto.
-<b>Diario:</b> 11 de julio. El ejemplar de Mew que buscábamos, aparentemente lleva milenios muerto.
+<b>Diary:</b> July 11th. The Mew we were looking for has apparently been dead for millennia.
 Sin embargo, hemos encontrado muestras de su ADN en unas tablas antiguas.
-Sin embargo, hemos encontrado muestras de su ADN en unas tablas antiguas.
+However, we have found samples of his DNA on some ancient tablets.
 Llevaremos este ADN al laboratorio de inmediato para hacer pruebas.
-Llevaremos este ADN al laboratorio de inmediato para hacer pruebas.
+We will take this DNA to the lab immediately for testing.
 Sí
 Yes
 No
@@ -6513,23 +6513,23 @@ No
 #-------------------------------
 [Map121]
 ¿Estás intentando acceder al laboratorio del piso superior?
-¿Estás intentando acceder al laboratorio del piso superior?
+Are you trying to access the laboratory on the upper floor?
 El laboratorio se encuentra en el piso más superior de la mansión. Al parecer, el origen del incendio se dio ahí después de un experimento fallido.
-El laboratorio se encuentra en el piso más superior de la mansión. Al parecer, el origen del incendio se dio ahí después de un experimento fallido.
+The laboratory is located on the upper floor of the mansion. The fire apparently started there after a failed experiment.
 <b>Diario:</b> 24 de febrero. Hemos conseguido crear vida a partir del ADN de Mew.
-<b>Diario:</b> 24 de febrero. Hemos conseguido crear vida a partir del ADN de Mew.
+<b>Diary:</b> February 24th. We have managed to create life from Mew's DNA.
 Llamamos a este nuevo ejemplar: Mewtwo, el Pokémon Psíquico más poderoso que jamás ha existido.
-Llamamos a este nuevo ejemplar: Mewtwo, el Pokémon Psíquico más poderoso que jamás ha existido.
+We call this new specimen: Mewtwo, the most powerful Psychic Pokémon that has ever existed.
 El señor <b>Giovanni</b> se ha mostrado muy interesado en seguir todos los experimentos a los que sometemos a Mewtwo.
-El señor <b>Giovanni</b> se ha mostrado muy interesado en seguir todos los experimentos a los que sometemos a Mewtwo.
+Mr. <b>Giovanni</b> has shown great interest in following all the experiments we are running on Mewtwo.
 Parece un interruptor, ¿quieres pulsarlo?
-Parece un interruptor, ¿quieres pulsarlo?
+It looks like a switch, do you want to press it?
 ¿Y quién no?
-¿Y quién no?
+Who wouldn't?
 ¡No sé salir! ¡Este viejo lugar es un enorme laberinto!
-¡No sé salir! ¡Este viejo lugar es un enorme laberinto!
+I don't know how to get out! This old place is a huge maze!
 Escapé de la justicia hace poco y creo que este es el sitio perfecto para que no me encuentren nunca.
-Escapé de la justicia hace poco y creo que este es el sitio perfecto para que no me encuentren nunca.
+I recently escaped from justice and I think this is the perfect place for them to never find me.
 Sí
 Yes
 No
@@ -6537,55 +6537,55 @@ No
 #-------------------------------
 [Map122]
 <b>Recluta Rocket:</b> Comandante, aquí hay muchos trastos. Vamos a tardar un poquito en encontrar eso que busca.
-<b>Recluta Rocket:</b> Comandante, aquí hay muchos trastos. Vamos a tardar un poquito en encontrar eso que busca.
+<b>Rocket Recruit:</b> Commander, there's a lot of junk here. It's going to take us a while to find what you're looking for.
 <b>???:</b> No importa, como sois los esbirros más cuquis de todo el <b>Team Rocket</b>, seguro que lo acabáis encontrando para mí.
-<b>???:</b> No importa, como sois los esbirros más cuquis de todo el <b>Team Rocket</b>, seguro que lo acabáis encontrando para mí.
+<b>???:</b> It doesn't matter, since you're the cutest minions on the entire <b>Team Rocket</b>, I'm sure you'll end up finding it for me.
 <b>???:</b> ¡Haaalaaa! ¡Tú eres el entrenador supermegafuerte que venció al señor <b>Giovanni</b> dos veces!
-<b>???:</b> ¡Haaalaaa! ¡Tú eres el entrenador supermegafuerte que venció al señor <b>Giovanni</b> dos veces!
+<b>???:</b> Ohhhhh! You're the super strong trainer who beat Mr. <b>Giovanni</b> twice!
 <b>???:</b> ¡Haaalaaa! ¡Tú eres la entrenadora supermegafuerte que venció al señor <b>Giovanni</b> dos veces!
-<b>???:</b> ¡Haaalaaa! ¡Tú eres la entrenadora supermegafuerte que venció al señor <b>Giovanni</b> dos veces!
+<b>???:</b> Ohhhhh! You're the super strong trainer who beat Mr. <b>Giovanni</b> twice!
 Yo soy la Comandante <b>Surya</b>, ¡la más fuerte de todos los comandantes y la futura jefa más guapa que el <b>Team Rocket</b> ha tenido nunca!
-Yo soy la Comandante <b>Surya</b>, ¡la más fuerte de todos los comandantes y la futura jefa más guapa que el <b>Team Rocket</b> ha tenido nunca!
+I'm Commander <b>Surya</b>, the strongest of all the commanders and the most beautiful future boss <b>Team Rocket</b> has ever had!
 <b>Recluta Rocket:</b> ¿Quiere que nos encarguemos nosotros, comandante?
-<b>Recluta Rocket:</b> ¿Quiere que nos encarguemos nosotros, comandante?
+<b>Rocket Recruit:</b> Do you want us to take care of it, Commander?
 \c[5]<b>Surya:</b>\c[0] ¡Ay, no! Vosotras sois unas inútiles para combatir. Además me privaríais de la única diversión que puedo encontrar en esta misión.
-\c[5]<b>Surya:</b>\c[0] ¡Ay, no! Vosotras sois unas inútiles para combatir. Además me privaríais de la única diversión que puedo encontrar en esta misión.
+\c[5]<b>Surya:</b>\c[0] Oh, no! You girls are useless in combat. Besides, you'd be depriving me of the only fun I can find in this mission.
 \c[5]<b>Surya:</b>\c[0] ¡Ji, ji, ji! ¿Quieres conocer a mis encantadores Pokémon de tipo Hada?
-\c[5]<b>Surya:</b>\c[0] ¡Ji, ji, ji! ¿Quieres conocer a mis encantadores Pokémon de tipo Hada?
+\c[5]<b>Surya:</b>\c[0] Hee hee hee! Do you want to meet my cute Fairy-type Pokémon?
 \c[5]<b>Surya:</b>\c[0] ¡Jooo! ¿Por qué no me has dejado ganar? ¡Así nunca llegaré a ser la jefa más guapa que el <b>Team Rocket</b> ha tenido nunca!
-\c[5]<b>Surya:</b>\c[0] ¡Jooo! ¿Por qué no me has dejado ganar? ¡Así nunca llegaré a ser la jefa más guapa que el <b>Team Rocket</b> ha tenido nunca!
+\c[5]<b>Surya:</b>\c[0] Jeez! Why didn't you let me win? I'll never be the prettiest boss <b>Team Rocket</b> has ever had now!
 \c[5]<b>Surya:</b>\c[0] Mis Pokémon de tipo Hada me susurran cosas al oído. Debo destruiros a todos...
-\c[5]<b>Surya:</b>\c[0] Mis Pokémon de tipo Hada me susurran cosas al oído. Debo destruiros a todos...
+\c[5]<b>Surya:</b>\c[0] My Fairy-type Pokémon whisper in my ear. I must destroy you all...
 <b>Recluta Rocket:</b> ¡Lo he encontrado! ¡El <b>Psicorradar</b> que estábamos buscando!
-<b>Recluta Rocket:</b> ¡Lo he encontrado! ¡El <b>Psicorradar</b> que estábamos buscando!
+<b>Rocket Recruit:</b> I found it! The <b>Psychic Radar</b> we were looking for!
 \c[5]<b>Surya:</b>\c[0] ¡Bieeeeeen! ¡Bieeeeeeen! ¡Aplausos para todos!
-\c[5]<b>Surya:</b>\c[0] ¡Bieeeeeen! ¡Bieeeeeeen! ¡Aplausos para todos!
+\c[5]<b>Surya:</b>\c[0] Yaaaay! Yaaaay! Applause for everyone!
 ¡Si es que sabía yo que erais las más cuquis!
-¡Si es que sabía yo que erais las más cuquis!
+I knew you were the cutest!
 \c[5]<b>Surya:</b>\c[0] Pues nosotras ya nos vamos, ¿vale? No te molestamos más.
-\c[5]<b>Surya:</b>\c[0] Pues nosotras ya nos vamos, ¿vale? No te molestamos más.
+\c[5]<b>Surya:</b>\c[0] Well, we're leaving now, okay? We won't bother you anymore.
 Tienes toda la mansión para ti, ¡ji, ji, ji! ¡Mira cuánto espacio vas a tener ahora!
-Tienes toda la mansión para ti, ¡ji, ji, ji! ¡Mira cuánto espacio vas a tener ahora!
+You've got the whole mansion to yourself, hee hee hee! Look how much space you're going to have now!
 He venido para ver si podía rescatar algo del laboratorio, pero todo se encuentra en un estado lamentable... ¿a qué has venido tú?
-He venido para ver si podía rescatar algo del laboratorio, pero todo se encuentra en un estado lamentable... ¿a qué has venido tú?
+I came to see if I could salvage anything from the laboratory, but everything is in a sorry state... what have you come for?
 La maquinaria que se empleó para el Proyecto M era muy vanguardista. Lástima que se haya perdido.
-La maquinaria que se empleó para el Proyecto M era muy vanguardista. Lástima que se haya perdido.
+The machinery used for Project M was very cutting edge. It's a shame it's been lost.
 <b>Diario:</b> 11 de septiembre. Mewtwo es demasiado poderoso, no podremos contener su fuerza durante mucho tiempo.
-<b>Diario:</b> 11 de septiembre. Mewtwo es demasiado poderoso, no podremos contener su fuerza durante mucho tiempo.
+<b>Diary:</b> September 1. Mewtwo is too powerful, we won't be able to contain his strength for long.
 El señor <b>Giovanni</b> insiste en seguir con las pruebas y aumentar sus capacidades psíquicas tanto como sea posible.
-El señor <b>Giovanni</b> insiste en seguir con las pruebas y aumentar sus capacidades psíquicas tanto como sea posible.
+Mr. <b>Giovanni</b> insists on continuing with the tests and increasing its psychic abilities as much as possible.
 Esto no se nos ha ido de las manos. Ecos en lo profundo. No podemos escapar.
-Esto no se nos ha ido de las manos. Ecos en lo profundo. No podemos escapar.
+This has gotten out of hand. Echoes in the depths...We cannot escape.
 He visto a unos tipos de negro, no parecían ladrones normales. ¿Serían del Team Rocket?
-He visto a unos tipos de negro, no parecían ladrones normales. ¿Serían del Team Rocket?
+I saw some guys in black, they didn't look like normal thieves. Were they from <b>Team Rocket</b>?
 ¿Qué querría hacer el <b>Team Rocket</b> en un lugar como este? ¿Tal vez sustraer algo del laboratorio?
-¿Qué querría hacer el <b>Team Rocket</b> en un lugar como este? ¿Tal vez sustraer algo del laboratorio?
+What would Team Rocket want to do in a place like this? Maybe steal something from the lab?
 Son los restos de una especie de incubadora. Algo salió de dentro.
-Son los restos de una especie de incubadora. Algo salió de dentro.
+These are the remains of some kind of incubator. Something came out from inside.
 Parece un interruptor, ¿quieres pulsarlo?
-Parece un interruptor, ¿quieres pulsarlo?
+It looks like a switch, do you want to press it?
 ¿Y quién no?
-¿Y quién no?
+Who wouldn't?
 Sí
 Yes
 No
@@ -6593,7 +6593,7 @@ No
 #-------------------------------
 [Map123]
 No sé qué le echan a esta taza que siempre me sabe muy empalagosa, como si estuviera llena de azúcar.
-No sé qué le echan a esta taza que siempre me sabe muy empalagosa, como si estuviera llena de azúcar.
+I don't know what they put in this cup, it always tastes cloying to me, as if it were full of sugar.
 \rRandy: Hi, \PN!
 \rRandy: Hi, \PN!
 \rRandy: What would you like me to do?
@@ -6639,9 +6639,9 @@ All done, your Pokémon has remembered the move.
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
 ¿Has podido ver las granjas de Miltank? Ojalá puedas sacar un rato libre.
-¿Has podido ver las granjas de Miltank? Ojalá puedas sacar un rato libre.
+Have you been able to check out the Miltank farms? I hope you can find some free time.
 Normalmente la gente que para en <b>Pueblo Marengo</b> es solo para hacer un alto en el camino.
-Normalmente la gente que para en <b>Pueblo Marengo</b> es solo para hacer un alto en el camino.
+Normally, people stop in <b>Marengo Town</b> just to take a break along the way.
 Toggle Randomizer
 Toggle Randomizer
 Re-Randomize
@@ -6675,23 +6675,23 @@ You can continue playing as normal, but remember that you have failed.
 \rRandy: Oh, okay then.
 \rRandy: Oh, okay then.
 ¿Has oído hablar de las 3 Aves Guardianas?
-¿Has oído hablar de las 3 Aves Guardianas?
+Have you heard of the 3 Guardian Birds?
 Se cuenta que la región de <b>Kanto</b> fue fundada por 3 clanes: uno representaba el Valor, otro la Sabiduría y el tercero el Instinto.
-Se cuenta que la región de <b>Kanto</b> fue fundada por 3 clanes: uno representaba el Valor, otro la Sabiduría y el tercero el Instinto.
+It is said that the <b>Kanto</b> region was founded by three clans: one represented Valor, another Wisdom, and the third Instinct.
 Pero la desconfianza empezó a crecer entre los señores feudales de los clanes. Entonces cada uno de ellos viajó hasta un lugar inhóspito para ganarse el favor de un Pokémon legendario.
-Pero la desconfianza empezó a crecer entre los señores feudales de los clanes. Entonces cada uno de ellos viajó hasta un lugar inhóspito para ganarse el favor de un Pokémon legendario.
+But mistrust began to grow between the clans' feudal lords. So each of them traveled to an inhospitable place to win the favor of a legendary Pokémon.
 El señor del Clan del Valor ascendió hasta un volcán para despertar a Moltres, el ave de las llamas.
-El señor del Clan del Valor ascendió hasta un volcán para despertar a Moltres, el ave de las llamas.
+The lord of the Valor Clan ascended to a volcano to awaken Moltres, the bird of flames.
 El señor del Clan de la Sabiduría vagó por los mares para encontrarse con Articuno, el ave del frío.
-El señor del Clan de la Sabiduría vagó por los mares para encontrarse con Articuno, el ave del frío.
+The lord of the Wisdom Clan wandered the seas to meet Articuno, the bird of cold.
 Por último, el señor del Clan del Instinto llegó hasta un páramo de tormenta donde yacía Zapdos, el ave del trueno.
-Por último, el señor del Clan del Instinto llegó hasta un páramo de tormenta donde yacía Zapdos, el ave del trueno.
+Finally, the lord of Instinct Clan came to a storm wasteland where Zapdos, the thunderbird, lay.
 Los tres señores se disponían a luchar entre ellos, pero llegado el momento, las tres aves se unieron y destruyeron a todo aquel con intención de hacer la guerra.
-Los tres señores se disponían a luchar entre ellos, pero llegado el momento, las tres aves se unieron y destruyeron a todo aquel con intención de hacer la guerra.
+The three lords were preparing to fight each other, but when the time came, the three birds united and destroyed anyone who intended to make war.
 Entonces los tres Clanes se disolvieron, y nunca se ha vuelto a ver un conflicto entre los distintos habitantes de <b>Kanto</b>.
-Entonces los tres Clanes se disolvieron, y nunca se ha vuelto a ver un conflicto entre los distintos habitantes de <b>Kanto</b>.
+The three Clans then disbanded, and conflict between the various inhabitants of <b>Kanto</b> has never been seen again.
 Ya veo, estás al día con los mitos y leyendas.
-Ya veo, estás al día con los mitos y leyendas.
+I see, you're up to date with the myths and legends.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
@@ -6723,9 +6723,9 @@ All done, your Pokémon has remembered the move.
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
 He intentado desafiar al líder de gimnasio de <b>Ciudad Fucsia</b>, pero sus técnicas venenosas y ágiles han acabado con mi equipo Pokémon sin esfuerzo alguno.
-He intentado desafiar al líder de gimnasio de <b>Ciudad Fucsia</b>, pero sus técnicas venenosas y ágiles han acabado con mi equipo Pokémon sin esfuerzo alguno.
+I tried to challenge the Gym Leader of <b>Fuchsia City</b>, but his agile, poisonous techniques made short work of my Pokémon team.
 Tal vez si probara con un Pokémon de tipo Acero...
-Tal vez si probara con un Pokémon de tipo Acero...
+Maybe if I tried a Steel-type Pokémon...
 Toggle Randomizer
 Toggle Randomizer
 Re-Randomize
@@ -7115,9 +7115,9 @@ Nothing
 #-------------------------------
 [Map131]
 ¡Resuelve el siguiente acertijo!
-¡Resuelve el siguiente acertijo!
+Solve the following riddle!
 ¿Qué ave legendaria es de tipo Fuego?
-¿Qué ave legendaria es de tipo Fuego?
+Which legendary bird is a Fire type?
 ¿Es la respuesta correcta? ¡Pasa a la siguiente sala para averiguarlo!
 ¿Es la respuesta correcta? ¡Pasa a la siguiente sala para averiguarlo!
 ¿Qué perro legendario es de tipo Fuego?
@@ -8035,9 +8035,9 @@ Por cierto, ¿sabías que al jefe del <b>Team Rocket</b>, <b>Giovanni</b>, se le
 Estoy buscando un Pinsir, ¿lo cambiarías por mi Scyther?
 Estoy buscando un Pinsir, ¿lo cambiarías por mi Scyther?
 ¡Cúidalo muy bien!
-¡Cúidalo muy bien!
+Take good care of him!
 ¡Vaya! Veo que no tienes uno.
-¡Vaya! Veo que no tienes uno.
+Oh! I see you don't have one.
 Si te haces con un Pinsir, ponlo en el primer lugar de tu equipo para que pueda verlo.
 Si te haces con un Pinsir, ponlo en el primer lugar de tu equipo para que pueda verlo.
 Bueno, otra vez será.
@@ -9147,9 +9147,9 @@ Aún así... nunca me he atrevido a acercarme demasiado al <b>Monte Plateado</b>
 Estoy buscando un Forretress, ¿lo cambiarías por mi Shuckle?
 Estoy buscando un Forretress, ¿lo cambiarías por mi Shuckle?
 ¡Cúidalo muy bien!
-¡Cúidalo muy bien!
+Take good care of him!
 ¡Vaya! Veo que no tienes uno.
-¡Vaya! Veo que no tienes uno.
+Oh! I see you don't have one.
 Si te haces con un Forretress, ponlo en el primer lugar de tu equipo para que pueda verlo.
 Si te haces con un Forretress, ponlo en el primer lugar de tu equipo para que pueda verlo.
 ¡Ay! ¡Qué lástima! Con lo que me gusta intercambiar Pokémon.
@@ -9225,9 +9225,9 @@ Menos mal que alguien anónimo se ha encargado de ellos.
 Estoy buscando un Lanturn, ¿lo cambiarías por mi Piplup?
 Estoy buscando un Lanturn, ¿lo cambiarías por mi Piplup?
 ¡Cúidalo muy bien!
-¡Cúidalo muy bien!
+Take good care of him!
 ¡Vaya! Veo que no tienes uno.
-¡Vaya! Veo que no tienes uno.
+Oh! I see you don't have one.
 Si te haces con un Lanturn, ponlo en el primer lugar de tu equipo para que pueda verlo.
 Si te haces con un Lanturn, ponlo en el primer lugar de tu equipo para que pueda verlo.
 Bueno, otra vez será.

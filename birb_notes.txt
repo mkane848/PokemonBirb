@@ -44,8 +44,9 @@
 
 TODO:
 - Configure Level cap plugin
-
-
+- Replace EBDX Boss Battle (only used for Mewtwo fight) with something else
+- Fix "Flying Crinny" bug when moving player into Cinnabar Island map
+    - may be any map that involes the player starting off/being in a Surfing state
 - PokéVial
 - PokéRadar? (shiny chaining)
 - Rival Name appears as "Blue" in battle
@@ -53,18 +54,12 @@ TODO:
 - Add graphical indicator of current game speed
 - Keyboard entry plug-in
 - Mega works, but you have to press Z and no animation plays?
-
 - Footprints missing in Pokédex, spotted with Ivysaur
-
 - Brock used a Super Potion, do I just remove items from the Trainers or do I look for a setting to disable items in battle?
     - Or, should I be setting the old Radical mode on so it uses the hardest teams/best stats?
 - Update EARTHBADGE to show Urano rather than Giovanni
 - Update SOULBADGE to show Koga and Sachiko
-
 - Remove NPCs and Events we won't be using
     - Alpha Hives? Then how do we give key for Mew?
-
 - Fix TMs, randomizer is grabbing gen9 (i.e. I found TM60 and 073 Drain Punch)
-
-- Replace EBDX Boss Battle (only used for Mewtwo fight) with something else
 - Verify all battlebacks are properly set with OG battle system and assets
