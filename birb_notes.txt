@@ -46,19 +46,45 @@
     - Replace Mewtwo boss battle
         - Make custom wild battle, max IVs and optimal EVs, restore assets, set battle rules to disable Pokéballs and running away
     - Set "Radical Mode" switch on at game start so the game uses the best base stats, no items
+    - Add Hard Level Cap via Level Caps EX
+    - Remove remaining calls to pbSetSelfSwitch2
 
 TODO:
-- Configure Level cap plugin
 - Armored Mewtwo fight:
     - Replace Blue's back asset, either remove background from ones I found or find new one with proper transparency
     - Make new Armored Mewtwo sprite include Gio?
     - Need to either remake battleback or just use a premade one
     - Can we disable status effects from working?
     - Can we disable or change the "A wild Mewtwo appeared!" message?
+
 - Fix "Flying Crinny" bug when moving player into Cinnabar Island map
-    - may be any map that involes the player starting off/being in a Surfing state
-- Brock used a Super Potion, do I just remove items from the Trainers or do I look for a setting to disable items in battle?
-    - Or, should I be setting the old Radical mode on so it uses the hardest teams/best stats?
+    - can be consistently triggered by holding a direction while map transfering while Surfing
+
+            v21 
+            # Sets another event's self switch (eg. pbSetSelfSwitch(20, "A", true) ).
+            def pbSetSelfSwitch(eventid, switch_name, value, mapid = -1)
+                mapid = @map_id if mapid < 0
+                old_value = $game_self_switches[[mapid, eventid, switch_name]]
+                $game_self_switches[[mapid, eventid, switch_name]] = value
+                if value != old_value && $map_factory.hasMap?(mapid)
+                $map_factory.getMap(mapid, false).need_refresh = true
+                end
+            end
+
+            v16.3
+            # Method used to call local switches of different maps
+            # pbSetSelfSwitch2(10,5,"A",true)
+            def pbSetSelfSwitch2(map,event,swtch,value)
+                $game_self_switches[[map,event,swtch]]=value
+                $game_map.need_refresh = true
+            end
+
+            # Sets another event's self switch (eg. pbSetSelfSwitch(20,"A",true) ).
+            # To be used in a script event command.
+            def pbSetSelfSwitch(event,swtch,value)
+                $game_self_switches[[@map_id,event,swtch]]=value
+                $game_map.need_refresh = true
+            end
 - PokéVial
 - PokéRadar? (shiny chaining)
 - Rival Name appears as "Blue" in battle
@@ -74,6 +100,7 @@ TODO:
     - Alpha Hives? Then how do we give key for Mew?
 - Fix TMs, randomizer is grabbing gen9 (i.e. I found TM60 and 073 Drain Punch)
 - Verify all battlebacks are properly set with OG battle system and assets
+- Add "That's Keldeo" NPC somewhere
 
 
 Credits to add:
