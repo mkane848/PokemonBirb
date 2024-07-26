@@ -7119,137 +7119,137 @@ Solve the following riddle!
 ¿Qué ave legendaria es de tipo Fuego?
 Which legendary bird is a Fire type?
 ¿Es la respuesta correcta? ¡Pasa a la siguiente sala para averiguarlo!
-¿Es la respuesta correcta? ¡Pasa a la siguiente sala para averiguarlo!
+Is this the correct answer? Move on to the next room to find out!
 ¿Qué perro legendario es de tipo Fuego?
-¿Qué perro legendario es de tipo Fuego?
+Which legendary dog ​​is a Fire type?
 Lamentablemente, tu respuesta era incorrecta.
-Lamentablemente, tu respuesta era incorrecta.
+Unfortunately, your answer was incorrect.
 Ahora sufrirás el poder de las quemaduras antes de enfrentarte a mi ayudante.
-Ahora sufrirás el poder de las quemaduras antes de enfrentarte a mi ayudante.
+Now you will suffer the wrath of the flames before facing my assistant.
 ¡Tu respuesta ha sido correcta!
-¡Tu respuesta ha sido correcta!
+Your answer was correct!
 Ahora, ¡enfréntante a mi ayudante en un ardiente combate!
-Ahora, ¡enfréntante a mi ayudante en un ardiente combate!
+Now, face my assistant in a fiery fight!
 ¡Excelente combate! Puedes cruzar la siguiente puerta para un nuevo acertijo.
-¡Excelente combate! Puedes cruzar la siguiente puerta para un nuevo acertijo.
+Great fight! You can go through the next door for a new puzzle.
 ¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
-¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
+Which of these Pokémon has the pre-evolution that evolves first?
 ¿Qué probabilidad de quemar tiene Llamarada?
-¿Qué probabilidad de quemar tiene Llamarada?
+What is the chance of Fire Blast inflicting a burn?
 ¡Completa la palabra que falta! Simisage, Simipour y...
-¡Completa la palabra que falta! Simisage, Simipour y...
+Fill in the missing word! Simisage, Simipour and...
 ¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
-¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
+What is the name of the handsome and intelligent leader you are going to face?
 ¿Qué habilidad es capaz de hacer salir el sol?
-¿Qué habilidad es capaz de hacer salir el sol?
+What skill is capable of making the sun rise?
 Si un Pokémon con la habilidad Absorbe Fuego recibe un movimiento de tipo Fuego...
-Si un Pokémon con la habilidad Absorbe Fuego recibe un movimiento de tipo Fuego...
+If a Pokémon with the Fire Absorb ability is hit with a Fire-type move...
 ¿Qué Pokémon no evoluciona mediante Piedra Fuego?
-¿Qué Pokémon no evoluciona mediante Piedra Fuego?
+Which Pokémon does NOT evolve using Fire Stone?
 ¿Qué Pokémon recibe más daño por el tipo Fuego?
-¿Qué Pokémon recibe más daño por el tipo Fuego?
+Which Pokémon takes the most damage from the Fire type?
 ¿Qué movimiento causa más daño cuanta más PS tenga el usuario?
-¿Qué movimiento causa más daño cuanta más PS tenga el usuario?
+Which move deals more damage the more HP the user has?
 ¿Qué movimiento es capaz de quemar bayas?
-¿Qué movimiento es capaz de quemar bayas?
+Which move is capable of burning berries?
 ¿Qué movimiento reduce el Ataque Especial del usuario?
-¿Qué movimiento reduce el Ataque Especial del usuario?
+Which move reduces the user's Special Attack?
 Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
-Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
+Your chances of beating Blaine are high, go for it!
 <b>Blaine:</b> ¡Qué bien me lo he pasado viéndote sufrir con mis acertijos!
-<b>Blaine:</b> ¡Qué bien me lo he pasado viéndote sufrir con mis acertijos!
+<b>Blaine:</b> I've had such a good time watching you suffer with my riddles!
 ¡Pero bueno! ¡Si los has acertado todos! Eso se merece un premio extra al final del combate.
-¡Pero bueno! ¡Si los has acertado todos! Eso se merece un premio extra al final del combate.
+Very good! You got them all right! That deserves an extra prize at the end of the fight.
 ¡Y veo que has fallado algunos! Te quedarás sin el premio extra al final del combate.
-¡Y veo que has fallado algunos! Te quedarás sin el premio extra al final del combate.
+I see you've missed a few! You'll miss out on the extra prize at the end of the fight.
 Ya has visto que la capacidad destructiva de los Pokémon de tipo Fuego es digna de elogio, pero yo prefiero utilizarlos de forma más, digamos, constructiva.
-Ya has visto que la capacidad destructiva de los Pokémon de tipo Fuego es digna de elogio, pero yo prefiero utilizarlos de forma más, digamos, constructiva.
+You've already seen that the destructive capacity of Fire-type Pokémon is worthy of praise, but I prefer to use them in a more...let's say...constructive way.
 Ya que también soy investigador, además de líder de gimnasio, me gustaría que salieras de este enfrentamiento habiendo aprendido unas cuantas cosas.
-Ya que también soy investigador, además de líder de gimnasio, me gustaría que salieras de este enfrentamiento habiendo aprendido unas cuantas cosas.
+Since I'm a researcher as well as a Gym Leader, I'd like you to come away from this fight having learned a few things.
 Por cierto, lo que hay detrás es un croma. Voy a utilizarlo para cambiar el fondo de combate y añadirle un puntito extra de espectáculo.
-Por cierto, lo que hay detrás es un croma. Voy a utilizarlo para cambiar el fondo de combate y añadirle un puntito extra de espectáculo.
+By the way, that's a chroma key in the background. I'm going to use it to change the combat background and add a little extra spectacle.
 ¡A combatir se ha dicho! Espero que tengas un Antiquemar a mano.
-¡A combatir se ha dicho! Espero que tengas un Antiquemar a mano.
+Let's fight! I hope you have a Burn Heal handy.
 <b>Blaine:</b> ¡Maravilloso! Diría más, ¡radiante!
-<b>Blaine:</b> ¡Maravilloso! Diría más, ¡radiante!
+<b>Blaine:</b> Wonderful! I would even say radiant!
 Has jugado con fuego y te ha salido bien, ¡te hago entrega de mi medalla!
-Has jugado con fuego y te ha salido bien, ¡te hago entrega de mi medalla!
+You played with fire and it worked out well, you've earned my Badge!
 <b>Blaine:</b> Y además también te otorgaré una MT. Una muy útil para ti, confío.
-<b>Blaine:</b> Y además también te otorgaré una MT. Una muy útil para ti, confío.
+<b>Blaine:</b> And I'll also give you a TM. A very useful one for you, I trust.
 <b>Blaine:</b> Ahora, si me lo permites, debemos volver al asunto del <b>Team Rocket</b> y el <b>Psicorradar</b>.
-<b>Blaine:</b> Ahora, si me lo permites, debemos volver al asunto del <b>Team Rocket</b> y el <b>Psicorradar</b>.
+<b>Blaine:</b> Now, if I may, we must return to the matter of <b>Team Rocket</b> and the <b>Psychic Radar</b>.
 Me he tomado la libertad de avisar a mi amigo <b>Bill</b>, el Pokémaniaco. Creo que ya le conoces.
-Me he tomado la libertad de avisar a mi amigo <b>Bill</b>, el Pokémaniaco. Creo que ya le conoces.
+I've taken the liberty of alerting my friend <b>Bill</b>, the Pokémaniac. I believe you already know him.
 Tiene una tarea entre manos con la que podrías ayudarle. Te espera en la puerta del gimnasio.
-Tiene una tarea entre manos con la que podrías ayudarle. Te espera en la puerta del gimnasio.
+He has a task at hand that you could help him with. He's waiting for you at the gym door.
 ¡Recibes más Cápsulas más por no haber fallado ningún acertijo!
-¡Recibes más Cápsulas más por no haber fallado ningún acertijo!
+You receive more Capsules for not failing any puzzles!
 <b>Blaine:</b> Si me lo permites, debemos volver al asunto del <b>Team Rocket</b> y el <b>Psicorradar</b>.
-<b>Blaine:</b> Si me lo permites, debemos volver al asunto del <b>Team Rocket</b> y el <b>Psicorradar</b>.
+<b>Blaine:</b> Now, if I may, we should get back to the matter of <b>Team Rocket</b> and the <b>Psychic Radar</b>.
 ¿Qué Pokémon recibe menos daño de Fuego?
-¿Qué Pokémon recibe menos daño de Fuego?
+Which Pokémon takes the least damage from Fire?
 ¿Cuál es el Pokémon Leyenda?
-¿Cuál es el Pokémon Leyenda?
+What is the Legendary Pokémon?
 ¿Qué Pokémon tiene un Puño Fuego más potente?
-¿Qué Pokémon tiene un Puño Fuego más potente?
+Which Pokémon has a stronger Fire Punch?
 ¿Cuál de estos movimientos no se beneficia de la presencia del sol?
-¿Cuál de estos movimientos no se beneficia de la presencia del sol?
+Which of these movements does not benefit from the presence of the sun?
 Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
-Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
+You only have one room left to get to Blaine, good luck with the last puzzle!
 ¿Cuál de estos Pokémon es conocido como el Pokémon Escupefuego?
-¿Cuál de estos Pokémon es conocido como el Pokémon Escupefuego?
+Which of these Pokémon is known as the Spitfire Pokémon?
 ¿Cómo afecta el tipo Hada al tipo Fuego?
-¿Cómo afecta el tipo Hada al tipo Fuego?
+How does Fairy type affect Fire type?
 ¿Cuál de estos movimientos de tipo Fuego tiene más potencia?
-¿Cuál de estos movimientos de tipo Fuego tiene más potencia?
+Which of these Fire-type moves has the most power?
 ¿Qué beneficio te otorga el movimiento Nitrocarga?
-¿Qué beneficio te otorga el movimiento Nitrocarga?
+What benefit does the Flame Charge move give you?
 ¿Cómo se llama la baya que cura las quemaduras?
-¿Cómo se llama la baya que cura las quemaduras?
+What is the name of the berry that cures burns?
 Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
-Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
+I can't believe that Leader Blaine gave me a job at his gym, he's a great guy!
 ¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
-¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
+Which of these Pokémon has a regional Fire-type variant?
 ¿Cuántas debilidades tiene el tipo Fuego?
-¿Cuántas debilidades tiene el tipo Fuego?
+How many weaknesses does the Fire type have?
 ¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
-¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
+Good luck with the next riddle! Despite my looks, I'm not very good at them...
 <b>Consejero:</b> ¡Hola, aspirante! Verás, en este gimnasio...
-<b>Consejero:</b> ¡Hola, aspirante! Verás, en este gimnasio...
+<b>Counselor:</b> Hello, trainer! You see, in this gym...
 <b>Blaine:</b> ¡Primer acertijo, \PN!
-<b>Blaine:</b> ¡Primer acertijo, \PN!
+<b>Blaine:</b> First riddle, \PN!
 ¿Qué tipo de Pokémon son los más calentitos para abrazarlos en una noche de invierno?
-¿Qué tipo de Pokémon son los más calentitos para abrazarlos en una noche de invierno?
+What kind of Pokémon are the warmest to cuddle with on a winter night?
 <b>Consejero:</b> ¡Señor <b>Blaine</b>, concordamos con que usted no saldría hasta el final de la prueba del gimnasio!
-<b>Consejero:</b> ¡Señor <b>Blaine</b>, concordamos con que usted no saldría hasta el final de la prueba del gimnasio!
+<b>Counselor:</b> Mr. <b>Blaine</b>, we agreed that you wouldn't come out until the end of the gym test!
 <b>Blaine:</b> ¡Uy, perdón! Es que quería empezar cuanto antes.
-<b>Blaine:</b> ¡Uy, perdón! Es que quería empezar cuanto antes.
+<b>Blaine:</b> Oops, sorry! I just wanted to get started as soon as possible.
 <b>Consejero:</b> Me ha arruinado la presentación...
-<b>Consejero:</b> Me ha arruinado la presentación...
+<b>Counselor:</b> You've ruined my presentation...
 En fin. Para llegar hasta el líder, tendrás que atravesar unas puertas que te plantearán una serie de acertijos.
-En fin. Para llegar hasta el líder, tendrás que atravesar unas puertas que te plantearán una serie de acertijos.
+Anyway, to reach the leader, you'll have to go through some doors that will present you with a series of riddles.
 Si respondes incorrectamente al acertijo, tu equipo Pokémon sufrirá una desventaja en el siguiente combate.
-Si respondes incorrectamente al acertijo, tu equipo Pokémon sufrirá una desventaja en el siguiente combate.
+If you answer the riddle incorrectly, your Pokémon team will be at a disadvantage in the next battle.
 Como podrás imaginar, tus oponentes usarán Pokémon de tipo Fuego. Te vendría bien emplear movimientos de tipo Agua, Roca o Tierra.
-Como podrás imaginar, tus oponentes usarán Pokémon de tipo Fuego. Te vendría bien emplear movimientos de tipo Agua, Roca o Tierra.
+As you can imagine, your opponents will be using Fire-type Pokémon. You'll want to use Water, Rock, or Ground-type moves.
 Toma esto, lo necesitarás.
-Toma esto, lo necesitarás.
+Take this, you'll need it.
 ¡Buena suerte en tu camino a la gloria!
-¡Buena suerte en tu camino a la gloria!
+Good luck on your road to glory!
 Para llegar hasta el líder, tendrás que atravesar unas puertas que te plantearán una serie de acertijos.
-Para llegar hasta el líder, tendrás que atravesar unas puertas que te plantearán una serie de acertijos.
+To reach the leader, you will have to go through some doors that will pose a series of riddles.
 ¿Necesitas que cure a tus Pokémon?
 Do you need me to heal your Pokémon?
 Perfecto, ¡mucha suerte en el gimnasio!
 Perfect, good luck in the gym!
 ¿Qué inicial de tipo Fuego te encontrarías en Hoenn?
-¿Qué inicial de tipo Fuego te encontrarías en Hoenn?
+Which Fire-type starter would you encounter in Hoenn?
 ¿Qué Pokémon tiene mayor Velocidad?
-¿Qué Pokémon tiene mayor Velocidad?
+Which Pokémon has the highest Speed?
 ¿Cuál de estos Pokémon tiene cola?
-¿Cuál de estos Pokémon tiene cola?
+Which of these Pokémon has a tail?
 ¿Cuál de estos Pokémon aprende Danza Llama?
-¿Cuál de estos Pokémon aprende Danza Llama?
+Which of these Pokémon learns Fiery Dance?
 Articuno
 Articuno
 Zapdos
@@ -7273,7 +7273,7 @@ Charizard
 30%
 30%
 No puede quemar
-No puede quemar
+Can't burn
 Simiblaze
 Simiblaze
 Simiheat
@@ -7287,17 +7287,17 @@ Caine
 Maine
 Maine
 Amanecer
-Amanecer
+Radiance
 Sequía
-Sequía
+Drought
 Luz solar
-Luz solar
+Sunshine
 Cura sus PS
-Cura sus PS
+Heals your HP
 Aumenta Velocidad
-Aumenta Velocidad
+Increases Speed
 Aumenta su ofensiva
-Aumenta su ofensiva
+Increases its offense
 Growlithe
 Growlithe
 Pansear
@@ -7313,9 +7313,9 @@ Dewgong
 Sofoco
 Sofoco
 Estallido
-Estallido
+Eruption
 Calcinación
-Calcinación
+Incinerate
 Coalossal
 Coalossal
 Gyarados
@@ -7335,35 +7335,35 @@ Darmanitan
 Blaziken
 Blaziken
 Desarrollo
-Desarrollo
+Growth
 Vendaval
-Vendaval
+Hurricane
 Meteorobola
-Meteorobola
+Weather Ball
 Magmar
 Magmar
 Poco efizaz
-Poco efizaz
+Not very effective
 Neutro
-Neutro
+Neutral
 Muy eficaz
-Muy eficaz
+Super effective
 Humareda
-Humareda
+Lava Plume
 Lanzallamas
-Lanzallamas
+Flamethrower
 Onda Ígnea
-Onda Ígnea
+Heat Wave
 Aumenta Ataque
-Aumenta Ataque
+Increases Attack
 Puede quemar
-Puede quemar
+It can burn
 Baya Meloc
-Baya Meloc
+Pecha Berry
 Baya Safre
-Baya Safre
+Rawst Berry
 Baya Zreza
-Baya Zreza
+Cheri Berry
 Lilligant
 Lilligant
 Marowak
@@ -7377,11 +7377,11 @@ Muk
 4
 4
 ¿El tipo Fuego?
-¿El tipo Fuego?
+The Fire type?
 ¿El tipo Bicho?
-¿El tipo Bicho?
+The Bug type?
 ¿Vaporeon?
-¿Vaporeon?
+Vaporeon?
 Sí
 Yes
 No
@@ -7395,7 +7395,7 @@ Cyndaquil
 Typhlosion
 Typhlosion
 Son iguales
-Son iguales
+They're equal
 Torkoal
 Torkoal
 Quilava
@@ -7405,29 +7405,29 @@ Volcarona
 #-------------------------------
 [Map132]
 ¡Saludos, Aspirante!
-¡Saludos, Aspirante!
+Greetings, Trainer!
 Una vez que cruces el umbral de esta puerta, ya no habrá vuelta atrás: dará comienzo tu desafío de la <b>Liga Pokémon</b>.
-Una vez que cruces el umbral de esta puerta, ya no habrá vuelta atrás: dará comienzo tu desafío de la <b>Liga Pokémon</b>.
+Once you cross the threshold of this door, there's no turning back: your <b>Pokémon League</b> challenge has begun.
 Permíteme explicarte algunas normas y aclaraciones de cómo funcionará el reto.
-Permíteme explicarte algunas normas y aclaraciones de cómo funcionará el reto.
+Let me explain some rules and clarify how the challenge will work.
 Para empezar, ni tú ni tus oponentes <b>podréis utilizar objetos curativos</b>. Por tanto, te requisaremos los que tengas antes de empezar.
-Para empezar, ni tú ni tus oponentes <b>podréis utilizar objetos curativos</b>. Por tanto, te requisaremos los que tengas antes de empezar.
+To start, neither you nor your opponents will be able to use healing items. Therefore, we will confiscate any items you have before we begin.
 No podrás salir de la <b>Liga Pokémon</b> hasta que termines el reto, <b>pero tus Pokémon serán curados después de cada combate</b>.
-No podrás salir de la <b>Liga Pokémon</b> hasta que termines el reto, <b>pero tus Pokémon serán curados después de cada combate</b>.
+You will not be able to leave the <b>Pokémon League</b> until you complete the challenge, <b>but your Pokémon will be healed after each battle</b>.
 Explicado todo esto, ¿quieres continuar?
-Explicado todo esto, ¿quieres continuar?
+With all this explained, do you want to continue?
 Buena suerte, Aspirante.
-Buena suerte, Aspirante.
+Good luck, Trainer.
 Muy bien, ¡vuelve cuando lo tengas todo listo!
-Muy bien, ¡vuelve cuando lo tengas todo listo!
+Okay, come back when you're ready!
 ¡Enhorabuena por tu victoria en la <b>Liga Pokémon</b>!
-¡Enhorabuena por tu victoria en la <b>Liga Pokémon</b>!
+Congratulations on your victory in the <b>Pokémon League</b>!
 El año que viene volverá a celebrarse y, si lo deseas, podrás defender tu título de Campeón contra nuevos Aspirantes.
-El año que viene volverá a celebrarse y, si lo deseas, podrás defender tu título de Campeón contra nuevos Aspirantes.
+It will be held again next year and, if you wish, you will be able to defend your Champion title against new Trainers.
 A un Aspirante le entró un ataque de pánico hace un par de años.
-A un Aspirante le entró un ataque de pánico hace un par de años.
+A Trainer had a panic attack a couple of years ago.
 Tuve que usar a mi querido Abra para que pudiese viajar a casa y que sus padres le dieran ánimos.
-Tuve que usar a mi querido Abra para que pudiese viajar a casa y que sus padres le dieran ánimos.
+I had to use my beloved Abra so he could travel home and get his parents to cheer him up.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
@@ -7453,11 +7453,11 @@ You have lost the Nuzlocke challenge, you have failed all the Pokémon that have
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
 You can continue playing as normal, but remember that you have failed.
 Si yo, que no voy a combatir, estoy nervioso, ¿cómo deben de sentirse los Aspirantes?
-Si yo, que no voy a combatir, estoy nervioso, ¿cómo deben de sentirse los Aspirantes?
+If I, who's not even going to fight, am nervous, how must the Trainers feel?
 Los 4 <b>Altos Mandos</b> te pondrán a prueba, uno por uno.
-Los 4 <b>Altos Mandos</b> te pondrán a prueba, uno por uno.
+The <b>Elite Four</b> will test you, one by one.
 Te curarán entre combate y combate, eso sí. Tiene que ser justo para el Aspirante.
-Te curarán entre combate y combate, eso sí. Tiene que ser justo para el Aspirante.
+You will be healed between fights, though. It has to be fair to the Trainer.
 Sí
 Yes
 No
@@ -7471,9 +7471,9 @@ Nothing
 #-------------------------------
 [Map133]
 He conseguido a los Pokémon más raros de toda la región. ¿No me crees? ¡Pues dejaré que los veas!
-He conseguido a los Pokémon más raros de toda la región. ¿No me crees? ¡Pues dejaré que los veas!
+I've got the rarest Pokémon in the entire region. Don't believe me? I'll let you see them!
 Dicen que en lo más profundo de esta cueva habita un Pokémon muy raro. Tan raro, que tiene la catalogación de Pokémon legendario.
-Dicen que en lo más profundo de esta cueva habita un Pokémon muy raro. Tan raro, que tiene la catalogación de Pokémon legendario.
+They say that deep within this cave lives a very rare Pokémon. It's so rare that it's classified as a legendary Pokémon.
 #-------------------------------
 [Map134]
 ¿Quieres usar el Equipo de Escalada?
@@ -7483,13 +7483,13 @@ You've obtained a <b>Pokévial Upgrade</b>!
 ¡Los usos del <b>Pokévial</b> han aumentado en 1!
 The <b>Pokévial</b>'s uses have increased by 1!
 Contra el frío, ropa de abrigo y una infusión bien calentita.
-Contra el frío, ropa de abrigo y una infusión bien calentita.
+To go up against the cold, get some warm clothing and a nice hot tea.
 ¿No esperabas encontrarte a gente aquí abajo? ¡Pero si no hay nadie más aventurero y empecinado que un entrenador que quiere descubrir nuevos Pokémon!
-¿No esperabas encontrarte a gente aquí abajo? ¡Pero si no hay nadie más aventurero y empecinado que un entrenador que quiere descubrir nuevos Pokémon!
+You didn't expect to find people down here? But there's no one more adventurous and determined than a Trainer who wants to discover new Pokémon!
 He bajado para ver si me encontraba con el Pokémon legendario, ¡pero hace muchísimo frío!
-He bajado para ver si me encontraba con el Pokémon legendario, ¡pero hace muchísimo frío!
+I went down to see if I could find the legendary Pokémon, but it's so cold!
 El legendario Articuno es realmente precioso, ¡lo vi en un libro! No descansaré hasta haberlo visto con mis propios ojos.
-El legendario Articuno es realmente precioso, ¡lo vi en un libro! No descansaré hasta haberlo visto con mis propios ojos.
+The legendary <b>Articuno</b> is so beautiful, I saw it in a book! I won't rest until I've seen it with my own eyes.
 Sí
 Yes
 No
@@ -7505,39 +7505,39 @@ You and your Pokemon are re-energized, come back whenever you'd like!
 Estamos a tu servicio.
 We hope to see you again!
 \c[3]<b>Hoja:</b>\c[0] Uf, puf... menuda rutita más larga, ¿no, \PN? Casi me pierdo por el camino.
-\c[3]<b>Hoja:</b>\c[0] Uf, puf... menuda rutita más larga, ¿no, \PN? Casi me pierdo por el camino.
+\c[3]<b>Leaf:</b>\c[0] Phew... what a long route, huh, \PN? I almost got lost along the way.
 ¿Sabes? Las estadísticas dicen que es en este punto donde los Aspirantes empiezan a rendirse porque los líderes de gimnasio se vuelven mucho más complicados.
-¿Sabes? Las estadísticas dicen que es en este punto donde los Aspirantes empiezan a rendirse porque los líderes de gimnasio se vuelven mucho más complicados.
+You know, statistics say that this is where Trainers start to give up because Gym Leaders become much more difficult.
 \c[3]<b>Hoja:</b>\c[0] Así que, ¿un combatito rápido? Necesito saber si estoy lista para lo que se viene.
-\c[3]<b>Hoja:</b>\c[0] Así que, ¿un combatito rápido? Necesito saber si estoy lista para lo que se viene.
+\c[3]<b>Leaf:</b>\c[0] So how about a quick battle? I need to see if I'm ready for what's coming.
 Y no creas que esta vez me vendré abajo si pierdo, ¿eh? ¡Eso pertenece al pasado!
-Y no creas que esta vez me vendré abajo si pierdo, ¿eh? ¡Eso pertenece al pasado!
+And don't think I'll break down if I lose this time, okay? That's a thing of the past!
 \c[3]<b>Hoja:</b>\c[0] Pues... pues, ¡me siento más que preparada! Combatir contra ti siempre me obliga a ponerme las pilas.
-\c[3]<b>Hoja:</b>\c[0] Pues... pues, ¡me siento más que preparada! Combatir contra ti siempre me obliga a ponerme las pilas.
+\c[3]<b>Leaf:</b>\c[0] Well... well, I feel more than ready! Fighting against you always forces me to get my act together.
 ¿No es genial cuando dejas de preocuparte por ganar o perder y simplemente disfrutas de los combates Pokémon?
-¿No es genial cuando dejas de preocuparte por ganar o perder y simplemente disfrutas de los combates Pokémon?
+Isn't it great when you stop worrying about winning or losing and just enjoy Pokémon battles?
 Ahora siento que de verdad avanzo con cada paso que doy, sin importar el resultado.
-Ahora siento que de verdad avanzo con cada paso que doy, sin importar el resultado.
+Now I feel like I'm really moving forward with every step I take, no matter the outcome.
 \c[3]<b>Hoja:</b>\c[0] Voy a darte un pequeño consejo, por si te sirve. ¿Te has pasado por la feria de la <b>Ruta 14</b>?
-\c[3]<b>Hoja:</b>\c[0] Voy a darte un pequeño consejo, por si te sirve. ¿Te has pasado por la feria de la <b>Ruta 14</b>?
+\c[3]<b>Leaf:</b>\c[0] I'll give you a little tip, just in case it helps. Have you been to the fair on <b>Route 14</b>?
 Venden artículos muy interesantes. Por ejemplo, he visto unas piedras muy raras que sirven para activar un tipo de evolución especial.
-Venden artículos muy interesantes. Por ejemplo, he visto unas piedras muy raras que sirven para activar un tipo de evolución especial.
+They sell some very interesting items. For example, I saw some rare stones that can be used to activate special types of evolution.
 ¡Yo lo dejo ahí! Ya te he avisado de que los siguientes líderes de gimnasio son realmente duros, ¿eh? ¡Un nivel distinto al que estábamos acostumbrados!
-¡Yo lo dejo ahí! Ya te he avisado de que los siguientes líderes de gimnasio son realmente duros, ¿eh? ¡Un nivel distinto al que estábamos acostumbrados!
+I'll leave it at that! I've already warned you that the next Gym Leaders are really tough, right? A different level than we're used to!
 \c[2]<b>Rojo:</b>\c[0] Uf, puf... menuda rutita más larga, ¿no, \PN? Casi me pierdo por el camino.
-\c[2]<b>Rojo:</b>\c[0] Uf, puf... menuda rutita más larga, ¿no, \PN? Casi me pierdo por el camino.
+\c[2]<b>Red:</b>\c[0] Phew... what a long route, huh, \PN? I almost got lost along the way.
 \c[2]<b>Rojo:</b>\c[0] Así que, ¿un combatito rápido? Necesito saber si estoy listo para lo que se viene.
-\c[2]<b>Rojo:</b>\c[0] Así que, ¿un combatito rápido? Necesito saber si estoy listo para lo que se viene.
+\c[2]<b>Red:</b>\c[0] So how about a quick battle? I need to see if I'm ready for what's coming.
 \c[2]<b>Rojo:</b>\c[0] Pues... pues, ¡me siento más que preparado! Combatir contra ti siempre me obliga a ponerme las pilas.
-\c[2]<b>Rojo:</b>\c[0] Pues... pues, ¡me siento más que preparado! Combatir contra ti siempre me obliga a ponerme las pilas.
+\c[2]<b>Red:</b>\c[0] Well... well, I feel more than ready! Fighting against you always forces me to get my act together.
 \c[2]<b>Rojo:</b>\c[0] Voy a darte un pequeño consejo, por si te sirve. ¿Te has pasado por la feria de la <b>Ruta 14</b>?
-\c[2]<b>Rojo:</b>\c[0] Voy a darte un pequeño consejo, por si te sirve. ¿Te has pasado por la feria de la <b>Ruta 14</b>?
+\c[2]<b>Red:</b>\c[0] I'll give you a little tip, just in case it helps. Have you been to the fair on <b>Route 14</b>?
 ¿Has visto a mis compañeros en la Ruta 14? Hemos ido todos de excursión hoy.
-¿Has visto a mis compañeros en la Ruta 14? Hemos ido todos de excursión hoy.
+Have you seen my friends on Route 14? We all went on a hike today.
 Ha sido un largo camino, pero por fin he llegado a <b>Ciudad Fucsia</b>.
-Ha sido un largo camino, pero por fin he llegado a <b>Ciudad Fucsia</b>.
+It's been a long road, but I've finally arrived in <b>Fuchsia City</b>.
 Es una ciudad con muchas cosas por visitar, así que voy a tomarme un descanso primero.
-Es una ciudad con muchas cosas por visitar, así que voy a tomarme un descanso primero.
+It's a city with a lot of things to visit, so I'm going to take a break first.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Sí
@@ -7549,33 +7549,33 @@ No
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 El paso de las estaciones es una constante en la vida campestre, pero al mismo tiempo todo cambia.
-El paso de las estaciones es una constante en la vida campestre, pero al mismo tiempo todo cambia.
+The passing of the seasons is a constant in country life, but at the same time everything changes.
 Y es que cada primavera tiene un verde distinto. Llegará un día en el que habrán primaveras que yo jamás conoceré.
-Y es que cada primavera tiene un verde distinto. Llegará un día en el que habrán primaveras que yo jamás conoceré.
+And every spring has a different green. There will come a day when there will be springs that I will never know.
 ¡Uy! ¡Qué agradable visita! Normalmente los días aquí son muy monótonos...
-¡Uy! ¡Qué agradable visita! Normalmente los días aquí son muy monótonos...
+Wow! What a nice visit! Normally the days here are very monotonous...
 ¡Toma esto como muestra de lo buena anfitriona que soy!
-¡Toma esto como muestra de lo buena anfitriona que soy!
+Take this as proof of what a good host I am!
 Antes vivía aquí con mis hermanos, pero se fueron todos a buscar trabajo en <b>Ciudad Azulona</b> o <b>Ciudad Fucsia</b>.
-Antes vivía aquí con mis hermanos, pero se fueron todos a buscar trabajo en <b>Ciudad Azulona</b> o <b>Ciudad Fucsia</b>.
+I used to live here with my brothers, but they all left to look for work in <b>Celadon City</b> or <b>Fuchsia City</b>.
 Si te pasas por la <b>Zona Safari</b>, uno de los Criadores Pokémon es pariente mío.
-Si te pasas por la <b>Zona Safari</b>, uno de los Criadores Pokémon es pariente mío.
+If you stop by the <b>Safari Zone</b>, one of the Pokémon Breeders is a relative of mine.
 Hace años hubo un proyecto de construir un gimnasio en <b>Pueblo Marengo</b>. Iba a especializarse en el tipo Normal.
-Hace años hubo un proyecto de construir un gimnasio en <b>Pueblo Marengo</b>. Iba a especializarse en el tipo Normal.
+Years ago there was a project to build a gym in <b>Marengo Town</b>. It was going to specialize in Normal types.
 Finalmente el proyecto no cuajó por falta de interés y trasladaron la propuesta a <b>Ciudad Trigal</b> en la región vecina.
-Finalmente el proyecto no cuajó por falta de interés y trasladaron la propuesta a <b>Ciudad Trigal</b> en la región vecina.
+Ultimately, the project did not come to fruition due to lack of interest and the proposal was transferred to <b>Goldenrod City</b> in the neighbouring region.
 Estoy criando a mi Tauros con el alimento de mejor calidad posible.
-Estoy criando a mi Tauros con el alimento de mejor calidad posible.
+I'm raising my Tauros on the best quality food possible.
 Cuando tenga edad suficiente, pienso vencer a todos los líderes de gimnasio.
-Cuando tenga edad suficiente, pienso vencer a todos los líderes de gimnasio.
+When I'm old enough, I plan to defeat all the Gym Leaders.
 Existe un objeto que hace, que, por alguna extraña razón, los Pokémon que se encuentren cerca de ella no puedan evolucionar.
-Existe un objeto que hace, que, por alguna extraña razón, los Pokémon que se encuentren cerca de ella no puedan evolucionar.
+There's an object that stops Pokémon that are near it from evolving for some strange reason.
 Mira, a mí me sobran algunas Piedraeternas. Te daré una.
-Mira, a mí me sobran algunas Piedraeternas. Te daré una.
+Here, I have some spare Everstones. I'll give you one.
 Se me ocurren muchas razones por las que no querría evolucionar a mi Pokémon, a veces son mas monos cuando son pequeños.
-Se me ocurren muchas razones por las que no querría evolucionar a mi Pokémon, a veces son mas monos cuando son pequeños.
+I can think of plenty of reasons why I wouldn't want to evolve my Pokémon - sometimes they're cuter when they're small.
 Por ejemplo, ¿no crees que Psyduck pierde mucho encanto al evolucionar? ¡Con lo adorable que es Psyduck!
-Por ejemplo, ¿no crees que Psyduck pierde mucho encanto al evolucionar? ¡Con lo adorable que es Psyduck!
+For example, don't you think Psyduck loses a lot of charm when it evolves? Psyduck is so adorable!
 #-------------------------------
 [Map139]
 Aquí solo hay basura.
