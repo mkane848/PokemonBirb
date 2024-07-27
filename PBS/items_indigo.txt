@@ -9,6 +9,24 @@ FieldUse = Direct
 Flags = KeyItem
 Description = Restore the health of your Pokémon team. It is recharged at Pokémon Centers.
 #-------------------------------
+[POKERIDER]
+Name = Pokérider
+NamePlural = Pokérider
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = A flying taxi service that will take you around Kanto.
+#-------------------------------
+[SURFMOUNT]
+Name = Surf Mount
+NamePlural = Surf Mount
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Allows you to navigate the water.
+#-------------------------------
 [DEXNAV]
 Name = PokéRadar
 NamePlural = PokéRadar

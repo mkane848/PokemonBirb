@@ -50,13 +50,37 @@
     - Remove remaining calls to pbSetSelfSwitch2
 
 TODO:
+Missing Features:
+- Pokérider/Riding Pokémon (i.e. Surfing, Flying)
+- Incubator
+
+
+Nice-to-have Features
+- Add graphical indicator of current game speed
+- Keyboard entry plug-in
+- Mega works, but you have to press Z and no animation plays?
+- Add "That's Keldeo" NPC somewhere
+
+
+Clean-up:
+- Remove NPCs and Events we won't be using
+    - Alpha Hives? Then how do we give key for Mew?
 - Armored Mewtwo fight:
     - Replace Blue's back asset, either remove background from ones I found or find new one with proper transparency
     - Make new Armored Mewtwo sprite include Gio?
     - Need to either remake battleback or just use a premade one
     - Can we disable status effects from working?
     - Can we disable or change the "A wild Mewtwo appeared!" message?
+- Fix TMs, randomizer is grabbing gen9 (i.e. I found TM60 and 073 Drain Punch)
+- Rival Name appears as "Blue" in battle
+- Footprints missing in Pokédex, spotted with Ivysaur
+- Update EARTHBADGE to show Urano rather than Giovanni
+- Update SOULBADGE to show Koga and Sachiko
+- Verify all battlebacks are properly set with OG battle system and assets
+- Enemy Pokémon name cut off on "Sandy Shocks"
 
+
+Non-crashing Bugs:
 - Fix "Flying Crinny" bug when moving player into Cinnabar Island map
     - can be consistently triggered by holding a direction while map transfering while Surfing
 
@@ -85,23 +109,7 @@ TODO:
                 $game_self_switches[[@map_id,event,swtch]]=value
                 $game_map.need_refresh = true
             end
-- PokéVial
-- PokéRadar? (shiny chaining)
-- Rival Name appears as "Blue" in battle
-- Enemy Pokémon name cut off on "Sandy Shocks"
-- Add graphical indicator of current game speed
-- Keyboard entry plug-in
-- Mega works, but you have to press Z and no animation plays?
-- Footprints missing in Pokédex, spotted with Ivysaur
-
-- Update EARTHBADGE to show Urano rather than Giovanni
-- Update SOULBADGE to show Koga and Sachiko
-- Remove NPCs and Events we won't be using
-    - Alpha Hives? Then how do we give key for Mew?
-- Fix TMs, randomizer is grabbing gen9 (i.e. I found TM60 and 073 Drain Punch)
-- Verify all battlebacks are properly set with OG battle system and assets
-- Add "That's Keldeo" NPC somewhere
 
 
 Credits to add:
--othienka for Armored Mewtwo sprite
+    -othienka for Armored Mewtwo sprite

@@ -7581,77 +7581,77 @@ For example, don't you think Psyduck loses a lot of charm when it evolves? Psydu
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 A veces, para ganar un combate complicado no basta con conocer las interacciones entre los distintos tipos de Pokémon, sino que se necesitan conocimientos más complejos.
-A veces, para ganar un combate complicado no basta con conocer las interacciones entre los distintos tipos de Pokémon, sino que se necesitan conocimientos más complejos.
+Sometimes, to win a difficult battle, knowing different type matchups of Pokémon isn't enough; more complex knowledge is required.
 Recuerdo cuando perdí un combate contra un Pokémon muy débil porque cometí el error de dejar que se potenciara con el movimiento Danza Espada.
-Recuerdo cuando perdí un combate contra un Pokémon muy débil porque cometí el error de dejar que se potenciara con el movimiento Danza Espada.
+I remember when I lost a battle against a very weak Pokémon because I made the mistake of letting it power up with Swords Dance.
 Trabajo como Criadora en la <b>Zona Safari</b> y, entre otras cosas, me encargo de masajear a los Pokémon para liberarlos de su estrés.
-Trabajo como Criadora en la <b>Zona Safari</b> y, entre otras cosas, me encargo de masajear a los Pokémon para liberarlos de su estrés.
+I work as a Breeder in the <b>Safari Zone</b> and, among other things, I am in charge of massaging the Pokémon to release their stress.
 ¿Alguno de tus Pokémon necesita un masaje?
-¿Alguno de tus Pokémon necesita un masaje?
+Do any of your Pokémon need a massage?
 ¿Qué Pokémon debería recibir mi masaje?
-¿Qué Pokémon debería recibir mi masaje?
+Which Pokémon should get my massage?
 ¡Perfecto!
-¡Perfecto!
+Perfect!
 ¡Mira! ¡\v[2] parece mucho más feliz y libre de cargas emocionales!
-¡Mira! ¡\v[2] parece mucho más feliz y libre de cargas emocionales!
+Look! \v[2] seems much happier and free of emotional burdens!
 Vaya. Pues ven cuando quieras, que un Pokémon puede llegar a estresarse mucho tras tanto combate.
-Vaya. Pues ven cuando quieras, que un Pokémon puede llegar a estresarse mucho tras tanto combate.
+Oh. Come back whenever you want, a Pokémon can get very stressed after so much fighting.
 El amor por lo exótico de esta ciudad empezó con la <b>Zona Safari</b>.
-El amor por lo exótico de esta ciudad empezó con la <b>Zona Safari</b>.
+The city's love for the exotic began with the <b>Safari Zone</b>.
 Como tuvo mucho éxito y los turistas venían de todas partes, se abrieron más servicios: la <b>Tienda Exótica</b>, la feria de la <b>Ruta 14</b>...
-Como tuvo mucho éxito y los turistas venían de todas partes, se abrieron más servicios: la <b>Tienda Exótica</b>, la feria de la <b>Ruta 14</b>...
+Since it was very successful and tourists came from everywhere, more services were opened: the <b>Exotic Store</b>, the <b>Route 14</b> fair...
 Ahora mismo, <b>Ciudad Fucsia</b> representa un punto de encuentro entre todas las culturas del mundo, ¿no es bonito?
-Ahora mismo, <b>Ciudad Fucsia</b> representa un punto de encuentro entre todas las culturas del mundo, ¿no es bonito?
+Right now, <b>Fuchsia City</b> represents a meeting point between all the cultures of the world. Isn't that beautiful?
 El otro día conocí a un entrenador de una región lejana. Me contó que para mejorar como entrenador, se forzaba a liberar a los Pokémon que cayesen debilitados en combate.
-El otro día conocí a un entrenador de una región lejana. Me contó que para mejorar como entrenador, se forzaba a liberar a los Pokémon que cayesen debilitados en combate.
+The other day I met a trainer from a distant region. He told me that in order to improve as a trainer, he forced himself to release Pokémon that were knocked out in battle.
 Decía que solo con esa medida tan extrema lograría alcanzar la perfección y no cometer errores.
-Decía que solo con esa medida tan extrema lograría alcanzar la perfección y no cometer errores.
+He said that such extreme measures were necessary to achieve perfection and not make mistakes.
 El líder de gimnasio utiliza el envenenamiento como estrategia, pero...
-El líder de gimnasio utiliza el envenenamiento como estrategia, pero...
+The Gym Leader uses poisoning as a strategy, but...
 ¿Sabes con qué baya podrías curar el veneno?
-¿Sabes con qué baya podrías curar el veneno?
+Do you know which berry could cure poison?
 ¡Eso es! Una Baya Meloc como esta.
-¡Eso es! Una Baya Meloc como esta.
+That's it! A Pecha Berry like this one.
 ¡Mec! Respuesta incorrecta, vuelve a intentarlo.
-¡Mec! Respuesta incorrecta, vuelve a intentarlo.
+Tch! Wrong answer, please try again.
 ¿Sabías que los Pokémon de tipo Veneno no pueden ser envenenados? Parece algo obvio, pero a menudo las cosas obvias se nos escapan.
-¿Sabías que los Pokémon de tipo Veneno no pueden ser envenenados? Parece algo obvio, pero a menudo las cosas obvias se nos escapan.
+Did you know that Poison-type Pokémon can't be poisoned? It seems like an obvious thing, but often we miss the obvious things.
 Sí
 Yes
 No
 No
 Baya Meloc
-Baya Meloc
+Pecha Berry
 Baya Zreza
-Baya Zreza
+Cheri Berry
 Baya Safre
-Baya Safre
+Rawst Berry
 #-------------------------------
 [Map140]
 La última actividad registrada del <b>Volcán Canela</b> es de hace 36 años, y solo fueron unos temblores.
-La última actividad registrada del <b>Volcán Canela</b> es de hace 36 años, y solo fueron unos temblores.
+The last recorded activity of the <b>Cinnabar Volcano</b> was 36 years ago, and it was only a few tremors.
 Para encontrar el último estallido catastrófico, hay que remontarse a cientos de años atrás.
-Para encontrar el último estallido catastrófico, hay que remontarse a cientos de años atrás.
+To find the last catastrophic eruption, you have to go back hundreds of years.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 ¿Quieres enfrentarte al líder de gimnasio <b>Blaine</b>? ¡Pues es un maestro del tipo Fuego!
-¿Quieres enfrentarte al líder de gimnasio <b>Blaine</b>? ¡Pues es un maestro del tipo Fuego!
+Do you want to take on Gym Leader <b>Blaine</b>? He's a Fire-type master!
 Tal vez esta baya podría serte útil.
-Tal vez esta baya podría serte útil.
+Maybe this berry could be useful to you.
 Y por cierto, ¡el líder también es un maestro de los acertijos! Tal vez te proponga un duelo de ingenio antes que un duelo Pokémon.
-Y por cierto, ¡el líder también es un maestro de los acertijos! Tal vez te proponga un duelo de ingenio antes que un duelo Pokémon.
+And by the way, the leader is also a master of riddles! He might propose a battle of wits before a Pokémon battle.
 ¡El líder <b>Blaine</b> también es un maestro de los acertijos! Tal vez te proponga un duelo de ingenio antes que un duelo Pokémon.
-¡El líder <b>Blaine</b> también es un maestro de los acertijos! Tal vez te proponga un duelo de ingenio antes que un duelo Pokémon.
+Leader <b>Blaine</b> is also a master of riddles! He might propose a battle of wits before a Pokémon battle.
 Estoy leyendo una novela muy interesante ambientada en la historia antigua de la región de <b>Kalos</b>.
-Estoy leyendo una novela muy interesante ambientada en la historia antigua de la región de <b>Kalos</b>.
+I'm reading a very interesting novel set in the ancient past of the <b>Kalos</b> region.
 ¿Sabías que tuvieron una guerra en la que no solo se perdieron miles de vidas, sino que el <b>Mundo Pokémon</b> en su totalidad estuvo muy cerca de ser destruido?
-¿Sabías que tuvieron una guerra en la que no solo se perdieron miles de vidas, sino que el <b>Mundo Pokémon</b> en su totalidad estuvo muy cerca de ser destruido?
+Did you know that they had a war where thousands of lives were lost, and the entire <b>Pokémon World</b> came very close to being destroyed?
 Si sigo trabajando duro, el año que viene me harán un contrato fijo como investigador en el <b>Laboratorio Canela</b>.
-Si sigo trabajando duro, el año que viene me harán un contrato fijo como investigador en el <b>Laboratorio Canela</b>.
+If I keep working hard, I'll be given a permanent contract as a researcher at the <b>Cinnabar Laboratory</b> next year.
 Pronto comenzaremos a investigar sobre el origen de los Pokémon y de los seres humanos, ¡pero esto es información confidencial!
-Pronto comenzaremos a investigar sobre el origen de los Pokémon y de los seres humanos, ¡pero esto es información confidencial!
+We'll begin researching the origins of Pokémon and humans soon, but this is confidential information!
 Estoy de visita por la isla durante unas semanas. ¿Crees que con mi mala suerte estallará el volcán justo cuando yo ando por aquí?
-Estoy de visita por la isla durante unas semanas. ¿Crees que con mi mala suerte estallará el volcán justo cuando yo ando por aquí?
+I'm visiting the island for a few weeks. Do you think that with my bad luck the volcano will explode while I'm here?
 #-------------------------------
 [Map141]
 Aquí solo hay basura.
