@@ -1878,6 +1878,10 @@ TM201s
 TM201s
 Pokévials
 Pokévials
+Pokérider
+Pokérider
+Surf Mount
+Surf Mount
 PokéRadar
 PokéRadar
 Axes

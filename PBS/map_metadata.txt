@@ -386,8 +386,8 @@ Name = Transition
 [048]   # Pokémon Center
 Name = Pokémon Center
 #-------------------------------
-[049]   # Day Care
-Name = Day Care
+[049]   # Pokémon Day Care
+Name = Pokémon Day Care
 #-------------------------------
 [050]   # House
 Name = House
@@ -443,11 +443,11 @@ TrainerVictoryBGM = VictoriaEntrenador
 WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 #-------------------------------
-[060]   # Bicycle Shop
-Name = Bicycle Shop
+[060]   # Bike Shop
+Name = Bike Shop
 #-------------------------------
-[061]   # Cafeteria
-Name = Cafeteria
+[061]   # Pokémon Café
+Name = Pokémon Café
 #-------------------------------
 [062]   # Bill's House
 Name = Bill's House
@@ -975,8 +975,8 @@ Name = Saffron Gym
 [129]   # Pokémon Center
 Name = Pokémon Center
 #-------------------------------
-[130]   # Seafoam Island
-Name = Seafoam Island
+[130]   # Seafoam Islands
+Name = Seafoam Islands
 #-------------------------------
 [131]  # Cinnabar Gym
 Name = Cinnabar Gym
@@ -996,8 +996,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[133]   # Seafoam Island
-Name = Seafoam Island
+[133]   # Seafoam Islands
+Name = Seafoam Islands
 BattleBack = cave3
 MapPosition = 0,6,11
 ShowArea = true
@@ -1006,8 +1006,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[134]   # Seafoam Island
-Name = Seafoam Island
+[134]   # Seafoam Islands
+Name = Seafoam Islands
 BattleBack = cave3
 MapPosition = 0,6,11
 TrainerVictoryBGM = VictoriaEntrenador
@@ -1015,8 +1015,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[135]   # Seafoam Island
-Name = Seafoam Island
+[135]   # Seafoam Islands
+Name = Seafoam Islands
 BattleBack = cave3
 MapPosition = 0,6,11
 TrainerVictoryBGM = VictoriaEntrenador
@@ -1024,8 +1024,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[136]   # Seafoam Island
-Name = Seafoam Island
+[136]   # Seafoam Islands
+Name = Seafoam Islands
 BattleBack = cave3
 MapPosition = 0,6,11
 TrainerVictoryBGM = VictoriaEntrenador
@@ -1396,8 +1396,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = PrismaEntrenador
 WildBattleBGM = PrismaSalvaje
 #-------------------------------
-[185]   # Jet Villa
-Name = Jet Villa
+[185]   # Black Villa
+Name = Black Villa
 SnapEdges = true
 BattleBack = field
 MapPosition = 0,28,12
@@ -1408,8 +1408,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = PrismaEntrenador
 WildBattleBGM = PrismaSalvaje
 #-------------------------------
-[186]   # Cape Jet
-Name = Cape Jet
+[186]   # Cape Black
+Name = Cape Black
 SnapEdges = true
 BattleBack = field
 MapPosition = 0,29,11
@@ -1438,8 +1438,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = PrismaEntrenador
 WildBattleBGM = PrismaSalvaje
 #-------------------------------
-[190]   # Memory Islet
-Name = Memory Islet
+[190]   # Islet of Remembrance
+Name = Islet of Remembrance
 SnapEdges = true
 BattleBack = sand
 MapPosition = 0,27,15

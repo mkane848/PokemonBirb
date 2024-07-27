@@ -1878,6 +1878,10 @@ TM201
 TM201
 Pokévial
 Pokévial
+Pokérider
+Pokérider
+Surf Mount
+Surf Mount
 PokéRadar
 PokéRadar
 Axe
@@ -1900,8 +1904,6 @@ Engagement Ring
 Engagement Ring
 Secret Tea
 Secret Tea
-Surf Mount
-Surf Mount
 Magnetic Card
 Magnetic Card
 Wind Plume

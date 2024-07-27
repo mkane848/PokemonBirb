@@ -1,0 +1,6 @@
+Name		= PokéRider and Surf Mount
+Version		= 2.0
+Essentials  = 21.1
+Requires    = v21.1 Hotfixes, 1.0.9
+Website		= https://www.google.com
+Credits		= Pokémon Añil, Skyflyer, KeMiX

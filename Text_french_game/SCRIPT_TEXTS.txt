@@ -7614,3 +7614,19 @@ POKEMON
 {1} {2} {3}
 Not Obtained
 Not Obtained
+Level {1} for {2} is not a valid level as it goes {3}. The level has been reset to {4}
+Level {1} for {2} is not a valid level as it goes {3}. The level has been reset to {4}
+{1} got a reduced {2} Exp. Points!
+{1} got a reduced {2} Exp. Points!
+{1} refuses to eat the {2}.
+{1} refuses to eat the {2}.
+You have {1} heal available out of a maximum of {2}.
+You have {1} heal available out of a maximum of {2}.
+You have {1} heals available out of a maximum of {2}.
+You have {1} heals available out of a maximum of {2}.
+The Pokévial is empty. Refill it at the Pokémon Center.
+The Pokévial is empty. Refill it at the Pokémon Center.
+Heal your team with the Pokévial?
+Heal your team with the Pokévial?
+Your team has been healed!
+Your team has been healed!

@@ -49,9 +49,13 @@
     - Add Hard Level Cap via Level Caps EX
     - Remove remaining calls to pbSetSelfSwitch2
 
+07/27/2024
+    - Re-implement Pokérider functionality
+    - Fix town map
+
 TODO:
 Missing Features:
-- Pokérider/Riding Pokémon (i.e. Surfing, Flying)
+- Surf Mount
 - Incubator
 
 
@@ -78,6 +82,7 @@ Clean-up:
 - Update SOULBADGE to show Koga and Sachiko
 - Verify all battlebacks are properly set with OG battle system and assets
 - Enemy Pokémon name cut off on "Sandy Shocks"
+- Fully replace old DEXNAV logic to have "Encounters" menu option added after it's found, maybe rename it to match
 
 
 Non-crashing Bugs:

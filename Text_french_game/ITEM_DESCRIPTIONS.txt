@@ -1802,6 +1802,10 @@ The user attacks everything around and faints upon using this move. Power increa
 The user attacks everything around and faints upon using this move. Power increases on Misty Terrain.
 Restore the health of your Pokémon team. It is recharged at Pokémon Centers.
 Restore the health of your Pokémon team. It is recharged at Pokémon Centers.
+A flying taxi service that will take you around Kanto.
+A flying taxi service that will take you around Kanto.
+Allows you to navigate the water.
+Allows you to navigate the water.
 Detect which Pokémon appear in the area.
 Detect which Pokémon appear in the area.
 A tool that allows you to cut bushes and make them disappear, very ecological.

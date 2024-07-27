@@ -3034,10 +3034,6 @@ Yo soy más científica, aunque a veces ves cosas en los Pokémon que desafían 
 I'm more scientific, although sometimes you see things in Pokémon that defy all logic.
 #-------------------------------
 [Map056]
-No soy muy fuerte físicamente, pero soy un manitas con todo lo eléctrico.
-I'm not very strong, but I'm a handyman with everything electrical.
-¡Vale, hablaré! Rebusca en los cubos de basura y encontrarás la manera de llegar a <b>Surge</b>.
-Okay, I'll talk! Search the trash cans and you'll find a way to <b>Surge</b>.
 En este cubo sólo hay basura.
 No, Kato, there's only trash here.
 ¡Has encontrado la segunda papelera y has pulsado su interruptor! La corriente eléctrica ha desaparecido.
@@ -3048,6 +3044,10 @@ You've found the first trash can and flipped its switch! The second trash can is
 No, Kato, there's only trash here.
 Los botones de las papeleras han cambiado de sitio.
 The buttons on the trash cans have moved.
+No soy muy fuerte físicamente, pero soy un manitas con todo lo eléctrico.
+I'm not very strong, but I'm a handyman with everything electrical.
+¡Vale, hablaré! Rebusca en los cubos de basura y encontrarás la manera de llegar a <b>Surge</b>.
+Okay, I'll talk! Search the trash cans and you'll find a way to <b>Surge</b>.
 ¡Una barrera eléctrica corta el paso!
 An electric barrier blocks the way!
 Dicen que cuando estaba en el ejército, el <b>Surge</b> era muy estricto con la tropa.
@@ -5290,18 +5290,26 @@ No
 No
 #-------------------------------
 [Map099]
-El uso de la Bicicleta se ha extendido mucho últimamente. ¡Me parece genial, así contaminamos menos y no perjudicamos las áreas donde viven los Pokémon!
-El uso de la Bicicleta se ha extendido mucho últimamente. ¡Me parece genial, así contaminamos menos y no perjudicamos las áreas donde viven los Pokémon!
-Estación del Magnetotrén
-Estación del Magnetotrén
 Qué aburrido montar guardia...\nMe gustaría estar dentro sembrando el caos, con todo el meollo.
 Qué aburrido montar guardia...\nMe gustaría estar dentro sembrando el caos, con todo el meollo.
-Hubo una competición por ver cuál de los dos gimnasios se federaba en la <b>Liga Pokémon</b>: si el de <b>Sabrina</b> o el del Maestro de las Artes Marciales.
-Hubo una competición por ver cuál de los dos gimnasios se federaba en la <b>Liga Pokémon</b>: si el de <b>Sabrina</b> o el del Maestro de las Artes Marciales.
-Finalmente ganó <b>Sabrina</b>, su maestría con el tipo Psíquico se impuso al tipo Lucha.
-Finalmente ganó <b>Sabrina</b>, su maestría con el tipo Psíquico se impuso al tipo Lucha.
+Estación del Magnetotrén
+Estación del Magnetotrén
+El uso de la Bicicleta se ha extendido mucho últimamente. ¡Me parece genial, así contaminamos menos y no perjudicamos las áreas donde viven los Pokémon!
+El uso de la Bicicleta se ha extendido mucho últimamente. ¡Me parece genial, así contaminamos menos y no perjudicamos las áreas donde viven los Pokémon!
 Aquí solo hay basura.
 No, Kato, there's only trash here.
+Hubo una competición por ver cuál de los dos gimnasios se federaba en la <b>Liga Pokémon</b>: si el de <b>Sabrina</b> o el del Maestro de las Artes Marciales.
+Hubo una competición por ver cuál de los dos gimnasios se federaba en la <b>Liga Pokémon</b>: si el de <b>Sabrina</b> o el del Maestro de las Artes Marciales.
+Finalmente ganó <b>Sabrina</b>, su maestría con el tipo Psíquico se impuso al tipo Lucha.
+Finalmente ganó <b>Sabrina</b>, su maestría con el tipo Psíquico se impuso al tipo Lucha.
+<b>Ciudad Azafrán</b>, ¡la libre y dorada tierra del comercio!
+<b>Ciudad Azafrán</b>, ¡la libre y dorada tierra del comercio!
+La líder <b>Sabrina</b> despertó sus poderes psíquicos a muy temprana edad, con unos 3 años.
+La líder <b>Sabrina</b> despertó sus poderes psíquicos a muy temprana edad, con unos 3 años.
+A los 5 ya podía doblar cucharas, y a los 10 se había convertido en una experta lectora de mentes.
+A los 5 ya podía doblar cucharas, y a los 10 se había convertido en una experta lectora de mentes.
+Aunque no ha podido hacer muchas amistades, es una persona muy reservada...
+Aunque no ha podido hacer muchas amistades, es una persona muy reservada...
 \c[3]<b>Hoja:</b>\c[0] ¡Hola, \PN! Sabía que te encontraría si esperaba pacientemente en la puerta del gimnasio.
 \c[3]<b>Hoja:</b>\c[0] ¡Hola, \PN! Sabía que te encontraría si esperaba pacientemente en la puerta del gimnasio.
 El <b>Prof. Oak</b> nos ha entregado esto a cada uno.
@@ -5318,44 +5326,38 @@ Al parecer, nos hará falta si queremos llegar hasta <b>Isla Canela</b>, donde s
 \c[2]<b>Rojo:</b>\c[0] ¡Hola, \PN! Sabía que te encontraría si esperaba pacientemente en la puerta del gimnasio.
 \c[2]<b>Rojo:</b>\c[0] Hay dos formas de llegar a <b>Isla Canela</b>, navegando desde <b>Pueblo Paleta</b> o desde la <b>Ruta 17</b>.
 \c[2]<b>Rojo:</b>\c[0] Hay dos formas de llegar a <b>Isla Canela</b>, navegando desde <b>Pueblo Paleta</b> o desde la <b>Ruta 17</b>.
-La líder <b>Sabrina</b> despertó sus poderes psíquicos a muy temprana edad, con unos 3 años.
-La líder <b>Sabrina</b> despertó sus poderes psíquicos a muy temprana edad, con unos 3 años.
-A los 5 ya podía doblar cucharas, y a los 10 se había convertido en una experta lectora de mentes.
-A los 5 ya podía doblar cucharas, y a los 10 se había convertido en una experta lectora de mentes.
-Aunque no ha podido hacer muchas amistades, es una persona muy reservada...
-Aunque no ha podido hacer muchas amistades, es una persona muy reservada...
-<b>Ciudad Azafrán</b>, ¡la libre y dorada tierra del comercio!
-<b>Ciudad Azafrán</b>, ¡la libre y dorada tierra del comercio!
 ¡Cómo pesan estas cajas! Ojalá nos ayudaran los Pokémon del Dojo.
 ¡Cómo pesan estas cajas! Ojalá nos ayudaran los Pokémon del Dojo.
-¿Es la primera vez que visitas <b>Ciudad Azafrán</b>? Pues tendrás que acostumbrarte a su agitado ritmo de vida.
-¿Es la primera vez que visitas <b>Ciudad Azafrán</b>? Pues tendrás que acostumbrarte a su agitado ritmo de vida.
-¡Al fin y al cabo estás en la capital de <b>Kanto</b>!
-¡Al fin y al cabo estás en la capital de <b>Kanto</b>!
 ¿Te crees muy fuerte? ¡Pues te animo a que midas tu fuerza en el <b>Dojo Azafrán</b>!
 ¿Te crees muy fuerte? ¡Pues te animo a que midas tu fuerza en el <b>Dojo Azafrán</b>!
 Si logras derrotar a mi maestro de artes marciales, te obsequiará con un poderoso Pokémon de tipo Lucha.
 Si logras derrotar a mi maestro de artes marciales, te obsequiará con un poderoso Pokémon de tipo Lucha.
-Estas cajas están llenas de materiales electrónicos que hay que transportar hasta <b>Silph S.A</b>.
-Estas cajas están llenas de materiales electrónicos que hay que transportar hasta <b>Silph S.A</b>.
+¿Es la primera vez que visitas <b>Ciudad Azafrán</b>? Pues tendrás que acostumbrarte a su agitado ritmo de vida.
+¿Es la primera vez que visitas <b>Ciudad Azafrán</b>? Pues tendrás que acostumbrarte a su agitado ritmo de vida.
+¡Al fin y al cabo estás en la capital de <b>Kanto</b>!
+¡Al fin y al cabo estás en la capital de <b>Kanto</b>!
 ¡Jujuju! Ya queda poco para que <b>Ciudad Azafrán</b>, la ciudad más rica de la región, sea nuestra.
 ¡Jujuju! Ya queda poco para que <b>Ciudad Azafrán</b>, la ciudad más rica de la región, sea nuestra.
 Don't even think about going near the offices of <b>Silph S.A.</b>, eh? There are grown-up things happening there!
 Don't even think about going near the offices of <b>Silph S.A.</b>, eh? There are grown-up things happening there!
-Have you seen that huge skyscraper? This is <b>Silph Inc.</b>! One of the largest technology companies in the world.
-Have you seen that huge skyscraper? This is <b>Silph Inc.</b>! One of the largest technology companies in the world.
-De hecho han sido capaces de desarrollar un prototipo de ball que no falla nunca, aunque por lo visto se trata de un proyecto carísimo.
-De hecho han sido capaces de desarrollar un prototipo de ball que no falla nunca, aunque por lo visto se trata de un proyecto carísimo.
+Estas cajas están llenas de materiales electrónicos que hay que transportar hasta <b>Silph S.A</b>.
+Estas cajas están llenas de materiales electrónicos que hay que transportar hasta <b>Silph S.A</b>.
+Silph S.A.
+Silph S.A.
 ¡Bruuum, bruuum! ¡Las Bicicletas son para los fracasados!
 ¡Bruuum, bruuum! ¡Las Bicicletas son para los fracasados!
 ¿Has estado en el <b>Camino de Bicis</b>? Mi banda, la <b>Federación de Moteros de Kanto</b> se ha hecho con el control.
 ¿Has estado en el <b>Camino de Bicis</b>? Mi banda, la <b>Federación de Moteros de Kanto</b> se ha hecho con el control.
 ¡Pero eso es solo el principio, pronto estaremos por todas partes!
 ¡Pero eso es solo el principio, pronto estaremos por todas partes!
-Silph S.A.
-Silph S.A.
-Gracias al <b>Magnetotren</b>, puedo plantarme en <b>Johto</b> en apenas 1 hora. ¡Ojalá algún día amplíen la línea y se pueda viajar hasta <b>Sinnoh</b> en un abrir y cerrar de ojos!
-Gracias al <b>Magnetotren</b>, puedo plantarme en <b>Johto</b> en apenas 1 hora. ¡Ojalá algún día amplíen la línea y se pueda viajar hasta <b>Sinnoh</b> en un abrir y cerrar de ojos!
+Have you seen that huge skyscraper? This is <b>Silph Inc.</b>! One of the largest technology companies in the world.
+Have you seen that huge skyscraper? This is <b>Silph Inc.</b>! One of the largest technology companies in the world.
+De hecho han sido capaces de desarrollar un prototipo de ball que no falla nunca, aunque por lo visto se trata de un proyecto carísimo.
+De hecho han sido capaces de desarrollar un prototipo de ball que no falla nunca, aunque por lo visto se trata de un proyecto carísimo.
+Hacernos con los edificios principales de la ciudad ha sido como quitarle un Carameloraro a un niño.
+Hacernos con los edificios principales de la ciudad ha sido como quitarle un Carameloraro a un niño.
+<b>Giovanni</b> tenía razón, ¡la región de <b>Kanto</b> necesita más mano dura!
+<b>Giovanni</b> tenía razón, ¡la región de <b>Kanto</b> necesita más mano dura!
 ¡Guau! ¡Menudas vacaciones me he dado en el extranjero!
 ¡Guau! ¡Menudas vacaciones me he dado en el extranjero!
 Mira, te daré un pequeño souvenir que compré por ahí.
@@ -5364,28 +5366,26 @@ Mira, te daré un pequeño souvenir que compré por ahí.
 ¿Qué has hecho con la <b>Cola Slowpoke</b> que te regalé? Es un manjar realmente caro y exclusivo.
 Al menos eso me dijo el hombre de negro de la tienda cuando me la vendió.
 Al menos eso me dijo el hombre de negro de la tienda cuando me la vendió.
-Hacernos con los edificios principales de la ciudad ha sido como quitarle un Carameloraro a un niño.
-Hacernos con los edificios principales de la ciudad ha sido como quitarle un Carameloraro a un niño.
-<b>Giovanni</b> tenía razón, ¡la región de <b>Kanto</b> necesita más mano dura!
-<b>Giovanni</b> tenía razón, ¡la región de <b>Kanto</b> necesita más mano dura!
-¿Te has encontrado con alguna Menta Natural? Son la última moda en cuanto a crianza de Pokémon.
-¿Te has encontrado con alguna Menta Natural? Son la última moda en cuanto a crianza de Pokémon.
-Por si te interesa, mi hermano las vende en el <b>Laboratorio Canela</b>.
-Por si te interesa, mi hermano las vende en el <b>Laboratorio Canela</b>.
+Gracias al <b>Magnetotren</b>, puedo plantarme en <b>Johto</b> en apenas 1 hora. ¡Ojalá algún día amplíen la línea y se pueda viajar hasta <b>Sinnoh</b> en un abrir y cerrar de ojos!
+Gracias al <b>Magnetotren</b>, puedo plantarme en <b>Johto</b> en apenas 1 hora. ¡Ojalá algún día amplíen la línea y se pueda viajar hasta <b>Sinnoh</b> en un abrir y cerrar de ojos!
+Casa del Sr. Psíquico
+Casa del Sr. Psíquico
 ¡Uy! ¡Ten cuidado, que te pillo con la bici y no eres un Pokémon de tipo Roca que pueda soportar el impacto!
 ¡Uy! ¡Ten cuidado, que te pillo con la bici y no eres un Pokémon de tipo Roca que pueda soportar el impacto!
 Tampoco eres un Pokémon de tipo Fantasma al que pueda atravesar.
 Tampoco eres un Pokémon de tipo Fantasma al que pueda atravesar.
 Aunque si fueras un Pokémon de tipo Fuego, la verdad es que te pasaría por encima sin remordimientos.
 Aunque si fueras un Pokémon de tipo Fuego, la verdad es que te pasaría por encima sin remordimientos.
-Casa del Sr. Psíquico
-Casa del Sr. Psíquico
+¿Te has encontrado con alguna Menta Natural? Son la última moda en cuanto a crianza de Pokémon.
+¿Te has encontrado con alguna Menta Natural? Son la última moda en cuanto a crianza de Pokémon.
+Por si te interesa, mi hermano las vende en el <b>Laboratorio Canela</b>.
+Por si te interesa, mi hermano las vende en el <b>Laboratorio Canela</b>.
+¡Ni se te ocurra meter las narices en <b>Silph S.A.</b>! Esta vez el plan tiene que salir a la perfección.
+¡Ni se te ocurra meter las narices en <b>Silph S.A.</b>! Esta vez el plan tiene que salir a la perfección.
 ¿Te has enterado? El <b>Team Rocket</b> intentó negociar con <b>Silph S.A</b> para comprar los planos de la <b>Master Ball</b>.
 ¿Te has enterado? El <b>Team Rocket</b> intentó negociar con <b>Silph S.A</b> para comprar los planos de la <b>Master Ball</b>.
 Pero el presidente de <b>Silph S.A.</b> se negó en rotundo. Me pregunto cómo se lo tomará el <b>Team Rocket</b>...
 Pero el presidente de <b>Silph S.A.</b> se negó en rotundo. Me pregunto cómo se lo tomará el <b>Team Rocket</b>...
-¡Ni se te ocurra meter las narices en <b>Silph S.A.</b>! Esta vez el plan tiene que salir a la perfección.
-¡Ni se te ocurra meter las narices en <b>Silph S.A.</b>! Esta vez el plan tiene que salir a la perfección.
 ¿Eres estudiante del <b>Prof. Oak</b>? ¡Ese hombre era todo un guapetón cuando era joven!
 ¿Eres estudiante del <b>Prof. Oak</b>? ¡Ese hombre era todo un guapetón cuando era joven!
 Y de hecho, para la edad que tiene, se sigue conservando muy bien.
@@ -6816,18 +6816,16 @@ En ese caso, joven promesa, ¡sigue estudiando!
 ¿Has visto esos pergaminos del suelo? Tal vez te otorguen cierta sabiduría que te permita vencer al líder Koga...
 La verdad es que como aprendiz de ninja, tengo que leerme muchos textos ninja cada día. Es la parte más pesada de todas...
 La verdad es que como aprendiz de ninja, tengo que leerme muchos textos ninja cada día. Es la parte más pesada de todas...
+Credo del Ninja: "La clave de la victoria es analizar el punto débil"
+Credo del Ninja: "La clave de la victoria es analizar el punto débil"
 Estás bastante cerca, ¿pero seguro que quieres exponerte a las temibles maniobras venenosas de Koga?
 Estás bastante cerca, ¿pero seguro que quieres exponerte a las temibles maniobras venenosas de Koga?
 Nadie acostumbra a hablarme después de vencerme, así que no sé qué más decirte.
 Nadie acostumbra a hablarme después de vencerme, así que no sé qué más decirte.
-Credo del Ninja: "La clave de la victoria es analizar el punto débil"
-Credo del Ninja: "La clave de la victoria es analizar el punto débil"
 He entrenado muy duramente mis técnicas ninja, ¡es hora de ponerlas en práctica!
 He entrenado muy duramente mis técnicas ninja, ¡es hora de ponerlas en práctica!
 Seguiré entrenando para convertirme algún día en un Maestro Ninja, ¡como el líder Koga!
 Seguiré entrenando para convertirme algún día en un Maestro Ninja, ¡como el líder Koga!
-Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
-Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
 ¡Hola, joven promesa! ¿Vienes a desafiar al gimnasio de <b>Ciudad Fucsia</b>?
 ¡Hola, joven promesa! ¿Vienes a desafiar al gimnasio de <b>Ciudad Fucsia</b>?
 Bueno... pues hay un problema. ¿Sabes? Un pequeño impedimento.
@@ -6854,14 +6852,16 @@ Perfect, good luck in the gym!
 ¿Has vencido a los líderes? ¡Qué bien!
 Siento no haber sido de mucha ayuda en esta ocasión, pero el líder <b>Koga</b> tiene preferencia por los Aspirantes autorresolutivos.
 Siento no haber sido de mucha ayuda en esta ocasión, pero el líder <b>Koga</b> tiene preferencia por los Aspirantes autorresolutivos.
+Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
+Credo del Ninja: "El mejor compañero de un buen ninja es su discreción"
 ¿Has descubierto el secreto de los caminos invisibles? ¡Entonces no eres alguien cualquiera!
 ¿Has descubierto el secreto de los caminos invisibles? ¡Entonces no eres alguien cualquiera!
 A pesar de que somos expertos en tipo Veneno, el entrenamiento ninja nos hace tener un cuerpo sano en una mente sana.
 A pesar de que somos expertos en tipo Veneno, el entrenamiento ninja nos hace tener un cuerpo sano en una mente sana.
-Aún tienes por delante a tres obcecados líderes de gimnasio que no te lo pondrán nada fácil. Así que, ¡mucha suerte!
-Aún tienes por delante a tres obcecados líderes de gimnasio que no te lo pondrán nada fácil. Así que, ¡mucha suerte!
 Credo del Ninja: "Un ninja solo puede ser derrotado por otro ninja"
 Credo del Ninja: "Un ninja solo puede ser derrotado por otro ninja"
+Aún tienes por delante a tres obcecados líderes de gimnasio que no te lo pondrán nada fácil. Así que, ¡mucha suerte!
+Aún tienes por delante a tres obcecados líderes de gimnasio que no te lo pondrán nada fácil. Así que, ¡mucha suerte!
 La fuerza no es la clave para ganar, ¿Sabes? ¡Lo importante en un combate Pokémon es la estrategia!
 La fuerza no es la clave para ganar, ¿Sabes? ¡Lo importante en un combate Pokémon es la estrategia!
 Si algún día eres capaz de adaptarte a la perfección a cualquier estrategia, te habrás convertido en un Maestro Pokémon.
@@ -7116,12 +7116,14 @@ Nothing
 [Map131]
 ¡Resuelve el siguiente acertijo!
 Solve the following riddle!
-¿Qué ave legendaria es de tipo Fuego?
-Which legendary bird is a Fire type?
+¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
+Which of these Pokémon has the pre-evolution that evolves first?
 ¿Es la respuesta correcta? ¡Pasa a la siguiente sala para averiguarlo!
 Is this the correct answer? Move on to the next room to find out!
-¿Qué perro legendario es de tipo Fuego?
-Which legendary dog ​​is a Fire type?
+¿Qué probabilidad de quemar tiene Llamarada?
+What is the chance of Fire Blast inflicting a burn?
+¡Completa la palabra que falta! Simisage, Simipour y...
+Fill in the missing word! Simisage, Simipour and...
 Lamentablemente, tu respuesta era incorrecta.
 Unfortunately, your answer was incorrect.
 Ahora sufrirás el poder de las quemaduras antes de enfrentarte a mi ayudante.
@@ -7132,30 +7134,26 @@ Ahora, ¡enfréntante a mi ayudante en un ardiente combate!
 Now, face my assistant in a fiery fight!
 ¡Excelente combate! Puedes cruzar la siguiente puerta para un nuevo acertijo.
 Great fight! You can go through the next door for a new puzzle.
-¿Cuál de estos Pokémon tiene la prevolución que evoluciona antes?
-Which of these Pokémon has the pre-evolution that evolves first?
-¿Qué probabilidad de quemar tiene Llamarada?
-What is the chance of Fire Blast inflicting a burn?
-¡Completa la palabra que falta! Simisage, Simipour y...
-Fill in the missing word! Simisage, Simipour and...
-¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
-What is the name of the handsome and intelligent leader you are going to face?
+¿Qué ave legendaria es de tipo Fuego?
+Which legendary bird is a Fire type?
+¿Qué perro legendario es de tipo Fuego?
+Which legendary dog ​​is a Fire type?
 ¿Qué habilidad es capaz de hacer salir el sol?
 What skill is capable of making the sun rise?
 Si un Pokémon con la habilidad Absorbe Fuego recibe un movimiento de tipo Fuego...
 If a Pokémon with the Fire Absorb ability is hit with a Fire-type move...
-¿Qué Pokémon no evoluciona mediante Piedra Fuego?
-Which Pokémon does NOT evolve using Fire Stone?
-¿Qué Pokémon recibe más daño por el tipo Fuego?
-Which Pokémon takes the most damage from the Fire type?
+¿Cómo se llama el apuesto e inteligente líder al que vas a enfrentarte?
+What is the name of the handsome and intelligent leader you are going to face?
 ¿Qué movimiento causa más daño cuanta más PS tenga el usuario?
 Which move deals more damage the more HP the user has?
 ¿Qué movimiento es capaz de quemar bayas?
 Which move is capable of burning berries?
 ¿Qué movimiento reduce el Ataque Especial del usuario?
 Which move reduces the user's Special Attack?
-Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
-Your chances of beating Blaine are high, go for it!
+¿Qué Pokémon no evoluciona mediante Piedra Fuego?
+Which Pokémon does NOT evolve using Fire Stone?
+¿Qué Pokémon recibe más daño por el tipo Fuego?
+Which Pokémon takes the most damage from the Fire type?
 <b>Blaine:</b> ¡Qué bien me lo he pasado viéndote sufrir con mis acertijos!
 <b>Blaine:</b> I've had such a good time watching you suffer with my riddles!
 ¡Pero bueno! ¡Si los has acertado todos! Eso se merece un premio extra al final del combate.
@@ -7186,6 +7184,8 @@ He has a task at hand that you could help him with. He's waiting for you at the 
 You receive more Capsules for not failing any puzzles!
 <b>Blaine:</b> Si me lo permites, debemos volver al asunto del <b>Team Rocket</b> y el <b>Psicorradar</b>.
 <b>Blaine:</b> Now, if I may, we should get back to the matter of <b>Team Rocket</b> and the <b>Psychic Radar</b>.
+Tus probabilidades de vencer a Blaine son altas, ¡ve a por todas!
+Your chances of beating Blaine are high, go for it!
 ¿Qué Pokémon recibe menos daño de Fuego?
 Which Pokémon takes the least damage from Fire?
 ¿Cuál es el Pokémon Leyenda?
@@ -7194,26 +7194,20 @@ What is the Legendary Pokémon?
 Which Pokémon has a stronger Fire Punch?
 ¿Cuál de estos movimientos no se beneficia de la presencia del sol?
 Which of these movements does not benefit from the presence of the sun?
-Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
-You only have one room left to get to Blaine, good luck with the last puzzle!
 ¿Cuál de estos Pokémon es conocido como el Pokémon Escupefuego?
 Which of these Pokémon is known as the Spitfire Pokémon?
 ¿Cómo afecta el tipo Hada al tipo Fuego?
 How does Fairy type affect Fire type?
 ¿Cuál de estos movimientos de tipo Fuego tiene más potencia?
 Which of these Fire-type moves has the most power?
+Solo te queda una sala para llegar hasta Blaine, ¡suerte con el último acertijo!
+You only have one room left to get to Blaine, good luck with the last puzzle!
+Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
+I can't believe that Leader Blaine gave me a job at his gym, he's a great guy!
 ¿Qué beneficio te otorga el movimiento Nitrocarga?
 What benefit does the Flame Charge move give you?
 ¿Cómo se llama la baya que cura las quemaduras?
 What is the name of the berry that cures burns?
-Parece mentira que el líder Blaine me diera trabajo en su gimnasio, ¡qué gran hombre!
-I can't believe that Leader Blaine gave me a job at his gym, he's a great guy!
-¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
-Which of these Pokémon has a regional Fire-type variant?
-¿Cuántas debilidades tiene el tipo Fuego?
-How many weaknesses does the Fire type have?
-¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
-Good luck with the next riddle! Despite my looks, I'm not very good at them...
 <b>Consejero:</b> ¡Hola, aspirante! Verás, en este gimnasio...
 <b>Counselor:</b> Hello, trainer! You see, in this gym...
 <b>Blaine:</b> ¡Primer acertijo, \PN!
@@ -7242,26 +7236,20 @@ To reach the leader, you will have to go through some doors that will pose a ser
 Do you need me to heal your Pokémon?
 Perfecto, ¡mucha suerte en el gimnasio!
 Perfect, good luck in the gym!
-¿Qué inicial de tipo Fuego te encontrarías en Hoenn?
-Which Fire-type starter would you encounter in Hoenn?
-¿Qué Pokémon tiene mayor Velocidad?
-Which Pokémon has the highest Speed?
+¡Suerte con el siguiente acertijo! A pesar de mis pintas, a mí no se me dan muy bien...
+Good luck with the next riddle! Despite my looks, I'm not very good at them...
+¿Cuál de estos Pokémon tiene una variante regional de tipo Fuego?
+Which of these Pokémon has a regional Fire-type variant?
+¿Cuántas debilidades tiene el tipo Fuego?
+How many weaknesses does the Fire type have?
 ¿Cuál de estos Pokémon tiene cola?
 Which of these Pokémon has a tail?
 ¿Cuál de estos Pokémon aprende Danza Llama?
 Which of these Pokémon learns Fiery Dance?
-Articuno
-Articuno
-Zapdos
-Zapdos
-Moltres
-Moltres
-Suicune
-Suicune
-Entei
-Entei
-Raikou
-Raikou
+¿Qué inicial de tipo Fuego te encontrarías en Hoenn?
+Which Fire-type starter would you encounter in Hoenn?
+¿Qué Pokémon tiene mayor Velocidad?
+Which Pokémon has the highest Speed?
 Camerupt
 Camerupt
 Houndoom
@@ -7280,12 +7268,18 @@ Simiheat
 Simiheat
 Simisear
 Simisear
-Blaine
-Blaine
-Caine
-Caine
-Maine
-Maine
+Articuno
+Articuno
+Zapdos
+Zapdos
+Moltres
+Moltres
+Suicune
+Suicune
+Entei
+Entei
+Raikou
+Raikou
 Amanecer
 Radiance
 Sequía
@@ -7298,24 +7292,30 @@ Aumenta Velocidad
 Increases Speed
 Aumenta su ofensiva
 Increases its offense
-Growlithe
-Growlithe
-Pansear
-Pansear
-Slugma
-Slugma
-Weepinbell
-Weepinbell
-Parasect
-Parasect
-Dewgong
-Dewgong
+Blaine
+Blaine
+Caine
+Caine
+Maine
+Maine
 Sofoco
 Sofoco
 Estallido
 Eruption
 Calcinación
 Incinerate
+Growlithe
+Growlithe
+Pansear
+Pansear
+Slugma
+Slugma
+Weepinbell
+Weepinbell
+Parasect
+Parasect
+Dewgong
+Dewgong
 Coalossal
 Coalossal
 Gyarados
@@ -7364,18 +7364,6 @@ Baya Safre
 Rawst Berry
 Baya Zreza
 Cheri Berry
-Lilligant
-Lilligant
-Marowak
-Marowak
-Muk
-Muk
-2
-2
-3
-3
-4
-4
 ¿El tipo Fuego?
 The Fire type?
 ¿El tipo Bicho?
@@ -7386,6 +7374,24 @@ Sí
 Yes
 No
 No
+Lilligant
+Lilligant
+Marowak
+Marowak
+Muk
+Muk
+2
+2
+3
+3
+4
+4
+Torkoal
+Torkoal
+Quilava
+Quilava
+Volcarona
+Volcarona
 Chimchar
 Chimchar
 Torchic
@@ -7396,12 +7402,6 @@ Typhlosion
 Typhlosion
 Son iguales
 They're equal
-Torkoal
-Torkoal
-Quilava
-Quilava
-Volcarona
-Volcarona
 #-------------------------------
 [Map132]
 ¡Saludos, Aspirante!
@@ -7657,57 +7657,57 @@ I'm visiting the island for a few weeks. Do you think that with my bad luck the 
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Oye, ¿no tendrás un Pokémuñeco en esa mochila tan grande que llevas? Creo que mi hija agradecería recibir uno de regalo.
-Oye, ¿no tendrás un Pokémuñeco en esa mochila tan grande que llevas? Creo que mi hija agradecería recibir uno de regalo.
+Hey, do you happen to have a PokéDoll in that big backpack you're carrying? I think my daughter would appreciate receiving one as a gift.
 A mí hija le gusta imitar a los demás, por eso la llaman la Copiona por el barrio.
-A mí hija le gusta imitar a los demás, por eso la llaman la Copiona por el barrio.
+My daughter likes to imitate others, that's why they call her the Copycat around the neighborhood.
 \PN: Hola, ¿te gusta mi colección de Pokémuñecos? Aunque me gustaría ampliarla.
-\PN: Hola, ¿te gusta mi colección de Pokémuñecos? Aunque me gustaría ampliarla.
+\PN: Hi, do you like my PokéDoll collection? I'd like to expand it though.
 ¿Sabes? Perdí mi Pokémuñeco favorito cuando fui de excursión con el colegio. Creo que se me cayó en la <b>Estación del Magnetotrén</b>.
-¿Sabes? Perdí mi Pokémuñeco favorito cuando fui de excursión con el colegio. Creo que se me cayó en la <b>Estación del Magnetotrén</b>.
+You know, I lost my favorite PokéDoll when I went on a school trip. I think I dropped it at the <b>Magnet Train Station</b>.
 ¿Crees que se lo habrá llevado alguien? ¿O seguirá ahí?
-¿Crees que se lo habrá llevado alguien? ¿O seguirá ahí?
+Do you think someone took it? Or is it still there?
 ...
 ...
 ¡Eh! ¡Pero si tienes mi Pokémuñeco! No me lo habrás robado tú, ¿verdad?
-¡Eh! ¡Pero si tienes mi Pokémuñeco! No me lo habrás robado tú, ¿verdad?
+Hey! You have my PokéDoll! You didn't steal it from me, did you?
 ¡Qué va! ¡No tienes cara de hacer esas cosas! Y lo sé bien porque te he estudiado para poder copiarte.
-¡Qué va! ¡No tienes cara de hacer esas cosas! Y lo sé bien porque te he estudiado para poder copiarte.
+No way! You don't have the nerve to do things like that! And I know because I've studied you well so I can copy you.
 ¡Ya sé! ¡Te regalaré la Megapiedra de mi Pokémon favorito!
-¡Ya sé! ¡Te regalaré la Megapiedra de mi Pokémon favorito!
+I know! I'll give you a Mega Stone for my favorite Pokémon!
 \PN: Hola, ¿te gusta mi colección de Pokémuñecos? Quiero empezar a incorporar muñecos de seres humanos especiales también.
-\PN: Hola, ¿te gusta mi colección de Pokémuñecos? Quiero empezar a incorporar muñecos de seres humanos especiales también.
+\PN: Hi, do you like my PokéDoll collection? I want to start incorporating dolls of special human beings as well.
 ¿Sabes? Tú serías un buen primer Personamuñeco. ¿Me harás algún día de modelo para que pueda confeccionarte?
-¿Sabes? Tú serías un buen primer Personamuñeco. ¿Me harás algún día de modelo para que pueda confeccionarte?
+You know, you'd make a good first DollPerson. Will you model for me someday so I can make you?
 ¡No hace falta que respondas ahora! Quiero que te lo pienses bien.
-¡No hace falta que respondas ahora! Quiero que te lo pienses bien.
+You don't need to answer now! I want you to think it over carefully.
 Hoy me espera un día intenso de reuniones con clientes en <b>Silph S.A</b>.
-Hoy me espera un día intenso de reuniones con clientes en <b>Silph S.A</b>.
+I have a busy day of meetings with clients at <b>Silph Co.</b>.
 ¡Ojalá alguien invadiera las oficinas para no tener que ir a trabajar!
-¡Ojalá alguien invadiera las oficinas para no tener que ir a trabajar!
+I wish someone would invade the offices so I wouldn't have to go to work!
 ¿Has estado en casa del <b>Sr. Psíquico</b>? ¡Ese hombre es un farsante! Finge tener poderes psíquicos pero son todo trucos baratos.
-¿Has estado en casa del <b>Sr. Psíquico</b>? ¡Ese hombre es un farsante! Finge tener poderes psíquicos pero son todo trucos baratos.
+Have you been to Mr. Psychic's house? That man's a fraud! He pretends to have psychic powers, but it's all cheap tricks.
 ¡Yo en cambio soy la <b>Srta. Lucha</b>! Y si me enseñas un Pokémon de tipo Lucha en el primer puesto de tu equipo, te recompensaré.
-¡Yo en cambio soy la <b>Srta. Lucha</b>! Y si me enseñas un Pokémon de tipo Lucha en el primer puesto de tu equipo, te recompensaré.
+I, on the other hand, am <b>Miss Fighting</b>! And if you show me a Fighting-type Pokémon at the top of your team, I'll reward you.
 ¡Ah! Veo que tienes uno, ¡y parece muy fuerte!
-¡Ah! Veo que tienes uno, ¡y parece muy fuerte!
+Ah! I see you have one, and it looks very strong!
 Pues mira, tal vez esto te venga bien.
-Pues mira, tal vez esto te venga bien.
+Well, look, maybe this will come in handy.
 ¿Quién quiere poderes psíquicos cuando puedes acabar cualquier combate Pokémon con un golpe contundente?
-¿Quién quiere poderes psíquicos cuando puedes acabar cualquier combate Pokémon con un golpe contundente?
+Who wants psychic powers when you can end any Pokémon battle with one powerful blow?
 ¡Espero que demuestres la superioridad del tipo Lucha allá donde vayas!
-¡Espero que demuestres la superioridad del tipo Lucha allá donde vayas!
+I hope you demonstrate the superiority of the Fighting type wherever you go!
 La líder <b>Sabrina</b> tiene muy mala fama entre todos los Aspirantes.
-La líder <b>Sabrina</b> tiene muy mala fama entre todos los Aspirantes.
+Gym Leader <b>Sabrina</b> has a very bad reputation among Trainers.
 A pesar de no ser la líder de mayor nivel, se la considera una de las más complicadas por las estrategias que utiliza.
-A pesar de no ser la líder de mayor nivel, se la considera una de las más complicadas por las estrategias que utiliza.
+Despite not being the highest level leader, she is considered one of the most difficult due to the strategies she uses.
 La ciudad se ha vuelto insegura últimamente entre el <b>Team Rocket</b>, los Motoristas y maleantes de otra índole.
-La ciudad se ha vuelto insegura últimamente entre el <b>Team Rocket</b>, los Motoristas y maleantes de otra índole.
+The city has become unsafe lately between <b>Team Rocket</b>, the Bikers, and other types of criminals.
 Incluso con mi Pokémon, que es muy fuerte, a veces tengo miedo de salir sola.
-Incluso con mi Pokémon, que es muy fuerte, a veces tengo miedo de salir sola.
+Even with my strong Pokémon, I'm sometimes afraid to go out alone.
 Entreno todos los días en el <b>Dojo Azafrán</b>, ¡y pronto seré cinturón negro en tres artes marciales distintos!
-Entreno todos los días en el <b>Dojo Azafrán</b>, ¡y pronto seré cinturón negro en tres artes marciales distintos!
+I train every day at the <b>Saffron Dojo</b>, and soon I'll be a black belt in three different martial arts!
 Si quieres aumentar las estadísticas de tus Pokémon de forma intensiva, no hay lugar más adecuado que el dojo.
-Si quieres aumentar las estadísticas de tus Pokémon de forma intensiva, no hay lugar más adecuado que el dojo.
+If you want to intensively increase your Pokémon's stats, there's no better place than the dojo.
 #-------------------------------
 [Map142]
 ¡Hola, soy el <b>Transformador Exótico</b>!
@@ -7863,29 +7863,29 @@ No
 #-------------------------------
 [Map143]
 <b>Guarda:</b> Oh, ¡hola! Soy el Guarda, trabajo para evitar que los ladrones intenten robar los Pokémon exóticos de la <b>Zona Safari</b>.
-<b>Guarda:</b> Oh, ¡hola! Soy el Guarda, trabajo para evitar que los ladrones intenten robar los Pokémon exóticos de la <b>Zona Safari</b>.
+<b>Guard:</b> Oh, hey! I'm the Guard, working to stop thieves from trying to steal the Exotic Pokémon from the <b>Safari Zone</b>.
 Aunque ahora mismo no estoy de muy buen humor.
-Aunque ahora mismo no estoy de muy buen humor.
+Although I'm not in a very good mood right now.
 Verás, el otro día estaba haciendo una inspección rutinaria por la <b>Zona Safari</b>, y al volver me di cuenta de que había perdido mi <b>Anillo de Compromiso</b>.
-Verás, el otro día estaba haciendo una inspección rutinaria por la <b>Zona Safari</b>, y al volver me di cuenta de que había perdido mi <b>Anillo de Compromiso</b>.
+You see, the other day I was doing a routine inspection of the <b>Safari Zone</b>, and when I came back I realized that I'd lost my <b>Engagement Ring</b>.
 Es un recuerdo que tengo de mi difunta esposa. Si no lo recupero, no me lo podré perdonar.
-Es un recuerdo que tengo de mi difunta esposa. Si no lo recupero, no me lo podré perdonar.
+It's a memory I have of my late wife. If I don't get it back, I won't be able to forgive myself.
 Imagino que estará por alguna parte de la <b>zona Safari</b>, ¡pero aquello es enorme! Uf, tal vez tenga que darlo por perdido...
-Imagino que estará por alguna parte de la <b>zona Safari</b>, ¡pero aquello es enorme! Uf, tal vez tenga que darlo por perdido...
+I imagine it's somewhere in the <b>Safari zone</b>, but that place is huge! Ugh, I might have to give up on it...
 ...
 ...
 ¡Espera! ¡Has encontrado mi <b>Anillo de Compromiso</b>!
-¡Espera! ¡Has encontrado mi <b>Anillo de Compromiso</b>!
+Wait! You found my <b>Engagement Ring</b>!
 Me acabas de hacer un favor enorme. Ahora podré volver a dormir tranquilo por las noches.
-Me acabas de hacer un favor enorme. Ahora podré volver a dormir tranquilo por las noches.
+You've just done me a huge favor. Now I can sleep peacefully again at night.
 Sé que es una escasa recompensa en comparación, pero te daré esto.
-Sé que es una escasa recompensa en comparación, pero te daré esto.
+I know it's a small reward in comparison, but I'll give you this.
 <b>Guarda:</b> Se trata de una <b>Lente de la Verdad</b>, un trasto que utilizan los ninjas de <b>Ciudad Fucsia</b>.
-<b>Guarda:</b> Se trata de una <b>Lente de la Verdad</b>, un trasto que utilizan los ninjas de <b>Ciudad Fucsia</b>.
+<b>Guard:</b> This is a <b>Lens of Truth</b>, a gadget used by the ninjas of <b>Fuchsia City</b>.
 Creo que te puede ser de utilidad para progresar en el gimnasio del líder <b>Koga</b>.
-Creo que te puede ser de utilidad para progresar en el gimnasio del líder <b>Koga</b>.
+I think it'll be useful for you to get through <b>Koga</b>'s gym.
 <b>Guarda:</b> Lo que te he dado es una <b>Lente de la Verdad</b>, un trasto que utilizan los ninjas de <b>Ciudad Fucsia</b>.
-<b>Guarda:</b> Lo que te he dado es una <b>Lente de la Verdad</b>, un trasto que utilizan los ninjas de <b>Ciudad Fucsia</b>.
+<b>Guard:</b> What I gave you is a <b>Lens of Truth</b>, a gadget used by the ninjas of <b>Fuchsia City</b>.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 #-------------------------------
@@ -8097,13 +8097,13 @@ No
 #-------------------------------
 [Map149]
 ¡Anda! Te has adentrado en lo más profundo de la <b>Zona Safari</b>, muy pocos son los que llegan hasta aquí.
-¡Anda! Te has adentrado en lo más profundo de la <b>Zona Safari</b>, muy pocos son los que llegan hasta aquí.
+Wow! You've ventured deep into the <b>Safari Zone</b>, very few people make it this far.
 Creo que te has ganado esto.
-Creo que te has ganado esto.
+I think you've earned this.
 El movimiento Surf no solo tiene una gran potencia en combate, también se usa para surcar los mares a lomos de tu Pokémon.
-El movimiento Surf no solo tiene una gran potencia en combate, también se usa para surcar los mares a lomos de tu Pokémon.
+The Surf move is not only extremely powerful in combat, it is also used to surf the seas on the back of your Pokémon.
 Aunque para obtener esa funcionalidad, tendrás que ganarte la medalla de <b>Ciudad Azafrán</b>.
-Aunque para obtener esa funcionalidad, tendrás que ganarte la medalla de <b>Ciudad Azafrán</b>.
+To get that functionality, though, you'll need to earn the <b>Saffron City</b> badge.
 #-------------------------------
 [Map152]
 ¿Quieres usar el Equipo de Escalada?
@@ -8117,23 +8117,23 @@ No
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 ¡Alto! ¡Tu ascenso por la Calle Victoria terminará antes de que tan siquiera empiece!
-¡Alto! ¡Tu ascenso por la Calle Victoria terminará antes de que tan siquiera empiece!
+Stop! Your climb up Victory Road will be over before it even begins!
 ¡Suerte en el Monte Plateado! Me temo que la vas a necesitar...
-¡Suerte en el Monte Plateado! Me temo que la vas a necesitar...
+Good luck on <b>Mt. Silver</b>! I'm afraid you're going to need it...
 Si has llegado hasta aquí es que vales bastante, ¡tengamos un combate entre Aspirantes!
-Si has llegado hasta aquí es que vales bastante, ¡tengamos un combate entre Aspirantes!
+If you've made it this far, you're a worthy challenger. Let's battle!
 He visto a una dama vestida con kimono, ¿qué andará haciendo en un lugar como este?
-He visto a una dama vestida con kimono, ¿qué andará haciendo en un lugar como este?
+I saw a lady dressed in a kimono. What's she doing in a place like this?
 Estaba haciendo fotos cuando he visto a una señora vestida de forma extraña. ¡Qué susto me he llevado!
-Estaba haciendo fotos cuando he visto a una señora vestida de forma extraña. ¡Qué susto me he llevado!
+I was taking photos when I saw a lady dressed strangely. It really spooked me!
 No subestimes a los Pokémon de esta zona. Solo los entrenadores expertos pueden hacerles frente.
-No subestimes a los Pokémon de esta zona. Solo los entrenadores expertos pueden hacerles frente.
+Don't underestimate the Pokémon in this area. Only skilled trainers can take them on.
 <b>Norte:</b> Monte Plateado\n<b>Sur:</b> Ruta 22
-<b>Norte:</b> Monte Plateado\n<b>Sur:</b> Ruta 22
+<b>North:</b> Mt. Silver\n<b>South:</b> Route 22
 Estoy haciendo los últimos preparativos para la Liga Pokémon, ¿me ayudas?
-Estoy haciendo los últimos preparativos para la Liga Pokémon, ¿me ayudas?
+I'm making final preparations for the Pokémon League. Can you help me?
 ¿Qué debería hacer? ¿Continúo el ascenso hacia la Liga Pokémon? ¿O doy media vuelta?
-¿Qué debería hacer? ¿Continúo el ascenso hacia la Liga Pokémon? ¿O doy media vuelta?
+What should I do? Do I continue my climb to the Pokémon League, or do I turn back?
 Sí
 Yes
 No
@@ -8141,29 +8141,29 @@ No
 #-------------------------------
 [Map155]
 ¡Hoy me siento muy bien! ¡Siento que podría vencer hasta al Campeón de la Liga!
-¡Hoy me siento muy bien! ¡Siento que podría vencer hasta al Campeón de la Liga!
+I feel great today! I feel like I could beat even the League Champion!
 Como en la pesca, con los Pokémon todo está perdido si uno se rinde.
-Como en la pesca, con los Pokémon todo está perdido si uno se rinde.
+When it comes to Pokémon, it's just like fishing. All is lost if you give up.
 Mmmm... qué sensación más extraña.
-Mmmm... qué sensación más extraña.
+Mmmm... what a strange feeling.
 Algo me dice que no deberíamos estar nadando por aquí.
-Algo me dice que no deberíamos estar nadando por aquí.
+Something tells me we shouldn't be swimming around here.
 Yo solo quería alcanzar la región de <b>Johto</b>.
-Yo solo quería alcanzar la región de <b>Johto</b>.
+I just wanted to reach the <b>Johto</b> region.
 ¿Eh? Yo no lucho. Prefiero llevar un entrenamiento solitario.
-¿Eh? Yo no lucho. Prefiero llevar un entrenamiento solitario.
+Huh? I don't fight. I prefer to train alone.
 Los Pokémon salvajes de esta parte de la región son muy fuertes. No me extraña que solo dejen pasar a los más veteranos.
-Los Pokémon salvajes de esta parte de la región son muy fuertes. No me extraña que solo dejen pasar a los más veteranos.
+The wild Pokémon in this part of the region are very strong. No wonder they only let the most experienced trainers through.
 ¿Ves la región de <b>Johto</b> desde aquí? ¡Parece mentira que estemos tan cerca y a la vez tengamos costumbres tan diferentes!
-¿Ves la región de <b>Johto</b> desde aquí? ¡Parece mentira que estemos tan cerca y a la vez tengamos costumbres tan diferentes!
+Can you see the Johto region from here? It's unbelievable that we're so close and yet have such different customs!
 Ellos, por ejemplo, viven de un modo mucho más tradicional.
-Ellos, por ejemplo, viven de un modo mucho más tradicional.
+For example, they live in a much more traditional way.
 Cataratas Tohjo
-Cataratas Tohjo
+Tohjo Falls
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
+It's an <b>Alpha Nest</b>! A very strong Pokémon lives there.
 En concreto, sientes la presencia de un Pokémon Lucha muy poderoso.
-En concreto, sientes la presencia de un Pokémon Lucha muy poderoso.
+Specifically, you sense the presence of a very powerful Fighting Pokémon.
 ¿Quieres hacerlo salir?
 Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
@@ -8181,15 +8181,15 @@ No
 #-------------------------------
 [Map156]
 <b>Oeste:</b> Cataratas Tohjo\n<b>Este:</b> Ruta 21
-<b>Oeste:</b> Cataratas Tohjo\n<b>Este:</b> Ruta 21
+<b>West:</b> Tohjo Falls\n<b>East:</b> Route 21
 ¡No digas nada! ¡Déjame adivinar lo que piensas! ¡Mmm...! ¡Listo! ¡Vas a la Liga Pokémon!
-¡No digas nada! ¡Déjame adivinar lo que piensas! ¡Mmm...! ¡Listo! ¡Vas a la Liga Pokémon!
+Don't say anything! Let me guess what you're thinking! Hmm... I've got it! You're going to the Pokémon League!
 Con tu habilidad, te irá bien en la Liga Pokémon. Esa es mi premonición.
-Con tu habilidad, te irá bien en la Liga Pokémon. Esa es mi premonición.
+With your skill, you'll do well in the Pokémon League. That's my premonition.
 ¿La Liga Pokémon? Sabes que es en dirección contraria, ¿no? ¡Subir en lugar de bajar!
-¿La Liga Pokémon? Sabes que es en dirección contraria, ¿no? ¡Subir en lugar de bajar!
+The Pokémon League? You know it's the other way around, right? Up instead of down!
 Si quieres llegar hasta la Liga Pokémon, tendrás que atravesar el Monte Plateado, que se encuentra más al norte.
-Si quieres llegar hasta la Liga Pokémon, tendrás que atravesar el Monte Plateado, que se encuentra más al norte.
+If you want to reach the Pokémon League, you'll have to cross <b>Mt. Silver</b>, which is further north.
 #-------------------------------
 [Map157]
 ¿Quieres usar el Equipo de Escalada?
@@ -8201,29 +8201,29 @@ No
 #-------------------------------
 [Map158]
 <b>Vito:</b> Las energías de este lugar son...
-<b>Vito:</b> Las energías de este lugar son...
+<b>Vito:</b> The energy of this place is...
 <b>Leti:</b> ¡Místicas! ¡Vibrantes! ¡Estimulantes!
-<b>Leti:</b> ¡Místicas! ¡Vibrantes! ¡Estimulantes!
+<b>Leti:</b> Mystical! Vibrant! Stimulating!
 <b>Vito:</b> ¿Será por la presencia del <b>Monte Plateado</b>?
-<b>Vito:</b> ¿Será por la presencia del <b>Monte Plateado</b>?
+<b>Vito:</b> Could it be due to the presence of <b>Mt. Silver</b>?
 <b>Leti:</b> En cualquier caso, tanta estimulación mental nos lleva...
-<b>Leti:</b> En cualquier caso, tanta estimulación mental nos lleva...
+<b>Leti:</b> In any case, so much mental stimulation makes us...
 <b>Vito:</b> A querer combatir con toda nuestra energía. ¿Aceptas nuestro reto?
-<b>Vito:</b> A querer combatir con toda nuestra energía. ¿Aceptas nuestro reto?
+<b>Vito:</b> Want to fight with all our energy. Do you accept our challenge?
 <b>Vito:</b> Nunca antes nos habían derrotado así. Pensábamos que éramos...
-<b>Vito:</b> Nunca antes nos habían derrotado así. Pensábamos que éramos...
+<b>Vito:</b> We've never been beaten like this before. We thought we were...
 <b>Leti:</b> Invencibles. Tendremos que trabajar nuestro orgullo cuando volvamos a casa. Mientras tanto...
-<b>Leti:</b> Invencibles. Tendremos que trabajar nuestro orgullo cuando volvamos a casa. Mientras tanto...
+<b>Leti:</b> Invincible. We'll have to work on our pride when we get back home. In the meantime...
 <b>Vito:</b> Puedes quedarte con esto, por haber logrado una hazaña tan magnífica.
-<b>Vito:</b> Puedes quedarte con esto, por haber logrado una hazaña tan magnífica.
+<b>Vito:</b> You can keep this, for having accomplished such a magnificent feat.
 <b>Vito:</b> No te preocupes, no todo el mundo está listo para...
-<b>Vito:</b> No te preocupes, no todo el mundo está listo para...
+<b>Vito:</b> Don't worry, not everyone is ready for...
 <b>Leti:</b> Nuestros poderes psíquicos combinados. ¡Vuelve si cambias de idea!
-<b>Leti:</b> Nuestros poderes psíquicos combinados. ¡Vuelve si cambias de idea!
+<b>Leti:</b> Our combined psychic powers. Come back if you change your mind!
 ¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
+It's an <b>Alpha Nest</b>! A very strong Pokémon lives there.
 En concreto, sientes la presencia de un Pokémon Dragón muy poderoso.
-En concreto, sientes la presencia de un Pokémon Dragón muy poderoso.
+Specifically, you sense the presence of a very powerful Dragon Pokémon.
 ¿Quieres hacerlo salir?
 Do you want to make them come out?
 ¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
@@ -8231,9 +8231,9 @@ The Alpha Pokémon has fled! But he has dropped an object behind it.
 El <b>Nido Alfa</b> está vacío...
 The <b>Alpha Nest</b> is empty...
 Monte Plateado
-Monte Plateado
+Mt. Silver
 <b>Oeste:</b> Monte Plateado\n<b>Este:</b> Ruta 21
-<b>Oeste:</b> Monte Plateado\n<b>Este:</b> Ruta 21
+<b>West:</b> Mt. Silver\n<b>East:</b> Route 21
 Sí
 Yes
 No
@@ -8263,9 +8263,9 @@ All done, your Pokémon has remembered the move.
 ¡Vuelve si necesitas cualquier cosa!
 Come back if you need anything!
 ¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
-¿Sabes una cosa? Hay rumores de que alguien ha alcanzado la cima del <b>Monte Plateado</b>, ¡y que se ha quedado ahí para entrenar!
+Did you hear? There are rumors that someone reached the top of <b>Mt. Silver</b>, and has been staying there to train!
 Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
-Sea quien sea tiene que ser o un loco o alguien verdaderamente fuerte.
+Whoever it is, they have to either be crazy or incrdibly strong.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
 Welcome to our Pokémon Center! We heal your Pokémon back to perfect health!
 Esto llevará un rato.
@@ -8285,7 +8285,7 @@ We hope to see you again!
 \rRandy: Oh, okay then.
 \rRandy: Oh, okay then.
 Parece mentira que hayan construido un Centro Pokémon en un lugar tan remoto como este. Así da gusto disfrutar de la sanidad pública.
-Parece mentira que hayan construido un Centro Pokémon en un lugar tan remoto como este. Así da gusto disfrutar de la sanidad pública.
+It's hard to believe that a Pokémon Center has been built in such a remote place. It's a pleasure to enjoy public healthcare.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
@@ -8311,13 +8311,13 @@ Nothing
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 El Monte Plateado... el lugar más inhóspito de Kanto. ¿Podré completar su ascenso?
-El Monte Plateado... el lugar más inhóspito de Kanto. ¿Podré completar su ascenso?
+Mt. Silver... the most inhospitable place in Kanto. Can I complete the ascent?
 No importa si pierdo. Siempre puedo volver a intentarlo desde este mismo punto. Nunca es tarde para volver a intentarlo.
-No importa si pierdo. Siempre puedo volver a intentarlo desde este mismo punto. Nunca es tarde para volver a intentarlo.
+It doesn't matter if I lose. I can always try again from this point. It's never too late to try again.
 ¡Este lugar es solo para los más fuertes! Comprobemos tu fuerza con un combate apasionante.
-¡Este lugar es solo para los más fuertes! Comprobemos tu fuerza con un combate apasionante.
+This place is only for the strongest! Let's test your strength with an exciting battle.
 Pasó por aquí una persona con la misma determinación que tú, pero no pude preguntarle el nombre.
-Pasó por aquí una persona con la misma determinación que tú, pero no pude preguntarle el nombre.
+A person with the same determination as you passed by here, but I didn't get the chance to ask his name.
 Sí
 Yes
 No
@@ -8327,13 +8327,13 @@ No
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 El tramo se complica a partir de aquí, ¡pero no tengo ninguna lección que darle a alguien que ha llegado tan lejos!
-El tramo se complica a partir de aquí, ¡pero no tengo ninguna lección que darle a alguien que ha llegado tan lejos!
+It gets tougher from here on out, but I have no lessons to teach someone who has come this far!
 Mira todas esas medallas que llevas encima, ¡cada una cuenta una historia increíble! ¿Recuerdas todos tus combates contra los líderes?
-Mira todas esas medallas que llevas encima, ¡cada una cuenta una historia increíble! ¿Recuerdas todos tus combates contra los líderes?
+Look at all those Badges you're wearing - each one tells an incredible story! Do you remember all your battles against the Gym Leaders?
 ¿Qué tal tu subida por la montaña? ¡Espero que te queden fuerzas para combatir!
-¿Qué tal tu subida por la montaña? ¡Espero que te queden fuerzas para combatir!
+How was your climb up the mountain? I hope you still have the strength to fight!
 Logré superar a todos los líderes. Nunca había perdido... vaya palo. Me voy a casa a entrenar más.
-Logré superar a todos los líderes. Nunca había perdido... vaya palo. Me voy a casa a entrenar más.
+I managed to defeat all of the leaders. I've never lost before...what a bummer. I'm going home to train more.
 Sí
 Yes
 No
@@ -8351,17 +8351,17 @@ No
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 He luchado tanto como he podido, pero el frío y el cansancio empiezan a hacer mella. Aún así, haré un último esfuerzo.
-He luchado tanto como he podido, pero el frío y el cansancio empiezan a hacer mella. Aún así, haré un último esfuerzo.
+I've fought as hard as I could, but the cold and fatigue are beginning to take their toll. Still, I'll make one last effort.
 Creo que la cima del Monte Plateado no anda muy lejos de aquí, pero cualquiera sube más arriba con lo bien que se está aquí...
-Creo que la cima del Monte Plateado no anda muy lejos de aquí, pero cualquiera sube más arriba con lo bien que se está aquí...
+I think the top of Silver Mountain isn't much further, but anyone can climb higher since it's so nice here...
 Después de haber llegado tan lejos..., ¡tengo que corresponder a tu esfuerzo combatiendo con todas mis fuerzas!
-Después de haber llegado tan lejos..., ¡tengo que corresponder a tu esfuerzo combatiendo con todas mis fuerzas!
+After coming this far...I have to reciprocate your efforts by battling with all my might!
 Hay personas que no sienten amor por los Pokémon aunque sean fuertes. Y personas que quieren incluso a los Pokémon débiles. ¿Qué tipo de persona eres tú?
-Hay personas que no sienten amor por los Pokémon aunque sean fuertes. Y personas que quieren incluso a los Pokémon débiles. ¿Qué tipo de persona eres tú?
+There are people who don't love Pokémon even if they're strong. And there are people who love even weak Pokémon. What kind of person are you?
 ¡Alto! Siento bloquearte el acceso a la cima del <b>Monte Plateado</b> pero... tu momento aún no ha llegado.
-¡Alto! Siento bloquearte el acceso a la cima del <b>Monte Plateado</b> pero... tu momento aún no ha llegado.
+Stop! I'm sorry to block your access to the top of <b>Mt. Silver</b> but... your time has not yet come.
 Busca otro camino para avanzar.
-Busca otro camino para avanzar.
+Find another way forward.
 Sí
 Yes
 No
@@ -8369,25 +8369,25 @@ No
 #-------------------------------
 [Map165]
 He escalado hasta aquí para poder hacerme fuerte junto a mis compañeros Pokémon y, ¡brrr! ¡Hace un frío que pela!
-He escalado hasta aquí para poder hacerme fuerte junto a mis compañeros Pokémon y, ¡brrr! ¡Hace un frío que pela!
+I climbed up here to get strong alongside my Pokémon companions and, brrr! It's freezing cold!
 Pero creo que la dureza del clima será ideal para nuestro entrenamiento.
-Pero creo que la dureza del clima será ideal para nuestro entrenamiento.
+But I think the harsh climate will be ideal for our training.
 ¡Me llamo <b>Ash</b>, por cierto! También soy de <b>Pueblo Paleta</b>, como tú.
-¡Me llamo <b>Ash</b>, por cierto! También soy de <b>Pueblo Paleta</b>, como tú.
+My name is <b>Ash</b>, by the way! I'm from <b>Pallet Town</b>, just like you.
 Pareces muy fuerte, ¿no? De lo contrario, no hubieras llegado hasta aquí. Dime, ¿te apetece que combatamos?
-Pareces muy fuerte, ¿no? De lo contrario, no hubieras llegado hasta aquí. Dime, ¿te apetece que combatamos?
+You're pretty strong, aren't you? Otherwise, you wouldn't have gotten this far. So, do you wanna battle?
 ¡Guau! ¡Qué emoción!
-¡Guau! ¡Qué emoción!
+Yes! How exciting!
 ¡Jejeje! Hacía tiempo que no encontraba a alguien que pudiera vencerme. Esto me abre un nuevo horizonte de posibilidades.
-¡Jejeje! Hacía tiempo que no encontraba a alguien que pudiera vencerme. Esto me abre un nuevo horizonte de posibilidades.
+Hehehe! It's been a while since I met someone who could beat me. This opens up a whole new horizon of possibilities for me.
 De momento, la cima del <b>Monte Plateado</b> es toda tuya.
-De momento, la cima del <b>Monte Plateado</b> es toda tuya.
+For now, the summit of <b>Mt. Silver</b> is all yours.
 Pero esto no es un adiós para siempre, ¿eh? ¡Estoy seguro de que nos volveremos a encontrar en algún otro lugar del mundo!
-Pero esto no es un adiós para siempre, ¿eh? ¡Estoy seguro de que nos volveremos a encontrar en algún otro lugar del mundo!
+But this isn't goodbye forever, right? I'm sure we'll meet again somewhere else in the world!
 ¡Vamos, Pikachu! ¡Aún nos queda mucho por ver!
-¡Vamos, Pikachu! ¡Aún nos queda mucho por ver!
+Let's go, Pikachu! We still have a lot to see!
 ¿No? ¡Avísame si cambias de idea! Tengo muchas ganas de conocer a rivales fuertes.
-¿No? ¡Avísame si cambias de idea! Tengo muchas ganas de conocer a rivales fuertes.
+No? Let me know if you change your mind! I'm looking forward to meeting strong opponents.
 Sí
 Yes
 No
@@ -8504,10 +8504,6 @@ No
 No
 #-------------------------------
 [Map168]
-¡Represento a la élite del Team Rocket! ¿Quieres presenciar un poder verdadero?
-¡Represento a la élite del Team Rocket! ¿Quieres presenciar un poder verdadero?
-¿Vas a seguir adelante? ¿A pesar de los duros combates que te esperan? ¡Eres de lo que no hay!
-¿Vas a seguir adelante? ¿A pesar de los duros combates que te esperan? ¡Eres de lo que no hay!
 \c[1]<b>\v[12]:</b>\c[0] Es... es imposible que me esté saliendo todo tan mal.
 \c[1]<b>\v[12]:</b>\c[0] Es... es imposible que me esté saliendo todo tan mal.
 No soy capaz de derrotar ni tan siquiera a estos dos mequetrefes.
@@ -8576,6 +8572,10 @@ Podríamos combatir juntos, <b>Rojo</b>.
 ¡\PN, tú sigue adelante y encuentra a <b>Giovanni</b>!
 \c[2]<b>Rojo:</b>\c[0] No, ahora es cuando empieza. ¡Os vamos a dar hasta en vuestro carnet de identidad del <b>Team Rocket</b>!
 \c[2]<b>Rojo:</b>\c[0] No, ahora es cuando empieza. ¡Os vamos a dar hasta en vuestro carnet de identidad del <b>Team Rocket</b>!
+¡Represento a la élite del Team Rocket! ¿Quieres presenciar un poder verdadero?
+¡Represento a la élite del Team Rocket! ¿Quieres presenciar un poder verdadero?
+¿Vas a seguir adelante? ¿A pesar de los duros combates que te esperan? ¡Eres de lo que no hay!
+¿Vas a seguir adelante? ¿A pesar de los duros combates que te esperan? ¡Eres de lo que no hay!
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 <b>Atlas:</b> ¡Nadie puede contra el <b>Team Rocket</b>! ¡Absolutamente nadie!
@@ -8586,12 +8586,12 @@ Do you want to use Climbing Equipment?
 \c[3]<b>Hoja:</b>\c[0] ¡\PN, tú sigue adelante y encuentra a <b>Giovanni</b>!
 \c[2]<b>Rojo:</b>\c[0] ¡\PN, tú sigue adelante y encuentra a <b>Giovanni</b>!
 \c[2]<b>Rojo:</b>\c[0] ¡\PN, tú sigue adelante y encuentra a <b>Giovanni</b>!
-\c[1]<b>\v[12]:</b>\c[0] Supongo que solo por esta vez...
-\c[1]<b>\v[12]:</b>\c[0] Supongo que solo por esta vez...
 Me pidieron que montara guardia en la entrada de la cueva. No me des mucho la vara, ¿vale?
 Me pidieron que montara guardia en la entrada de la cueva. No me des mucho la vara, ¿vale?
 Se supone que hemos venido los mejores reclutas del Team Rocket, ¿quién eres tú y por qué eres tan fuerte?
 Se supone que hemos venido los mejores reclutas del Team Rocket, ¿quién eres tú y por qué eres tan fuerte?
+\c[1]<b>\v[12]:</b>\c[0] Supongo que solo por esta vez...
+\c[1]<b>\v[12]:</b>\c[0] Supongo que solo por esta vez...
 ¿Es que aún no te ha quedado claro lo peligrosos que somos? ¡Te haré un recordatorio!
 ¿Es que aún no te ha quedado claro lo peligrosos que somos? ¡Te haré un recordatorio!
 Aunque yo no pueda vencerte, al menos te he cansado un poco. ¡Algún compañero te rematará!
@@ -8628,10 +8628,10 @@ Los ideales más verdaderos son los que acaban triunfando, ¡por eso creo ciegam
 Los ideales más verdaderos son los que acaban triunfando, ¡por eso creo ciegamente en Giovanni!
 #-------------------------------
 [Map170]
-Pues se ha quedado una buena tarde...
-Pues se ha quedado una buena tarde...
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
+Pues se ha quedado una buena tarde...
+Pues se ha quedado una buena tarde...
 \c[5]<b>Surya:</b>\c[0] ¿No te parece que esta cueva es supermegachachipiruli? ¡Mira todos esos cristalitos que brillan!
 \c[5]<b>Surya:</b>\c[0] ¿No te parece que esta cueva es supermegachachipiruli? ¡Mira todos esos cristalitos que brillan!
 Pero no es momento para eso, ¡jijiji! ¡No puedo dejarte pasar!
@@ -8738,6 +8738,10 @@ Esto no suele ser habitual, pero ahora tendréis que enfrentaros entre vosotros 
 <b>Lance:</b> ¡La Comisión de la <b>Liga Pokémon</b> nos va a cantar las cuarenta! Pero yo no me hago responsable.
 ¡Venga, vamos! Tú también, \PN. Pisa esa baldosa teletransportadora y llegarás al lugar del enfrentamiento final contra \v[12].
 ¡Venga, vamos! Tú también, \PN. Pisa esa baldosa teletransportadora y llegarás al lugar del enfrentamiento final contra \v[12].
+Tu ascenso en la <b>Liga Pokémon</b> continúa, Aspirante.
+Tu ascenso en la <b>Liga Pokémon</b> continúa, Aspirante.
+Cruza el pasillo para encontrarte con tu próximo oponente.
+Cruza el pasillo para encontrarte con tu próximo oponente.
 <b>Lorelei:</b> ¡Te estaba esperando, \PN!
 <b>Lorelei:</b> ¡Te estaba esperando, \PN!
 Ya me llamaste la atención en nuestro primer encuentro en la entrada del <b>Túnel Roca</b>, pero ahora es el momento de probar tu valor como Aspirante.
@@ -8754,10 +8758,6 @@ Puedes continuar, pero ten en cuenta que este combate era un mero aperitivo.
 Puedes continuar, pero ten en cuenta que este combate era un mero aperitivo.
 ¡La <b>Liga Pokémon</b> aún te reserva grandes sorpresas! ¡Jijiji!
 ¡La <b>Liga Pokémon</b> aún te reserva grandes sorpresas! ¡Jijiji!
-Tu ascenso en la <b>Liga Pokémon</b> continúa, Aspirante.
-Tu ascenso en la <b>Liga Pokémon</b> continúa, Aspirante.
-Cruza el pasillo para encontrarte con tu próximo oponente.
-Cruza el pasillo para encontrarte con tu próximo oponente.
 No puedes continuar hasta que derrotes al <b>Alto Mando</b> de esta sala.
 No puedes continuar hasta que derrotes al <b>Alto Mando</b> de esta sala.
 ¡Una gran victoria, Aspirante! Déjame curar a tu equipo Pokémon, por favor.
@@ -9310,14 +9310,14 @@ No
 No
 #-------------------------------
 [Map182]
-¿Te atreves a subestimar el poder del tipo Bicho? ¡Voy a desplegarlo ante ti como dos grandes alas de mariposa!
-¿Te atreves a subestimar el poder del tipo Bicho? ¡Voy a desplegarlo ante ti como dos grandes alas de mariposa!
-Hasta el insecto más feo e insignificante puede convertirse en una preciosa mariposa. Lo mismo pasa con las personas. Estoy seguro de que lo mismo te pasará a ti.
-Hasta el insecto más feo e insignificante puede convertirse en una preciosa mariposa. Lo mismo pasa con las personas. Estoy seguro de que lo mismo te pasará a ti.
 Necesitas 2 llaves para abrir esta puerta.
 Necesitas 2 llaves para abrir esta puerta.
 ¡Usas la <b>Llave Roja</b> y la <b>Llave Azul</b>!
 ¡Usas la <b>Llave Roja</b> y la <b>Llave Azul</b>!
+¿Te atreves a subestimar el poder del tipo Bicho? ¡Voy a desplegarlo ante ti como dos grandes alas de mariposa!
+¿Te atreves a subestimar el poder del tipo Bicho? ¡Voy a desplegarlo ante ti como dos grandes alas de mariposa!
+Hasta el insecto más feo e insignificante puede convertirse en una preciosa mariposa. Lo mismo pasa con las personas. Estoy seguro de que lo mismo te pasará a ti.
+Hasta el insecto más feo e insignificante puede convertirse en una preciosa mariposa. Lo mismo pasa con las personas. Estoy seguro de que lo mismo te pasará a ti.
 Nuestro líder es un hombre de honor, ¡hasta ingresó en el Team Rocket porque la madre de Giovanni le pidió que aceptara a su hijo como pupilo!
 Nuestro líder es un hombre de honor, ¡hasta ingresó en el Team Rocket porque la madre de Giovanni le pidió que aceptara a su hijo como pupilo!
 En mis tiempos todo era más sencillo, se combatía con Hiperrayo y Terremoto. Ganaba el que golpease más fuerte.
@@ -9372,8 +9372,6 @@ No creo que lo necesites, ¡pero avísame si alguna vez necesitas consejos sobre
 No creo que lo necesites, ¡pero avísame si alguna vez necesitas consejos sobre capturar Pokémon! Soy todo un maestro.
 ¡Coges una <b>Llave Azul</b>!
 ¡Coges una <b>Llave Azul</b>!
-¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
-¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
 ¡Te doy la bienvenida a tu gimnasio final, Aspirante! Aquí entrenan los maestros del tipo Bicho.
 ¡Te doy la bienvenida a tu gimnasio final, Aspirante! Aquí entrenan los maestros del tipo Bicho.
 Por tanto, podría funcionarte llevar movimientos de tipo Fuego, Roca o Volador.
@@ -9386,6 +9384,8 @@ Toma esto, podría venirte bien.
 Do you need me to heal your Pokémon?
 Perfecto, ¡mucha suerte en el gimnasio!
 Perfect, good luck in the gym!
+¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
+¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
 Sí
 Yes
 No

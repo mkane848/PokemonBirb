@@ -182,10 +182,10 @@ Route 25
 Route 25
 Indigo City
 Indigo City
-Celestial Cave
-Celestial Cave
-Celestial Forest
-Celestial Forest
+Cerulean Cave
+Cerulean Cave
+Cerulean Forest
+Cerulean Forest
 Secret Clearing
 Secret Clearing
 Rocket Lair

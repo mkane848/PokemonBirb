@@ -121,14 +121,6 @@ Price = 0
 Description = Its aroma is intoxicating.
 Flags = KeyItem
 #-------------------------------
-[SURFMONTURA]
-Name = Surf Mount
-NamePlural = Surf Mounts
-Pocket = 8
-Price = 0
-Description = Allows you to navigate through the water
-Flags = KeyItem
-#-------------------------------
 [TMAGN1]
 Name = Magnetic Card
 NamePlural = Magnetic Card
@@ -153,7 +145,7 @@ Price = 0
 Description = The plume always seems to move as if there were a light breeze.
 Flags = KeyItem
 #-------------------------------
-[INCUBADORA]
+[INCUBATOR]
 Name = Incubator
 NamePlural = Incubators
 Pocket = 8
