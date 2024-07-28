@@ -70,6 +70,8 @@ No
 \bWhat is your name?
 \bNow what was this sweat's name again?
 \bNow what was this sweat's name again?
+Oh, of course! His name is \v[12]!
+Oh, of course! His name is \v[12]!
 \b\PN, are you ready?
 \b\PN, are you ready?
 \bYour very own Pokémon story is about to unfold.

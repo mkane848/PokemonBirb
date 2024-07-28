@@ -56,6 +56,7 @@
     - Rename "Encounters" menu to PokéRadar
     - More translations
     - Remove old TMs/HMs in favor of Gen9 TMs
+    - Fix Rival Name not properly displaying in battle
 
 
 
@@ -80,7 +81,6 @@ Clean-up:
     - Need to either remake battleback or just use a premade one
     - Can we disable status effects from working?
     - Can we disable or change the "A wild Mewtwo appeared!" message?
-- Rival Name appears as "Blue" in battle
 - Footprints missing in Pokédex, spotted with Ivysaur
 - Update EARTHBADGE to show Urano rather than Giovanni
     - Update SOULBADGE to show Koga and Sachiko
