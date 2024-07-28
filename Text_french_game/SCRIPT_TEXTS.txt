@@ -7630,3 +7630,9 @@ Heal your team with the Pokévial?
 Heal your team with the Pokévial?
 Your team has been healed!
 Your team has been healed!
+No puedes viajar aquí.
+No puedes viajar aquí.
+No puedes usarlo aquí.
+No puedes usarlo aquí.
+PokéRadar
+PokéRadar

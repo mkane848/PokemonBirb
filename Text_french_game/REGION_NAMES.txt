@@ -2,5 +2,5 @@
 # translate every second line of this file.
 #-------------------------------
 [REGION_NAMES]
-"Kanto"
-"Kanto"
+Kanto
+Kanto

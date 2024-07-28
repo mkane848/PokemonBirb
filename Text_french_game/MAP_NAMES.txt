@@ -68,8 +68,8 @@ Pewter Gym
 Pewter Gym
 Caravan
 Caravan
-Day Care
-Day Care
+Pokémon Day Care
+Pokémon Day Care
 Underground
 Underground
 Vermilion Gym
@@ -78,10 +78,10 @@ Cerulean Gym
 Cerulean Gym
 S.S. Anne
 S.S. Anne
-Bicycle Shop
-Bicycle Shop
-Cafeteria
-Cafeteria
+Bike Shop
+Bike Shop
+Pokémon Café
+Pokémon Café
 Bill's House
 Bill's House
 Pokémon Fan Club
@@ -148,8 +148,8 @@ Fuchsia Gym
 Fuchsia Gym
 Saffron Gym
 Saffron Gym
-Seafoam Island
-Seafoam Island
+Seafoam Islands
+Seafoam Islands
 Cinnabar Gym
 Cinnabar Gym
 Pokémon League
@@ -198,14 +198,14 @@ Amber Villa
 Amber Villa
 Route 26
 Route 26
-Jet Villa
-Jet Villa
-Cape Jet
-Cape Jet
+Black Villa
+Black Villa
+Cape Black
+Cape Black
 Route 27
 Route 27
-Memory Islet
-Memory Islet
+Islet of Remembrance
+Islet of Remembrance
 Route 28
 Route 28
 Magenta Villa

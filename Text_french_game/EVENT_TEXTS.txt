@@ -384,8 +384,6 @@ Recepción de la <b>Liga Pokémon</b>
 <b>Pokémon League</b> Reception
 #-------------------------------
 [Map006]
-<b>Norte:</b> Bosque Verde\n<b>Sur:</b> Ciudad Verde
-<b>North:</b> Viridian Forest\n<b>South:</b> Viridian City
 \c[3]<b>Hoja:</b>\c[0] Ah... \PN, ¡qué... qué susto me has dado!
 \c[3]<b>Leaf:</b>\c[0] Ah... \PN, you... you scared me!
 \c[3]<b>Hoja:</b>\c[0] Estaba a punto de entrar en el <b>Bosque Verde</b> pero no lo tengo demasiado claro...
@@ -418,6 +416,8 @@ But that means that my Pokémon companions will be able to defend me from any da
 \c[2]<b>Red:</b>\c[0] I get it, Pokémon are fascinating creatures...it's overwhelming!
 \c[2]<b>Rojo:</b>\c[0] Me voy al <b>Bosque Verde</b>, \PN. ¡Espero salir de una sola pieza!
 \c[2]<b>Red:</b>\c[0] I'm going to the <b>Viridian Forest</b>, \PN. I hope I get out in one piece!
+<b>Norte:</b> Bosque Verde\n<b>Sur:</b> Ciudad Verde
+<b>North:</b> Viridian Forest\n<b>South:</b> Viridian City
 Un pequeño arbusto bloquea el paso. Tal vez se podría cortar con algo...
 A small bush blocks the way. Maybe it could be cut with something...
 ¡El <b>Talador</b> corta el arbusto como si fuera mantequilla!
@@ -430,20 +430,6 @@ I recommend you bring more than one Pokémon.
 Have you seen those trees blocking the road? I think they can be cut with a special Pokémon trainer tool.
 ¿Pero y qué pasa con los que no somos entrenadores? ¿Nos quedamos de brazos cruzados?
 But what about those of us who aren't trainers? Shall we stand idly by?
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
-En concreto, sientes la presencia de un Pokémon Tierra muy poderoso.
-Specifically, you feel the presence of a very powerful Ground Pokémon.
-¿Quieres hacerlo salir?
-Do you want to make it come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map007]
 Túnel Diglett
@@ -462,8 +448,6 @@ Shhh! You're going to scare away the bugs! Come back another time, okay?
 Do you want to fight? A trainer worth his salt can't say no to a Pokémon battle!
 ¡Vaya chasco! Tendré que entrenar más, ya que algún día me gustaría convertirme en líder de Gimnasio.
 What a bummer! I'll have to train more, one day I'd like to become a Gym leader.
-<b>PISTA DE ENTRENADOR:</b> En este juego se han rebalanceado las estadísticas de Pokémon débiles. ¡Cualquier Pokémon dará la talla en tu aventura!
-<b>TRAINER HINT:</b> In this game the statistics of weak Pokémon have been rebalanced. Any Pokémon will do the trick on your adventure!
 Si tu Pokémon es envenenado, irá perdiendo salud gradualmente.
 If your Pokémon is poisoned, it will gradually lose health.
 Puedes evitar esto con un Antídoto como este, ¡ten!
@@ -472,14 +456,16 @@ You can avoid this with an Antidote like this, here!
 Did you know that there are two types of poisoning? One is normal and the other is serious.
 Con el grave, tu Pokémon irá perdiendo más salud a cada turno, ¡es tremendamente peligroso!
 When serious, your Pokémon will lose more health with each turn. It's extremely dangerous!
+<b>PISTA DE ENTRENADOR:</b> En este juego se han rebalanceado las estadísticas de Pokémon débiles. ¡Cualquier Pokémon dará la talla en tu aventura!
+<b>TRAINER HINT:</b> In this game the statistics of weak Pokémon have been rebalanced. Any Pokémon will do the trick on your adventure!
 A Ciudad Plateada
 To Pewter City
-<b>PISTA DE ENTRENADOR:</b> No perderás tu partida de <b>Pokémon Añil</b> en las futuras actualizaciones del juego.
-<b>TRAINER HINT:</b> You will not lose your game of <b>Pokémon Indigo</b> in future game updates.
 ¡Hola! ¡He venido al Bosque Verde para capturar a muchos Pokémon Bicho!
 Hello! I've come to the Viridian Forest to capture many Bug Pokémon!
 ¿No crees que los Pokémon de tipo Bicho son adorables? ¡No entiendo cómo hay gente que les puede tener miedo!
 Don't you think Bug-type Pokémon are adorable? I don't understand how there are people who can be afraid of them!
+<b>PISTA DE ENTRENADOR:</b> No perderás tu partida de <b>Pokémon Añil</b> en las futuras actualizaciones del juego.
+<b>TRAINER HINT:</b> You will not lose your game of <b>Pokémon Indigo</b> in future game updates.
 ¡No te vayas todavía! Soy la Cazabichos más fuerte del bosque y te lo voy a demostrar.
 Do not go yet! I am the strongest Bug Catcher in the forest and I am going to prove it to you.
 ¿Nunca has pensado en ser Cazabichos? Se te daría bien, aunque imagino que tienes otros planes...
@@ -488,20 +474,6 @@ Es el Pikachu del chico de <b>Ciudad Plateada</b>.
 It's the boy from <b>Pewter City</b>'s Pikachu.
 Tras una larga sesión de terapia, \PN convenció a Pikachu para que volviera con su entrenador.
 After a long therapy session, \PN convinced Pikachu to return to his trainer.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
-En concreto, sientes la presencia de un Pokémon Bicho muy poderoso.
-Specifically, you feel the presence of a very powerful Bug Pokémon.
-¿Quieres hacerlo salir?
-Do you want to make it come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map009]
 ¡Cuando yo era chiquitito, esta ciudad solo tenía dos casas!
@@ -692,16 +664,6 @@ If I were you, I'd do everything possible to avoid facing <b>Team Rocket</b>. I'
 [Map012]
 Por favor, se ruega no molestar a los Clefairy.
 Please do not disturb the Clefairy.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
-En concreto, sientes la presencia de un Pokémon Hada muy poderoso.
-You feel the presence of a very powerful Fairy Pokémon.
-¿Quieres hacerlo salir?
-Do you want to make it come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
 ¡Espera, \PN!
 Wait, \PN!
 \c[3]<b>Hoja:</b>\c[0] ¿Lo has escuchado? ¡El <b>Team Rocket</b> anda por aquí! ¡Son una banda criminal temible!
@@ -732,10 +694,6 @@ I have to focus on filling out the <b>Pokédex</b>, like <b>Prof. Oak</b> asked 
 \c[2]<b>Red:</b>\c[0] I see. Even though I lost, my Pokémon tried their best.
 \c[2]<b>Rojo:</b>\c[0] Intentaré que esos <b>Rocket</b> no me vean.
 \c[2]<b>Red:</b>\c[0] I'll try not to let <b>Team Rocket</b> see me.
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map013]
 No deberías meter las narices en nuestros asuntos, ¡prepárate para morder el polvo!
@@ -800,26 +758,16 @@ Prueba con esta baya, por ejemplo.
 Try this berry, for example.
 Las bayas pueden tener efectos muy positivos en los Pokémon, ¡y además son 100% naturales!
 Berries can have very positive effects on Pokémon, and they're 100% natural!
-Me encanta subir hasta aquí para ver los molinos girar, ¡es muy hipnótico!
-I love going up here to watch the windmills turning, it's so hypnotic!
-Ojalá llegue el día en el que el mundo se sostenga solo con energía renovable, como la que producen estos molinos.
-I hope that one day the world is sustained by renewable energy, like what these mills produce.
 ¡Un puñetazo bien dado es capaz de acabar con cualquier oponente! ¡Es mi filosofía de vida!
 A well-placed punch is capable of finishing off any opponent! It's my life philosophy!
 Y para demostrártelo, enseñaré Megapuño a tus Pokémon. ¿Te interesa?
 And to prove it to you, I'll teach Mega Punch to your Pokémon. Are you interested?
 ¿No te gusta mi filosofía de tortazos? Bueno, ya te dará una torta la vida algún día.
 You don't like my punching philosophy? Well, life will give you a punch one day.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
-En concreto, sientes la presencia de un Pokémon Siniestro muy poderoso.
-You feel the presence of a very powerful Dark Pokémon.
-¿Quieres hacerlo salir?
-Do you want to make it come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
+Me encanta subir hasta aquí para ver los molinos girar, ¡es muy hipnótico!
+I love going up here to watch the windmills turning, it's so hypnotic!
+Ojalá llegue el día en el que el mundo se sostenga solo con energía renovable, como la que producen estos molinos.
+I hope that one day the world is sustained by renewable energy, like what these mills produce.
 No hay nada más poderoso que una buena patada rápida y bien dada en los puntos débiles, ¿a qué sí?
 There's nothing more powerful than a good, quick kick to a weak point, right?
 Y para demostrártelo, enseñaré Megapatada a tus Pokémon. ¿Te interesa?
@@ -958,16 +906,6 @@ No? You need a more persuasive argument, I get it. I'll make you an offer you ca
 <b>Rocket Recruit:</b> Alright, you win.
 Pero con tu talento, podrías escalar muy alto en el <b>Team Rocket</b>, que lo sepas. ¡El jefe estaría encantadísimo contigo!
 But with your talent, you could climb very high within the ranks of <b>Team Rocket</b>, you know. The boss would be very happy with you!
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
-En concreto, sientes la presencia de un Pokémon Psíquico muy poderoso.
-Specifically, you feel the presence of a very powerful Psychic Pokémon.
-¿Quieres hacerlo salir?
-Do you want to make it come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
 Juraría haber visto un objeto oculto en las cercanías... ¿cómo puede la gente dejar tantas cosas tiradas en un lugar como este?
 I could swear I saw something on the ground nearby... how can people leave so many things lying around in a place like this?
 <b>Recluta Rocket:</b> Con tu talento, podrías escalar muy alto en el <b>Team Rocket</b>, que lo sepas. ¡El jefe estaría encantadísimo contigo!
@@ -976,12 +914,12 @@ Yo soy el primero y pienso ir muy en serio, ¡prepárate para tu peor pesadilla!
 I'm the first and I plan to be very serious, prepare yourself for your worst nightmare!
 El puente no está hecho de oro realmente, ¡es madera pintada! Lo he leído en la guía turística.
 The bridge isn't actually made of gold, it's painted wood! I read it in the tourist guide.
-Hemos venido de acampada, ¡esta ruta es ideal para ello! Tanto los niños como los Pokémon se lo pasan pipa.
-We're camping, this route is perfect for it! The children and Pokémon have a great time.
 ¡Has obtenido una <b>Mejora del Pokévial</b>!
 You've obtained a <b>Pokévial Upgrade</b>!
 ¡Los usos del <b>Pokévial</b> han aumentado en 1!
 The <b>Pokévial</b>'s uses have increased by 1!
+Hemos venido de acampada, ¡esta ruta es ideal para ello! Tanto los niños como los Pokémon se lo pasan pipa.
+We're camping, this route is perfect for it! The children and Pokémon have a great time.
 ¡Soy la tercera! Imagino que ya estarás al límite de tus fuerzas, ¡pues voy a rematarte!
 I'm the third! I'm sure you're already at the limit of your strength, so I'm going to finish you off!
 Este puente es bonito... pero no tan bonito como el Puente Charizard, en Teselia.
@@ -998,24 +936,20 @@ Has llegado a la última, llegaste a la reina del puente. Siento decirte que no 
 You've reached your final opponent, the queen of the bridge. I'm sorry to tell you this, but you don't stand a chance against my Pokémon.
 Una amable señora fue la que propuso todo este reto del puente. Dijo que estaba buscando a jóvenes entrenadores fuertes y valientes.
 A kind lady proposed this whole bridge challenge. She said that she was looking for strong and brave young trainers.
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map017]
-<b>Norte:</b> Ciudad Celeste\n<b>Sur:</b> Ciudad Azafrán
-<b>North:</b> Cerulean City\n<b>South:</b> Saffron City
 Si pones a un Ditto a criar con cualquier otro Pokémon, siempre saldrá un huevo.
 If you breed a Ditto with any other Pokémon, an egg will always hatch.
 Por eso los Criadores Pokémon más veteranos llevan a un Ditto o varios en su equipo.
 That's why the most veteran Pokémon Breeders carry at least one Ditto on their team.
-Guardería Pokémon
-Pokémon Daycare
+<b>Norte:</b> Ciudad Celeste\n<b>Sur:</b> Ciudad Azafrán
+<b>North:</b> Cerulean City\n<b>South:</b> Saffron City
 No menosprecies a un Pokémon solo porque no está creciendo como tú deseabas.
 Don't look down on a Pokémon just because it's not growing the way you wanted it to.
 ¡Tal vez descubras que tiene otras capacidades igual de útiles!
 You may discover that it has other abilities that are just as useful!
+Guardería Pokémon
+Pokémon Daycare
 ¡Ah, eres tú! Hemos ido a mirar a tus Pokémon, ¡y nos hemos encontrado un huevo! Aquí ha habido tema...
 Ah, it's you! We were raising your Pokemon, and my goodness, we were so surprised! Your Pokemon was holding an Egg! We don't know how it got there, but your Pokemon had it.
 ¿Te gustaría quedártelo?
@@ -1044,22 +978,22 @@ Parece que se gustan un poco.
 The two seem to get along.
 Están juntos todo el tiempo.
 The two get along very well!
+Subterráneo
+Underground
 Intenté que mi Marill pusiera huevos para obtener un Azurill, pero no funcionó.
 I tried getting my Marill to lay eggs to get an Azurill, but it didn't work.
 Según me contó mi padre, hace falta equipar a tu Pokemon con un incienso especial para que produzca un huevo de Pokemon Bebé.
 According to my father, you need to equip your Pokemon with a special incense to make it produce a Baby Pokemon egg.
-Subterráneo
-Underground
 ¿Has estado en el <b>Camino de Bicis</b>, al lado de <b>Ciudad Azulona</b>? Aunque últimamente se ha llenado de motoristas y maleantes...
 Have you been to the <b>Bike Path</b>, next to <b>Celadon City</b>? It's been filled with bikers and thugs lately...
-¡Uff, uff, uff! ¡Tengo que entrenar para el siguiente Triatlón de <b>Hoenn</b>! Esta vez me lo pienso llevar.
-Huff, huff, huff! I have to train for the next <b>Hoenn</b> Triathlon! This time I plan on taking gold.
 ¿Te interesa criar Pokémon? Entonces necesitarás esto.
 Are you interested in breeding Pokémon? Then you'll need this.
 Con la <b>Incubadora</b>, podrás almacenar Huevos Pokémon de forma segura sin usar huecos de tu equipo.
 With the <b>Incubator</b>, you can safely store Pokémon Eggs without using slots in your equipment.
 Ahora, ¡a caminar mucho para hacerlos eclosionar!
 Now, let's walk a lot to hatch them!
+¡Uff, uff, uff! ¡Tengo que entrenar para el siguiente Triatlón de <b>Hoenn</b>! Esta vez me lo pienso llevar.
+Huff, huff, huff! I have to train for the next <b>Hoenn</b> Triathlon! This time I plan on taking gold.
 Si te metes en esa caseta verde, podrás atravesar <b>Ciudad Azafrán</b> por debajo y atajar hasta la <b>Ruta 6</b>.
 If you get into that green booth, you can cross <b>Saffron City</b> underneath and take a shortcut to <b>Route 6</b>.
 La construcción del <b>Subterráneo</b> llevó años, pero ha permitido a la gente viajar por la región sin tener que pasar por sitios llenos de aglomeraciones.
@@ -1276,16 +1210,8 @@ No
 [Map023]
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
-En concreto, sientes la presencia de un Pokémon Roca muy poderoso.
-You feel the presence of a very powerful Rock Pokémon.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
+Túnel Roca
+Rock Tunnel
 <b>???:</b> Oye, tú. Disculpa.
 <b>???:</b> Hey, excuse me...
 <b>???:</b> No habrás visto por aquí a alguno de esos infelices del <b>Team Rocket</b>, ¿verdad?
@@ -1300,8 +1226,6 @@ Suele tener buen ojo para la gente con potencial.
 He usually has a good eye for people with potential.
 <b>???:</b> En fin, ten mucho cuidado. Dicen que han visto al <b>Team Rocket</b> por las cercanías de <b>Pueblo Lavanda</b>.
 <b>???:</b> Anyway, be very careful. I hear <b>Team Rocket</b> has been seen near <b>Lavender Town</b>.
-Túnel Roca
-Rock Tunnel
 \c[3]<b>Hoja:</b>\c[0] ...
 \c[3]<b>Leaf:</b>\c[0] ...
 \c[3]<b>Hoja:</b>\c[0] Ah... hola, \PN.
@@ -1386,8 +1310,6 @@ It's quite a dangerous journey.
 \c[2]<b>Red:</b>\c[0] I-I will, Mrs. <b>Lorelei</b>! Thank you so much for your kind words!
 Central Energía
 Power Plant
-En concreto, sientes la presencia de un Pokémon Eléctrico muy poderoso.
-You feel the presence of a very powerful Electric Pokémon.
 ¿Sabías que hay una <b>Central Eléctrica</b> abandonada por aquí cerca?
 Did you know that there's an abandoned <b>Power Plant</b> nearby?
 Por lo visto, fue invadida por un Pokémon eléctrico muy destructivo que decidió instalarse ahí.
@@ -1847,7 +1769,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -2045,7 +1967,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -2503,7 +2425,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -2691,7 +2613,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -2853,7 +2775,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -2921,7 +2843,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -4039,7 +3961,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -4059,7 +3981,7 @@ Nothing
 Recordar movimiento
 Remember move
 Niveles de los líderes
-Leader Levels
+Level Caps
 Nada
 Nothing
 #-------------------------------
@@ -4072,12 +3994,12 @@ A small bush blocks the way. Maybe it could be cut with something...
 The <b>Axe</b> cuts the bush like it's butter!
 Cuuuub...
 Cuuuub...
+<b>Oeste:</b> Ciudad Azafrán\n<b>Este:</b> Pueblo Lavanda
+<b>West:</b> Saffron City\n<b>East:</b> Lavender Town
 Parece que sabes mucho sobre Pokémon, pero ¿qué tal se te da la ciencia?
 You seem to know a lot about Pokémon, but how good are you at science?
 Está claro que se me da mejor hincar los codos que luchar junto a mis Pokémon codo con codo.
 It's clear that I'm better at bending my elbows than fighting alongside my Pokémon.
-<b>Oeste:</b> Ciudad Azafrán\n<b>Este:</b> Pueblo Lavanda
-<b>West:</b> Saffron City\n<b>East:</b> Lavender Town
 ¿Quieres venir al cementerio con nosotros? A lo mejor vemos un fantasma.
 Do you want to come to the cemetery with us? Maybe we see a ghost.
 Mi estrategia era asustarte para disminuir tu concentración... ¡pero no ha funcionado para nada!
@@ -4090,30 +4012,16 @@ Estamos capturando un montón de Pokémon. ¡No nos incordies!
 We're catching a lot of Pokémon. Don't bother us!
 Según la guía turística, en esta ruta aparece un Pokémon de tipo Fuego bastante raro. A ver si podemos hacernos con él...
 According to the tour guide, a fairly rare Fire-type Pokémon appears on this route. Let's see if we can get catch it...
-¿Vas a entrar al Subterráneo? ¡Pues paga el peaje! ¡Ja!
-Are you going through the Underground? Well, pay the toll! Ha!
-¡Vaaale! Intentaremos no molestar a nadie a partir de ahora.
-Fiiiiine! We'll try not to bother anyone from now on.
 ¿Qué Pokémon es mono, redondo y recuerda a un muñeco de peluche?
 Which Pokémon is cute, round, and reminiscent of a stuffed animal?
 Segun leí en "El Poké de las cosas", Jigglypuff evoluciona al verse expuesto a una Piedra Lunar. ¿Será verdad?
 I read in "The Poké of Things", Jigglypuff evolves when exposed to a Moon Stone. Is it true?
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
-En concreto, sientes la presencia de un Pokémon Fantasma muy poderoso.
-You feel the presence of a very powerful Ghost Pokémon.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
+¿Vas a entrar al Subterráneo? ¡Pues paga el peaje! ¡Ja!
+Are you going through the Underground? Well, pay the toll! Ha!
+¡Vaaale! Intentaremos no molestar a nadie a partir de ahora.
+Fiiiiine! We'll try not to bother anyone from now on.
 ¡Nos hemos traído una guía de captura y todo! Saldremos de aquí con Pokémon nuevos y valiosos.
 We brought a capture guide and everything! We'll leave here with new and valuable Pokémon.
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map072]
 Subterráneo
@@ -4285,7 +4193,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -4754,44 +4662,20 @@ Buscaré una Piedra Agua por mí misma. Seguro que acabo pescando una.
 Buscaré una Piedra Agua por mí misma. Seguro que acabo pescando una.
 #-------------------------------
 [Map087]
+<b>Oeste:</b> Camino de Bicis\n<b>Este:</b> Ciudad Azulona
+<b>Oeste:</b> Camino de Bicis\n<b>Este:</b> Ciudad Azulona
+¡Largo! Esto es el territorio de la <b>Banda de Motoristas de Kanto</b>.
+¡Largo! Esto es el territorio de la <b>Banda de Motoristas de Kanto</b>.
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
-¡Largo! Esto es el territorio de la <b>Banda de Motoristas de Kanto</b>.
-¡Largo! Esto es el territorio de la <b>Banda de Motoristas de Kanto</b>.
-<b>Oeste:</b> Camino de Bicis\n<b>Este:</b> Ciudad Azulona
-<b>Oeste:</b> Camino de Bicis\n<b>Este:</b> Ciudad Azulona
-Hay una cosa más allá del cuerpo y la mente... ¡el espíritu! Fortalece tu espíritu y no habrá enemigo que pueda vencerte.
-Hay una cosa más allá del cuerpo y la mente... ¡el espíritu! Fortalece tu espíritu y no habrá enemigo que pueda vencerte.
 ¡Usas la <b>Pokéflauta</b>!
 ¡Usas la <b>Pokéflauta</b>!
 ¡El Snorlax se está despertando!
 ¡El Snorlax se está despertando!
+Hay una cosa más allá del cuerpo y la mente... ¡el espíritu! Fortalece tu espíritu y no habrá enemigo que pueda vencerte.
+Hay una cosa más allá del cuerpo y la mente... ¡el espíritu! Fortalece tu espíritu y no habrá enemigo que pueda vencerte.
 Camino de Bicis
 Camino de Bicis
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-En concreto, sientes la presencia de un Pokémon Veneno muy poderoso.
-En concreto, sientes la presencia de un Pokémon Veneno muy poderoso.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
-¡Eh, tú! ¿Has pagado la tasa para atravesar nuestro pequeño atajo?
-¡Eh, tú! ¿Has pagado la tasa para atravesar nuestro pequeño atajo?
-...
-...
-¿Cómo? ¿Que pretendes desafiarnos para que compartamos el <b>Camino de Bicis</b> con los demás? ¿Y quién te crees que eres para demandar una cosa semejante?
-¿Cómo? ¿Que pretendes desafiarnos para que compartamos el <b>Camino de Bicis</b> con los demás? ¿Y quién te crees que eres para demandar una cosa semejante?
-Sin duda estás como un cencerro, pero como jefe de la <b>Federación de Motoristas de Kanto</b>, ¡acepto tu desafío!
-Sin duda estás como un cencerro, pero como jefe de la <b>Federación de Motoristas de Kanto</b>, ¡acepto tu desafío!
-Si algo se respeta en el código de honor de los motoristas, es la ley del más fuerte.
-Si algo se respeta en el código de honor de los motoristas, es la ley del más fuerte.
-Puesto que nos has ganado, compartiremos el <b>Camino de Bicis</b> con el resto de ciclistas y viandantes.
-Puesto que nos has ganado, compartiremos el <b>Camino de Bicis</b> con el resto de ciclistas y viandantes.
-¡Y toma este regalo! Para que no olvides nunca este combate.
-¡Y toma este regalo! Para que no olvides nunca este combate.
 <b>Erika:</b> Ah... eh... esto... pues al final quería alejarme de las flores pero he acabado ensimismada con estas.
 <b>Erika:</b> Ah... eh... esto... pues al final quería alejarme de las flores pero he acabado ensimismada con estas.
 Qué le voy a hacer, me gustan las flores...
@@ -4832,6 +4716,20 @@ No me gustaría que la gente se pensara que doy miedo o algo...
 <b>Erika:</b> Ah... eh... por favor, no le digas a nadie lo que le hice a esos Motoristas.
 Normalmente soy una chica de lo más tranquila, pero cuando alguien le hace daño a las flores...
 Normalmente soy una chica de lo más tranquila, pero cuando alguien le hace daño a las flores...
+¡Eh, tú! ¿Has pagado la tasa para atravesar nuestro pequeño atajo?
+¡Eh, tú! ¿Has pagado la tasa para atravesar nuestro pequeño atajo?
+...
+...
+¿Cómo? ¿Que pretendes desafiarnos para que compartamos el <b>Camino de Bicis</b> con los demás? ¿Y quién te crees que eres para demandar una cosa semejante?
+¿Cómo? ¿Que pretendes desafiarnos para que compartamos el <b>Camino de Bicis</b> con los demás? ¿Y quién te crees que eres para demandar una cosa semejante?
+Sin duda estás como un cencerro, pero como jefe de la <b>Federación de Motoristas de Kanto</b>, ¡acepto tu desafío!
+Sin duda estás como un cencerro, pero como jefe de la <b>Federación de Motoristas de Kanto</b>, ¡acepto tu desafío!
+Si algo se respeta en el código de honor de los motoristas, es la ley del más fuerte.
+Si algo se respeta en el código de honor de los motoristas, es la ley del más fuerte.
+Puesto que nos has ganado, compartiremos el <b>Camino de Bicis</b> con el resto de ciclistas y viandantes.
+Puesto que nos has ganado, compartiremos el <b>Camino de Bicis</b> con el resto de ciclistas y viandantes.
+¡Y toma este regalo! Para que no olvides nunca este combate.
+¡Y toma este regalo! Para que no olvides nunca este combate.
 ¿Se han ido esos motoristas pesados? ¡Ya era hora!
 ¿Se han ido esos motoristas pesados? ¡Ya era hora!
 Los ciclistas podemos volver a nuestra rutina habitual.
@@ -5054,20 +4952,6 @@ En realidad somos pareja, ¡pero no queremos que el resto de la banda nos vea! S
 ¡Motores rugen al cielo! ¡Gasolina, Pokémon y fuego!
 Apreté demasiado el acelerador y me estrellé, ¡ojalá ser tan prudente en la carretera como tú con los combates!
 Apreté demasiado el acelerador y me estrellé, ¡ojalá ser tan prudente en la carretera como tú con los combates!
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-En concreto, sientes la presencia de un Pokémon Volador muy poderoso.
-En concreto, sientes la presencia de un Pokémon Volador muy poderoso.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map093]
 Estas pequeñas estatuas representan a nuestros antepasados, que lucharon para que pudiéramos vivir tiempos de paz.
@@ -5808,34 +5692,24 @@ No
 No
 #-------------------------------
 [Map105]
+Islas Espuma
+Islas Espuma
 ¡Este Sneasel ha aprendido Enfermería Pokémon!
 ¡Este Sneasel ha aprendido Enfermería Pokémon!
 ¿Quieres curar a tus Pokémon?
 ¿Quieres curar a tus Pokémon?
-Islas Espuma
-Islas Espuma
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-En concreto, sientes la presencia de un Pokémon Hielo muy poderoso.
-En concreto, sientes la presencia de un Pokémon Hielo muy poderoso.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
 ¡Ay! ¡Qué mareo! No debería haberme metido en el agua después de comer. ¿Echamos un combate a ver si se me pasa?
 ¡Ay! ¡Qué mareo! No debería haberme metido en el agua después de comer. ¿Echamos un combate a ver si se me pasa?
 Debería volver a tierra firme para descansar, ¿nada hacia <b>Ciudad Fucsia</b> o mejor hacia <b>Isla Canela</b>?
 Debería volver a tierra firme para descansar, ¿nada hacia <b>Ciudad Fucsia</b> o mejor hacia <b>Isla Canela</b>?
-¿Que dónde guardo mis Pokéball cuando estoy en el mar? ¡Jijiji! ¡Es un secreto de mujer!
-¿Que dónde guardo mis Pokéball cuando estoy en el mar? ¡Jijiji! ¡Es un secreto de mujer!
-¿Has visto mis Pokéball? Se me han escapado y la corriente se las ha llevado lejos. ¿Qué hago ahora?
-¿Has visto mis Pokéball? Se me han escapado y la corriente se las ha llevado lejos. ¿Qué hago ahora?
 He pescado al mejor Pokémon acuático del mundo, ¡prepárate para sentir su poder estremecedor!
 He pescado al mejor Pokémon acuático del mundo, ¡prepárate para sentir su poder estremecedor!
 Seguiré pescando hasta formar un equipo de Pokémon acuáticos fuertes. ¡Algún día seré líder de gimnasio de tipo Agua!
 Seguiré pescando hasta formar un equipo de Pokémon acuáticos fuertes. ¡Algún día seré líder de gimnasio de tipo Agua!
+¿Que dónde guardo mis Pokéball cuando estoy en el mar? ¡Jijiji! ¡Es un secreto de mujer!
+¿Que dónde guardo mis Pokéball cuando estoy en el mar? ¡Jijiji! ¡Es un secreto de mujer!
+¿Has visto mis Pokéball? Se me han escapado y la corriente se las ha llevado lejos. ¿Qué hago ahora?
+¿Has visto mis Pokéball? Se me han escapado y la corriente se las ha llevado lejos. ¿Qué hago ahora?
 Estas son las <b>Islas Espuma</b>, un entramado de cuevas submarinas llena de Pokémon peligrosos.
 Estas son las <b>Islas Espuma</b>, un entramado de cuevas submarinas llena de Pokémon peligrosos.
 Si quieres llegar hasta <b>Isla Canela</b> tendrás que cruzarlas. Otra opción sería nadar desde <b>Pueblo Paleta</b>.
@@ -5854,16 +5728,6 @@ No
 ¡Échale un vistazo a mi increíble bañador y a mi increíble equipo Pokémon!
 Oye, solo quería que vieras mi bañador, ¿por qué has combatido conmigo? ¡Menuda obsesión tienes!
 Oye, solo quería que vieras mi bañador, ¿por qué has combatido conmigo? ¡Menuda obsesión tienes!
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-En concreto, sientes la presencia de un Pokémon Agua muy poderoso.
-En concreto, sientes la presencia de un Pokémon Agua muy poderoso.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
 ¡Argh! ¡Solo pesco basura! ¡Necesito desquitarme con alguien!
 ¡Argh! ¡Solo pesco basura! ¡Necesito desquitarme con alguien!
 Tal vez no debería subestimar a los Pokémon débiles, algún día podrían convertirse en Pokémon fuertes.
@@ -5876,10 +5740,6 @@ Si tuviera una Supercaña, sería capaz de pescar al mismísimo Lugia de las pro
 ¡Es meterme en el agua y parece que mi cuerpo es ligero como una pluma!
 A veces sueño con convertirme en sirena y ser la princesa del fondo del mar.
 A veces sueño con convertirme en sirena y ser la princesa del fondo del mar.
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map107]
 He visto a unos maleantes vestidos de negro entrando en el <b>Mt. Moon</b>, ¿qué tramarán?
@@ -5984,16 +5844,6 @@ No
 [Map110]
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-En concreto, sientes la presencia de un Pokémon Acero muy poderoso.
-En concreto, sientes la presencia de un Pokémon Acero muy poderoso.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
 ¡Somos tan duros que hasta el <b>Team Rocket</b> nos respeta!
 ¡Somos tan duros que hasta el <b>Team Rocket</b> nos respeta!
 Algún día seremos su brazo ejecutor para hacer el trabajo divertido.
@@ -6056,16 +5906,6 @@ Montar en moto está bien, pero también me gustan los Pokémon.
 ¿Me dejas que vea a los Pokémon que he atrapado en acción?
 Por hoy me quedaré aquí, pero mañana pienso investigar a fondo el resto de zonas.
 Por hoy me quedaré aquí, pero mañana pienso investigar a fondo el resto de zonas.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-En concreto, sientes la presencia de un Pokémon Normal muy poderoso.
-En concreto, sientes la presencia de un Pokémon Normal muy poderoso.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
 ¡Aaaah! ¡He visto un Kangaskhan pero se me ha escapado en un parpadeo, no puede ser!
 ¡Aaaah! ¡He visto un Kangaskhan pero se me ha escapado en un parpadeo, no puede ser!
 Llevaba días detrás de ese Pokémon.
@@ -6074,10 +5914,6 @@ Las rocas que lanzas a los Pokémon están homolagadas para no causar heridas.
 Las rocas que lanzas a los Pokémon están homolagadas para no causar heridas.
 No tienen picos, ni textura rugosa, ni son demasiado densas...
 No tienen picos, ni textura rugosa, ni son demasiado densas...
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map113]
 ¡Vaya! Con que aquí aparece ese dichoso Pokémon...
@@ -6096,20 +5932,6 @@ Este pantano es digno de mi brujería, ¿puedo practicarla contigo?
 ¿Sabes si por aquí regalan el movimiento Surf? Me dijeron algo pero no he encontrado gran cosa...
 Ugh... ¿tengo que meterme en la marisma para capturar Pokémon? Tal vez esto no sea lo mío...
 Ugh... ¿tengo que meterme en la marisma para capturar Pokémon? Tal vez esto no sea lo mío...
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-En concreto, sientes la presencia de un Pokémon Planta muy poderoso.
-En concreto, sientes la presencia de un Pokémon Planta muy poderoso.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map115]
 Nunca me había dado tiempo a llegar tan lejos en la <b>Zona Safari</b>, ¿qué habrá por esta zona?
@@ -6130,16 +5952,6 @@ Mansión Pokémon
 Pokémon Mansion
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-It's an <b>Alpha Nest</b>! A very strong Pokémon lives in it.
-En concreto, sientes la presencia de un Pokémon Fuego muy poderoso.
-Specifically, you feel the presence of a very powerful Fire Pokémon.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
 El líder <b>Blaine</b> aceptó el cargo hace unos años, después de retirarse como <b>Profesor Pokémon</b>.
 Leader <b>Blaine</b> accepted the position a few years ago, after retiring as <b>Pokémon Professor</b>.
 En su tiempo trabajó en unos avances muy importantes en el ámbito de la <b>Clonación Pokémon</b>, si no estoy mal informada.
@@ -6633,7 +6445,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -6717,7 +6529,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -6943,7 +6755,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -7085,7 +6897,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -8160,24 +7972,10 @@ Ellos, por ejemplo, viven de un modo mucho más tradicional.
 For example, they live in a much more traditional way.
 Cataratas Tohjo
 Tohjo Falls
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-It's an <b>Alpha Nest</b>! A very strong Pokémon lives there.
-En concreto, sientes la presencia de un Pokémon Lucha muy poderoso.
-Specifically, you sense the presence of a very powerful Fighting Pokémon.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
 ¡Has obtenido una <b>Mejora del Pokévial</b>!
 You've obtained a <b>Pokévial Upgrade</b>!
 ¡Los usos del <b>Pokévial</b> han aumentado en 1!
 The <b>Pokévial</b>'s uses have increased by 1!
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map156]
 <b>Oeste:</b> Cataratas Tohjo\n<b>Este:</b> Ruta 21
@@ -8220,16 +8018,6 @@ No
 <b>Vito:</b> Don't worry, not everyone is ready for...
 <b>Leti:</b> Nuestros poderes psíquicos combinados. ¡Vuelve si cambias de idea!
 <b>Leti:</b> Our combined psychic powers. Come back if you change your mind!
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-It's an <b>Alpha Nest</b>! A very strong Pokémon lives there.
-En concreto, sientes la presencia de un Pokémon Dragón muy poderoso.
-Specifically, you sense the presence of a very powerful Dragon Pokémon.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
 Monte Plateado
 Mt. Silver
 <b>Oeste:</b> Monte Plateado\n<b>Este:</b> Ruta 21
@@ -8257,7 +8045,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -8395,109 +8183,109 @@ No
 #-------------------------------
 [Map166]
 \c[3]<b>Hoja:</b>\c[0] La <b>Liga Pokémon</b> se alza imponente ante nosotros, como una cima inpracticable rodeada de hielo...
-\c[3]<b>Hoja:</b>\c[0] La <b>Liga Pokémon</b> se alza imponente ante nosotros, como una cima inpracticable rodeada de hielo...
+\c[3]<b>Leaf:</b>\c[0] The <b>Pokémon League</b> looms before us, like an impassable peak surrounded by ice...
 \c[2]<b>Rojo:</b>\c[0] La <b>Liga Pokémon</b> se alza imponente ante nosotros, como una cima inpracticable rodeada de hielo...
-\c[2]<b>Rojo:</b>\c[0] La <b>Liga Pokémon</b> se alza imponente ante nosotros, como una cima inpracticable rodeada de hielo...
+\c[2]<b>Red:</b>\c[0] The <b>Pokémon League</b> looms before us, like an impassable peak surrounded by ice...
 Nunca pensé que lo lograría, \PN. Y sin embargo, aquí estoy, al final de todas las cosas.
-Nunca pensé que lo lograría, \PN. Y sin embargo, aquí estoy, al final de todas las cosas.
+I never thought I'd make it, \PN. And yet, here I am, at the end of it all.
 \c[3]<b>Hoja:</b>\c[0] ¿Y qué hay de ti? ¿Qué emociones te recorren en este mismo momento?
-\c[3]<b>Hoja:</b>\c[0] ¿Y qué hay de ti? ¿Qué emociones te recorren en este mismo momento?
+\c[3]<b>Leaf:</b>\c[0] And what about you? What emotions are running through you at this very moment?
 ¿Emoción? ¿Inseguridad? ¿Serenidad?
-¿Emoción? ¿Inseguridad? ¿Serenidad?
+Excitement? Insecurity? Serenity?
 \c[2]<b>Rojo:</b>\c[0] ¿Y qué hay de ti? ¿Qué emociones te recorren en este mismo momento?
-\c[2]<b>Rojo:</b>\c[0] ¿Y qué hay de ti? ¿Qué emociones te recorren en este mismo momento?
+\c[2]<b>Red:</b>\c[0] And what about you? What emotions are running through you at this very moment?
 \c[3]<b>Hoja:</b>\c[0] No dejo de pensar en todas las personas que hemos conocido por el camino. Entrenadores de todo tipo, líderes de gimnasio, investigadores...
-\c[3]<b>Hoja:</b>\c[0] No dejo de pensar en todas las personas que hemos conocido por el camino. Entrenadores de todo tipo, líderes de gimnasio, investigadores...
+\c[3]<b>Leaf:</b>\c[0] I can't stop thinking about all the people we've met along the way. Trainers of all kinds, gym leaders, researchers...
 Todos ellos amaban a los Pokémon de alguna forma distinta. ¡Incluso los miembros del <b>Team Rocket</b> tenían lazos de compañerismo con sus Pokémon!
-Todos ellos amaban a los Pokémon de alguna forma distinta. ¡Incluso los miembros del <b>Team Rocket</b> tenían lazos de compañerismo con sus Pokémon!
+They all loved Pokémon in their own way. Even the members of <b>Team Rocket</b> had bonds of companionship with their Pokémon!
 Nosotros solo elegimos la vía del Aspirante, pero hay todo un mundo de posibilidades de vivir la vida junto a tus compañeros.
-Nosotros solo elegimos la vía del Aspirante, pero hay todo un mundo de posibilidades de vivir la vida junto a tus compañeros.
+We only choose the Trainer path, but there's a whole world of possibilities to live life alongside your companions.
 \c[3]<b>Hoja:</b>\c[0] Es por eso que voy a combatir contigo por última vez aquí y ahora, \PN.
-\c[3]<b>Hoja:</b>\c[0] Es por eso que voy a combatir contigo por última vez aquí y ahora, \PN.
+\c[3]<b>Leaf:</b>\c[0] That's why I'm going to fight you for the last time here and now, \PN.
 ¡Muéstrame lo que tienes que decir!
-¡Muéstrame lo que tienes que decir!
+Show me what you have to say!
 \c[3]<b>Hoja:</b>\c[0] ...
-\c[3]<b>Hoja:</b>\c[0] ...
+\c[3]<b>Leaf:</b>\c[0] ...
 \c[2]<b>Rojo:</b>\c[0] No dejo de pensar en todas las personas que hemos conocido por el camino. Entrenadores de todo tipo, líderes de gimnasio, investigadores...
-\c[2]<b>Rojo:</b>\c[0] No dejo de pensar en todas las personas que hemos conocido por el camino. Entrenadores de todo tipo, líderes de gimnasio, investigadores...
+\c[2]<b>Red:</b>\c[0] I can't stop thinking about all the people we've met along the way. Trainers of all kinds, gym leaders, researchers...
 \c[2]<b>Rojo:</b>\c[0] Es por eso que voy a combatir contigo por última vez aquí y ahora, \PN.
-\c[2]<b>Rojo:</b>\c[0] Es por eso que voy a combatir contigo por última vez aquí y ahora, \PN.
+\c[2]<b>Red:</b>\c[0] That's why I'm going to fight you for the last time here and now, \PN.
 \c[2]<b>Rojo:</b>\c[0] ...
-\c[2]<b>Rojo:</b>\c[0] ...
+\c[2]<b>Red:</b>\c[0] ...
 \c[3]<b>Hoja:</b>\c[0] Muy bien. En base a todo lo que he aprendido, he podido tomar una decisión.
-\c[3]<b>Hoja:</b>\c[0] Muy bien. En base a todo lo que he aprendido, he podido tomar una decisión.
+\c[3]<b>Leaf:</b>\c[0] Very well. Based on everything I've learned, I've been able to make a decision.
 \c[3]<b>Hoja:</b>\c[0] La <b>Liga Pokémon</b> va a tener que esperar esta vez.
-\c[3]<b>Hoja:</b>\c[0] La <b>Liga Pokémon</b> va a tener que esperar esta vez.
+\c[3]<b>Leaf:</b>\c[0] The <b>Pokémon League</b> is going to have to wait this time.
 Mi camino debe llevarme a tierras lejanas donde pueda conocer a más entrenadores y más Pokémon.
-Mi camino debe llevarme a tierras lejanas donde pueda conocer a más entrenadores y más Pokémon.
+My journey must take me to distant lands where I can meet more trainers and more Pokémon.
 Viajaré a otras regiones en busca de experiencias que me hagan más fuerte.
-Viajaré a otras regiones en busca de experiencias que me hagan más fuerte.
+I'll travel to other regions in search of experiences that make me stronger.
 Y tal vez, algún día...
-Y tal vez, algún día...
+And maybe, one day...
 \c[3]<b>Hoja:</b>\c[0] Aunque, por supuesto, no me iré hasta haber visto cómo os va a \v[12] y a ti contra el <b>Alto Mando</b>.
-\c[3]<b>Hoja:</b>\c[0] Aunque, por supuesto, no me iré hasta haber visto cómo os va a \v[12] y a ti contra el <b>Alto Mando</b>.
+\c[3]<b>Leaf:</b>\c[0] I won't leave until I've seen how you and \v[12] fare against the <b>Elite Four</b>, of course.
 Uno de los dos tiene que convertirse en Campeón, ¿de acuerdo? ¡Es lo que más deseo ahora mismo!
-Uno de los dos tiene que convertirse en Campeón, ¿de acuerdo? ¡Es lo que más deseo ahora mismo!
+One of us has to become Champion, okay? That's what I want most right now!
 Ya que no puedo ofrecerte un reto mayor en combate, déjame apoyarte con estos objetos.
-Ya que no puedo ofrecerte un reto mayor en combate, déjame apoyarte con estos objetos.
+Since I can't offer you much of a challenge in battle, let me support you with these items.
 \c[2]<b>Rojo:</b>\c[0] Muy bien. En base a todo lo que he aprendido, he podido tomar una decisión.
-\c[2]<b>Rojo:</b>\c[0] Muy bien. En base a todo lo que he aprendido, he podido tomar una decisión.
+\c[2]<b>Red:</b>\c[0] Very well. Based on everything I've learned, I've been able to make a decision.
 \c[2]<b>Rojo:</b>\c[0] La <b>Liga Pokémon</b> va a tener que esperar esta vez.
-\c[2]<b>Rojo:</b>\c[0] La <b>Liga Pokémon</b> va a tener que esperar esta vez.
+\c[2]<b>Red:</b>\c[0] The <b>Pokémon League</b> is going to have to wait this time.
 \c[2]<b>Rojo:</b>\c[0] Aunque, por supuesto, no me iré hasta haber visto cómo os va a \v[12] y a ti contra el <b>Alto Mando</b>.
-\c[2]<b>Rojo:</b>\c[0] Aunque, por supuesto, no me iré hasta haber visto cómo os va a \v[12] y a ti contra el <b>Alto Mando</b>.
+\c[2]<b>Red:</b>\c[0] I won't leave until I've seen how you and \v[12] fare against the <b>Elite Four</b>, of course.
 \c[3]<b>Hoja:</b>\c[0] La <b>Liga Pokémon</b> se alza imponente ante nosotros, como una cima impracticable rodeada de hielo...
-\c[3]<b>Hoja:</b>\c[0] La <b>Liga Pokémon</b> se alza imponente ante nosotros, como una cima impracticable rodeada de hielo...
+\c[3]<b>Leaf:</b>\c[0] The <b>Pokémon League</b> looms before us, like an impassable peak surrounded by ice...
 \c[2]<b>Rojo:</b>\c[0] La <b>Liga Pokémon</b> se alza imponente ante nosotros, como una cima impracticable rodeada de hielo...
-\c[2]<b>Rojo:</b>\c[0] La <b>Liga Pokémon</b> se alza imponente ante nosotros, como una cima impracticable rodeada de hielo...
+\c[2]<b>Red:</b>\c[0] The <b>Pokémon League</b> looms before us, like an impassable peak surrounded by ice...
 <b>Norte:</b> Ciudad Añil\n<b>Sur:</b> Monte Plateado
-<b>Norte:</b> Ciudad Añil\n<b>Sur:</b> Monte Plateado
+<b>North:</b> Indigo City\n<b>South:</b> Mt. Silver
 #-------------------------------
 [Map167]
 Liga Pokémon
-Liga Pokémon
+Pokémon League
 ¡Ajá! Aquí venden piedras evolutivas raras. Esto me ayudará a conseguir algunos Pokémon que me faltaban.
-¡Ajá! Aquí venden piedras evolutivas raras. Esto me ayudará a conseguir algunos Pokémon que me faltaban.
+Aha! They sell rare evolution stones here. This will help me get some Pokémon I was missing.
 ¿Sabías que esta va a ser la última <b>Liga Pokémon</b> de <b>Agatha</b>? Pretende jubilarse este año.
-¿Sabías que esta va a ser la última <b>Liga Pokémon</b> de <b>Agatha</b>? Pretende jubilarse este año.
+Did you know that this will be Agatha's last <b>Pokémon League</b>? She plans to retire this year.
 Aún no se sabe quién será su sucesora, pero se está hablando mucho de una fuerte entrenadora de <b>Johto</b> especialista en el tipo Siniestro.
-Aún no se sabe quién será su sucesora, pero se está hablando mucho de una fuerte entrenadora de <b>Johto</b> especialista en el tipo Siniestro.
+We don't know who her successor will be yet, but there's a lot of talk about a strong <b>Johto</b> trainer specializing in the Dark type.
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 Yo era un Aspirante, como tú, pero perdí contra la líder de gimnasio <b>Sabrina</b>.
-Yo era un Aspirante, como tú, pero perdí contra la líder de gimnasio <b>Sabrina</b>.
+I wanted to take on the Elite Four, like you, but I lost to Gym Leader <b>Sabrina</b>.
 Aún así, he venido para ver los combates de la <b>Liga Pokémon</b>. ¡Tal vez saque motivación para volver a intentarlo el año que viene!
-Aún así, he venido para ver los combates de la <b>Liga Pokémon</b>. ¡Tal vez saque motivación para volver a intentarlo el año que viene!
+Still, I came here to watch the <b>Pokémon League</b> battles. Maybe I'll get some motivation to try again next year!
 El <b>Hostal Añil</b> está a rebosar de viajeros de todas partes.
-El <b>Hostal Añil</b> está a rebosar de viajeros de todas partes.
+The <b>Indigo Hostal</b> is packed with travelers from all over.
 Parece que hay mucha expectación, como un presentimiento de que estamos a punto de presenciar unos combates que pasarán a la historia.
-Parece que hay mucha expectación, como un presentimiento de que estamos a punto de presenciar unos combates que pasarán a la historia.
+There's a lot of anticipation in the air, like the feeling that we're about to witness some fights that'll go down in history.
 La <b>Liga Pokémon</b> va a celebrarse dentro de poco, ¡qué ganas tengo de ver a los 4 miembros del <b>Alto Mando</b> en acción!
-La <b>Liga Pokémon</b> va a celebrarse dentro de poco, ¡qué ganas tengo de ver a los 4 miembros del <b>Alto Mando</b> en acción!
+The <b>Pokémon League</b> is coming up soon, so I can't wait to see the <b>Elite Four</b> in action!
 Esta ciudad es pequeña, pero las instalaciones de la <b>Liga Pokémon</b> requieren de mucho mantenimiento.
-Esta ciudad es pequeña, pero las instalaciones de la <b>Liga Pokémon</b> requieren de mucho mantenimiento.
+This town is small, but the <b>Pokémon League</b> facilities require a lot of maintenance.
 ¡Tú no te preocupes y confía en nuestro trabajo! La seguridad de los visitantes es lo más importante para nosotros.
-¡Tú no te preocupes y confía en nuestro trabajo! La seguridad de los visitantes es lo más importante para nosotros.
+Don't worry and trust our work! Visitor safety is the most important thing to us.
 <b>Ciudad Añil</b>, la melancolía azulada de un viaje que llega a su final.
-<b>Ciudad Añil</b>, la melancolía azulada de un viaje que llega a su final.
+<b>Indigo City</b>, the blue melancholy of a journey reaching its end.
 Este año solo 2 Aspirantes han logrado derrotar a los 8 líderes de gimnasio y llegar hasta la <b>Liga Pokémon</b>.
-Este año solo 2 Aspirantes han logrado derrotar a los 8 líderes de gimnasio y llegar hasta la <b>Liga Pokémon</b>.
+Only two Trainers have managed to defeat the 8 Gym Leaders and reach the <b>Pokémon League</b> this year.
 ¿Tendremos nuevo Campeón de <b>Kanto</b>? ¿O nueva Campeona?
-¿Tendremos nuevo Campeón de <b>Kanto</b>? ¿O nueva Campeona?
+Will we have a new <b>Kanto</b> Champion?
 ¿Ese es el edificio donde van a combatir los entrenadores? ¡Es enorme!
-¿Ese es el edificio donde van a combatir los entrenadores? ¡Es enorme!
+Is that the building where the trainers are going to fight? It's huge!
 Aún recuerdo cómo en mi niñez se celebraba la <b>Liga Pokémon</b> en una casa de madera de la era feudal.
-Aún recuerdo cómo en mi niñez se celebraba la <b>Liga Pokémon</b> en una casa de madera de la era feudal.
+I still remember how the <b>Pokémon League</b> was held in a feudal-era wooden house when I was a kid.
 <b>Lance</b> lleva 4 <b>Ligas Pokémon</b> sin ser derrotado, y por lo tanto ahora mismo no solo es el Campeón sino también el entrenador más fuerte de la región sin discusión alguna.
-<b>Lance</b> lleva 4 <b>Ligas Pokémon</b> sin ser derrotado, y por lo tanto ahora mismo no solo es el Campeón sino también el entrenador más fuerte de la región sin discusión alguna.
+<b>Lance</b> has gone four <b>Pokémon Leagues</b> without being defeated, so right now he's not only the Champion but also the strongest trainer in the region without a doubt.
 Si aceptas mi humilde consejo, te diría que llevases algún movimiento de tipo Hielo para tener alguna opción contra sus Pokémon Dragón.
-Si aceptas mi humilde consejo, te diría que llevases algún movimiento de tipo Hielo para tener alguna opción contra sus Pokémon Dragón.
+If you want my advice, make sure to bring some Ice-type moves to have some chance against his Dragon Pokémon.
 ¿Necesitas una última ayuda para tus combates contra el <b>Alto Mando</b>? Puedo darte esto...
-¿Necesitas una última ayuda para tus combates contra el <b>Alto Mando</b>? Puedo darte esto...
+Need one last bit of help in your battles against the <b>Elite Four</b>? I can give you this...
 Por supuesto, no tiene nada que ver con que haya apostado por tu victoria, ¿eh? Es simplemente que tengo un corazón generoso.
-Por supuesto, no tiene nada que ver con que haya apostado por tu victoria, ¿eh? Es simplemente que tengo un corazón generoso.
+It has nothing to do with me betting on your victory, of course. I'm just a generous person.
 Mi ayuda no tiene nada que ver con que haya apostado por tu victoria, ¿eh? Es simplemente que tengo un corazón generoso.
-Mi ayuda no tiene nada que ver con que haya apostado por tu victoria, ¿eh? Es simplemente que tengo un corazón generoso.
+It has nothing to do with me betting on your victory, of course. I'm just a generous person.
 Sí
 Yes
 No
@@ -8505,97 +8293,97 @@ No
 #-------------------------------
 [Map168]
 \c[1]<b>\v[12]:</b>\c[0] Es... es imposible que me esté saliendo todo tan mal.
-\c[1]<b>\v[12]:</b>\c[0] Es... es imposible que me esté saliendo todo tan mal.
+\c[1]<b>\v[12]:</b>\c[0] It's... it's impossible that everything is going so wrong for me.
 No soy capaz de derrotar ni tan siquiera a estos dos mequetrefes.
-No soy capaz de derrotar ni tan siquiera a estos dos mequetrefes.
+I can't even defeat these two wimps.
 <b>Atenea:</b> ¡Jejeje! ¿Eso es todo lo que puedes ofrecernos, chaval?
-<b>Atenea:</b> ¡Jejeje! ¿Eso es todo lo que puedes ofrecernos, chaval?
+<b>Atenea:</b> Hehehe! Is that all you've got, kid?
 <b>Atlas:</b> ¿Qué te pensabas? ¡Nadie puede con el poder combinado de los Comandantes Rocket!
-<b>Atlas:</b> ¿Qué te pensabas? ¡Nadie puede con el poder combinado de los Comandantes Rocket!
+<b>Atlas:</b> What did you expect? No one can match the combined power of the Rocket Commanders!
 \c[1]<b>\v[12]:</b>\c[0] ...
 \c[1]<b>\v[12]:</b>\c[0] ...
 \c[1]<b>\v[12]:</b>\c[0] No...\nEsto aún no ha terminado.
-\c[1]<b>\v[12]:</b>\c[0] No...\nEsto aún no ha terminado.
+\c[1]<b>\v[12]:</b>\c[0] No...\nThis isn't over yet.
 Podría aguantar todo el día hasta que consiga venceros.
-Podría aguantar todo el día hasta que consiga venceros.
+I could go all day until I manage to defeat you.
 ¿Os ha quedado claro? ¡Esto aún no ha terminado!
-¿Os ha quedado claro? ¡Esto aún no ha terminado!
+Do I make myself clear? This isn't over yet!
 \c[3]<b>Hoja:</b>\c[0] ¿Estás bien, \v[12]? ¡Nosotros te ayudaremos!
-\c[3]<b>Hoja:</b>\c[0] ¿Estás bien, \v[12]? ¡Nosotros te ayudaremos!
+\c[3]<b>Leaf:</b>\c[0] Are you okay, \v[12]? We'll help you!
 \c[2]<b>Rojo:</b>\c[0] ¿Estás bien, \v[12]? ¡Nosotros te ayudaremos!
-\c[2]<b>Rojo:</b>\c[0] ¿Estás bien, \v[12]? ¡Nosotros te ayudaremos!
+\c[2]<b>Red:</b>\c[0] Are you okay, \v[12]? We'll help you!
 \sh\c[1]<b>\v[12]:</b>\c[0] ¡NO! ¡QUEDÁOS ATRÁS!
-\sh\c[1]<b>\v[12]:</b>\c[0] ¡NO! ¡QUEDÁOS ATRÁS!
+\sh\c[1]<b>\v[12]:</b>\c[0] NO! STAY BACK!
 \c[3]<b>Hoja:</b>\c[0] ¿Pero qué Beedrill te ha picado ahora?
-\c[3]<b>Hoja:</b>\c[0] ¿Pero qué Beedrill te ha picado ahora?
+\c[3]<b>Leaf:</b>\c[0] What Beedrill has stung you now?
 \c[2]<b>Rojo:</b>\c[0] ¿Pero qué Beedrill te ha picado ahora?
-\c[2]<b>Rojo:</b>\c[0] ¿Pero qué Beedrill te ha picado ahora?
+\c[2]<b>Red:</b>\c[0]  What Beedrill has stung you now?
 \c[1]<b>\v[12]:</b>\c[0] ¿De qué sirve seguir si me tienen que ayudar? Soy un Aspirante que participará en la <b>Liga Pokémon</b>, ¿no?
-\c[1]<b>\v[12]:</b>\c[0] ¿De qué sirve seguir si me tienen que ayudar? Soy un Aspirante que participará en la <b>Liga Pokémon</b>, ¿no?
+\c[1]<b>\v[12]:</b>\c[0] What's the point of continuing if you have to help me? I'm a Trainer who will participate in the <b>Pokémon League</b>, right?
 Si no puedo superar un obstáculo como este, ¡significa que soy un farsante y que ya me puedo volver a casa!
-Si no puedo superar un obstáculo como este, ¡significa que soy un farsante y que ya me puedo volver a casa!
+If I can't overcome an obstacle like this, it means I'm a fraud and I can just go home now!
 Y si algún día mi abuelo nos necesita para alguna otra cosa...\nProbablemente querrá contar con \PN, o contigo.
-Y si algún día mi abuelo nos necesita para alguna otra cosa...\nProbablemente querrá contar con \PN, o contigo.
+And if my grandfather needs us for something else one day ...\nHe'll probably want to count on \PN, or you.
 \c[1]<b>\v[12]:</b>\c[0] Pero yo... quedaré relegado al papel de segundón.
-\c[1]<b>\v[12]:</b>\c[0] Pero yo... quedaré relegado al papel de segundón.
+\c[1]<b>\v[12]:</b>\c[0] But I... I'll be relegated to the role of second fiddle.
 \c[3]<b>Hoja:</b>\c[0] Creo que ahora ya empiezo a entenderte.
-\c[3]<b>Hoja:</b>\c[0] Creo que ahora ya empiezo a entenderte.
+\c[3]<b>Leaf:</b>\c[0] I think I'm starting to understand you now.
 \c[2]<b>Rojo:</b>\c[0] Creo que ahora ya empiezo a entenderte.
-\c[2]<b>Rojo:</b>\c[0] Creo que ahora ya empiezo a entenderte.
+\c[2]<b>Red:</b>\c[0] I think I'm starting to understand you now.
 \c[3]<b>Hoja:</b>\c[0] Escúchame bien, \v[12]...
-\c[3]<b>Hoja:</b>\c[0] Escúchame bien, \v[12]...
+\c[3]<b>Leaf:</b>\c[0] Listen to me carefully, \v[12]...
 \c[2]<b>Rojo:</b>\c[0] Escúchame bien, \v[12]...
-\c[2]<b>Rojo:</b>\c[0] Escúchame bien, \v[12]...
+\c[2]<b>Red:</b>\c[0] Listen to me carefully, \v[12]...
 \c[3]<b>Hoja:</b>\c[0] ¡No tienes que demostrarle nada a nadie! ¿Te enteras de una vez?
-\c[3]<b>Hoja:</b>\c[0] ¡No tienes que demostrarle nada a nadie! ¿Te enteras de una vez?
+\c[3]<b>Leaf:</b>\c[0] You don't have to prove anything to anyone! Do you finally get it?
 ¡Eres muy fuerte! ¡Nos ha quedado claro!
-¡Eres muy fuerte! ¡Nos ha quedado claro!
+You're incredibly strong! It's clear as day to me!
 Lo sé yo, lo sabe \PN, y lo sabe el <b>Profesor Oak</b>.
-Lo sé yo, lo sabe \PN, y lo sabe el <b>Profesor Oak</b>.
+I know it, \PN knows it, and <b>Professor Oak</b> knows it.
 Pero ahora necesitamos que te centres. ¡Necesitamos tu fuerza para vencer al <b>Team Rocket</b>!
-Pero ahora necesitamos que te centres. ¡Necesitamos tu fuerza para vencer al <b>Team Rocket</b>!
+But right now we need you to focus. We need your strength to defeat <b>Team Rocket</b>!
 No podremos lograrlo sin ti, eres una pieza fundamental.
-No podremos lograrlo sin ti, eres una pieza fundamental.
+We can't do it without you, you're integral to our success.
 \c[1]<b>\v[12]:</b>\c[0] Supongo que por una vez no pasará nada.
-\c[1]<b>\v[12]:</b>\c[0] Supongo que por una vez no pasará nada.
+\c[1]<b>\v[12]:</b>\c[0] I guess just this once...
 Podríamos combatir juntos, <b>Hoja</b>.
-Podríamos combatir juntos, <b>Hoja</b>.
+Let's fight together, <b>Leaf</b>.
 \c[2]<b>Rojo:</b>\c[0] ¡No tienes que demostrarle nada a nadie! ¿Te enteras de una vez?
-\c[2]<b>Rojo:</b>\c[0] ¡No tienes que demostrarle nada a nadie! ¿Te enteras de una vez?
+\c[2]<b>Red:</b>\c[0] You don't have to prove anything to anyone! Do you finally get it?
 Podríamos combatir juntos, <b>Rojo</b>.
-Podríamos combatir juntos, <b>Rojo</b>.
+Let's fight together, <b>Red</b>.
 <b>Atenea:</b> Bueno, ¿qué? ¿Habéis terminado ya con las pamplinas?
-<b>Atenea:</b> Bueno, ¿qué? ¿Habéis terminado ya con las pamplinas?
+<b>Atenea:</b> So, what? Are you done with this nonsense yet?
 \c[3]<b>Hoja:</b>\c[0] No, ahora es cuando empieza. ¡Os vamos a dar hasta en vuestro carnet de identidad del <b>Team Rocket</b>!
-\c[3]<b>Hoja:</b>\c[0] No, ahora es cuando empieza. ¡Os vamos a dar hasta en vuestro carnet de identidad del <b>Team Rocket</b>!
+\c[3]<b>Leaf:</b>\c[0] No, we're just getting started. We're even gonna take your <b>Team Rocket</b> membership card!
 ¡\PN, tú sigue adelante y encuentra a <b>Giovanni</b>!
-¡\PN, tú sigue adelante y encuentra a <b>Giovanni</b>!
+\PN, you go ahead and find <b>Giovanni</b>!
 \c[2]<b>Rojo:</b>\c[0] No, ahora es cuando empieza. ¡Os vamos a dar hasta en vuestro carnet de identidad del <b>Team Rocket</b>!
-\c[2]<b>Rojo:</b>\c[0] No, ahora es cuando empieza. ¡Os vamos a dar hasta en vuestro carnet de identidad del <b>Team Rocket</b>!
+\c[2]<b>Red:</b>\c[0] No, we're just getting started. We're even gonna take your <b>Team Rocket</b> membership card!
 ¡Represento a la élite del Team Rocket! ¿Quieres presenciar un poder verdadero?
-¡Represento a la élite del Team Rocket! ¿Quieres presenciar un poder verdadero?
+I represent the elite of Team Rocket! Do you wish to witness true power?
 ¿Vas a seguir adelante? ¿A pesar de los duros combates que te esperan? ¡Eres de lo que no hay!
-¿Vas a seguir adelante? ¿A pesar de los duros combates que te esperan? ¡Eres de lo que no hay!
+Will you continue on? Despite the tough battles that await you? You are one of a kind!
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 <b>Atlas:</b> ¡Nadie puede contra el <b>Team Rocket</b>! ¡Absolutamente nadie!
-<b>Atlas:</b> ¡Nadie puede contra el <b>Team Rocket</b>! ¡Absolutamente nadie!
+<b>Atlas:</b> No one can beat <b>Team Rocket</b>! Absolutely no one!
 <b>Atenea:</b> ¡Estos niñatos se creen muy listos si piensan que pueden derrotarnos aunque luchen juntos!
-<b>Atenea:</b> ¡Estos niñatos se creen muy listos si piensan que pueden derrotarnos aunque luchen juntos!
+<b>Atenea:</b> These brats must think highly of themselves if they think they can beat us by fighting together!
 \c[3]<b>Hoja:</b>\c[0] ¡\PN, tú sigue adelante y encuentra a <b>Giovanni</b>!
-\c[3]<b>Hoja:</b>\c[0] ¡\PN, tú sigue adelante y encuentra a <b>Giovanni</b>!
+\c[3]<b>Leaf:</b>\c[0] \PN, you go ahead and find <b>Giovanni</b>!
 \c[2]<b>Rojo:</b>\c[0] ¡\PN, tú sigue adelante y encuentra a <b>Giovanni</b>!
-\c[2]<b>Rojo:</b>\c[0] ¡\PN, tú sigue adelante y encuentra a <b>Giovanni</b>!
+\c[2]<b>Red:</b>\c[0] \PN, you go ahead and find <b>Giovanni</b>!
 Me pidieron que montara guardia en la entrada de la cueva. No me des mucho la vara, ¿vale?
-Me pidieron que montara guardia en la entrada de la cueva. No me des mucho la vara, ¿vale?
+I was asked to stand guard at the entrance to the cave. Don't bother me too much, okay?
 Se supone que hemos venido los mejores reclutas del Team Rocket, ¿quién eres tú y por qué eres tan fuerte?
-Se supone que hemos venido los mejores reclutas del Team Rocket, ¿quién eres tú y por qué eres tan fuerte?
+We're supposed to be the best recruits of Team Rocket...who are you,and why are you so strong?
 \c[1]<b>\v[12]:</b>\c[0] Supongo que solo por esta vez...
-\c[1]<b>\v[12]:</b>\c[0] Supongo que solo por esta vez...
+\c[1]<b>\v[12]:</b>\c[0] I guess just this once...
 ¿Es que aún no te ha quedado claro lo peligrosos que somos? ¡Te haré un recordatorio!
-¿Es que aún no te ha quedado claro lo peligrosos que somos? ¡Te haré un recordatorio!
+Is it still not clear to you just how dangerous we are? Let me remind you!
 Aunque yo no pueda vencerte, al menos te he cansado un poco. ¡Algún compañero te rematará!
-Aunque yo no pueda vencerte, al menos te he cansado un poco. ¡Algún compañero te rematará!
+Even if I can't beat you, at least I've tired you out a little. Some teammate will finish you off!
 Sí
 Yes
 No
@@ -8603,73 +8391,73 @@ No
 #-------------------------------
 [Map169]
 Obedece, doblégate... ¡o enfréntate a tu eliminación!
-Obedece, doblégate... ¡o enfréntate a tu eliminación!
+Obey, yield... or face elimination!
 Si logras vencer a Giovanni, ¿tendré que convertirme en tu subordinado?
-Si logras vencer a Giovanni, ¿tendré que convertirme en tu subordinado?
+If you manage to defeat <b>Giovanni</b>, will I have to become your subordinate?
 Qué lugar más raro, ¿no? La cabeza no para de darme vueltas...
-Qué lugar más raro, ¿no? La cabeza no para de darme vueltas...
+What a strange place, huh? My head won't stop spinning...
 Debería cerrar los ojos y relajarme, este lugar me está afectando demasiado.
-Debería cerrar los ojos y relajarme, este lugar me está afectando demasiado.
+I should close my eyes and relax...this place is affecting me too much.
 ¡No permitiré que estropees la operación más importante que ha llevado a cabo el Team Rocket!
-¡No permitiré que estropees la operación más importante que ha llevado a cabo el Team Rocket!
+I won't let you ruin the most important operation <b>Team Rocket</b> has ever undertaken!
 La verdad es que desconozco los detalles de esta operación, ¡me dormía en las reuniones!
-La verdad es que desconozco los detalles de esta operación, ¡me dormía en las reuniones!
+The truth is that I don't know the details of this operation, I fell asleep during the meetings!
 ¿Tú también quieres capturar a ese Pokémon artificial? ¡Pues me temo que llegas tarde!
-¿Tú también quieres capturar a ese Pokémon artificial? ¡Pues me temo que llegas tarde!
+Do you also want to catch that artificial Pokémon? Well, I'm afraid you're late!
 Aunque sea del Team Rocket, no quiero que mis Pokémon sufran. Prefiero rendirme antes de que les hagan demasiado daño.
-Aunque sea del Team Rocket, no quiero que mis Pokémon sufran. Prefiero rendirme antes de que les hagan demasiado daño.
+Even though I'm part of<b>Team Rocket</b>, I don't want my Pokémon to suffer. I'd rather give up before they get hurt too much.
 Jeje, ¿te has perdido? Te indicaré amablemente el camino de vuelta.
-Jeje, ¿te has perdido? Te indicaré amablemente el camino de vuelta.
+Hehe, are you lost? I'll kindly show you the way back.
 Creo que este no es el camino para acceder a las profundidades de la cueva. Allá tú si decides creerme.
-Creo que este no es el camino para acceder a las profundidades de la cueva. Allá tú si decides creerme.
+I don't think this is the way to the depths of the cave. It's up to you if you decide to believe me.
 Sigo a Giovanni porque creo en la supremacía de Kanto bajo su liderazgo, ¿en qué crees tú exactamente?
-Sigo a Giovanni porque creo en la supremacía de Kanto bajo su liderazgo, ¿en qué crees tú exactamente?
+I follow <b>Giovanni</b> because I believe in Kanto's supremacy under his leadership. What exactly do you believe in?
 Los ideales más verdaderos son los que acaban triunfando, ¡por eso creo ciegamente en Giovanni!
-Los ideales más verdaderos son los que acaban triunfando, ¡por eso creo ciegamente en Giovanni!
+The truest ideals are those that end up triumphing, that's why I blindly believe in <b>Giovanni</b>!
 #-------------------------------
 [Map170]
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 Pues se ha quedado una buena tarde...
-Pues se ha quedado una buena tarde...
+Well, it's been a good afternoon...
 \c[5]<b>Surya:</b>\c[0] ¿No te parece que esta cueva es supermegachachipiruli? ¡Mira todos esos cristalitos que brillan!
-\c[5]<b>Surya:</b>\c[0] ¿No te parece que esta cueva es supermegachachipiruli? ¡Mira todos esos cristalitos que brillan!
+\c[5]<b>Surya:</b>\c[0] Don't you think this cave is super-mega-cool? Look at all those little shiny crystals!
 Pero no es momento para eso, ¡jijiji! ¡No puedo dejarte pasar!
-Pero no es momento para eso, ¡jijiji! ¡No puedo dejarte pasar!
+But this isn't the time for that, hehe! I can't let you pass!
 El jefe <b>Giovanni</b> ha puesto mucho cariño en este plan. Si sale mal, se pondrá muy triste y llorará.
-El jefe <b>Giovanni</b> ha puesto mucho cariño en este plan. Si sale mal, se pondrá muy triste y llorará.
+Our boss, <b>Giovanni</b>, has put a lot of love into this plan. If it goes wrong, he'll be very sad and cry.
 Y si él se pone a llorar, yo también! ¡Buaaaa! ¡Es que soy muy empática con las emociones de los demás!
-Y si él se pone a llorar, yo también! ¡Buaaaa! ¡Es que soy muy empática con las emociones de los demás!
+And if he starts crying, I do too! Wow! I'm such an empath!
 Y además esta vez no combato sola, ¿eh? Me he traído a un amiguito conmigo.
-Y además esta vez no combato sola, ¿eh? Me he traído a un amiguito conmigo.
+And this time I'm not fighting alone, okay? I brought a little friend with me.
 <b>Recluta Élite Rocket:</b> *Suspiro*
-<b>Recluta Élite Rocket:</b> *Suspiro*
+<b>Elite Rocket Recruit:</b> *Sigh*
 Po-podemos empezar cuando quiera, comandante <b>Surya</b>...
-Po-podemos empezar cuando quiera, comandante <b>Surya</b>...
+W-we can start whenever you want, Commander <b>Surya</b>...
 \c[5]<b>Surya:</b>\c[0] *Sniff*
 \c[5]<b>Surya:</b>\c[0] *Sniff*
 ...
 ...
 ¡Buaaaa! ¡Yo no quería que mis Pokémon se hicieran tanto daño!
-¡Buaaaa! ¡Yo no quería que mis Pokémon se hicieran tanto daño!
+Wahhh! I didn't want my Pokémon to get hurt so much!
 <b>Recluta Élite Rocket:</b> Es... es lo que tienen los combates, comandante <b>Surya</b>. Los Pokémon se hacen daño.
-<b>Recluta Élite Rocket:</b> Es... es lo que tienen los combates, comandante <b>Surya</b>. Los Pokémon se hacen daño.
+<b>Elite Rocket Recruit:</b> That's...that's the way battles are, Commander <b>Surya</b>. Pokémon hurt each other.
 \c[5]<b>Surya:</b>\c[0] ¡Pues no debería ser así! Los Pokémon existen para que los achuchemos, les alimentemos bien, les cepillemos el pelo...
-\c[5]<b>Surya:</b>\c[0] ¡Pues no debería ser así! Los Pokémon existen para que los achuchemos, les alimentemos bien, les cepillemos el pelo...
+\c[5]<b>Surya:</b>\c[0] Well, it shouldn't be like that! Pokémon exist so that we can cuddle them, feed them well, brush their hair...
 Creo que ya me he aburrido del <b>Team Rocket</b>, ¡me desapunto! ¡Adiós!
-Creo que ya me he aburrido del <b>Team Rocket</b>, ¡me desapunto! ¡Adiós!
+I think I'm bored of <b>Team Rocket</b>, I'm out! Bye!
 Pronto todos nuestros anhelos se cumplirán, ¡festejad la llegada de un Nuevo Orden Mundial!
-Pronto todos nuestros anhelos se cumplirán, ¡festejad la llegada de un Nuevo Orden Mundial!
+Soon all of our wishes will be fulfilled. Celebrate the arrival of a New World Order!
 Pronto todos nuestros anhelos se cumplirán, ¡te postrarás ante la llegada de un Nuevo Orden Mundial!
-Pronto todos nuestros anhelos se cumplirán, ¡te postrarás ante la llegada de un Nuevo Orden Mundial!
+Soon all of our wishes will be fulfilled. You will bow down before the arrival of a New World Order!
 ¡Qué se abran las puertas a una nueva era! ¡La era del Team Rocket!
-¡Qué se abran las puertas a una nueva era! ¡La era del Team Rocket!
+Let the gates open to a new era! The era of <b>Team Rocket</b>!
 No dejes que nadie te diga nunca lo que no puedes hacer. Ni siquiera el Team Rocket.
-No dejes que nadie te diga nunca lo que no puedes hacer. Ni siquiera el Team Rocket.
+Never let anyone tell you what you can't do. Not even <b>Team Rocket</b>.
 ¡Este Wobbuffet ha aprendido Enfermería Pokémon!
-¡Este Wobbuffet ha aprendido Enfermería Pokémon!
+This Wobbuffet has learned Pokémon Nursing!
 ¿Quieres curar a tus Pokémon?
-¿Quieres curar a tus Pokémon?
+Do you want to heal your Pokémon?
 Sí
 Yes
 No
@@ -8677,19 +8465,19 @@ No
 #-------------------------------
 [Map171]
 ¿Has oído hablar de la <b>Campana Dorada</b> y la <b>Campana Plateada</b>? Se tratan de dos tesoros legendarios que se perdieron en el mar de los tiempos.
-¿Has oído hablar de la <b>Campana Dorada</b> y la <b>Campana Plateada</b>? Se tratan de dos tesoros legendarios que se perdieron en el mar de los tiempos.
+Have you heard of the <b>Golden Bell</b> and the <b>Silver Bell</b>? They're two legendary treasures that were lost in the sea of ​​time.
 Se rumorea que podrían estar escondidas en algún lugar del <b>Archi Prisma</b>, el lugar del que venimos nosotras.
-Se rumorea que podrían estar escondidas en algún lugar del <b>Archi Prisma</b>, el lugar del que venimos nosotras.
+Rumor has it that they might be hiding somewhere in the <b>Archi Prisma</b>, the place we come from.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Parece que estás al límite de tus fuerzas, ¿quieres descansar un rato?
-Parece que estás al límite de tus fuerzas, ¿quieres descansar un rato?
+It seems like you're at the end of your rope, do you want to rest for a while?
 Ahora tenéis mejor cara, ¡a por todas!
-Ahora tenéis mejor cara, ¡a por todas!
+Now you look better, go for it!
 ¡No le exijas demasiado a tus Pokémon! Hasta ellos tienen su límite.
-¡No le exijas demasiado a tus Pokémon! Hasta ellos tienen su límite.
+Don't push your Pokémon too hard! Even they have their limits.
 ¿Te llama la atención el estilo de nuestra casa? Es porque nosotras venimos del <b>Archi Prisma</b>, donde aún se vive de esta manera.
-¿Te llama la atención el estilo de nuestra casa? Es porque nosotras venimos del <b>Archi Prisma</b>, donde aún se vive de esta manera.
+Does the style of our house catch your attention? It's because we come from the <b>Archi Prisma</b>, where people still live this way.
 Sí
 Yes
 No
@@ -9547,7 +9335,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -9623,7 +9411,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -9682,20 +9470,6 @@ Nothing
 [Map189]
 <b>Norte:</b> Villa Azabache,\n<b>Sur:</b> Islote Recuerdo
 <b>Norte:</b> Villa Azabache,\n<b>Sur:</b> Islote Recuerdo
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
-En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
-¿Quieres usar un <b>Cristal Prisma</b> para atraer a un Pokémon?
-¿Quieres usar un <b>Cristal Prisma</b> para atraer a un Pokémon?
-¡Un Pokémon ha entrado en el <b>Nido Alfa</b>!
-¡Un Pokémon ha entrado en el <b>Nido Alfa</b>!
 Escúchame, persona extranjera... ¡soy fuerte psicológicamente! Perder no me supone ningún trauma.
 Escúchame, persona extranjera... ¡soy fuerte psicológicamente! Perder no me supone ningún trauma.
 En realidad... ¡llevo muy mal lo de perder! ¡Es que soy muy competitivo, jolín!
@@ -9720,10 +9494,6 @@ Tengo las piernas fuertes como un roble de tanto subir y bajar montañas. ¡No v
 Tengo las piernas fuertes como un roble de tanto subir y bajar montañas. ¡No van a flaquear tan fácilmente!
 Prueba a caminar, pero en serio, por estos senderos de montaña con un buen fardo de leña. ¡Por fuerza te pones en forma!
 Prueba a caminar, pero en serio, por estos senderos de montaña con un buen fardo de leña. ¡Por fuerza te pones en forma!
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map190]
 ¿Quieres usar el Equipo de Escalada?
@@ -9871,7 +9641,7 @@ What should \v[3] remember?
 Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
 All done, your Pokémon has remembered the move.
 <b>1ºlíder:</b> 14, <b>2ºlíder:</b> 23, <b>3ºlíder:</b> 30, <b>4ºlíder:</b> 39, <b>5ºlíder:</b> 49, <b>6ºlíder:</b> 54, <b>7ºlíder:</b> 59, <b>8ºlíder:</b> 66
-<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:< /b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
+<b>1st leader:</b> 14, <b>2nd leader:</b> 23, <b>3rd leader:</b> 30, <b>4th leader:</b> 39, <b>5th leader:</b> 49, <b>6th leader:</b> 54, <b>7th leader:</b> 59, <b>8th leader:</b> 66
 <b>Alto Mando:</b> 70-73, <b>Campeón:</b> 75
 <b>Elite Four:</b> 70-73, <b>Champion:</b> 75
 ¡Vuelve si necesitas cualquier cosa!
@@ -9928,12 +9698,12 @@ Nothing
 Nothing
 #-------------------------------
 [Map194]
-¡Defenderé el linaje de Prisma hasta las últimas consecuencias! ¡Escucha mi rugido de guerra! ¡Aaaaah!
-¡Defenderé el linaje de Prisma hasta las últimas consecuencias! ¡Escucha mi rugido de guerra! ¡Aaaaah!
-Perdona, a veces puedo ser muy apasionada. ¿Pero qué son los combates Pokémon sin una pizca de pasión desenfrenada?
-Perdona, a veces puedo ser muy apasionada. ¿Pero qué son los combates Pokémon sin una pizca de pasión desenfrenada?
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
+¡Defenderé el linaje de Prisma hasta las últimas consecuencias! ¡Escucha mi rugido de guerra! ¡Aaaaah!
+¡Defenderé el linaje de Prisma hasta las últimas consecuencias! ¡Escucha mi rugido de guerra! ¡Aaaaah!
+Perdona, a veces puedo ser muy apasionada. ¿Pero qué son los combates Pokémon sin una pizca de pasión desenfrenada?
+Perdona, a veces puedo ser muy apasionada. ¿Pero qué son los combates Pokémon sin una pizca de pasión desenfrenada?
 Vale... si adivino lo que vas a hacer, ¡me dejas ganar!
 Vale... si adivino lo que vas a hacer, ¡me dejas ganar!
 La verdad es que no sé predecir ni lo que cenaré esta noche, pero me estoy esforzando para despertar mis poderes psíquicos. Cualquiera puede lograrlo con empeño.
@@ -9942,20 +9712,6 @@ La verdad es que no sé predecir ni lo que cenaré esta noche, pero me estoy esf
 ¿Has visto a mi mujer? Creo que se ha extraviado, pero sabe cuidarse ella sola. ¿Me brindarías un duelo lleno de elegancia y estilo?
 Cada entrenador tiene su propio estilo de combate y es su misión descubrirlo y perfeccionarlo. ¿Has encontrado ya el tuyo?
 Cada entrenador tiene su propio estilo de combate y es su misión descubrirlo y perfeccionarlo. ¿Has encontrado ya el tuyo?
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
-En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
-¿Quieres usar un <b>Cristal Prisma</b> para atraer a un Pokémon?
-¿Quieres usar un <b>Cristal Prisma</b> para atraer a un Pokémon?
-¡Un Pokémon ha entrado en el <b>Nido Alfa</b>!
-¡Un Pokémon ha entrado en el <b>Nido Alfa</b>!
 ¡Hola! Antes trabajaba en el gimnasio de Ciudad Azulona, pero me despidieron por impuntual.
 ¡Hola! Antes trabajaba en el gimnasio de Ciudad Azulona, pero me despidieron por impuntual.
 Tengo mis fallos como persona, ¿y qué? ¿Acaso tú no los tienes? ¡Hasta los Pokémon tienen fallos!
@@ -10126,30 +9882,12 @@ La señora Prisma nos pidió que montáramos guardia y tratáramos de frenar tu 
 La señora Prisma nos pidió que montáramos guardia y tratáramos de frenar tu avance.
 ¡Seré fiel a mis principios hasta el final! Algún día, las generaciones venideras recordarán mi aplomo.
 ¡Seré fiel a mis principios hasta el final! Algún día, las generaciones venideras recordarán mi aplomo.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-¡Es un <b>Nido Alfa</b>! En él vive un Pokémon muy fuerte.
-En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
-En concreto, sientes la presencia de un Pokémon legendario muy poderoso.
-¿Quieres hacerlo salir?
-Do you want to make them come out?
-¡El Pokémon Alfa ha huido! Pero ha soltado un objeto tras de sí.
-The Alpha Pokémon has fled! But he has dropped an object behind it.
-El <b>Nido Alfa</b> está vacío...
-The <b>Alpha Nest</b> is empty...
-¿Quieres usar un <b>Cristal Prisma</b> para atraer a un Pokémon?
-¿Quieres usar un <b>Cristal Prisma</b> para atraer a un Pokémon?
-¡Un Pokémon ha entrado en el <b>Nido Alfa</b>!
-¡Un Pokémon ha entrado en el <b>Nido Alfa</b>!
 ¡Vas a comprobar de primera mano el poder de la Isla Prisma!
 ¡Vas a comprobar de primera mano el poder de la Isla Prisma!
 El Bosque Arcoiris no es un simple bosque, ¡es un lugar sagrado! ¡Procura no mancharlo con tu presencia!
 El Bosque Arcoiris no es un simple bosque, ¡es un lugar sagrado! ¡Procura no mancharlo con tu presencia!
 Tu maestría no tiene parangón y algún día podrías aceptar discípulos, ¿lo has pensado alguna vez?
 Tu maestría no tiene parangón y algún día podrías aceptar discípulos, ¿lo has pensado alguna vez?
-Sí
-Yes
-No
-No
 #-------------------------------
 [Map200]
 <b>???:</b> ¡Eh! ¿Tú también te has perdido? ¡Dime que conoces el camino para salir, por favor!

@@ -52,6 +52,13 @@
 07/27/2024
     - Re-implement Pokérider functionality
     - Fix town map
+    - Remove Alpha Nests
+    - Rename "Encounters" menu to PokéRadar
+    - More translations
+    - Remove old TMs/HMs in favor of Gen9 TMs
+
+
+
 
 TODO:
 Missing Features:
@@ -67,22 +74,27 @@ Nice-to-have Features
 
 
 Clean-up:
-- Remove NPCs and Events we won't be using
-    - Alpha Hives? Then how do we give key for Mew?
 - Armored Mewtwo fight:
     - Replace Blue's back asset, either remove background from ones I found or find new one with proper transparency
     - Make new Armored Mewtwo sprite include Gio?
     - Need to either remake battleback or just use a premade one
     - Can we disable status effects from working?
     - Can we disable or change the "A wild Mewtwo appeared!" message?
-- Fix TMs, randomizer is grabbing gen9 (i.e. I found TM60 and 073 Drain Punch)
 - Rival Name appears as "Blue" in battle
 - Footprints missing in Pokédex, spotted with Ivysaur
 - Update EARTHBADGE to show Urano rather than Giovanni
-- Update SOULBADGE to show Koga and Sachiko
-- Verify all battlebacks are properly set with OG battle system and assets
+    - Update SOULBADGE to show Koga and Sachiko
+    - Maybe just get rid of this plug-in for something else, it's kinda meh
 - Enemy Pokémon name cut off on "Sandy Shocks"
-- Fully replace old DEXNAV logic to have "Encounters" menu option added after it's found, maybe rename it to match
+- Add condition to PokéRadar to only appear after in game event
+- Verify all battlebacks are properly set with OG battle system and assets
+    - Route 19
+    - Cerulean Cave/Forest
+    - Change outside of Mt. Moon to use field
+    - Inside Mt. Moon (at least map where Atlas fight is) seems to just be dirt/road
+    - Cerulean City
+- Post-battle dialogue
+- Give new way to get key for Mew?
 
 
 Non-crashing Bugs:
