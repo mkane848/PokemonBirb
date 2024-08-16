@@ -159,13 +159,13 @@ module LensOfTruth
     if ($scene.eye_of_truth_time == 0)
       return true
     else
-      Kernel.pbMessage(_INTL("La Lente ya está siendo usada."))
+      Kernel.pbMessage(_INTL("The Lens is already being used."))
       return false
     end
   end
   
   ItemHandlers::UseInField.add(:LENSOFTRUTH,proc{|item|
-    Kernel.pbMessage(_INTL("¡\\PN usó Lente de la Verdad!"))
+    Kernel.pbMessage(_INTL("¡\\PN used Lens of Truth!"))
     waves = []
     star = Sprite.new
     star.z = 2

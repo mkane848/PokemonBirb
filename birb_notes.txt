@@ -58,6 +58,11 @@
     - Remove old TMs/HMs in favor of Gen9 TMs
     - Fix Rival Name not properly displaying in battle
 
+08/03/2024
+    - More translations
+
+08/16/2024
+    - More translations including Lens of Truth usage
 
 
 

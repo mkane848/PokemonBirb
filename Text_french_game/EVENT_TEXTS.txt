@@ -1615,7 +1615,7 @@ And I think it's me!
 Ahí vive un chico muy majo llamado <b>Brock</b> que es líder de gimnasio.
 A very nice boy named <b>Brock</b> lives there who is their gym leader.
 Si le vencéis, os entregará su medalla de gimnasio y podréis convertiros en <b>Aspirantes</b> para participar algún día en la <b>Liga Pokémon</b>.
-If you beat him, he will give you his gym badge and you can become <b>Applicants</b> to one day participate in the <b>Pokémon League</b>.
+If you beat him, he will give you his gym badge and you can become <b>Challengers</b> to one day participate in the <b>Pokémon League</b>.
 <b>Prof. Oak:</b> ¡No puedes irte todavía, \PN! ¡Tienes que elegir a tu Pokémon!
 <b>Prof. Oak:</b> You can't leave yet, \PN! You have to choose your Pokémon!
 \c[1]<b>\v[12]:</b>\c[0] ¡No tan rápido, \PN!
@@ -1733,7 +1733,7 @@ Surely this Pokémon trip is good for him to mature.
 Nuestra hija siempre ha sido un poco torpe, ¡pero tiene un gran corazón!
 Our daughter has always been a little clumsy, but she has a big heart!
 Muchos Aspirantes se encuentran el gimnasio cerrado al llegar aquí ya que el líder pasa la mitad del tiempo fuera de la ciudad.
-Many trainers find the gym closed when they arrive here since the leader spends half of his time out of town.
+Many Challengers find the gym closed when they arrive here since the leader spends half of his time out of town.
 ¡Menudo irresponsable, sea quien sea ese líder!
 What an irresponsible person, whoever that leader is!
 No puedo creer que el famoso <b>Prof. Oak</b> se haya fijado en nuestro hijo para entregarle un Pokémon.
@@ -1755,7 +1755,7 @@ I can't believe that the famous <b>Prof. Oak</b> has recognized our daughter and
 \rRandy: Oh, okay then.
 \rRandy: Oh, okay then.
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -1929,19 +1929,19 @@ No
 #-------------------------------
 [Map035]
 Solo aquellos Aspirantes que hayan conseguido las 8 Medallas de Gimnasio podrán tomar el camino hacia la <b>Liga Pokémon</b>.
-Only those Challengers who have earned all 8 Gym Badges will be able to take the path to the <b>Pokémon League</b>.
+Only those Challengers who have earned all eight Gym Badges will be able to take the path to the <b>Pokémon League</b>.
 Por favor, date la vuelta y no nos obligues a usar la violencia.
 Please turn around and don't force us to use violence.
 Solo aquellos que se hayan hecho con las 8 medallas de gimnasio de <b>Kanto</b> podrán pasar.
 Only those who have collected all 8 <b>Kanto</b> Gym Badges will be able to pass.
 ¡Y las has conseguido! Te damos la bienvenida, Aspirante \PN.
-And you have achieved them! We welcome you, Trainer \PN.
+And you have achieved them! We welcome you, Challenger \PN.
 Dirígete al <b>Monte Plateado</b> para empezar tu última prueba antes de la <b>Liga Pokémon</b>.
 Head to <b>Mt. Silver</b> to begin your last test before the <b>Pokémon League</b>.
 Para pasar por aquí, debes de haberte hecho con las 8 medallas de gimnasio de <b>Céfira Este</b>...
 To pass through here, you must have obtained the 8 gym badges from <b>East Céfira</b>...
 ¡Lo cual es así! Te damos la bienvenida, Aspirante \PN.
-And so you have! We welcome you, Trainer \PN.
+And so you have! We welcome you, Challenger \PN.
 Ten cuidado en la <b>Calle Victoria</b>, cada entrenador dará lo mejor de sí mismo para tratar de frenar tu avance.
 Be careful on <b>Victory Road</b>, each trainer will do their best to try to stop your progress.
 ¡Confío en ti y en tus Pokémon! Solo de esa manera podrás salir adelante.
@@ -1953,7 +1953,7 @@ I can't believe it! You've seen <b>Team Rocket</b> heading to <b>Mt. Moon</b>!
 Llevaban un tiempo muy tranquilitos, espero que no vuelvan a hacer ninguna fechoría...
 They've been very calm for a while, I hope they don't do anything wrong again...
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -2097,7 +2097,7 @@ They have more and more influence everywhere. Apparently they handle a lot of mo
 La verdad, no quiero que mis hijas crezcan en un mundo donde esos canallas lo controlan todo.
 The truth is, I don't want my daughters to grow up in a world where those scoundrels control everything.
 ¡Eh! ¡Tú eres Aspirante!
-Hey! You're a trainer!
+Hey! You're a Challenger!
 Pues te voy a contar un secreto: ¿has visto ese edificio grande de oficinas?
 Well, I'm going to tell you a secret: have you seen that big office building?
 Pues hay una entrada secreta trasera, aunque no sé muy bien cómo acceder a ella.
@@ -2365,7 +2365,7 @@ No
 <b>Brock:</b> No todos los días llegan <b>Aspirantes</b> con tanto potencial, o por lo menos eso es lo que me has demostrado antes contra el <b>Team Rocket</b>.
 <b>Brock:</b> It's not every day that <b>Challengers</b> arrive with so much potential, or at least what you showed me before against <b>Team Rocket</b>.
 \Pero, dime... ¿sabes lo que representan mis Pokémon de tipo Roca?
-\Pero, dime... ¿sabes lo que representan mis Pokémon de tipo Roca?
+\But tell me...do you know what my Rock-type Pokémon represent?
 Se tratan de Pokémon resistentes, estoicos, duraderos... ¡un tipo de Pokémon de los que intento aprender cada día!
 They're resistant, stoic, durable Pokémon...a type of Pokémon that I try to learn from every day!
 Voy a mostrarte en combate de lo que estoy hablando, ¡prepárate para tu primer combate contra un líder de gimnasio!
@@ -2599,7 +2599,7 @@ No
 #-------------------------------
 [Map048]
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -2761,7 +2761,7 @@ No
 #-------------------------------
 [Map051]
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challengerr! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -2829,7 +2829,7 @@ No
 #-------------------------------
 [Map052]
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -3947,7 +3947,7 @@ Not only are the wild Pokémon tough, but there will also be other Mountaineers 
 \rRandy: Oh, okay then.
 \rRandy: Oh, okay then.
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -4179,7 +4179,7 @@ Umm...
 ¿Ves a esa Exorcista? Dicen que puede ver el futuro, aunque yo creo que se trata de una simple estafa...
 Do you see that Exorcist? They say she can see the future, but I think it's just a scam...
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -4453,7 +4453,7 @@ No
 #-------------------------------
 [Map081]
 ¡Hola, aspirante! La bella líder <b>Erika</b> es especialista en el tipo Planta.
-¡Hola, aspirante! La bella líder <b>Erika</b> es especialista en el tipo Planta.
+Yo! Champ in the making! The beautiful leader <b>Erika</b> is a Grass-type specialist.
 Para enfrentarte a ella, puedes usar movimientos de tipo Fuego, Volador, Bicho, Hielo, Veneno...
 Para enfrentarte a ella, puedes usar movimientos de tipo Fuego, Volador, Bicho, Hielo, Veneno...
 Es un tipo con muchas debilidades, pero aún así no debes subestimarlo.
@@ -6431,7 +6431,7 @@ Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -6515,7 +6515,7 @@ Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -6741,7 +6741,7 @@ Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -6883,7 +6883,7 @@ Thank you for waiting. We've restored your Pokémon to full health.
 Estamos a tu servicio.
 We hope to see you again!
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -7023,7 +7023,7 @@ What benefit does the Flame Charge move give you?
 ¿Cómo se llama la baya que cura las quemaduras?
 What is the name of the berry that cures burns?
 <b>Consejero:</b> ¡Hola, aspirante! Verás, en este gimnasio...
-<b>Counselor:</b> Hello, trainer! You see, in this gym...
+<b>Counselor:</b> Yo! Champ in the making! You see, in this gym...
 <b>Blaine:</b> ¡Primer acertijo, \PN!
 <b>Blaine:</b> First riddle, \PN!
 ¿Qué tipo de Pokémon son los más calentitos para abrazarlos en una noche de invierno?
@@ -7219,7 +7219,7 @@ They're equal
 #-------------------------------
 [Map132]
 ¡Saludos, Aspirante!
-Greetings, Trainer!
+Greetings, Challenger!
 Una vez que cruces el umbral de esta puerta, ya no habrá vuelta atrás: dará comienzo tu desafío de la <b>Liga Pokémon</b>.
 Once you cross the threshold of this door, there's no turning back: your <b>Pokémon League</b> challenge has begun.
 Permíteme explicarte algunas normas y aclaraciones de cómo funcionará el reto.
@@ -7231,7 +7231,7 @@ You will not be able to leave the <b>Pokémon League</b> until you complete the 
 Explicado todo esto, ¿quieres continuar?
 With all this explained, do you want to continue?
 Buena suerte, Aspirante.
-Good luck, Trainer.
+Good luck, Challenger.
 Muy bien, ¡vuelve cuando lo tengas todo listo!
 Okay, come back when you're ready!
 ¡Enhorabuena por tu victoria en la <b>Liga Pokémon</b>!
@@ -7239,7 +7239,7 @@ Congratulations on your victory in the <b>Pokémon League</b>!
 El año que viene volverá a celebrarse y, si lo deseas, podrás defender tu título de Campeón contra nuevos Aspirantes.
 It will be held again next year and, if you wish, you will be able to defend your Champion title against new Trainers.
 A un Aspirante le entró un ataque de pánico hace un par de años.
-A Trainer had a panic attack a couple of years ago.
+A Challenger had a panic attack a couple of years ago.
 Tuve que usar a mi querido Abra para que pudiese viajar a casa y que sus padres le dieran ánimos.
 I had to use my beloved Abra so he could travel home and get his parents to cheer him up.
 Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
@@ -7267,11 +7267,11 @@ You have lost the Nuzlocke challenge, you have failed all the Pokémon that have
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
 You can continue playing as normal, but remember that you have failed.
 Si yo, que no voy a combatir, estoy nervioso, ¿cómo deben de sentirse los Aspirantes?
-If I, who's not even going to fight, am nervous, how must the Trainers feel?
+If I, who's not even going to fight, am nervous, how must the Challengers feel?
 Los 4 <b>Altos Mandos</b> te pondrán a prueba, uno por uno.
 The <b>Elite Four</b> will test you, one by one.
 Te curarán entre combate y combate, eso sí. Tiene que ser justo para el Aspirante.
-You will be healed between fights, though. It has to be fair to the Trainer.
+You will be healed between fights, though. It has to be fair to the Challenger.
 Sí
 Yes
 No
@@ -7321,7 +7321,7 @@ We hope to see you again!
 \c[3]<b>Hoja:</b>\c[0] Uf, puf... menuda rutita más larga, ¿no, \PN? Casi me pierdo por el camino.
 \c[3]<b>Leaf:</b>\c[0] Phew... what a long route, huh, \PN? I almost got lost along the way.
 ¿Sabes? Las estadísticas dicen que es en este punto donde los Aspirantes empiezan a rendirse porque los líderes de gimnasio se vuelven mucho más complicados.
-You know, statistics say that this is where Trainers start to give up because Gym Leaders become much more difficult.
+You know, statistics say that this is where Challengers start to give up because Gym Leaders become much more difficult.
 \c[3]<b>Hoja:</b>\c[0] Así que, ¿un combatito rápido? Necesito saber si estoy lista para lo que se viene.
 \c[3]<b>Leaf:</b>\c[0] So how about a quick battle? I need to see if I'm ready for what's coming.
 Y no creas que esta vez me vendré abajo si pierdo, ¿eh? ¡Eso pertenece al pasado!
@@ -7511,7 +7511,7 @@ Who wants psychic powers when you can end any Pokémon battle with one powerful 
 ¡Espero que demuestres la superioridad del tipo Lucha allá donde vayas!
 I hope you demonstrate the superiority of the Fighting type wherever you go!
 La líder <b>Sabrina</b> tiene muy mala fama entre todos los Aspirantes.
-Gym Leader <b>Sabrina</b> has a very bad reputation among Trainers.
+Gym Leader <b>Sabrina</b> has a very bad reputation among Challengers.
 A pesar de no ser la líder de mayor nivel, se la considera una de las más complicadas por las estrategias que utiliza.
 Despite not being the highest level leader, she is considered one of the most difficult due to the strategies she uses.
 La ciudad se ha vuelto insegura últimamente entre el <b>Team Rocket</b>, los Motoristas y maleantes de otra índole.
@@ -7935,7 +7935,7 @@ Stop! Your climb up Victory Road will be over before it even begins!
 ¡Suerte en el Monte Plateado! Me temo que la vas a necesitar...
 Good luck on <b>Mt. Silver</b>! I'm afraid you're going to need it...
 Si has llegado hasta aquí es que vales bastante, ¡tengamos un combate entre Aspirantes!
-If you've made it this far, you're a worthy challenger. Let's battle!
+If you've made it this far, you're a worthy Challenger. Let's battle!
 He visto a una dama vestida con kimono, ¿qué andará haciendo en un lugar como este?
 I saw a lady dressed in a kimono. What's she doing in a place like this?
 Estaba haciendo fotos cuando he visto a una señora vestida de forma extraña. ¡Qué susto me he llevado!
@@ -8031,7 +8031,7 @@ No
 #-------------------------------
 [Map159]
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -8201,7 +8201,7 @@ Excitement? Insecurity? Serenity?
 Todos ellos amaban a los Pokémon de alguna forma distinta. ¡Incluso los miembros del <b>Team Rocket</b> tenían lazos de compañerismo con sus Pokémon!
 They all loved Pokémon in their own way. Even the members of <b>Team Rocket</b> had bonds of companionship with their Pokémon!
 Nosotros solo elegimos la vía del Aspirante, pero hay todo un mundo de posibilidades de vivir la vida junto a tus compañeros.
-We only choose the Trainer path, but there's a whole world of possibilities to live life alongside your companions.
+We chose the Challenger's path, but there's a whole world of possibilities to live life alongside your companions.
 \c[3]<b>Hoja:</b>\c[0] Es por eso que voy a combatir contigo por última vez aquí y ahora, \PN.
 \c[3]<b>Leaf:</b>\c[0] That's why I'm going to fight you for the last time here and now, \PN.
 ¡Muéstrame lo que tienes que decir!
@@ -8255,7 +8255,7 @@ We don't know who her successor will be yet, but there's a lot of talk about a s
 ¿Quieres usar el Equipo de Escalada?
 Do you want to use Climbing Equipment?
 Yo era un Aspirante, como tú, pero perdí contra la líder de gimnasio <b>Sabrina</b>.
-I wanted to take on the Elite Four, like you, but I lost to Gym Leader <b>Sabrina</b>.
+I wanted to take on the <b>Elite Four</b>, like you, but I lost to Gym Leader <b>Sabrina</b>.
 Aún así, he venido para ver los combates de la <b>Liga Pokémon</b>. ¡Tal vez saque motivación para volver a intentarlo el año que viene!
 Still, I came here to watch the <b>Pokémon League</b> battles. Maybe I'll get some motivation to try again next year!
 El <b>Hostal Añil</b> está a rebosar de viajeros de todas partes.
@@ -8271,7 +8271,7 @@ Don't worry and trust our work! Visitor safety is the most important thing to us
 <b>Ciudad Añil</b>, la melancolía azulada de un viaje que llega a su final.
 <b>Indigo City</b>, the blue melancholy of a journey reaching its end.
 Este año solo 2 Aspirantes han logrado derrotar a los 8 líderes de gimnasio y llegar hasta la <b>Liga Pokémon</b>.
-Only two Trainers have managed to defeat the 8 Gym Leaders and reach the <b>Pokémon League</b> this year.
+Only two Challengers have managed to defeat the 8 Gym Leaders and reach the <b>Pokémon League</b> this year.
 ¿Tendremos nuevo Campeón de <b>Kanto</b>? ¿O nueva Campeona?
 Will we have a new <b>Kanto</b> Champion?
 ¿Ese es el edificio donde van a combatir los entrenadores? ¡Es enorme!
@@ -8321,7 +8321,7 @@ Do I make myself clear? This isn't over yet!
 \c[2]<b>Rojo:</b>\c[0] ¿Pero qué Beedrill te ha picado ahora?
 \c[2]<b>Red:</b>\c[0]  What Beedrill has stung you now?
 \c[1]<b>\v[12]:</b>\c[0] ¿De qué sirve seguir si me tienen que ayudar? Soy un Aspirante que participará en la <b>Liga Pokémon</b>, ¿no?
-\c[1]<b>\v[12]:</b>\c[0] What's the point of continuing if you have to help me? I'm a Trainer who will participate in the <b>Pokémon League</b>, right?
+\c[1]<b>\v[12]:</b>\c[0] What's the point of continuing if you have to help me? I'm a Challenger who'll participate in the <b>Pokémon League</b>, right?
 Si no puedo superar un obstáculo como este, ¡significa que soy un farsante y que ya me puedo volver a casa!
 If I can't overcome an obstacle like this, it means I'm a fraud and I can just go home now!
 Y si algún día mi abuelo nos necesita para alguna otra cosa...\nProbablemente querrá contar con \PN, o contigo.
@@ -8487,425 +8487,425 @@ No
 #-------------------------------
 [Map172]
 <b>Lance:</b> Hacía tiempo que no aguardaba un combate con tanto ahinco, Aspirante \PN.
-<b>Lance:</b> Hacía tiempo que no aguardaba un combate con tanto ahinco, Aspirante \PN.
+<b>Lance:</b> It's been a while since I've looked forward to a fight this eagerly, Challenger \PN.
 Ya me demostraste muchas cosas contra el <b>Team Rocket</b>, pero es el momento de abandonar las medias tintas.
-Ya me demostraste muchas cosas contra el <b>Team Rocket</b>, pero es el momento de abandonar las medias tintas.
+You've already shown me a lot of things against Team Rocket, but the time for half-measures is over.
 Supongo que ya te habrás familiarizado con los Pokémon de tipo Dragón. Son criaturas formidables, casi de leyenda.
-Supongo que ya te habrás familiarizado con los Pokémon de tipo Dragón. Son criaturas formidables, casi de leyenda.
+I'm sure you're already familiar with Dragon-type Pokémon. They're formidable creatures, almost legendary.
 En las manos adecuadas, prácticamente no tienen puntos débiles. ¡Son casi invencibles!
-En las manos adecuadas, prácticamente no tienen puntos débiles. ¡Son casi invencibles!
+In the right hands, they have virtually no weak points. They're almost invincible!
 Bien, ¿sabes ya que vas a perder? ¡Yo, <b>Lance</b>, el último de los miembros del <b>Alto Mando</b>, pondré fin a tu paso por la <b>Liga Pokémon</b>!
-Bien, ¿sabes ya que vas a perder? ¡Yo, <b>Lance</b>, el último de los miembros del <b>Alto Mando</b>, pondré fin a tu paso por la <b>Liga Pokémon</b>!
+Well, do you already know that you're going to lose? I, <b>Lance</b>, the last of the <b>Elite Four</b>, will end your time in the <b>Pokémon League</b>!
 <b>Lance:</b> ¡No puedo creer que hayas logrado derrotar a mis temibles dragones! Sin duda, tu maestría es digna de alabanzas.
-<b>Lance:</b> ¡No puedo creer que hayas logrado derrotar a mis temibles dragones! Sin duda, tu maestría es digna de alabanzas.
+<b>Lance:</b> I can't believe you managed to defeat my fearsome dragons! Without a doubt, your mastery is worthy of praise.
 Te has convertido en el Campeón de <b>Kanto</b>. Es decir, ¡el entrenador más fuerte de toda la región!
-Te has convertido en el Campeón de <b>Kanto</b>. Es decir, ¡el entrenador más fuerte de toda la región!
+You have become the Champion of <b>Kanto</b>. The strongest trainer in the entire region!
 Te has convertido en la Campeona de <b>Kanto</b>. Es decir, ¡la entrenadora más fuerte de toda la región!
-Te has convertido en la Campeona de <b>Kanto</b>. Es decir, ¡la entrenadora más fuerte de toda la región!
+You have become the Champion of <b>Kanto</b>. The strongest trainer in the entire region!
 <b>Lance:</b> ...
 <b>Lance:</b> ...
 <b>Lance:</b> O eso es lo que diría... si no fuera porque ha ocurrido una curiosa eventualidad.
-<b>Lance:</b> O eso es lo que diría... si no fuera porque ha ocurrido una curiosa eventualidad.
+<b>Lance:</b> Or so I would say...if it weren't for a curious turn of events.
 Verás, este año sois dos los Aspirantes que habéis logrado derrotar a los 4 miembros del <b>Alto Mando</b>.
-Verás, este año sois dos los Aspirantes que habéis logrado derrotar a los 4 miembros del <b>Alto Mando</b>.
+You see, there are two of you Challengers who've managed to defeat the the <b>Elite Four</b> this year.
 Aparte de ti, quien también lo ha logrado hace unas horas es \v[12].
-Aparte de ti, quien también lo ha logrado hace unas horas es \v[12].
+You, and the one who achieved it a few hours ago...\v[12].
 Esto no suele ser habitual, pero ahora tendréis que enfrentaros entre vosotros para decidir quién se lleva el legítimo título de Campeón.
-Esto no suele ser habitual, pero ahora tendréis que enfrentaros entre vosotros para decidir quién se lleva el legítimo título de Campeón.
+This isn't usually the case, but you'll now have to face each other to decide who takes the rightful title of Champion.
 ¡Oye! ¡No queremos perdernos eso por nada del mundo!
-¡Oye! ¡No queremos perdernos eso por nada del mundo!
+Hey! We wouldn't miss it for the world!
 <b>Lance:</b> ¿Qué hacéis aquí todavía? ¡Vuestra jornada laboral ha terminado!
-<b>Lance:</b> ¿Qué hacéis aquí todavía? ¡Vuestra jornada laboral ha terminado!
+<b>Lance:</b> What are you all still doing here? Your workday is over!
 <b>Agatha:</b> ¿Y perdernos el que puede ser el combate Pokémon de la década? ¡Eso ni soñarlo!
-<b>Agatha:</b> ¿Y perdernos el que puede ser el combate Pokémon de la década? ¡Eso ni soñarlo!
+<b>Agatha:</b> And miss what could be THE Pokémon battle of the decade? Out of the question!
 <b>Bruno:</b> Somos miembros del <b>Alto Mando</b>, pero también somos entrenadores apasionados, <b>Lance</b>.
-<b>Bruno:</b> Somos miembros del <b>Alto Mando</b>, pero también somos entrenadores apasionados, <b>Lance</b>.
+<b>Bruno:</b> We're members of the <b>Elite Four</b>, but we're also passionate trainers, <b>Lance</b>.
 <b>Lance:</b> Esto no es nada profesional. No se nos permite estar de espectadores, estorbando en la pista de combate.
-<b>Lance:</b> Esto no es nada profesional. No se nos permite estar de espectadores, estorbando en la pista de combate.
+<b>Lance:</b> This is unprofessional. We're not allowed to be spectators, getting in the way of the fight arena.
 <b>Lorelei:</b> ¡Deja de ser tan correcto, que no va a pasar nada! Llevar todo el día esa capa te está empezando a afectar demasiado.
-<b>Lorelei:</b> ¡Deja de ser tan correcto, que no va a pasar nada! Llevar todo el día esa capa te está empezando a afectar demasiado.
+<b>Lorelei:</b> Stop being so proper, nothing's going to happen! Wearing that cape all day is starting to get to you.
 <b>Lance:</b> ¡La Comisión de la <b>Liga Pokémon</b> nos va a cantar las cuarenta! Pero yo no me hago responsable.
-<b>Lance:</b> ¡La Comisión de la <b>Liga Pokémon</b> nos va a cantar las cuarenta! Pero yo no me hago responsable.
+<b>Lance:</b> The <b>Pokémon League</b> Commission is going to tell us off! But don't blame me.
 ¡Venga, vamos! Tú también, \PN. Pisa esa baldosa teletransportadora y llegarás al lugar del enfrentamiento final contra \v[12].
-¡Venga, vamos! Tú también, \PN. Pisa esa baldosa teletransportadora y llegarás al lugar del enfrentamiento final contra \v[12].
+Alright, let's go! You too, \PN. Step on that teleporter tile and you'll arrive at the final showdown location against \v[12].
 Tu ascenso en la <b>Liga Pokémon</b> continúa, Aspirante.
-Tu ascenso en la <b>Liga Pokémon</b> continúa, Aspirante.
+Your rise in the <b>Pokémon League</b> continues, Challenger.
 Cruza el pasillo para encontrarte con tu próximo oponente.
-Cruza el pasillo para encontrarte con tu próximo oponente.
+Cross the hall to meet your next opponent.
 <b>Lorelei:</b> ¡Te estaba esperando, \PN!
-<b>Lorelei:</b> ¡Te estaba esperando, \PN!
+<b>Lorelei:</b> I've been waiting for you, \PN!
 Ya me llamaste la atención en nuestro primer encuentro en la entrada del <b>Túnel Roca</b>, pero ahora es el momento de probar tu valor como Aspirante.
-Ya me llamaste la atención en nuestro primer encuentro en la entrada del <b>Túnel Roca</b>, pero ahora es el momento de probar tu valor como Aspirante.
+You already caught my attention during our first meeting at the entrance to the <b>Rock Tunnel</b>, but now it's time to prove your worth as a Trainer.
 Así que me presento formalmente, ¡soy <b>Lorelei</b>, del <b>Alto Mando</b>, y mis técnicas de tipo Hielo no han conocido rival!
-Así que me presento formalmente, ¡soy <b>Lorelei</b>, del <b>Alto Mando</b>, y mis técnicas de tipo Hielo no han conocido rival!
+So let me formally introduce myself - I am <b>Lorelei</b>, of the <b>Elite Four</b>, and my Ice-type techniques are unrivaled!
 Cuando congele a tus Pokémon, ¡estarán a mi merced! No podrán hacer nada para defenderse.
-Cuando congele a tus Pokémon, ¡estarán a mi merced! No podrán hacer nada para defenderse.
+When I freeze your Pokémon, they'll be at my mercy! They won't be able to do anything to defend themselves.
 ¿Todo listo para empezar a combatir, entonces? ¡Te espera un desafío de 20 grados bajo cero! ¡Comencemos!
-¿Todo listo para empezar a combatir, entonces? ¡Te espera un desafío de 20 grados bajo cero! ¡Comencemos!
+Ready to start the battle, then? A challenge of 20 degrees below zero awaits you! Let's get started!
 <b>Lorelei:</b> Ahora he podido comprobar en persona lo fuerte que te has vuelto con el tiempo.
-<b>Lorelei:</b> Ahora he podido comprobar en persona lo fuerte que te has vuelto con el tiempo.
+Now I've been able to see firsthand how strong you've become.
 Puedes continuar, pero ten en cuenta que este combate era un mero aperitivo.
-Puedes continuar, pero ten en cuenta que este combate era un mero aperitivo.
+You can continue, but keep in mind that this fight was just the beginning.
 ¡La <b>Liga Pokémon</b> aún te reserva grandes sorpresas! ¡Jijiji!
-¡La <b>Liga Pokémon</b> aún te reserva grandes sorpresas! ¡Jijiji!
+The <b>Pokémon League</b> still has some great surprises in store for you! Hee-hee!
 No puedes continuar hasta que derrotes al <b>Alto Mando</b> de esta sala.
-No puedes continuar hasta que derrotes al <b>Alto Mando</b> de esta sala.
+You cannot continue until you defeat the <b>Elite Four</b> member in this room.
 ¡Una gran victoria, Aspirante! Déjame curar a tu equipo Pokémon, por favor.
-¡Una gran victoria, Aspirante! Déjame curar a tu equipo Pokémon, por favor.
+A great victory, Challenger! Please let me heal your Pokémon team.
 Tu ascenso en la <b>Liga Pokémon</b> continúa.
-Tu ascenso en la <b>Liga Pokémon</b> continúa.
+Your rise in the <b>Pokémon League</b> continues.
 <b>Bruno:</b> Es un honor poder batirme con alguien de tu talla, \PN.
-<b>Bruno:</b> Es un honor poder batirme con alguien de tu talla, \PN.
+<b>Bruno:</b> It's an honor to be able to compete against someone of your stature, \PN.
 Yo, <b>Bruno</b>, <b>Alto Mando</b> y Maestro del tipo Lucha, te saludo.
-Yo, <b>Bruno</b>, <b>Alto Mando</b> y Maestro del tipo Lucha, te saludo.
+I, <b>Bruno</b>, member of the <b>Elite Four</b> and Master of the Fighting-type, greet you.
 Con el suficiente entrenamiento, tanto personas como Pokémon pueden romper sus límites y alcanzar la mejor versión de sí mismos.
-Con el suficiente entrenamiento, tanto personas como Pokémon pueden romper sus límites y alcanzar la mejor versión de sí mismos.
+With enough training, both people and Pokémon can break through their limits and become the best version of themselves.
 ¡Y yo hoy he venido a seguir rompiendo esos límites! ¡Te demostraré la gran fuerza que puedo llegar a tener!
-¡Y yo hoy he venido a seguir rompiendo esos límites! ¡Te demostraré la gran fuerza que puedo llegar a tener!
+And today I have come to continue breaking those limits! I'll show you how strong I am!
 ¡Al ataque, Aspirante!
-¡Al ataque, Aspirante!
+Attack, Challenger!
 <b>Bruno:</b> Puesto que me has ganado, mi trabajo contigo ha terminado.
-<b>Bruno:</b> Puesto que me has ganado, mi trabajo contigo ha terminado.
+<b>Bruno:</b> Since you have defeated me, my work with you is done.
 Este combate me inspirará para seguir fortaleciéndome, ¡aún me queda mucho camino por recorrer!
-Este combate me inspirará para seguir fortaleciéndome, ¡aún me queda mucho camino por recorrer!
+This fight has inspired me to keep getting stronger, I still have a long way to go!
 Así que, ¡gracias por la dosis de motivación, \PN! ¡Sigue hacia tu próximo desafío!
-Así que, ¡gracias por la dosis de motivación, \PN! ¡Sigue hacia tu próximo desafío!
+Thank you for the dose of motivation, \PN! Continue on to your next challenge!
 <b>Agatha:</b> Criaturita, ¿sabes acaso dónde te estás metiendo?
-<b>Agatha:</b> Criaturita, ¿sabes acaso dónde te estás metiendo?
+<b>Agatha:</b> Little one, do you even know what you're getting yourself into?
 Estás a punto de enfrentarte a todo el poder de un espíritu que ha acumulado décadas y décadas de grandes batallas.
-Estás a punto de enfrentarte a todo el poder de un espíritu que ha acumulado décadas y décadas de grandes batallas.
+You're about to face the full power of a spirit that has accumulated decades and decades of battle experience.
 ¿Sabes? Yo no soy como ese viejo carcamal de <b>Oak</b>, que se pasa el día trasteando con su <b>Pokédex</b>.
-¿Sabes? Yo no soy como ese viejo carcamal de <b>Oak</b>, que se pasa el día trasteando con su <b>Pokédex</b>.
+You know, I'm not like that old fogey <b>Oak</b>, who spends all day messing around with his <b>Pokédex</b>.
 ¡Para mí los Pokémon están para combatir, no para coleccionarlos!
-¡Para mí los Pokémon están para combatir, no para coleccionarlos!
+For me, Pokémon are for battling, not collecting!
 ¡Presta atención a la sabiduría que va a impartirte <b>Agatha</b> del <b>Alto Mando</b>, Aspirante!
-¡Presta atención a la sabiduría que va a impartirte <b>Agatha</b> del <b>Alto Mando</b>, Aspirante!
+Heed the wisdom that <b>Agatha</b> of the <b>Elite Four</b> has shared with you, Challenger!
 <b>Agatha:</b> Has ganado y ya no tengo nada más que enseñarte. Ahora entiendo de verdad qué vio en ti ese vejestorio.
-<b>Agatha:</b> Has ganado y ya no tengo nada más que enseñarte. Ahora entiendo de verdad qué vio en ti ese vejestorio.
+<b>Agatha:</b> You've won, and I have nothing more to show you. Now I truly understand what that old man saw in you.
 Has de saber que este era mi último combate en la <b>Liga Pokémon</b>, ya que tengo pensado jubilarme y cederle el testigo a otra joven promesa, como tú.
-Has de saber que este era mi último combate en la <b>Liga Pokémon</b>, ya que tengo pensado jubilarme y cederle el testigo a otra joven promesa, como tú.
+You should know that this was my last fight in the <b>Pokémon League</b>. I plan to retire and pass the baton to another promising youth, like you.
 Gracias por esta última lección, \PN. Te deseo suerte en tu siguiente combate, que será mucho más duro que este.
-Gracias por esta última lección, \PN. Te deseo suerte en tu siguiente combate, que será mucho más duro que este.
+Thank you for this last lesson, \PN. I wish you luck in your next fight, which will be much tougher than this one.
 #-------------------------------
 [Map173]
 \c[1]<b>\v[12]:</b>\c[0] \PN...
 \c[1]<b>\v[12]:</b>\c[0] \PN...
 Al final, ambos hemos llegado a la cima.
-Al final, ambos hemos llegado a la cima.
+In the end, we both made it to the top.
 El problema es que solo hay espacio para uno de los dos. Menudo dilema, ¿eh?
-El problema es que solo hay espacio para uno de los dos. Menudo dilema, ¿eh?
+The only problem is that there's only room for one. Quite a dilemma, eh?
 <b>Agatha:</b> ¡Esperad! ¡No empecéis todavía!
-<b>Agatha:</b> ¡Esperad! ¡No empecéis todavía!
+<b>Agatha:</b> Wait! Don't start yet!
 Me confirman que está a punto de llegar un invitado de última hora.
-Me confirman que está a punto de llegar un invitado de última hora.
+I just got confirmation that a last-minute guest is about to arrive.
 <b>Lance:</b> ¿Pero queréis dejar de invitar a medio planeta?
-<b>Lance:</b> ¿Pero queréis dejar de invitar a medio planeta?
+<b>Lance:</b> Would you mind not inviting half the planet?
 ¡Sois incorregibles!
-¡Sois incorregibles!
+You're incorrigible!
 \c[1]<b>\v[12]:</b>\c[0] ¡Pe-pero... abuelo! ¿Cómo te han dejado entrar?
-\c[1]<b>\v[12]:</b>\c[0] ¡Pe-pero... abuelo! ¿Cómo te han dejado entrar?
+\c[1]<b>\v[12]:</b>\c[0] B-but...Grandpa! How did they let you in?
 <b>Lorelei:</b> La persona que corone al nuevo Campeón tiene que ser una figura ilustre en nuestra región.
-<b>Lorelei:</b> La persona que corone al nuevo Campeón tiene que ser una figura ilustre en nuestra región.
+<b>Lorelei:</b> The person who crowns the new Champion has to be an illustrious figure in our region.
 ¿Y quién mejor que el <b>Profesor Oak</b>, el inventor de la <b>Pokédex</b>?
-¿Y quién mejor que el <b>Profesor Oak</b>, el inventor de la <b>Pokédex</b>?
+And who better than <b>Professor Oak</b>, the inventor of the <b>Pokédex</b>?
 \c[1]<b>\v[12]:</b>\c[0] ...
 \c[1]<b>\v[12]:</b>\c[0] ...
 \c[1]<b>\v[12]:</b>\c[0] Abuelo, yo...
-\c[1]<b>\v[12]:</b>\c[0] Abuelo, yo...
+\c[1]<b>\v[12]:</b>\c[0] Grandpa, I...
 <b>Profesor Oak:</b> Sé lo que vas a decir y te lo puedes ir ahorrando, \v[12].
-<b>Profesor Oak:</b> Sé lo que vas a decir y te lo puedes ir ahorrando, \v[12].
+<b>Profesor Oak:</b> I know what you're going to say, and you can save it, \v[12].
 La verdad es que me es indiferente quién de vosotros dos se convierta en el Campeón.
-La verdad es que me es indiferente quién de vosotros dos se convierta en el Campeón.
+The truth is, I don't care which of you two becomes the Champion.
 Podrías haber llegado hasta aquí, ¡o no! También podrías haberlo dejado tras conseguir solo unas pocas medallas de gimnasio.
-Podrías haber llegado hasta aquí, ¡o no! También podrías haberlo dejado tras conseguir solo unas pocas medallas de gimnasio.
+You could have made it this far, or not! You could have quit after only getting a few Gym Badges.
 <b>Profesor Oak:</b> Nada de eso cambiaría lo orgulloso que me siento de ti.
-<b>Profesor Oak:</b> Nada de eso cambiaría lo orgulloso que me siento de ti.
+<b>Profesor Oak:</b> None of that would change how proud I am of you.
 <b>Profesor Oak:</b> Solo pido una cosa, a los dos. ¡Disfrutad de este combate! ¡Pasadlo bien junto a vuestros Pokémon!
-<b>Profesor Oak:</b> Solo pido una cosa, a los dos. ¡Disfrutad de este combate! ¡Pasadlo bien junto a vuestros Pokémon!
+<b>Profesor Oak:</b> I only ask one thing of you both. Enjoy this battle! Have fun with your Pokémon!
 \c[1]<b>\v[12]:</b>\c[0] Muy bien.
-\c[1]<b>\v[12]:</b>\c[0] Muy bien.
+\c[1]<b>\v[12]:</b>\c[0] Very good.
 Añadiría algo más, \PN, pero ya sabes lo que implica estar aquí. ¿Verdad?
-Añadiría algo más, \PN, pero ya sabes lo que implica estar aquí. ¿Verdad?
+I would add something else, \PN, but you already know what it means to be here. Right?
 Te lo diré...
-Te lo diré...
+I'll tell you...
 \c[1]<b>\v[12]:</b>\c[0] ¡Tú y yo somos los mejores entrenadores del mundo!
-\c[1]<b>\v[12]:</b>\c[0] ¡Tú y yo somos los mejores entrenadores del mundo!
+\c[1]<b>\v[12]:</b>\c[0] You and I are the best trainers in the world!
 \c[1]<b>\v[12]:</b>\c[0] ¡Pues hasta aquí llega mi corto reinado! ¡Pero ha sido increíble, jajaja!
-\c[1]<b>\v[12]:</b>\c[0] ¡Pues hasta aquí llega mi corto reinado! ¡Pero ha sido increíble, jajaja!
+\c[1]<b>\v[12]:</b>\c[0] Well, that's it for my short reign! But it's been amazing, hahaha!
 <b>Lance:</b> Ambos nos habéis regalado un combate formidable de los que hacen historia.
-<b>Lance:</b> Ambos nos habéis regalado un combate formidable de los que hacen historia.
+<b>Lance:</b> You both gave us a formidable fight that will go down in history.
 ¡La <b>Liga Pokémon</b> no lo olvidará!
-¡La <b>Liga Pokémon</b> no lo olvidará!
+The <b>Pokémon League</b> won't forget it!
 <b>Bruno:</b> Yo me he emocionado tanto que... ¡creo que voy a llorar!
-<b>Bruno:</b> Yo me he emocionado tanto que... ¡creo que voy a llorar!
+<b>Bruno:</b> I got so emotional that...I think I'm going to cry!
 <b>Profesor Oak:</b> ¡Coincido! Ambos habéis estado geniales.
-<b>Profesor Oak:</b> ¡Coincido! Ambos habéis estado geniales.
+<b>Profesor Oak:</b> I agree! You two were great.
 No solo habéis madurado como personas, sino que el vínculo que os une a vuestros Pokémon es digno de los mejores maestros.
-No solo habéis madurado como personas, sino que el vínculo que os une a vuestros Pokémon es digno de los mejores maestros.
+Not only have you matured as people, but the bond that unites you with your Pokémon is truly Master-level.
 Y así, ambos habéis conquistado la gloria.
-Y así, ambos habéis conquistado la gloria.
+And so, you have both achieved glory.
 Ahora, acercaos a la copa, por favor.
-Ahora, acercaos a la copa, por favor.
+Now, please come closer to the glass.
 <b>Profesor Oak:</b> ¡Aaay! ¿Sabéis una cosa? Yo también estuve muy cerca de esta copa hace mucho tiempo.
-<b>Profesor Oak:</b> ¡Aaay! ¿Sabéis una cosa? Yo también estuve muy cerca de esta copa hace mucho tiempo.
+<b>Profesor Oak:</b> Hey! You know what? I was very close to this cup a long time ago, too.
 <b>Profesor Oak:</b> ¡Pero cierta personita se cruzó en mi camino!
-<b>Profesor Oak:</b> ¡Pero cierta personita se cruzó en mi camino!
+<b>Profesor Oak:</b> But a certain little someone crossed my path!
 <b>Agatha:</b> ¡Lo sabía! Aún me guardas rencor, ¿eh?
-<b>Agatha:</b> ¡Lo sabía! Aún me guardas rencor, ¿eh?
+<b>Agatha:</b> I knew it! You still hold a grudge against me, huh?
 ¡Viejo carcamal!
-¡Viejo carcamal!
+Old fogey!
 <b>Profesor Oak:</b> Bueno, \v[12], eres oficialmente el Subcampeón de <b>Kanto</b>.
-<b>Profesor Oak:</b> Bueno, \v[12], eres oficialmente el Subcampeón de <b>Kanto</b>.
+<b>Profesor Oak:</b> Well, \v[12], you are officially the <b>Kanto</b> Runner-Up.
 Esto te abre muchas puertas, ¡créeme! Y además siempre puedes seguir desafiando a la <b>Liga Pokémon</b> en los años venideros.
-Esto te abre muchas puertas, ¡créeme! Y además siempre puedes seguir desafiando a la <b>Liga Pokémon</b> en los años venideros.
+This opens up a lot of doors for you, trust me! And you can always keep challenging the <b>Pokémon League</b> in the years to come.
 \c[1]<b>\v[12]:</b>\c[0] La verdad es que he pensado en algo. Os lo comentaré cuando tengamos más tranquilidad.
-\c[1]<b>\v[12]:</b>\c[0] La verdad es que he pensado en algo. Os lo comentaré cuando tengamos más tranquilidad.
+\c[1]<b>\v[12]:</b>\c[0] Actually, I've already thought of something. I'll let you know once things calm down.
 <b>Profesor Oak:</b> En cuanto a ti, \PN... ¡te corono como el Campeón de <b>Kanto</b>, el entrenador más fuerte!
-<b>Profesor Oak:</b> En cuanto a ti, \PN... ¡te corono como el Campeón de <b>Kanto</b>, el entrenador más fuerte!
+<b>Profesor Oak:</b> As for you, \PN... I crown you the Champion of <b>Kanto</b>, the strongest trainer!
 <b>Profesor Oak:</b> En cuanto a ti, \PN... ¡te corono como la Campeona de <b>Kanto</b>, la entrenadora más fuerte!
-<b>Profesor Oak:</b> En cuanto a ti, \PN... ¡te corono como la Campeona de <b>Kanto</b>, la entrenadora más fuerte!
+<b>Profesor Oak:</b> As for you, \PN... I crown you the Champion of <b>Kanto</b>, the strongest trainer!
 ¡Tanto tu nombre como el de tus Pokémon resonarán en los ecos de la historia!
-¡Tanto tu nombre como el de tus Pokémon resonarán en los ecos de la historia!
+Both your name and the names of your Pokémon will echo through history!
 #-------------------------------
 [Map174]
 Soy el último bastión de defensa que le queda a Giovanni, ¡el peso del futuro recae sobre mis hombros!
-Soy el último bastión de defensa que le queda a Giovanni, ¡el peso del futuro recae sobre mis hombros!
+I'm <b>Giovanni</b>'s last remaining bastion of defense, the weight of the future rests on my shoulders!
 ¡Mi papel en esta obra no importa! ¡Giovanni cumplirá todas nuestras ambiciones!
-¡Mi papel en esta obra no importa! ¡Giovanni cumplirá todas nuestras ambiciones!
+My role in this play doesn't matter! <b>Giovanni</b> will fulfil all of our ambitions!
 <b>Reclutas Rocket:</b> ¡No des un paso más, pusilánime!
-<b>Reclutas Rocket:</b> ¡No des un paso más, pusilánime!
+<b>Rocket Recruit:</b> Don't take another step, weakling!
 Somos el infame <b>Escuadrón Rocket</b>, ¡y vamos a hacerte morder el polvo con el poder de la amistad!
-Somos el infame <b>Escuadrón Rocket</b>, ¡y vamos a hacerte morder el polvo con el poder de la amistad!
+We're the infamous <b>Rocket Squadron</b>, and we're going to make you bite the dust with the power of friendship!
 No esperabas tener que combatir contra tantos enemigos juntos, ¿verdad? ¡Tú te lo has buscado por meter las narices donde no te llaman!
-No esperabas tener que combatir contra tantos enemigos juntos, ¿verdad? ¡Tú te lo has buscado por meter las narices donde no te llaman!
+You didn't expect to have to fight so many enemies at once, did you? You brought this on yourself by sticking your nose where it doesn't belong!
 ¡DRAAAAAAAA!
-¡DRAAAAAAAA!
+RAAAAAAAAA!
 <b>Reclutas Rocket:</b> ¿Un... un Dragonite? Esto solo puede significar una cosa...
-<b>Reclutas Rocket:</b> ¿Un... un Dragonite? Esto solo puede significar una cosa...
+<b>Rocket Recruit:</b> A...a Dragonite? This can only mean one thing...
 <b>Reclutas Rocket:</b> ¡Es <b>Lance</b>! ¡El domadragones invencible!
-<b>Reclutas Rocket:</b> ¡Es <b>Lance</b>! ¡El domadragones invencible!
+<b>Rocket Recruit:</b> It's <b>Lance</b>! The invincible dragon tamer!
 ¡El entrenador más fuerte del mundo!
-¡El entrenador más fuerte del mundo!
+The strongest trainer in the world!
 <b>Lance:</b> ¡Uf, puf! Reconozco que habéis sabido mantenerme ocupado con vuestras tonterías.
-<b>Lance:</b> ¡Uf, puf! Reconozco que habéis sabido mantenerme ocupado con vuestras tonterías.
+<b>Lance:</b> Phew! I'll admit, you've kept me busy with your nonsense.
 <b>Lance:</b> Pero se acabó. El domadragones invencible se ha cansado de vuestra anodina cara.
-<b>Lance:</b> Pero se acabó. El domadragones invencible se ha cansado de vuestra anodina cara.
+<b>Lance:</b> But now it's over. The invincible dragon tamer has had enough of your dull face.
 <b>Lance:</b> \PN, ¿verdad? Me han hablado mucho de ti.
-<b>Lance:</b> \PN, ¿verdad? Me han hablado mucho de ti.
+<b>Lance:</b> \PN, right? I've heard a lot about you.
 ¡Hasta me podría considerar un fan tuyo! Al fin y al cabo, tus hazañas no dejan de comentarse en la <b>Liga Pokémon</b>.
-¡Hasta me podría considerar un fan tuyo! Al fin y al cabo, tus hazañas no dejan de comentarse en la <b>Liga Pokémon</b>.
+You could even consider me a fan of yours! After all, your exploits are constantly being talked about in the <b>Pokémon League</b>.
 <b>Lance:</b> Ojalá haberte conocido en unas mejores circunstancias, pero vienen más <b>Escuadrones Rocket</b> de camino.
-<b>Lance:</b> Ojalá haberte conocido en unas mejores circunstancias, pero vienen más <b>Escuadrones Rocket</b> de camino.
+<b>Lance:</b> I wish I'd met you under better circumstances, but there are more <b>Rocket Squadrons</b> on the way.
 Me quedaré por aquí para contenerles. Supongo que puedo contar contigo para ir a por el Magikarp gordo, ¿no?
-Me quedaré por aquí para contenerles. Supongo que puedo contar contigo para ir a por el Magikarp gordo, ¿no?
+I'll stick around here to hold them off. I guess I can count on you to go after the fat Magikarp, huh?
 ¡Sobran las preguntas! ¿Después de todo lo que he escuchado sobre ti? ¡Pues claro que puedes!
-¡Sobran las preguntas! ¿Después de todo lo que he escuchado sobre ti? ¡Pues claro que puedes!
+No need for questions! After all I've heard about you? Of course you can!
 ¡Vamos! ¿Después de todo lo que he escuchado sobre ti? ¡Pues claro que puedes!
-¡Vamos! ¿Después de todo lo que he escuchado sobre ti? ¡Pues claro que puedes!
+Come on! After all I've heard about you? Of course you can!
 ¡No le tengas miedo a nada, \PN! ¡Es a ti a quien deben tener miedo!
-¡No le tengas miedo a nada, \PN! ¡Es a ti a quien deben tener miedo!
+Don't be afraid of anything, \PN! It's you they should be afraid of!
 \c[6]<b>Giovanni:</b>\c[0] Aguardaba este momento.
-\c[6]<b>Giovanni:</b>\c[0] Aguardaba este momento.
+\c[6]<b>Giovanni:</b>\c[0] I've been waiting for this moment.
 \c[6]<b>Giovanni:</b>\c[0] ¡Me has hecho esperar, \PN! Por un momento se me pasó por la cabeza que no volvería a tener un enfrentamiento contigo.
-\c[6]<b>Giovanni:</b>\c[0] ¡Me has hecho esperar, \PN! Por un momento se me pasó por la cabeza que no volvería a tener un enfrentamiento contigo.
+\c[6]<b>Giovanni:</b>\c[0] You've kept me waiting, \PN! For a moment I was worried that I would never have a confrontation with you again.
 \c[6]<b>Giovanni:</b>\c[0] You should know that I have staked all the assets of <b>Team Rocket</b> on a single card, and I have prepared well!
-\c[6]<b>Giovanni:</b>\c[0] You should know that I have staked all the assets of <b>Team Rocket</b> on a single card, and I have prepared well!
+\c[6]<b>Giovanni:</b>\c[0] You should know that I have staked all the assets of <b>Team Rocket</b> on a single gambit, and I have prepared well!
 El <b>Giovanni</b> que conociste en anteriores ocasiones palidece comparado con lo que soy ahora.
-El <b>Giovanni</b> que conociste en anteriores ocasiones palidece comparado con lo que soy ahora.
+The <b>Giovanni</b> you knew before pales in comparison to who I am now.
 Pero antes de que procedamos a bailar...
-Pero antes de que procedamos a bailar...
+But before we begin our dance...
 \c[6]<b>Giovanni:</b>\c[0] Permíteme que te presente a <b>Mewtwo</b>, mi gran sueño y pesadilla en estos últimos años de mi vida.
-\c[6]<b>Giovanni:</b>\c[0] Permíteme que te presente a <b>Mewtwo</b>, mi gran sueño y pesadilla en estos últimos años de mi vida.
+\c[6]<b>Giovanni:</b>\c[0] Let me introduce you to <b>Mewtwo</b>, the subject of my greatest dreams and most terrifying nightmares over these last few years.
 ¡Meeeeeew!
 ¡Meeeeeew!
 \c[6]<b>Giovanni:</b>\c[0] Parece que está asustado y debilitado por alguna herida que se hizo al escapar del laboratorio.
-\c[6]<b>Giovanni:</b>\c[0] Parece que está asustado y debilitado por alguna herida que se hizo al escapar del laboratorio.
+\c[6]<b>Giovanni:</b>\c[0] He seems to be scared and weakened by some injury he sustained when escaping from the lab.
 Aún así, podría desatar unos poderes psíquicos terribles si lo provocamos demasiado.
-Aún así, podría desatar unos poderes psíquicos terribles si lo provocamos demasiado.
+Still, it could unleash terrifying psychic powers if provoked too much.
 Por suerte, me he asegurado de traer las medidas de seguridad pertinentes.
-Por suerte, me he asegurado de traer las medidas de seguridad pertinentes.
+Luckily, I made sure to bring the relevant safety measures.
 \c[6]<b>Giovanni:</b>\c[0] Así que... un mano a mano, ¿verdad?
-\c[6]<b>Giovanni:</b>\c[0] Así que... un mano a mano, ¿verdad?
+\c[6]<b>Giovanni:</b>\c[0] So...one on one, right?
 \PN, esta vez te desafío no como líder del <b>Team Rocket</b>.
-\PN, esta vez te desafío no como líder del <b>Team Rocket</b>.
+\PN, this time I challenge you not as the leader of <b>Team Rocket</b>...
 Solo como un entrenador ordinario sin ningún título en especial que quiere disfrutar de un buen combate.
-Solo como un entrenador ordinario sin ningún título en especial que quiere disfrutar de un buen combate.
+But as an ordinary trainer without any special title, who just wants to enjoy a good battle.
 \c[6]<b>Giovanni:</b>\c[0] ¿Entiendes lo que quiero decir?
-\c[6]<b>Giovanni:</b>\c[0] ¿Entiendes lo que quiero decir?
+\c[6]<b>Giovanni:</b>\c[0] You understand, right?
 \sh\c[6]<b>Giovanni:</b>\c[0] ¡Ven a por mí, \PN!
-\sh\c[6]<b>Giovanni:</b>\c[0] ¡Ven a por mí, \PN!
+\sh\c[6]<b>Giovanni:</b>\c[0] Come and get me, \PN!
 \c[6]<b>Giovanni:</b>\c[0] ¿He... he perdido? ¿Todo acaba aquí?
-\c[6]<b>Giovanni:</b>\c[0] ¿He... he perdido? ¿Todo acaba aquí?
+\c[6]<b>Giovanni:</b>\c[0] Have I...have I lost? Is this where it ends?
 ¿Después de haber dedicado toda mi vida al <b>Team Rocket</b> hasta el punto de sacrificar mi vida personal? ¿Y de incluso abandonar a mi familia?
-¿Después de haber dedicado toda mi vida al <b>Team Rocket</b> hasta el punto de sacrificar mi vida personal? ¿Y de incluso abandonar a mi familia?
+After having dedicated my entire life to <b>Team Rocket</b> to the point of sacrificing my personal life? Abandoning my family?
 \c[6]<b>Giovanni:</b>\c[0] El destino a veces nos reserva bromas muy crueles. ¿Qué debería hacer ahora?
-\c[6]<b>Giovanni:</b>\c[0] El destino a veces nos reserva bromas muy crueles. ¿Qué debería hacer ahora?
+\c[6]<b>Giovanni:</b>\c[0] Fate sometimes plays cruel jokes on us. What should I do now...?
 <b>\PN:</b> ...
 <b>\PN:</b> ...
 \c[6]<b>Giovanni:</b>\c[0] ¿Pero qué...?
-\c[6]<b>Giovanni:</b>\c[0] ¿Pero qué...?
+\c[6]<b>Giovanni:</b>\c[0] What the...?
 <b>Recluta Rocket:</b> ¡Espero haber llegado a tiempo, jefe <b>Giovanni</b>!
-<b>Recluta Rocket:</b> ¡Espero haber llegado a tiempo, jefe <b>Giovanni</b>!
+<b>Rocket Recruit:</b> I hope I got here in time, Boss!
 La seda de mi Ariados es prácticamente irrompible.
-La seda de mi Ariados es prácticamente irrompible.
+The silk from my Ariados is practically unbreakable.
 \c[6]<b>Giovanni:</b>\c[0] Yo...
-\c[6]<b>Giovanni:</b>\c[0] Yo...
+\c[6]<b>Giovanni:</b>\c[0] I...
 \c[6]<b>Giovanni:</b>\c[0] ...
 \c[6]<b>Giovanni:</b>\c[0] ...
 \c[6]<b>Giovanni:</b>\c[0] ¿Cómo te llamas, hijo?
-\c[6]<b>Giovanni:</b>\c[0] ¿Cómo te llamas, hijo?
+\c[6]<b>Giovanni:</b>\c[0] What's your name, son?
 <b>Recluta Rocket:</b> ¡Mi nombre es <b>Protón</b>!
-<b>Recluta Rocket:</b> ¡Mi nombre es <b>Protón</b>!
+<b>Rocket Recruit:</b> My name is <b>Proton</b>!
 Trabajo para la causa del <b>Team Rocket</b> con toda la convicción de mi corazón desde hace tiempo.
-Trabajo para la causa del <b>Team Rocket</b> con toda la convicción de mi corazón desde hace tiempo.
+I've been working for <b>Team Rocket</b>'s cause with all my heart's conviction for a long time.
 \c[6]<b>Giovanni:</b>\c[0] De acuerdo, <b>Protón</b>, has hecho un gran trabajo.
-\c[6]<b>Giovanni:</b>\c[0] De acuerdo, <b>Protón</b>, has hecho un gran trabajo.
+\c[6]<b>Giovanni:</b>\c[0] Okay, <b>Proton</b>, you've done a great job.
 Puedes retirarte. Resolveré esto a solas.
-Puedes retirarte. Resolveré esto a solas.
+You may leave. I'll sort this out alone.
 \c[6]<b>Giovanni:</b>\c[0] De verdad que lo lamento muchísimo, \PN.
-\c[6]<b>Giovanni:</b>\c[0] De verdad que lo lamento muchísimo, \PN.
+\c[6]<b>Giovanni:</b>\c[0] I'm truly sorry about this, \PN.
 Pensé que podría aceptar la derrota con honorabilidad y deportividad, pero...
-Pensé que podría aceptar la derrota con honorabilidad y deportividad, pero...
+I thought I could accept defeat with honor and sportsmanship, but...
 \c[6]<b>Giovanni:</b>\c[0] No puedo. He ido demasiado lejos y tengo que llegar a la meta a toda costa.
-\c[6]<b>Giovanni:</b>\c[0] No puedo. He ido demasiado lejos y tengo que llegar a la meta a toda costa.
+\c[6]<b>Giovanni:</b>\c[0] I just can't. I've gone too far and I have to cross the finish line at any cost.
 Me deja un sabor agridulce que nuestro enfrentamiento tenga un final así.
-Me deja un sabor agridulce que nuestro enfrentamiento tenga un final así.
+It's bittersweet that our battle has an ending like this.
 \c[6]<b>Giovanni:</b>\c[0] Terminemos con los trámites cuanto antes, entonces.
-\c[6]<b>Giovanni:</b>\c[0] Terminemos con los trámites cuanto antes, entonces.
+\c[6]<b>Giovanni:</b>\c[0] Let's get this over with, then.
 ¡<b>Mewtwo</b>, entra dentro de la <b>Máster Ball</b>!
-¡<b>Mewtwo</b>, entra dentro de la <b>Máster Ball</b>!
+<b>Mewtwo</b>, enter the <b>Master Ball</b>!
 ¡<b>Giovanni</b> ha capturado a <b>Mewtwo</b>!
-¡<b>Giovanni</b> ha capturado a <b>Mewtwo</b>!
+<b>Giovanni</b> has captured <b>Mewtwo</b>!
 \c[6]<b>Giovanni:</b>\c[0] ¡Hecho está! El poder del Pokémon más fuerte del mundo está bajo mi control.
-\c[6]<b>Giovanni:</b>\c[0] ¡Hecho está! El poder del Pokémon más fuerte del mundo está bajo mi control.
+\c[6]<b>Giovanni:</b>\c[0] It's done! The power of the strongest Pokémon in the world is under my control.
 \c[6]<b>Giovanni:</b>\c[0] Tengo que librarme de ti, \PN, aunque sea lo más mezquino que haré en mi vida.
-\c[6]<b>Giovanni:</b>\c[0] Tengo que librarme de ti, \PN, aunque sea lo más mezquino que haré en mi vida.
+\c[6]<b>Giovanni:</b>\c[0] I have to get rid of you, \PN, even if it's the worst thing I'll ever do.
 \c[6]<b>Giovanni:</b>\c[0] Créeme, esto me va a perseguir toda mi vida.
-\c[6]<b>Giovanni:</b>\c[0] Créeme, esto me va a perseguir toda mi vida.
+\c[6]<b>Giovanni:</b>\c[0] Believe me, this is going to haunt me for the rest of my life.
 \c[6]<b>Giovanni:</b>\c[0] Aunque alcance el éxito en mis planes, el espectro de cómo traicioné a un fuerte y honorable rival no dejará de atormentarme.
-\c[6]<b>Giovanni:</b>\c[0] Aunque alcance el éxito en mis planes, el espectro de cómo traicioné a un fuerte y honorable rival no dejará de atormentarme.
+\c[6]<b>Giovanni:</b>\c[0] Even if my plans succeed, the spectre of how I betrayed a strong and honorable rival will haunt me forever.
 \c[6]<b>Giovanni:</b>\c[0] Siempre tendrás un lugar en mis recuerdos, orgulloso entrenador.
-\c[6]<b>Giovanni:</b>\c[0] Siempre tendrás un lugar en mis recuerdos, orgulloso entrenador.
+\c[6]<b>Giovanni:</b>\c[0] You will always have a place in my memories, proud Trainer.
 \c[6]<b>Giovanni:</b>\c[0] Aunque alcance el éxito en mis planes, el espectro de cómo traicioné a una fuerte y honorable rival no dejará de atormentarme.
-\c[6]<b>Giovanni:</b>\c[0] Aunque alcance el éxito en mis planes, el espectro de cómo traicioné a una fuerte y honorable rival no dejará de atormentarme.
+\c[6]<b>Giovanni:</b>\c[0] Even if my plans succeed, the spectre of how I betrayed a strong and honorable rival will haunt me forever.
 \c[6]<b>Giovanni:</b>\c[0] Siempre tendrás un lugar en mis recuerdos, orgullosa entrenadora.
-\c[6]<b>Giovanni:</b>\c[0] Siempre tendrás un lugar en mis recuerdos, orgullosa entrenadora.
+\c[6]<b>Giovanni:</b>\c[0] You will always have a place in my memories, proud Trainer.
 \c[6]<b>Giovanni:</b>\c[0] ¡<b>Mewtwo</b>, utiliza Onda Mental!
-\c[6]<b>Giovanni:</b>\c[0] ¡<b>Mewtwo</b>, utiliza Onda Mental!
+\c[6]<b>Giovanni:</b>\c[0] <b>Mewtwo</b>, use Psystrike!
 \c[6]<b>Giovanni:</b>\c[0] ¿Y ahora qué?
-\c[6]<b>Giovanni:</b>\c[0] ¿Y ahora qué?
+\c[6]<b>Giovanni:</b>\c[0] What now?
 \c[1]<b>\v[12]:</b>\c[0] Siento haber tardado tanto, \PN. La zona se ha infestado de Rockets.
-\c[1]<b>\v[12]:</b>\c[0] Siento haber tardado tanto, \PN. La zona se ha infestado de Rockets.
+\c[1]<b>\v[12]:</b>\c[0] Sorry it took so long, \PN. The area's become infested with Rocket Stooges.
 En estos momentos, <b>Hoja</b> está ayudando a contenerlos junto al señor <b>Lance</b>.
-En estos momentos, <b>Hoja</b> está ayudando a contenerlos junto al señor <b>Lance</b>.
+<b>Leaf</b> is helping to contain them alongside <b>Lance</b>.
 En estos momentos, <b>Rojo</b> está ayudando a contenerlos junto al señor <b>Lance</b>.
-En estos momentos, <b>Rojo</b> está ayudando a contenerlos junto al señor <b>Lance</b>.
+<b>Red</b> is helping to contain them alongside <b>Lance</b>.
 \c[1]<b>\v[12]:</b>\c[0] Me temo que hoy tendré que hacer una excepción por segunda vez.
-\c[1]<b>\v[12]:</b>\c[0] Me temo que hoy tendré que hacer una excepción por segunda vez.
+\c[1]<b>\v[12]:</b>\c[0] I'm afraid I'll have to make an exception for the second time today.
 ¡Tenemos que combatir juntos para detener a este monstruo!
-¡Tenemos que combatir juntos para detener a este monstruo!
+We have to fight together to stop this monster!
 \c[6]<b>Giovanni:</b>\c[0] ¡Vaya! ¡Qué gran crecimiento personal por tu parte, segundón!
-\c[6]<b>Giovanni:</b>\c[0] ¡Vaya! ¡Qué gran crecimiento personal por tu parte, segundón!
+\c[6]<b>Giovanni:</b>\c[0] Wow! What wonderful personal growth, second fiddle!
 ¿Y qué pasa con todo eso de derrotarme sin ayuda? ¡Así no podrás demostrar que eres el más fuerte!
-¿Y qué pasa con todo eso de derrotarme sin ayuda? ¡Así no podrás demostrar que eres el más fuerte!
+What happened to defeating me single-handedly? You won't be able to prove that you're the strongest like that!
 ¡No mientras yo siga existiendo!
-¡No mientras yo siga existiendo!
+Not as long as I exist!
 \c[1]<b>\v[12]:</b>\c[0] ¡Cállate, maleante!
-\c[1]<b>\v[12]:</b>\c[0] ¡Cállate, maleante!
+\c[1]<b>\v[12]:</b>\c[0] Shut up, you thug!
 ¡Tú no eres un rival digno ni un obstáculo que deba superar para progresar como entrenador!
-¡Tú no eres un rival digno ni un obstáculo que deba superar para progresar como entrenador!
+You're not worthy as a rival or even an obstacle to overcome in my journey as a trainer!
 ¡Solo eres una amenaza que hay que depurar cuanto antes de este mundo!
-¡Solo eres una amenaza que hay que depurar cuanto antes de este mundo!
+You're just a threat that needs to be purged from this world as soon as possible!
 \c[6]<b>Giovanni:</b>\c[0] ¡Qué contradictorio! A pesar de que pareces haber madurado, tu ego ha crecido mucho.
-\c[6]<b>Giovanni:</b>\c[0] ¡Qué contradictorio! A pesar de que pareces haber madurado, tu ego ha crecido mucho.
+\c[6]<b>Giovanni:</b>\c[0] How contradictory! Even though you seem to have matured, your ego has grown a lot.
 Voy a mostraros algo maravilloso, héroes salvadores de la humanidad.
-Voy a mostraros algo maravilloso, héroes salvadores de la humanidad.
+I'm going to show you something wonderful, "saviors of humanity".
 \c[6]<b>Giovanni:</b>\c[0] ¡Activando protocolo "Poder Definitivo"!
-\c[6]<b>Giovanni:</b>\c[0] ¡Activando protocolo "Poder Definitivo"!
+\c[6]<b>Giovanni:</b>\c[0] Activating "Ultimate Power" protocol!
 \c[1]<b>\v[12]:</b>\c[0] ¿Qué le has hecho ahora a ese Pokémon?
-\c[1]<b>\v[12]:</b>\c[0] ¿Qué le has hecho ahora a ese Pokémon?
+\c[1]<b>\v[12]:</b>\c[0] What have you done to that Pokémon?
 \c[6]<b>Giovanni:</b>\c[0] Esta armadura de batalla se desarrolló gracias al beneficio que obtuve robando fósiles en el <b>Mt. Moon</b>.
-\c[6]<b>Giovanni:</b>\c[0] Esta armadura de batalla se desarrolló gracias al beneficio que obtuve robando fósiles en el <b>Mt. Moon</b>.
+\c[6]<b>Giovanni:</b>\c[0] This battle armor was developed thanks to the profit I gained from stealing fossils from <b>Mt. Moon</b>.
 No solo mantiene los poderes psíquicos de <b>Mewtwo</b> controlados, sino que también los concentra a objetivos de combate.
-No solo mantiene los poderes psíquicos de <b>Mewtwo</b> controlados, sino que también los concentra a objetivos de combate.
+Not only does it keep <b>Mewtwo</b>'s psychic powers in check, but it also focuses them against combat targets.
 ¡Digamos que he activado su Modo Combate Pokémon!
-¡Digamos que he activado su Modo Combate Pokémon!
+Let's just say that I've activated its Battle Mode!
 \c[1]<b>\v[12]:</b>\c[0] No tenemos ningún miedo.
-\c[1]<b>\v[12]:</b>\c[0] No tenemos ningún miedo.
+\c[1]<b>\v[12]:</b>\c[0] You don't scare us.
 ¡Vamos! ¡Lanza a esa abominación contra nosotros! ¡Le haremos frente!
-¡Vamos! ¡Lanza a esa abominación contra nosotros! ¡Le haremos frente!
+Come on! Send that abomination at us! We can take it!
 <b>NOTA DEL JUEGO:</b> Este combate no se tiene en cuenta en el reto Nuzlocke.
-<b>NOTA DEL JUEGO:</b> Este combate no se tiene en cuenta en el reto Nuzlocke.
+<b>GAME NOTE:</b> This fight does not count towards the Nuzlocke challenge.
 \c[6]<b>Giovanni:</b>\c[0] Aún con todo el poder que había conseguido, he vuelto a perder...
-\c[6]<b>Giovanni:</b>\c[0] Aún con todo el poder que había conseguido, he vuelto a perder...
+\c[6]<b>Giovanni:</b>\c[0] Even with all the power I'd gained, I've lost again...
 \c[1]<b>\v[12]:</b>\c[0] ¡<b>Mewtwo</b> se ha liberado del control de la armadura!
-\c[1]<b>\v[12]:</b>\c[0] ¡<b>Mewtwo</b> se ha liberado del control de la armadura!
+\c[1]<b>\v[12]:</b>\c[0] <b>Mewtwo</b> has broken free from the armor's control!
 \c[6]<b>Giovanni:</b>\c[0] Ni el control de la <b>Máster Ball</b> es suficiente para retenerle.
-\c[6]<b>Giovanni:</b>\c[0] Ni el control de la <b>Máster Ball</b> es suficiente para retenerle.
+\c[6]<b>Giovanni:</b>\c[0] Not even  the <b>Master Ball</b> is enough to hold him back.
 Es curiosa la naturaleza de los Pokémon. Nunca lograrás dominarlos del todo si no te ganas su respeto primero.
-Es curiosa la naturaleza de los Pokémon. Nunca lograrás dominarlos del todo si no te ganas su respeto primero.
+It's a funny thing about Pokémon. You'll never fully master them if you don't earn their respect first.
 \c[1]<b>\v[12]:</b>\c[0] ¡A buenas horas aprendes esa valiosa lección!
-\c[1]<b>\v[12]:</b>\c[0] ¡A buenas horas aprendes esa valiosa lección!
+\c[1]<b>\v[12]:</b>\c[0] It's about time you learned that lesson!
 Y ahora, ¿qué sigue? ¿Te vas a entregar a la justicia de una vez o quieres intentar otra tontería?
-Y ahora, ¿qué sigue? ¿Te vas a entregar a la justicia de una vez o quieres intentar otra tontería?
+So what's next? Are you going to turn yourself in once and for all, or do you want to try another stupid plan?
 \c[6]<b>Giovanni:</b>\c[0] Puesto que no he estado a la altura de las circunstancias, no soy digno de dirigir nada ni a nadie.
-\c[6]<b>Giovanni:</b>\c[0] Puesto que no he estado a la altura de las circunstancias, no soy digno de dirigir nada ni a nadie.
+\c[6]<b>Giovanni:</b>\c[0] I failed to rise to the occasion, I'm not worthy of leading anything or anyone.
 Por tanto, declaro en este mismo instante la disolución total del <b>Team Rocket</b>.
-Por tanto, declaro en este mismo instante la disolución total del <b>Team Rocket</b>.
+Therefore, I hereby declare the complete dissolution of <b>Team Rocket</b>.
 Tras sus 150 años de historia, esta organización llega a su fin.
-Tras sus 150 años de historia, esta organización llega a su fin.
+After 150 years, this organization comes to an end.
 \c[6]<b>Giovanni:</b>\c[0] Y en cuanto a lo de entregarme a la justicia...
-\c[6]<b>Giovanni:</b>\c[0] Y en cuanto a lo de entregarme a la justicia...
+\c[6]<b>Giovanni:</b>\c[0] And as for turning myself in...
 <b>Lance:</b> ¡Cáspita, me he perdido toda la acción! Aunque eso no importa ahora.
-<b>Lance:</b> ¡Cáspita, me he perdido toda la acción! Aunque eso no importa ahora.
+<b>Lance:</b> Wow, I missed all the action! Not that it matters now.
 ¡<b>Giovanni</b>, quedas detenido en nombre del <b>Alto Mando</b> y de la ley de <b>Kanto</b>!
-¡<b>Giovanni</b>, quedas detenido en nombre del <b>Alto Mando</b> y de la ley de <b>Kanto</b>!
+<b>Giovanni</b>, you're under arrest in the name of the <b>Elite Four</b> and the law of <b>Kanto</b>!
 \c[6]<b>Giovanni:</b>\c[0] Justo iba a aclarar ese punto.
-\c[6]<b>Giovanni:</b>\c[0] Justo iba a aclarar ese punto.
+\c[6]<b>Giovanni:</b>\c[0] I was just getting to that.
 \c[6]<b>Giovanni:</b>\c[0] No tengo ningún problema en acompañarte, Campeón <b>Lance</b>, pero sería deshonesto no advertirte de algo primero.
-\c[6]<b>Giovanni:</b>\c[0] No tengo ningún problema en acompañarte, Campeón <b>Lance</b>, pero sería deshonesto no advertirte de algo primero.
+\c[6]<b>Giovanni:</b>\c[0] I have no problem accompanying you, Champion <b>Lance</b>, but it would be dishonest not to warn you of something first.
 Es inútil procesarme. Tengo a gran parte de la justicia comprada, además de otros recursos.
-Es inútil procesarme. Tengo a gran parte de la justicia comprada, además de otros recursos.
+It's useless to prosecute me. I've bought off a large part of the justice system, as well as other resources.
 \c[6]<b>Giovanni:</b>\c[0] Si de verdad queréis deshaceros de mí, ¡acabad conmigo aquí y ahora!
-\c[6]<b>Giovanni:</b>\c[0] Si de verdad queréis deshaceros de mí, ¡acabad conmigo aquí y ahora!
+\c[6]<b>Giovanni:</b>\c[0] If you really want to get rid of me, finish me here and now!
 De lo contrario, no tardaré en escapar.
-De lo contrario, no tardaré en escapar.
+Otherwise, I'll soon escape.
 Y aunque mis días frente al <b>Team Rocket</b> han terminado, entregaré mis días al ostracismo y a la meditación.
-Y aunque mis días frente al <b>Team Rocket</b> han terminado, entregaré mis días al ostracismo y a la meditación.
+And although my days of leading <b>Team Rocket</b> are over, I'll give my life over to ostracism and meditation.
 <b>Lance:</b> No me calientes más la cabeza, anda. Llevo un día muy ajetreado.
-<b>Lance:</b> No me calientes más la cabeza, anda. Llevo un día muy ajetreado.
+<b>Lance:</b> Don't annoy me any more, please. I've had a very busy day.
 Ya veremos si te escapas o no, pero aquí las cosas van a hacerse de manera legal y ordenada.
-Ya veremos si te escapas o no, pero aquí las cosas van a hacerse de manera legal y ordenada.
+We'll see if you escape or not, but we're going to do things by the book.
 ¡Acompáñame!
-¡Acompáñame!
+Come with me!
 \c[3]<b>Hoja:</b>\c[0] Siento no haberos echado una mano con este combate.
-\c[3]<b>Hoja:</b>\c[0] Siento no haberos echado una mano con este combate.
+\c[3]<b>Leaf:</b>\c[0] Sorry I couldn't help you out with this fight.
 ¡Nos estaban invadiendo Reclutas Rocket! ¡Parecían una plaga!
-¡Nos estaban invadiendo Reclutas Rocket! ¡Parecían una plaga!
+We were being swarmed by Rocket Recruits! It was like a plague!
 \c[2]<b>Rojo:</b>\c[0] Siento no haberos echado una mano con este combate.
-\c[2]<b>Rojo:</b>\c[0] Siento no haberos echado una mano con este combate.
+\c[2]<b>Red:</b>\c[0] Sorry I couldn't help you out with this fight.
 \c[1]<b>\v[12]:</b>\c[0] No te preocupes, estamos bien. ¡De hecho, nos sentimos mejor que nunca!
-\c[1]<b>\v[12]:</b>\c[0] No te preocupes, estamos bien. ¡De hecho, nos sentimos mejor que nunca!
+\c[1]<b>\v[12]:</b>\c[0] Don't worry, we're fine. In fact, we feel better than ever!
 \c[1]<b>\v[12]:</b>\c[0] ¿Verdad que sí, \PN?
-\c[1]<b>\v[12]:</b>\c[0] ¿Verdad que sí, \PN?
+\c[1]<b>\v[12]:</b>\c[0] Right, \PN?
 \c[1]<b>\v[12]:</b>\c[0] Creo que ya es hora de regresar con mi abuelo, ¡salgamos de aquí!
-\c[1]<b>\v[12]:</b>\c[0] Creo que ya es hora de regresar con mi abuelo, ¡salgamos de aquí!
+\c[1]<b>\v[12]:</b>\c[0] I think it's time to go back to Gramps, let's get out of here!
 <b>Giovanni</b> no tardaría en escapar de la justicia, tal y como había dicho en su amenaza.
-<b>Giovanni</b> no tardaría en escapar de la justicia, tal y como había dicho en su amenaza.
+<b>Giovanni</b> would soon escape justice, just as he had predicted.
 El infame <b>Team Rocket</b>, aunque maltrecho y despedazado, no había dicho aún su última palabra.
-El infame <b>Team Rocket</b>, aunque maltrecho y despedazado, no había dicho aún su última palabra.
+The infamous <b>Team Rocket</b>, though battered and broken, had not yet said its final words.
 Pero eso es historia para otro momento. Lo importante es que el <b>Mundo Pokémon</b> había sido salvado por los 3 jóvenes discípulos del <b>Profesor Oak</b>.
-Pero eso es historia para otro momento. Lo importante es que el <b>Mundo Pokémon</b> había sido salvado por los 3 jóvenes discípulos del <b>Profesor Oak</b>.
+But that's a story for another time. The important thing is that the <b>Pokémon World</b> had been saved by the three young disciples of <b>Professor Oak</b>.
 Además, la <b>Liga Pokémon</b> no tardaría en celebrarse.
-Además, la <b>Liga Pokémon</b> no tardaría en celebrarse.
+Furthermore, the <b>Pokémon League</b> would soon be held.
 Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
 You have lost the Nuzlocke challenge, you have failed all the Pokémon that have accompanied you during the adventure.
 Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
 You can continue playing as normal, but remember that you have failed.
 ¡Ríndete ahora! ¡Prepárate para luchar! ¡O ambas!
-¡Ríndete ahora! ¡Prepárate para luchar! ¡O ambas!
+Surrender now! Prepare to fight! Or both!
 ¡Ríndete o acabarás condenando al mundo entero! ¡Por favor!
-¡Ríndete o acabarás condenando al mundo entero! ¡Por favor!
+Surrender or you will end up condemning the entire world! Please!
 Sí
 Yes
 Eehh...
@@ -8919,35 +8919,35 @@ I can't take it anymore...
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 ¡Vaya! ¿No te sorprendes de lo lejos que has llegado?
-¡Vaya! ¿No te sorprendes de lo lejos que has llegado?
+Wow! Aren't you amazed at how far you've come?
 Puedes quedarte con esto.
-Puedes quedarte con esto.
+You can have this.
 Aunque no lo parezca, y aunque no te muevas de donde vives, siempre estarás en constante avance y evolución.
-Aunque no lo parezca, y aunque no te muevas de donde vives, siempre estarás en constante avance y evolución.
+Even if it doesn't seem like it, and even if you don't move from where you live, you'll always be advancing and evolving.
 En ese sentido, no somos muy distintos de los Pokémon.
-En ese sentido, no somos muy distintos de los Pokémon.
+In that sense, we're not very different from Pokémon.
 #-------------------------------
 [Map176]
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Solemos venir a esta casita de montaña siempre que tenemos unos días de descanso.
-Solemos venir a esta casita de montaña siempre que tenemos unos días de descanso.
+We usually come to this little mountain house whenever we have a few days off.
 Aún así... nunca me he atrevido a acercarme demasiado al <b>Monte Plateado</b>, ¡es un lugar peligroso incluso para los entrenadores más avezados!
-Aún así... nunca me he atrevido a acercarme demasiado al <b>Monte Plateado</b>, ¡es un lugar peligroso incluso para los entrenadores más avezados!
+Still...I've never dared to get too close to <b>Mt. Silver</b> - it's a dangerous place even for the most seasoned trainers!
 Estoy buscando un Forretress, ¿lo cambiarías por mi Shuckle?
-Estoy buscando un Forretress, ¿lo cambiarías por mi Shuckle?
+I'm looking for a Forretress, would you trade it for my Shuckle?
 ¡Cúidalo muy bien!
 Take good care of him!
 ¡Vaya! Veo que no tienes uno.
 Oh! I see you don't have one.
 Si te haces con un Forretress, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Forretress, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get a Forretress, put it in the first spot on your team so I can see it.
 ¡Ay! ¡Qué lástima! Con lo que me gusta intercambiar Pokémon.
-¡Ay! ¡Qué lástima! Con lo que me gusta intercambiar Pokémon.
+Oh! What a shame! I love trading Pokémon so much.
 Completar la Pokédex por uno mismo es demasiado complicado. A veces no queda más remedio que intercambiar con otros entrenadores.
-Completar la Pokédex por uno mismo es demasiado complicado. A veces no queda más remedio que intercambiar con otros entrenadores.
+Completing the Pokédex by yourself is too complicated. Sometimes there's no choice but to trade with other trainers.
 Aunque, por otra parte, eso incentiva una sensación de compañerismo entre todos nosotros. Una cooperación necesaria.
-Aunque, por otra parte, eso incentiva una sensación de compañerismo entre todos nosotros. Una cooperación necesaria.
+But on the other hand, it encourages a feeling of camaraderie among all of us - a necessary cooperation.
 Sí
 Yes
 No
@@ -8957,33 +8957,33 @@ No
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Estoy deseando ver luchar a <b>Bruno</b>. Al parecer, su Machamp ha alcanzado un nuevo nivel de poder gracias a un entrenamiento especial en el extranjero.
-Estoy deseando ver luchar a <b>Bruno</b>. Al parecer, su Machamp ha alcanzado un nuevo nivel de poder gracias a un entrenamiento especial en el extranjero.
+I'm looking forward to seeing <b>Bruno</b> fight. Apparently his Machamp has reached a new level of power thanks to special training abroad.
 Tu primer combate será contra <b>Lorelei</b>, del <b>Alto Mando</b>. Esta siempre utiliza un equipo de Pokémon de tipo Hielo e invoca un clima de nieve que juega a su favor.
-Tu primer combate será contra <b>Lorelei</b>, del <b>Alto Mando</b>. Esta siempre utiliza un equipo de Pokémon de tipo Hielo e invoca un clima de nieve que juega a su favor.
+Your first battle will be against <b>Lorelei</b> of the <b>Elite Four</b>. She always uses a team of Ice-type Pokémon and summons snowy weather to her advantage.
 Creo que una estrategia muy útil sería contrarrestar ese clima de nieve. Por ejemplo, usando Día Soleado.
-Creo que una estrategia muy útil sería contrarrestar ese clima de nieve. Por ejemplo, usando Día Soleado.
+I think a useful strategy would be to counteract that snowy weather with something like Sunny Day.
 El año pasado, un Aspirante perdió por culpa de un golpe crítico. Eso fue durante su combate final contra <b>Lance</b>.
-El año pasado, un Aspirante perdió por culpa de un golpe crítico. Eso fue durante su combate final contra <b>Lance</b>.
+Last year, a Challenger lost due to a critical hit. That was during his final fight against <b>Lance</b>.
 ¿Y sabes qué? Veo muchos golpes críticos en tu futuro inmediato...\nMantente siempre alerta.
-¿Y sabes qué? Veo muchos golpes críticos en tu futuro inmediato...\nMantente siempre alerta.
+And you know what? I see a lot of critical hits in your immediate future...\nAlways stay alert.
 ¿Entonces el <b>Team Rocket</b> se ha disuelto? ¿Ya es historia?
-¿Entonces el <b>Team Rocket</b> se ha disuelto? ¿Ya es historia?
+So Team Rocket disbanded? Are they history?
 Esa organización llevaba más de 100 años causando maldades, ¡qué privilegio haber vivido su desaparición!
-Esa organización llevaba más de 100 años causando maldades, ¡qué privilegio haber vivido su desaparición!
+That organization had been causing mischief for over 100 years, what a privilege to have lived through its demise!
 ¿Te preguntas qué hace un Marinero tan lejos del mar? Yo también me lo pregunto todos los días...
-¿Te preguntas qué hace un Marinero tan lejos del mar? Yo también me lo pregunto todos los días...
+Do you wonder what a Sailor is doing so far from the sea? I wonder that every day too...
 Pero al menos esto hará que nuestro fortuito encuentro merezca la pena.
-Pero al menos esto hará que nuestro fortuito encuentro merezca la pena.
+But at least this will make our chance encounter worthwhile.
 Mi corazón de Marinero sigue viviendo en el mar... ¡aunque mi estómago ya se ha acostumbrado a vivir aquí!
-Mi corazón de Marinero sigue viviendo en el mar... ¡aunque mi estómago ya se ha acostumbrado a vivir aquí!
+My Sailor's heart still lives in the sea...although my stomach has already gotten used to living here!
 Se cocina muy bien en esta ciudad, se nota que vienen muchos turistas.
-Se cocina muy bien en esta ciudad, se nota que vienen muchos turistas.
+The food here is very good, you can tell that it's a popular tourist spot.
 ¿Te preguntas qué hace un Ornitólogo como yo en un lugar tan inhóspito? Bueno, no he podido migrar a lugares más cálidos como hacen las aves.
-¿Te preguntas qué hace un Ornitólogo como yo en un lugar tan inhóspito? Bueno, no he podido migrar a lugares más cálidos como hacen las aves.
+You're wondering what an ornithologist like me is doing in such an inhospitable place? Well, I haven't been able to migrate to warmer places like birds do.
 Pero ya que me he quedado aquí, puedo darte esto.
-Pero ya que me he quedado aquí, puedo darte esto.
+But since I'm staying here, I can give you this.
 Los lugares fríos también tienen su encanto, ¿no? El fuego crepitando en la chimenea, un chocolate bien caliente...
-Los lugares fríos también tienen su encanto, ¿no? El fuego crepitando en la chimenea, un chocolate bien caliente...
+Cold places have their charm too, don't they? A crackling fire in the fireplace, a nice hot chocolate...
 #-------------------------------
 [Map178]
 "Hazte con el TIEMPO"
@@ -8991,17 +8991,17 @@ Los lugares fríos también tienen su encanto, ¿no? El fuego crepitando en la c
 #-------------------------------
 [Map179]
 ¿Quieres desactivar este interruptor?
-¿Quieres desactivar este interruptor?
+Do you want to turn off this switch?
 ¡Una barrera eléctrica corta el paso!
-¡Una barrera eléctrica corta el paso!
+An electric barrier blocks the way!
 Este ascensor parece necesitar una <b>Llave Supersecreta</b>.
-Este ascensor parece necesitar una <b>Llave Supersecreta</b>.
+This elevator appears to require a <b>Super Secret Key</b>.
 ¡Usas la <b>Llave Supersecreta</b>!
-¡Usas la <b>Llave Supersecreta</b>!
+You use the <b>Super Secret Key</b>!
 Será mejor ignorarlo por ahora.
-Será mejor ignorarlo por ahora.
+It's best to ignore it for now.
 Los 3 Pokémon han salido corriendo.
-Los 3 Pokémon han salido corriendo.
+The three Pokémon have run away.
 Sí
 Yes
 No
@@ -9009,75 +9009,75 @@ No
 #-------------------------------
 [Map180]
 Mi madre no me dejaba viajar a <b>Kanto</b> por la presencia del <b>Team Rocket</b>.
-Mi madre no me dejaba viajar a <b>Kanto</b> por la presencia del <b>Team Rocket</b>.
+My mom wouldn't let me travel to <b>Kanto</b> because of the presence of <b>Team Rocket</b>.
 Menos mal que alguien anónimo se ha encargado de ellos.
-Menos mal que alguien anónimo se ha encargado de ellos.
+Thank goodness someone took care of them.
 Estoy buscando un Lanturn, ¿lo cambiarías por mi Piplup?
-Estoy buscando un Lanturn, ¿lo cambiarías por mi Piplup?
+I'm looking for a Lanturn, would you trade it for my Piplup?
 ¡Cúidalo muy bien!
 Take good care of him!
 ¡Vaya! Veo que no tienes uno.
 Oh! I see you don't have one.
 Si te haces con un Lanturn, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Lanturn, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get a Lanturn, put it in the first spot on your team so it can see it.
 Bueno, otra vez será.
 Okay, maybe next time.
 El <b>Monte Plateado</b> alcanza una altura considerable, pero diría que el <b>Monte Corona</b> de mi región le gana por un poco.
-El <b>Monte Plateado</b> alcanza una altura considerable, pero diría que el <b>Monte Corona</b> de mi región le gana por un poco.
+<b>Mt. Silver</b> reaches a considerable height, but I would say that <b>Mt. Coronet</b> in my region beats it by a little.
 Aquí solo hay basura.
 No, Kato, there's only trash here.
 Parece que el tiempo se mantendrá estable con una ligera nevada.
-Parece que el tiempo se mantendrá estable con una ligera nevada.
+It looks like the weather will remain stable with light snow.
 Tendremos que abrigarnos un poco para ver los combates de la <b>Liga Pokémon</b>.
-Tendremos que abrigarnos un poco para ver los combates de la <b>Liga Pokémon</b>.
+We'll have to bundle up a bit to watch the <b>Pokémon League</b> battles.
 Estoy buscando un Jumpluff, ¿lo cambiarías por mi Turtwig?
-Estoy buscando un Jumpluff, ¿lo cambiarías por mi Turtwig?
+I'm looking for a Jumpluff, would you trade it for my Turtwig?
 Si te haces con un Jumpluff, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Jumpluff, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get a Jumpluff, put it in the first spot on your team so it can see it.
 La región de <b>Kanto</b> tiene fama de dar muy buenos entrenadores. Pronto comprobaremos si eso es cierto.
-La región de <b>Kanto</b> tiene fama de dar muy buenos entrenadores. Pronto comprobaremos si eso es cierto.
+The Kanto region has a reputation for producing very good trainers. We'll find out if that's true soon.
 Estoy buscando un Politoed, ¿lo cambiarías por mi Mudkip?
-Estoy buscando un Politoed, ¿lo cambiarías por mi Mudkip?
+I'm looking for a Politoed, would you trade it for my Mudkip?
 Si te haces con un Politoed, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Politoed, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get a Politoed, put it in the first spot on your team so it can see it.
 Llevaba tiempo buscando un Politoed. Es un Pokémon extremedamanete raro en la región de donde vengo.
-Llevaba tiempo buscando un Politoed. Es un Pokémon extremedamanete raro en la región de donde vengo.
+I've been looking for a Politoed for a while now. It's an extremely rare Pokémon in the region where I come from.
 Estoy buscando un Exeggutor, ¿lo cambiarías por mi Treecko?
-Estoy buscando un Exeggutor, ¿lo cambiarías por mi Treecko?
+I'm looking for an Exeggutor, would you trade it for my Treecko?
 Si te haces con un Exeggutor, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Exeggutor, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get an Exeggutor, put it in the first spot on your team so it can see it.
 Treecko es un Pokémon de ambiente tropical, nunca lo encontrarías en una región montañosa como esta.
-Treecko es un Pokémon de ambiente tropical, nunca lo encontrarías en una región montañosa como esta.
+Treecko is a tropical Pokémon, you would never find it in a mountainous region like this.
 ¿Has subido a los pisos de arriba para conocer a nuestros huéspedes? ¡Vienen de regiones vecinas!
-¿Has subido a los pisos de arriba para conocer a nuestros huéspedes? ¡Vienen de regiones vecinas!
+Have you gone upstairs to meet our guests? They come from neighbouring regions!
 Los entrenadores están aprovechando para intercambiarse Pokémon de otras regiones.
-Los entrenadores están aprovechando para intercambiarse Pokémon de otras regiones.
+Trainers are taking advantage of the opportunity to trade Pokémon from other regions.
 ¿Por qué no hablas con ellos?
-¿Por qué no hablas con ellos?
+Why don't you talk to them?
 Estoy buscando un Arcanine, ¿lo cambiarías por mi Torchic?
-Estoy buscando un Arcanine, ¿lo cambiarías por mi Torchic?
+I'm looking for an Arcanine, would you trade it for my Torchic?
 Si te haces con un Arcanine, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Arcanine, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get an Arcanine, put it in the first spot on your team so I can see it.
 Torchic, en su última fase evolutiva, es de tipo Fuego/Lucha.
-Torchic, en su última fase evolutiva, es de tipo Fuego/Lucha.
+Torchic's final evolution is a Fire/Fighting type.
 Una combinación de tipos extremadamente única y especial, ¡qué suerte la tuya!
-Una combinación de tipos extremadamente única y especial, ¡qué suerte la tuya!
+An extremely unique and special type combination, you're lucky!
 Tenemos suerte de que los entusiastas de la <b>Liga Pokémon</b> tengan un comportamiento tan cívico.
-Tenemos suerte de que los entusiastas de la <b>Liga Pokémon</b> tengan un comportamiento tan cívico.
+We're lucky that <b>Pokémon League</b> fans are so civil.
 En otras regiones existen grupos de fanáticos que causan mucho alboroto durante la celebración de los combates.
-En otras regiones existen grupos de fanáticos que causan mucho alboroto durante la celebración de los combates.
+In other regions there are groups of fanatics who cause a lot of commotion during the fights.
 Utilizando a mi Loudred como despertador, saldré de la cama lo más temprano posible para no perderme ni un segundo de los combates.
-Utilizando a mi Loudred como despertador, saldré de la cama lo más temprano posible para no perderme ni un segundo de los combates.
+Using my Loudred as an alarm clock, I'll get out of bed as early as possible so I don't miss a second of the fights.
 Estoy buscando un Magmortar, ¿lo cambiarías por mi Chimchar?
-Estoy buscando un Magmortar, ¿lo cambiarías por mi Chimchar?
+I'm looking for a Magmortar, would you trade it for my Chimchar?
 Si te haces con un Magmortar, ponlo en el primer lugar de tu equipo para que pueda verlo.
-Si te haces con un Magmortar, ponlo en el primer lugar de tu equipo para que pueda verlo.
+If you get a Magmortar, put it in the first spot on your team so it can see it.
 ¿Entonces eres Aspirante? ¡Pues te deseo la mejor de las suertes! Aunque si has llegado hasta aquí, tal vez no la necesitas...
-¿Entonces eres Aspirante? ¡Pues te deseo la mejor de las suertes! Aunque si has llegado hasta aquí, tal vez no la necesitas...
+So you're a Challenger? Well, I wish you the best of luck! Although if you've made it this far, you probably don't need it...
 ¡Eh! ¡Yo vengo de <b>Johto</b>!
-¡Eh! ¡Yo vengo de <b>Johto</b>!
+Hey! I come from <b>Johto</b>!
 ¿Sabías que <b>Lance</b> también proviene de ahí? Es miembro del Clan Dragón de <b>Ciudad Endrino</b>.
-¿Sabías que <b>Lance</b> también proviene de ahí? Es miembro del Clan Dragón de <b>Ciudad Endrino</b>.
+Did you know that <b>Lance</b> also comes from there? He's a member of the Dragon Clan of <b>Blackthorn City</b>.
 Sí
 Yes
 No
@@ -9101,81 +9101,81 @@ No
 #-------------------------------
 [Map182]
 Necesitas 2 llaves para abrir esta puerta.
-Necesitas 2 llaves para abrir esta puerta.
+You need two keys to open this door.
 ¡Usas la <b>Llave Roja</b> y la <b>Llave Azul</b>!
-¡Usas la <b>Llave Roja</b> y la <b>Llave Azul</b>!
+You use the <b>Red Key</b> and the <b>Blue Key</b>!
 ¿Te atreves a subestimar el poder del tipo Bicho? ¡Voy a desplegarlo ante ti como dos grandes alas de mariposa!
-¿Te atreves a subestimar el poder del tipo Bicho? ¡Voy a desplegarlo ante ti como dos grandes alas de mariposa!
+Do you dare to underestimate the power of the Bug-type? It will spread before your eyes like two large butterfly wings!
 Hasta el insecto más feo e insignificante puede convertirse en una preciosa mariposa. Lo mismo pasa con las personas. Estoy seguro de que lo mismo te pasará a ti.
-Hasta el insecto más feo e insignificante puede convertirse en una preciosa mariposa. Lo mismo pasa con las personas. Estoy seguro de que lo mismo te pasará a ti.
+Even the ugliest and most insignificant insect can become a beautiful butterfly. The same goes for people. I'm sure the same will happen to you.
 Nuestro líder es un hombre de honor, ¡hasta ingresó en el Team Rocket porque la madre de Giovanni le pidió que aceptara a su hijo como pupilo!
-Nuestro líder es un hombre de honor, ¡hasta ingresó en el Team Rocket porque la madre de Giovanni le pidió que aceptara a su hijo como pupilo!
+Our leader is a man of honor, he even joined Team Rocket because Giovanni's mother asked him to accept her son as a pupil!
 En mis tiempos todo era más sencillo, se combatía con Hiperrayo y Terremoto. Ganaba el que golpease más fuerte.
-En mis tiempos todo era más sencillo, se combatía con Hiperrayo y Terremoto. Ganaba el que golpease más fuerte.
+Back in my day everything was simpler, we fought with Hyper Beam and Earthquake. The one who hit the hardest won.
 ¿Te atreves a enfrentarte a mí? De joven fui el 3ºmejor entrenador del mundo...
-¿Te atreves a enfrentarte a mí? De joven fui el 3ºmejor entrenador del mundo...
+Do you dare to face me? When I was young I was the 3rd best trainer in the world...
 Antes todo esto era campo. El gimnasio de Ciudad Verde es más reciente de lo que se cree, ¡yo vi cómo colocaban la primera piedra!
-Antes todo esto era campo. El gimnasio de Ciudad Verde es más reciente de lo que se cree, ¡yo vi cómo colocaban la primera piedra!
+This used to be a field. The Viridian City Gym is newer than you might think - I saw the first stone being laid!
 <b>Urano:</b> El <b>Team Rocket</b>... defenestrado y reducido a cenizas gracias a tu último asalto inexorable.
-<b>Urano:</b> El <b>Team Rocket</b>... defenestrado y reducido a cenizas gracias a tu último asalto inexorable.
+<b>Urano:</b> <b>Team Rocket</b>...reduced to ashes thanks to your final, relentless assault.
 Y <b>Giovanni</b>, ante la incapacidad de seguir conduciendo los esfuerzos de tamaña organización, ha tomado la decisión de claudicar.
-Y <b>Giovanni</b>, ante la incapacidad de seguir conduciendo los esfuerzos de tamaña organización, ha tomado la decisión de claudicar.
+And <b>Giovanni</b>, unable to continue leading the efforts of such a large organization, has made the decision to give up.
 Tal vez sea mejor así. El <b>Team Rocket</b> nació durante tiempos feudales con propósitos más nobles que los de ahora, con la misión de defender la honorabilidad de <b>Kanto</b> frente a las huestes invasoras.
-Tal vez sea mejor así. El <b>Team Rocket</b> nació durante tiempos feudales con propósitos más nobles que los de ahora, con la misión de defender la honorabilidad de <b>Kanto</b> frente a las huestes invasoras.
+Perhaps it's for the best. <b>Team Rocket</b> was born during feudal times with nobler purposes than today, with the mission of defending the honorability of Kanto against invaders.
 Pero en las últimas décadas degeneró en una pérfida banda criminal con el único objetivo de saciar sus apetitos más egoístas.
-Pero en las últimas décadas degeneró en una pérfida banda criminal con el único objetivo de saciar sus apetitos más egoístas.
+But in recent decades it has degenerated into a perfidious criminal gang with the sole objective of satisfying its most selfish appetites.
 <b>Urano:</b> Puede que <b>Giovanni</b> fuera un fanfarrón. Pero yo no me considero tal, \PN.
-<b>Urano:</b> Puede que <b>Giovanni</b> fuera un fanfarrón. Pero yo no me considero tal, \PN.
+<b>Urano:</b> <b>Giovanni</b> may have been a braggart, but I don't consider myself one, \PN.
 Sé que estoy a punto de librar uno de los combates más arduos de toda mi trayectoria como entrenador. Tenerte como oponente no es ni mucho menos asunto menor.
-Sé que estoy a punto de librar uno de los combates más arduos de toda mi trayectoria como entrenador. Tenerte como oponente no es ni mucho menos asunto menor.
+I know I'm about to fight one of the toughest battles of my entire career as a Trainer. Having you as an opponent is no small matter.
 Te convido con todas mis fuerzas a que trates de arrebatarme la última medalla de gimnasio.
-Te convido con todas mis fuerzas a que trates de arrebatarme la última medalla de gimnasio.
+I invite you with all my might to try to snatch the last Gym Badge from me.
 ¡Solo un último impedimento te separa de la <b>Liga Pokémon</b>!
-¡Solo un último impedimento te separa de la <b>Liga Pokémon</b>!
+Only one obstacle stands between you and the <b>Pokémon League</b>!
 <b>Urano:</b> Has perseverado hasta el final y te has hecho con una merecida victoria.
-<b>Urano:</b> Has perseverado hasta el final y te has hecho con una merecida victoria.
+<b>Urano:</b> You have persevered to the end and have achieved a well-deserved victory.
 Tal gallardía debe premiarse con la más valiosa medalla que existe, ¡la <b>Medalla Sílfida</b>!
-Tal gallardía debe premiarse con la más valiosa medalla que existe, ¡la <b>Medalla Sílfida</b>!
+Such gallantry should be rewarded with the most valuable medal in existence, the <b>Earth Badge</b>!
 <b>Urano:</b> Pero todos honores son pocos para el corazón guerrero que late en tu pecho. También te daré mi MT favorita.
-<b>Urano:</b> Pero todos honores son pocos para el corazón guerrero que late en tu pecho. También te daré mi MT favorita.
+<b>Urano:</b> But all honors are too few for the warrior's heart that beats in your chest. I will also give you my favorite TM.
 <b>Urano:</b> En fin, ¿ya sabes a dónde dirigir tus pasos? Portar las 8 medallas te permite atravesar la <b>Ruta 20</b> y tomar el camino hacia el <b>Monte Plateado</b>. Si logras superarlo, te hallarás en la <b>Liga Pokémon</b>.
-<b>Urano:</b> En fin, ¿ya sabes a dónde dirigir tus pasos? Portar las 8 medallas te permite atravesar la <b>Ruta 20</b> y tomar el camino hacia el <b>Monte Plateado</b>. Si logras superarlo, te hallarás en la <b>Liga Pokémon</b>.
+<b>Urano:</b> So, do you know where to go? Carrying all eight badges allows you to cross <b>Route 20</b> and take the path to <b>Mt. Silver</b>. If you manage to get through it, you'll find yourself in the Pokémon League.
 Es un laborioso camino que todo Aspirante a <b>Campeón</b> debe superar antes del desafío final.
-Es un laborioso camino que todo Aspirante a <b>Campeón</b> debe superar antes del desafío final.
+It is a laborious path that every aspiring <b>Champion</b> must overcome before the final challenge.
 En cuanto a mí, no podría gozar de mayor privilegio que cincelar el término de mi carrera como entrenador Pokémon con este combate que acabamos de librar.
-En cuanto a mí, no podría gozar de mayor privilegio que cincelar el término de mi carrera como entrenador Pokémon con este combate que acabamos de librar.
+As for me, I couldn't have a greater privilege than to seal the end of my career as a Pokémon trainer with this battle.
 Me retiraré y dedicaré el tiempo que me queda a mi familia y a la meditación.
-Me retiraré y dedicaré el tiempo que me queda a mi familia y a la meditación.
+I shall retire and dedicate my remaining time to my family and meditation.
 <b>Urano:</b> ¿Ya sabes a dónde dirigir tus pasos? Portar las 8 medallas te permite atravesar la <b>Ruta 20</b> y tomar el camino hacia el <b>Monte Plateado</b>. Si logras superarlo, te hallarás en la <b>Liga Pokémon</b>.
-<b>Urano:</b> ¿Ya sabes a dónde dirigir tus pasos? Portar las 8 medallas te permite atravesar la <b>Ruta 20</b> y tomar el camino hacia el <b>Monte Plateado</b>. Si logras superarlo, te hallarás en la <b>Liga Pokémon</b>.
+<b>Urano:</b> Do you know where to go? Carrying all eight badges allows you to cross <b>Route 20</b> and take the path to <b>Mt. Silver</b>. If you manage to get through it, you'll find yourself in the <b>Pokémon League</b>.
 ¡Mi querido nieto! ¡Por fin has venido a visitar a tu abuelita!
-¡Mi querido nieto! ¡Por fin has venido a visitar a tu abuelita!
+My dear grandson! You have finally come to visit your grandmother!
 ¡Mi querida nieta! ¡Por fin has venido a visitar a tu abuelita!
-¡Mi querida nieta! ¡Por fin has venido a visitar a tu abuelita!
+My dear granddaughter! You have finally come to visit your grandmother!
 No olvides visitarme de vez en cuando, ¿eh? Que me duelen las articulaciones de estar todo el día aquí de pie.
-No olvides visitarme de vez en cuando, ¿eh? Que me duelen las articulaciones de estar todo el día aquí de pie.
+Don't forget to visit me from time to time, okay? My joints hurt from standing here all day.
 ¡Coges una <b>Llave Roja</b>!
-¡Coges una <b>Llave Roja</b>!
+You pick up a <b>Red Key</b>!
 Yo antes enseñaba a capturar Pokémon a los jóvenes que pasaban por Ciudad Verde, pero ahora colaboro en este gimnasio.
-Yo antes enseñaba a capturar Pokémon a los jóvenes que pasaban por Ciudad Verde, pero ahora colaboro en este gimnasio.
+I used to teach young people passing through Viridian City how to catch Pokémon, but now I help out at this gym.
 No creo que lo necesites, ¡pero avísame si alguna vez necesitas consejos sobre capturar Pokémon! Soy todo un maestro.
-No creo que lo necesites, ¡pero avísame si alguna vez necesitas consejos sobre capturar Pokémon! Soy todo un maestro.
+I don't think you'll need it, but let me know if you ever need any tips on catching Pokémon! I'm quite the master.
 ¡Coges una <b>Llave Azul</b>!
-¡Coges una <b>Llave Azul</b>!
+You pick up a <b>Blue Key</b>!
 ¡Te doy la bienvenida a tu gimnasio final, Aspirante! Aquí entrenan los maestros del tipo Bicho.
-¡Te doy la bienvenida a tu gimnasio final, Aspirante! Aquí entrenan los maestros del tipo Bicho.
+Welcome to your final gym, Challenger! The masters of the Bug-type train here.
 Por tanto, podría funcionarte llevar movimientos de tipo Fuego, Roca o Volador.
-Por tanto, podría funcionarte llevar movimientos de tipo Fuego, Roca o Volador.
+Therefore, it might work for you to bring Fire, Rock, or Flying-type moves.
 Toma esto, podría venirte bien.
-Toma esto, podría venirte bien.
+Take this, it might come in handy.
 ¡Buena suerte y a por todas!
-¡Buena suerte y a por todas!
+Good luck and go for it!
 ¿Necesitas que cure a tus Pokémon?
 Do you need me to heal your Pokémon?
 Perfecto, ¡mucha suerte en el gimnasio!
 Perfect, good luck in the gym!
 ¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
-¿No te pierdes con tantos Pokémon distintos? A mí me cuesta salir de los 151 primeros.
+Don't you get confused with so many different Pokémon? I have a hard time remembering the first 151.
 Sí
 Yes
 No
@@ -9321,7 +9321,7 @@ No
 #-------------------------------
 [Map187]
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -9397,7 +9397,7 @@ Nothing
 #-------------------------------
 [Map188]
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
@@ -9627,7 +9627,7 @@ Una cosa te voy a decir: dos escopetas tengo.
 #-------------------------------
 [Map193]
 ¡Hola, Aspirante! ¿Qué necesitas?
-Hello, trainer! What do you need?
+Hello, Challenger! What do you need?
 ¿Qué Pokémon debería recordar un movimiento?
 Which Pokémon should remember a move?
 Vale, ¡vuelve cuando lo necesites!
